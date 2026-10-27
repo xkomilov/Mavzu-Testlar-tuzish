@@ -1,0 +1,459 @@
+# 087
+
+? Stafilokokk alfa-toksinining asosiy ta'sir mexanizmi qanday?
++ Hujayra membranasida teshiklar hosil qiladi
+- Ribosomada oqsil sintezini to'xtatib qo'yadi
+- Nerv-mushak sinapsida atsetilxolin ajratadi
+- Hujayra ichida adenilatsiklazani faollashtiradi
+- Hujayra devoridagi peptidoglikan sintezini to'xtatadi
+! Alfa-toksin eritrotsit va boshqa hujayralar membranasida teshiklar hosil qilib ularni parchalaydi
+@ M JAW
+
+? Stafilokokk leykotsidinlari qaysi hujayralarga zarar yetkazadi?
++ Neytrofillarga, ya'ni oq qon hujayralariga
+- Eritrotsitlarga, ya'ni qizil qon hujayralariga
+- Trombotsitlarga, ya'ni qon plastinkalariga
+- Neyronlarga, ya'ni nerv hujayralariga
+- Eritrotsit ichidagi gemoglobinni oksigenga bog'laydi
+! Leykotsidinlar oq qon hujayralarini, birinchi navbatda neytrofillarni o'ldirib, dastlabki himoyani susaytiradi
+@ M JAW
+
+? Stafilokokk enterotoksinlarining oziq-ovqat xavfsizligi uchun muhim xususiyati qaysi?
++ Issiqlikka chidamli, qaynatishda to'liq yo'qolmaydi
+- Issiqlikka o'ta sezgir, 50 °C da tez parchalanadi
+- Kislotali muhitda darhol faolligini yo'qotadi
+- Sovutgichda saqlanganda to'liq zararsizlanadi
+- Trombotsitlar agregatsiyasini kuchaytirib, laxta hosil qiladi
+! Enterotoksinlar issiqlikka chidamli bo'lgani uchun zaharlangan mahsulotni qizdirish har doim xavfsizlikni ta'minlamaydi
+@ M JAW
+
+? Stafilokokk enterotoksinlari immunologik jihatdan qanday toksinlar hisoblanadi?
++ T-limfotsitlarni keng miqdorda faollashtiruvchi superantigen
+- B-limfotsitlarni bostiruvchi immunodepressant
+- Komplementni to'liq parchalovchi proteolitik ferment
+- Antitelalarni Fc qismidan bog'lovchi immunoglobulin
+- Mitoxondriyalar ishini to'xtatib, energiyani kamaytiradi
+! Enterotoksinlar superantigen bo'lib, T-limfotsitlarning keng ko'lamli faollashuvini chaqiradi
+@ M JAW
+
+? Stafilokokk ovqat zaharlanishida belgilar qachon paydo bo'ladi?
++ Ovqat iste'molidan keyin bir necha soat ichida
+- Ovqat iste'molidan keyin 2–3 hafta o'tgach
+- Ovqat iste'molidan keyin 3–4 oy o'tgach
+- Bir yil o'tgandan keyin sekin rivojlanadi
+- 1–2 daqiqada, ovqatdan so'ng darhol paydo bo'ladi
+! Enterotoksin tayyor holda yutilgani uchun ko'ngil aynish va qusish bir necha soat ichida boshlanadi
+@ M JAW
+
+? Qaysi toksin teri tashqi qatlamining ajralishiga (kuyishga o'xshash zararlanishga) sabab bo'ladi?
++ Eksfoliativ toksin, epidermis hujayralari aloqasini buzadi
+- Enterotoksin, ichak shilliq qavatini o'z ichiga oladi
+- Leykotsidin, neytrofil granulalarini parchalab yuboradi
+- Gialuronidaza, biriktiruvchi to'qima asosini eritadi
+- Nerv tolalari mielini parchalab, falajlik chaqiradi
+! Eksfoliativ toksin epidermis hujayralari orasidagi bog'lanishni buzib, teri tashqi qatlami ko'chishiga olib keladi
+@ M JAW
+
+? Koagulaza fermenti qanday reaksiyani amalga oshiradi?
++ Plazmadagi fibrinogenni fibringa aylantirib, laxta hosil qiladi
+- Qondagi fibrin laxtasini eritib, plazmani suyultiradi
+- Eritrotsitlarni parchalab, gemoglobinni ajratib chiqaradi
+- Plazmadagi albuminni aminokislotalargacha parchalaydi
+- Qon zardobidagi kalsiyni bog'lab, qon ivishini sekinlashtiradi
+! Koagulaza fibrinogenni fibringa aylantirib laxta hosil qiladi va bakteriyani fagotsitozdan himoya qiladi
+@ M JAW
+
+? Bog'langan koagulaza qaysi sinamada aniqlanadi?
++ Plazma tomchisi bilan slayd sinamasida
+- Plazma bilan probirkada 4 soatlik sinamada
+- Tuxum sarig'i agarida zona hosil qilish sinamasida
+- DNK saqlovchi agarda rang o'zgarishi sinamasida
+- Gemolitik zona hosil qilish sinamasida qon agarida
+! Bog'langan koagulaza slayd sinamasida tez aniqlanadi, erkin koagulaza esa probirka sinamasida tekshiriladi
+@ M JAW
+
+? Gialuronidazani nima uchun "tarqalish omili" deb atashadi?
++ Biriktiruvchi to'qima gialuron kislotasini parchalaydi
+- Qon laxtasini eritib, infeksiyani chegaralaydi
+- Eritrotsit membranasini teshib, gemoliz chaqiradi
+- Antibiotikni parchalab, bakteriyani himoya qiladi
+- Qon laxtasini eritib, infeksiya o'chog'ini chegaralaydi
+! Gialuronidaza gialuron kislotani parchalab, bakteriyaning to'qimalar bo'ylab tarqalishiga yordam beradi
+@ M JAW
+
+? Stafilokokklar ishlab chiqaradigan beta-laktamaza qanday ahamiyatga ega?
++ Penitsillinni parchalab, unga chidamlilik beradi
+- Vankomitsinni bog'lab, uni ta'sirsiz qiladi
+- Ribosomaga ta'sir qilib, oqsil sintezini kuchaytiradi
+- Toksin hosil bo'lishini to'xtatib, kasallikni so'ndiradi
+- Antibiotik molekulasini bog'lab, uning kirishini to'sadi
+! Beta-laktamaza beta-laktam halqasini buzib, penitsillin ta'sirini kamaytiradi va chidamlilik bilan bog'liq
+@ M JAW
+
+# 088
+
+? Stafilokokk kasalliklarining asosiy qo'zg'atuvchisi qaysi tur?
++ Staphylococcus aureus (oltin stafilokokk)
+- Staphylococcus epidermidis (epidermal stafilokokk)
+- Streptococcus pyogenes (piogen streptokokk)
+- Micrococcus luteus (sariq mikrokokk turi)
+- Escherichia coli (ichak tayoqchasi)
+! Tibbiy ahamiyatli stafilokokk infeksiyalarining asosiy qo'zg'atuvchisi Staphylococcus aureus hisoblanadi
+@ M JAW
+
+? Koagulaza-manfiy stafilokokklar (masalan, epidermal) qachon kasallik qo'zg'atadi?
++ Immuniteti susaygan, protez yoki qurilmali bemorlarda
+- Sog'lom yosh odamlarning shilliq pardalarida
+- Tashqi muhitda, tuproq va suvda yashaganda
+- Hamma vaqt, teri ustida bo'lishining o'zi yetarli
+- Sog'lom odam terisida, hech qachon kasallik chaqirmasdan
+! Koagulaza-manfiy turlar odatda terida zararsiz yashaydi, ammo immuniteti past va protezli bemorlarda infeksiya chaqirishi mumkin
+@ M JAW
+
+? Quyidagilardan qaysi biri stafilokokk keltirib chiqaradigan teri infeksiyasi emas?
++ Qorin tifi, ichak ichidagi o'tkir kasallik
+- Folikulit, soch follikulasining yallig'lanishi
+- Qaynoq, soch follikulasidagi yiringli o'choq
+- Impetigo, bolalarda uchraydigan yuza yiringlash
+- Yiringli yara, jarohat atrofidagi to'qima yiringlashi
+! Folikulit, qaynoq va impetigo stafilokokk teri infeksiyalari, qorin tifi esa Salmonella Typhi qo'zg'atadigan ichak infeksiyasidir
+@ M JAW
+
+? Stafilokokk endokarditi qaysi bemorlarda ko'proq uchraydi?
++ Tomir ichiga modda yuboradigan bemorlarda
+- Teri yuzasi toza bo'lgan sog'lom odamlarda
+- Tug'ilgandan keyin dastlabki soatlardagi chaqaloqlarda
+- O'tkir nafas yo'llari kasalligi bo'lgan bolalarda
+- Tug'ruqdan keyingi 24 soat ichidagi onalarda
+! Stafilokokk endokarditi yurak klapanlari zararlanishi bilan kechadi va tomir ichiga modda yuboruvchilarda ko'proq uchraydi
+@ M JAW
+
+? Stafilokokk o'pka yallig'lanishi ko'pincha qaysi holatdan keyin rivojlanadi?
++ Gripp kabi virusli kasalliklardan keyin
+- Qorin bo'shlig'idagi jarrohlikdan keyingi 1 yildan keyin
+- Teri yuzasidagi kichik chizilgan jarohatdan darhol keyin
+- Toza suv ichgandan keyingi dastlabki soatlarda
+- Suv bilan bog'liq kasb egalarida, ya'ni baliqchilarda
+! O'pka stafilokokk infeksiyalari ko'pincha gripp kabi virusli kasalliklardan keyin ikkilamchi rivojlanadi
+@ M JAW
+
+? Toksik shok sindromi qaysi belgilar bilan namoyon bo'ladi?
++ Yuqori harorat, toshma, qon bosimi pasayishi, ko'p organ buzilishi
+- Past harorat, quruq teri, qon bosimi oshishi, siydik ko'payishi
+- Ichak yallig'lanishi, qon aralash ich ketishi va ich qotishi
+- Bo'g'im og'rig'i, shishish, ko'z qizarishi va yo'tal
+- Qon bosimi oshishi, ko'z qorachig'i kengayishi, terining quruqligi
+! Toksik shok sindromi yuqori harorat, toshma, gipotenziya va ko'p organ faoliyati buzilishi bilan kechadi
+@ M JAW
+
+? Teri kuyishiga o'xshash stafilokokk sindromi asosan kimlarda uchraydi?
++ Bolalarda, eksfoliativ toksin ta'sirida
+- Keksa odamlarda, enterotoksin ta'sirida
+- Homilador ayollarda, alfa-toksin ta'sirida
+- Sportchilarda, leykotsidin ta'sirida
+- Yangi tug'ilgan chaqaloqlarda, enterotoksin ta'sirida
+! Teri kuyishiga o'xshash sindrom asosan bolalarda uchraydi va eksfoliativ toksin ta'siriga bog'liq
+@ M JAW
+
+? Stafilokokk ovqat zaharlanishining asosiy sababi odatda nima?
++ Mahsulotga ishlov berishda qo'l orqali ifloslanish
+- Mahsulotni haddan tashqari qizdirib, qaynatish
+- Mahsulotni muzlatgichda uzoq muddat saqlash
+- Mahsulotning o'rash uchun steril idishda turishi
+- Ovqatni sovutgichda saqlash orqali oshqozonda toksin hosil bo'lishi
+! Zaharlanish odatda ovqat tayyorlashda qo'l orqali ifloslanish va enterotoksin to'planishi natijasida yuz beradi
+@ M JAW
+
+? MRSA shtammlarida metitsillinga chidamlilikni qaysi gen belgilaydi?
++ mecA, o'zgargan PBP hosil qiluvchi gen
+- tetM, ribosomani himoyalovchi oqsil geni
+- vanA, hujayra devori prekursorini o'zgartiruvchi gen
+- blaZ, faqat penitsillinazani kodlovchi gen
+- dnaA, replikatsiyani boshlovchi bakterial gen
+! mecA geni penitsillinga bog'lanuvchi o'zgargan oqsil (PBP2a) hosil qilib, beta-laktamlarga chidamlilik beradi
+@ M JAW
+
+? Kasalxona stafilokokk infeksiyalari ko'pincha qanday yo'l bilan tarqaladi?
++ Tibbiy xodimlarning qo'llari orqali
+- Havo-tomchi orqali, uzoq masofaga
+- Ichimlik suvi orqali, markaziy tizimdan
+- Kasalxona hasharotlari chaqishi orqali
+- Ifloslangan oziq-ovqat va ichimlik suvi orqali
+! Kasalxonada stafilokokklar asosan xodimlarning qo'li orqali tarqaladi, shuning uchun qo'l gigiyenasi muhim
+@ M JAW
+
+# 089
+
+? Stafilokokk infeksiyasidan keyingi immunitet qanday xususiyatga ega?
++ To'liq va uzoq muddatli emas, takroriy kasallik mumkin
+- To'liq va umrbod saqlanadi, takroriy kasallik bo'lmaydi
+- Bir necha kun saqlanadi, so'ng butunlay yo'qoladi
+- Vertikal yo'l bilan avlodga o'tib saqlanadi
+- Immunitet umrbod saqlanadi, takroriy kasallik bo'lmaydi
+! Stafilokokk infeksiyasidan keyingi immunitet to'liq va uzoq muddatli emas, shu sababli infeksiya takrorlanishi mumkin
+@ M JAW
+
+? Oqsil A stafilokokk immunitetiga qanday ta'sir ko'rsatadi?
++ Antitelalar ta'sirini kamaytiradi
+- Antitelalar hosil bo'lishini kuchaytiradi
+- Komplement tizimini to'liq faollashtiradi
+- Neytrofillar sonini keskin ko'paytiradi
+- Eritrotsitlar sonini oshirib, kislorod tashishni kuchaytiradi
+! Oqsil A antitelalarning Fc qismi bilan bog'lanib, ularning ta'sirini kamaytiradi, shu sababli immunitet yetarli himoya bermaydi
+@ M JAW
+
+? Stafilokokk infeksiyasida fagotsitozda qaysi hujayralar asosiy rol o'ynaydi?
++ Neytrofillar va makrofaglar
+- Eritrotsitlar va trombotsitlar
+- Plazmatik hujayralar va oksifillar
+- Gepatotsitlar va miotsitlar
+- Limfotsitlar va plazmatik hujayralar, antitelalar ishlab chiqaruvchilar
+! Neytrofillar va makrofaglar stafilokokklarni fagotsitoz qilib yo'q qilishda asosiy rol o'ynaydi
+@ M JAW
+
+? Stafilokokk infeksiyasining umumiy profilaktikasida eng asosiy vosita qaysi?
++ Shaxsiy gigiyena, qo'lni muntazam yuvish
+- Har kuni profilaktik antibiotik qabul qilish
+- Bemorni uzoq muddat sovuq suvda cho'miltirish
+- Xonani ultrabinafsha nurda yoritish
+- Doimiy antibiotik qabul qilish va kasalxonada yotish
+! Qo'lni muntazam yuvish va jarohatlarni toza saqlash stafilokokk xavfini kamaytiruvchi asosiy chora hisoblanadi
+@ M JAW
+
+? Stafilokokk kasalliklariga qarshi maxsus profilaktika holati qanday?
++ Tasdiqlangan keng qo'llaniladigan vaksina hozircha yo'q
+- Yangi tug'ilgan chaqaloqlarga majburiy vaksina qilinadi
+- Bir martalik emlash umrbod himoya beradi va keng qo'llanadi
+- Anatoksin bilan ikki bosqichli emlash standart hisoblanadi
+- Poliomielit va kuydirgiga qarshi hujayrali vaksina qo'llanadi
+! Stafilokokkka qarshi tasdiqlangan, keng qo'llaniladigan vaksina amaliyotda mavjud emas, tadqiqotlar davom etmoqda
+@ M
+
+? Nima uchun ifloslangan ovqatni qizdirish stafilokokk zaharlanishidan himoya qilmaydi?
++ Enterotoksinlar issiqlikka chidamli
+- Bakteriya sporasi qaynatishda ko'payadi
+- Qizdirish toksinning faolligini oshiradi
+- Qizdirish mahsulotga yangi toksin qo'shadi
+- Antibiotik yuborilgandan keyin toksin faolligi oshadi
+! Enterotoksinlar issiqlikka chidamli bo'lgani uchun qizdirish yetarli emas, birinchi navbatda dastlabki ifloslanishning oldini olish kerak
+@ M JAW
+
+? Tayyor ovqatlarni xona haroratida uzoq saqlash nima uchun xavfli?
++ Mikroblar ko'payib, toksin to'planishi mumkin
+- Ovqatdagi barcha mikroblar tez nobud bo'ladi
+- Ovqat tarkibidagi toksinlar o'z-o'zidan parchalanadi
+- Ovqat tarkibidagi oqsillar to'liq yo'qoladi
+- Mikroblar nobud bo'ladi, shu sababli ovqat butunlay xavfsiz
+! Xona haroratida mikroblar ko'payadi va enterotoksin to'planadi, ayniqsa yozgi issiq kunlarda
+@ M
+
+? Stafilokokk infeksiyasini davolashda antibiotik tanlash nimaga asoslanadi?
++ Qo'zg'atuvchining antibiotiklarga sezuvchanligiga
+- Bemorning yoshi va jinsiga, faqat shu bo'yicha
+- Kasallik boshlanishidan o'tgan kunlar soniga
+- Preparatning narxi va mavjudligiga, faqat shu bo'yicha
+- Bemorning boshqa kasalliklari tarixiga, faqat shu bo'yicha
+! Davolash qo'zg'atuvchining sezuvchanligi natijalariga asoslanadi, shu sababli davolashdan oldin laboratoriya tekshiruvi muhim
+@ M JAW
+
+? MRSA shtammlari keltirib chiqargan infeksiyalarda qaysi antibiotik qo'llaniladi?
++ Vankomitsin, glikopeptid guruhidan
+- Penitsillin G, tabiiy penitsillin guruhidan
+- Ampitsillin, aminopenitsillin guruhidan
+- Gentamitsin, monoterapiya sifatida faqat yara ustiga
+- Gentamitsin va penitsillin G ni birgalikda ichga berish
+! MRSA infeksiyalarida beta-laktamlar samarasiz bo'lgani uchun vankomitsin kabi preparatlar tanlanadi
+@ M JAW
+
+? Yiringli o'choqlarni davolashda antibiotiklardan tashqari nima muhim?
++ Yiringni chiqarish uchun jarrohlik drenaj
+- Joyni yopiq holda qoldirib, drenaj qilmaslik
+- Yiringni siqib, bog'lamsiz qoldirish
+- Issiq kompress qo'yib, yiringning o'zi so'rilishini kutish
+- Tashqi muhitga ochiq qoldirib, o'z-o'zidan o'tishini kutish
+! Yiringli o'choqlarda drenaj infeksiya o'chog'ini tozalaydi va davolash samaradorligini oshiradi
+@ M JAW
+
+# 090
+
+? Stafilokokk kasalliklarida eng ko'p tekshiriladigan asosiy material qaysi?
++ Teri yaralari va abssesslardan olingan yiring
+- Sog'lom odamning teri yuzasidagi quruq tangachalar
+- Tomir ichiga yuborilgan dori eritmasining qoldig'i
+- Xonaning havosidan olingan chang namunasi
+- Sog'lom odamning soch tolalaridan olingan namuna
+! Yiring mikroblarga boy bo'lgani uchun teri yaralari va abssess ajralmalari asosiy tekshiruv materiali hisoblanadi
+@ M JAW
+
+? Stafilokokk ovqat zaharlanishida tekshiruvga qaysi materiallar olinadi?
++ Ovqat qoldiqlari, qusuq va najas
+- Orqa miya suyuqligi va balg'am
+- Siydik va teri yuzasidagi surtma
+- Qon zardobi va ko'z shilliq pardasi
+- Burun shilliqi va kokil tuklari namunalari
+! Zaharlanishda ovqat qoldig'i, qusuq va najas enterotoksinni aniqlash yoki qo'zg'atuvchini ajratish uchun olinadi
+@ M
+
+? Namuna olishning qaysi sharti natija ishonchliligini oshiradi?
++ Antibiotik qabul qilishdan oldin steril sharoitda olish
+- Antibiotik kursi tugagach, bir necha kundan keyin olish
+- Material turini ahamiyatsiz deb, tasodifiy joydan olish
+- Namunani ochiq idishda xona havosida bir necha soat saqlash
+- Namuna olingandan keyin xona haroratida bir necha kun saqlash
+! Namuna tashqi ifloslanmasligi va antibiotik qabul qilinishidan oldin olinganida natija ishonchli bo'ladi
+@ M JAW
+
+? Qon madaniyati uchun namuna olishda qanday tavsiya beriladi?
++ Bir necha joydan, kasallik belgilaridan keyin tezroq olish
+- Bitta joydan, kasallik boshlanganidan bir hafta o'tgach
+- Tun vaqtida, kasallik belgisi bo'lmaganda olish
+- Antibiotik kursi yakunida, bir marta olish
+- Bitta joydan, bemor tinch turganda va kechqurun olish
+! Bir necha joydan va belgilar boshlanishidan keyin tez olingan qon namunasi bakteriemiyani aniqlash imkonini oshiradi
+@ M JAW
+
+? Yo'llanma xatida qaysi ma'lumotlar ko'rsatiladi?
++ Bemor ismi, namuna turi, olingan vaqt, klinik tashxis
+- Laboratoriya xodimining oilaviy ma'lumotlari
+- Namuna olingan idishning ishlab chiqarilgan joyi
+- Bemorning qarindoshlari haqidagi ma'lumotlar
+- Namunani qabul qilgan xodimning manzili va oilaviy ahvoli
+! Yo'llanma xati natijalarni to'g'ri sharhlash uchun bemor, namuna turi, olingan vaqt va klinik tashxisni o'z ichiga oladi
+@ M
+
+? Stafilokokklar Gram usulida bo'yalgan surtmada qanday ko'rinadi?
++ Binafsha rangli, uzum shingiliga o'xshash to'plamlar
+- Qizg'ish rangli, zanjirsimon uzun iplar
+- Pushti rangli, juft joylashgan loviyasimon kokklar
+- Binafsha rangli, spora hosil qiluvchi uzun tayoqchalar
+- Rangsiz, bir-biridan ajralgan yakka tayoqchalar
+! Stafilokokklar Gram-musbat bo'lgani uchun binafsha rangda, uzum shingiliga o'xshash to'plamlar hosil qiladi
+@ M JAW
+
+? Manitli tuzli agar stafilokokk tekshiruvida qanday vazifani bajaradi?
++ Yuqori tuz konsentratsiyasi hisobiga boshqa mikroflorani bostiradi
+- Gramm-manfiy tayoqchalarni tez va ko'p ko'paytiradi
+- Barcha bakteriyalarga o'sish uchun teng sharoit yaratadi
+- Anaerob bakteriyalarni o'stirishga imkon beruvchi muhit
+- Eritrotsitlarni parchalash orqali gemoliz zonasi hosil qilish
+! Yuqori NaCl konsentratsiyasi ko'pgina bakteriyalar o'sishini cheklaydi, stafilokokklar esa o'sib, manitni bijg'itsa muhitni sarg'aytiradi
+@ M JAW
+
+? Beyrd-Parker agarida oltin stafilokokk koloniyalari qanday ko'rinadi?
++ Qora, yaltiroq, atrofida tiniq zona bo'lishi mumkin
+- Pushti, xira, atrofida yashil zona bo'ladigan
+- Oq, quruq, atrofida qizil halqa bo'ladigan
+- Ko'k, shilimshiq, atrofida sariq zona bo'ladigan
+- Yashil, quruq, atrofida siyoh rangli zona bo'ladigan
+! Beyrd-Parker agarida oltin stafilokokk koloniyalari tellurit qaytarilishi tufayli qora va yaltiroq, atrofida tiniq zona bilan ko'rinadi
+@ M JAW
+
+? Stafilokokkni boshqa kokklardan farqlashda qo'llaniladigan asosiy sinamalar qaysilar?
++ Katalaza, koagulaza va manitni bijg'itish sinamalari
+- Oksidaza, ureaza va indol hosil qilish sinamalari
+- Optoxin sezuvchanligi va o't eritmasida erish sinamalari
+- Vidal reaksiyasi va Shik sinamasi
+- Indol, metil qizil va Voges–Proskauer sinamalari
+! Katalaza, koagulaza va manit bijg'itish sinamalari stafilokokkni boshqa kokklardan farqlashga yordam beradi
+@ M JAW
+
+? PZR yordamida stafilokokk tekshiruvida nimalar aniqlanadi?
++ Stafilokokk va toksin genlari, shuningdek mecA geni
+- Koloniyaning rangi, diametri va yaltiroqligini o'lchash
+- Qon agaridagi gemoliz zonasining kengligi va shaffofligi
+- Bakteriyaning Gram bo'yoqqa munosabati va hujayra shaklini
+- Bakteriya hujayra devori qalinligini elektron mikroskopda o'lchash
+! PZR kam miqdordagi mikrobni, toksin genlarini va metitsillinga chidamlilik geni mecA ni aniqlash imkonini beradi
+@ M JAW
+
+# 091
+
+? Stafilokokk tekshiruvining birinchi bosqichi qaysi?
++ Materialni qabul qilish va ro'yxatga olish
+- Antibiotiklarga sezuvchanlikni aniqlash
+- Natijani rasmiylashtirish va sharhlash
+- Toksin va fermentlarni aniqlash
+- Sof kulturani ajratish uchun ekish
+! Tekshiruv materialni qabul qilishdan boshlanadi: yo'llanma xati va idish butunligi tekshiriladi, laboratoriya raqami beriladi
+@ M
+
+? Materialni qabul qilishda nima uchun unga laboratoriya raqami beriladi?
++ Namunalar aralashib ketmasligi uchun
+- Namunani avtomatik ravishda ko'paytirish uchun
+- Namunani zararsizlantirib, saqlash uchun
+- Namunadagi mikrob turini aniqlash uchun
+- Namuna idishini qayta ishlatish imkonini berish uchun
+! Laboratoriya raqami tizimi namunalarning aralashib ketmasligini ta'minlaydi
+@ M
+
+? Dastlabki mikroskopiya bosqichida nima bajariladi?
++ Surtma tayyorlanib, Gram usulida bo'yaladi
+- Material Endo muhitiga ekilib, inkubatsiya qilinadi
+- Disk-diffuziya usulida zona o'lchanadi
+- Koagulaza sinamasi plazma bilan o'tkaziladi
+- Natija rasmiy javob blankasiga yoziladi
+! Dastlabki mikroskopiyada surtma Gram usulida bo'yalib, stafilokokklar binafsha rangda, uzum shingili ko'rinishida topiladi
+@ M
+
+? Surtmada ko'p leykotsitlar topilishi nimani bildiradi?
++ Yallig'lanish jarayoni faolligini
+- Materialning mutlaqo steril ekanligini
+- Bakteriyalarning spora hosil qilganini
+- Namuna idishining shikastlanganini
+- Bakteriyalar antibiotikka chidamli ekanligini
+! Surtmada ko'p leykotsitlar yallig'lanish jarayoni faol ekanligini ko'rsatadi
+@ M
+
+? Sof kulturani ajratish uchun inkubatsiya qanday sharoitda o'tkaziladi?
++ 37 °C haroratda 18–24 soat
+- 22 °C haroratda 3–5 kun
+- 4 °C haroratda 7–10 kun
+- 56 °C haroratda 1–2 soat
+- 10 °C haroratda 30 daqiqa
+! Ekmalar odatda 37 °C da 18–24 soat inkubatsiya qilinadi, shu vaqtda koloniyalar hosil bo'ladi
+@ M JAW
+
+? Oltin stafilokokk koloniyalari qon agarida odatda qanday ko'rinadi?
++ Yirik, yaltiroq va sariq rangli
+- Mayda, xira va qizg'ish rangli
+- Yassi, quruq va ko'kimtir rangli
+- Shilimshiq, tiniq va rangsiz
+- Mayda, yashil rangli, quruq va hidli
+! Oltin stafilokokk koloniyalari odatda yirik, yaltiroq va sariq rangli bo'ladi
+@ M JAW
+
+? To'rtinchi bosqich (identifikatsiya)da avval qaysi sinamalar o'tkaziladi?
++ Gram bo'yash va katalaza sinamasi
+- Vidal reaksiyasi va Shik sinamasi
+- Optoxin sinamasi va safro sinamasi
+- Indol va metil qizil sinamasi
+- Ureaza va sitratdan foydalanish sinamalari
+! Stafilokokklar Gram-musbat va katalaza-musbat, shuning uchun identifikatsiya shu sinamalardan boshlanadi
+@ M JAW
+
+? Beshinchi bosqichda qaysi fermentlar sinamalari qo'llanadi?
++ Letsitinaza, fosfataza va DNK-aza
+- Ureaza, indol va sitratdan foydalanish
+- Oksidaza, nitrat reduktaza va jelatinaza
+- Laktaza, ksilozaning bijg'ishi va arginin
+- Gippurat gidrolizi va CAMP sinamasi
+! Patogenlik omillarini aniqlashda letsitinaza, fosfataza va DNK-aza sinamalari qo'llanadi
+@ M
+
+? Oltinchi bosqichda (sezuvchanlik) inhibisiya zonasi qanday aniqlanadi?
++ Kulturaga antibiotik disklari qo'yilib, zona o'lchanadi
+- Bo'yoq qo'shilib, rang o'zgarishi kuzatiladi
+- Qaynatilganda hosil bo'lgan ko'pik o'lchanadi
+- Sentrifugalanib, cho'kma og'irligi tortiladi
+- Rangi va koloniya hidiga ko'ra taxminan baholanadi
+! Antibiotik diskli yoki gradiyent tasmali usulda inhibisiya zonasi o'lchanib, sezuvchanlik baholanadi
+@ M CLSI EUCAST
+
+? Sezuvchanlik natijalari qanday sharhlanadi?
++ Laboratoriya standartlari va xalqaro tavsiyalar bo'yicha
+- Laboratoriya xodimining shaxsiy fikriga ko'ra
+- Bemorning yoshiga qarab belgilanadi
+- Oldingi bemorning natijasi bo'yicha
+- Sezuvchanlik natijasi faqat tajribali xodimning xotirasiga ko'ra
+! Natijalar laboratoriya standartlari va xalqaro tavsiyalarga muvofiq sharhlanadi, tanlovni esa shifokor amalga oshiradi
+@ M CLSI EUCAST

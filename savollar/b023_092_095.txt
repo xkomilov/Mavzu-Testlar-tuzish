@@ -1,0 +1,367 @@
+# 092
+
+? Stafilokokklarda letal (o'ldiruvchi) xususiyat ko'pincha qaysi toksin bilan bog'liq?
++ Alfa-toksin (gemolizin), membranada teshik hosil qiladi
+- Eksfoliativ toksin, epidermis qatlamlarini ajratadi
+- Enterotoksin A, ichak harakatini kuchaytiradi
+- Leykotsidin, faqat limfa tugunlariga ta'sir qiladi
+- Koagulaza, plazmani ivitib laxta hosil qiladi
+! Stafilokokklarda letal ta'sir ko'pincha alfa-toksin bilan bog'liq: u hujayra membranasida teshik hosil qilib, hujayralarni parchalaydi
+@ M JAW
+
+? Toksin olish uchun stafilokokk kulturasi qanday muhitga ekiladi?
++ Pepton asosidagi suyuq muhitga, 37 °C da inkubatsiya
+- Qattiq qon agariga, 4 °C da bir hafta saqlab
+- Manitli tuzli agarga, 56 °C da bir soat qizdirib
+- Sabouraud agariga, 22 °C da bir oy saqlab
+- Tuproq ekstrakti muhitiga, 10 °C da bir necha kun
+! Toksin hosil qilish uchun kultura suyuq pepton asosidagi muhitda 37 °C da ma'lum vaqt inkubatsiya qilinadi
+@ M
+
+? Toksin tajribasida inkubatsiya vaqti nima uchun aniq belgilanadi?
++ Toksin hosil bo'lishi o'sishning ma'lum bosqichiga bog'liq
+- Toksin faqat spora hosil bo'lgan bosqichda paydo bo'ladi
+- Toksin vaqt o'tgan sari faolligi o'zgarmay to'planadi
+- Toksin faqat kultura butunlay nobud bo'lgandan keyin chiqadi
+- Toksin hosil bo'lishi mikrob soniga umuman bog'liq emas
+! Toksin ishlab chiqarish o'sishning ma'lum bosqichida eng yuqori bo'ladi, shu sababli tajriba jadvali oldindan rejalashtiriladi
+@ M
+
+? Hujayrasiz filtrat tayyorlashning birinchi bosqichi qaysi?
++ Kulturani markazdan qochirma kuch bilan cho'ktirish
+- Kulturani qaynatib, hujayralarni parchalash
+- Kulturaga formalin qo'shib, toksinni zararsizlantirish
+- Kulturani quritib, kukun holiga keltirish
+- Kulturani 4 °C da bir oy oldin saqlab qo'yish
+! Inkubatsiyadan keyin kultura markazdan qochirma kuch bilan cho'ktiriladi va suyuq qismi ajratib olinadi
+@ M
+
+? Hujayrasiz filtratni olishda suyuq qism qanday asbobdan o'tkaziladi?
++ Mikroorganizmlar o'tkazmaydigan steril membrana filtridan
+- Bakteriyalarni o'tkazadigan yirik teshikli qog'oz filtrdan
+- Isitish uchun mo'ljallangan metall sitodan
+- Mato bo'lagidan tuzilgan oddiy surtgichdan
+- Havo o'tkazuvchi paxta tiqinli probirkadan
+! Suyuqlik bakteriya o'tkazmaydigan steril membrana filtridan o'tkazilib, faqat erigan toksinlar qoladi
+@ M
+
+? Tayyorlangan toksin filtrati qanday saqlanadi?
++ Steril idishlarda, uzoq muddatga muzlatilgan holda
+- Ochiq idishlarda, xona haroratida bir oy davomida
+- Qaynab turgan suvda, toksin faolligini oshirish uchun
+- Quyosh nurida, bakteriyalarni yo'qotish uchun
+- Isitgichga yaqin joyda, bug'lanishini tezlatish uchun
+! Filtrat steril idishlarda saqlanadi va muzlatilgan holda uzoq ishlatilishi mumkin, chunki toksin faolligi saqlash sharoitiga bog'liq
+@ M
+
+? Letal toksinni hayvonlarda sinashda qaysi hayvonlar ishlatiladi?
++ Laboratoriya kalamushlari yoki sichqonlari
+- Bosh miyasiz, tajribada tug'ilgan baliqlar
+- Yirik chorva hayvonlari, ya'ni qoramollar
+- Yovvoyi qushlar, ya'ni qirg'iylar
+- Tuproqda yashovchi hasharotlar, ya'ni chumolilar
+! Klassik usulda filtrat laboratoriya kalamushlari yoki sichqonlari organizmiga kiritilib, o'lim holatlari qayd etiladi
+@ M
+
+? Hayvonlarda toksin sinovi natijalari qanday baholanadi?
++ O'lim vaqti va halok bo'lgan hayvonlar soni bo'yicha
+- Hayvonning rangi va yungining uzunligi bo'yicha
+- Hayvon oziq-ovqat iste'moli va uyqu muddati bo'yicha
+- Kultura koloniyalari soni va rangi bo'yicha
+- Hayvonning qon guruhi va yoshi bo'yicha
+! Natijalar o'lim vaqti va nobud bo'lgan hayvonlar soni bo'yicha baholanib, toksin kuchini taqqoslashga imkon beradi
+@ M
+
+? Gemoliz sinamasida filtrat qaysi hujayralar bilan aralashtiriladi?
++ Qo'y yoki quyon eritrotsitlari bilan
+- Inson neytrofillari yoki makrofaglari bilan
+- Sichqon neyronlari yoki gepatotsitlari bilan
+- Quyon limfotsitlari yoki trombotsitlari bilan
+- Ot teri epiteliy hujayralari yoki fibroblastlari bilan
+! Gemoliz sinamasida filtrat qo'y yoki quyon eritrotsitlari bilan aralashtirilib, parchalanish natijasida rangli suyuqlik hosil bo'ladi
+@ M
+
+? Hayvon tajribasiga nisbatan eritrotsit gemolizi usulining afzalligi nima?
++ Tezroq bajariladi va hayvon o'limisiz o'tkaziladi
+- Toksinning o'ldiruvchi kuchini aynan o'lchab beradi
+- Letal toksinlarni bir vaqtda to'liq aniqlaydi
+- Murakkab hayvonlarni tajribaga jalb qilib bajariladi
+- Natijani faqat bir necha kundan keyin berishi bilan
+! Gemoliz usuli tezroq va hayvonlarsiz amalga oshiriladi, shu sababli dastlabki skrining uchun qo'llanadi
+@ M
+
+# 093
+
+? Stafilokokk enterotoksinlarining turlari qanday belgilanadi?
++ Lotin harflari bilan: SEA, SEB, SEC, SED, SEE
+- Arab raqamlari bilan: 1, 2, 3, 4 va 5 toksin
+- Rim raqamlari bilan: I, II, III, IV va V toksin
+- Yunon alifbosi harflari bilan: alfa, beta, gamma
+- Kashf etgan olimlarning ismlari bilan: Gram, Koch
+! Enterotoksinlar lotin alifbosi harflari bilan belgilanadi: SEA, SEB, SEC, SED, SEE va keyinroq aniqlangan boshqalar
+@ M JAW
+
+? Stafilokokk ovqat zaharlanishida ichakka nima tushishi muhim?
++ Ovqat bilan birga tayyor holdagi toksin
+- Ichakda ko'payadigan tirik mikroblarning o'zi
+- Bakteriya sporasi, ichakda toksin hosil qiladigan
+- Virus zarrachalari, ichak devorini buzadigan
+- Mikrob DNKsi, ichakda toksin sintezini boshlaydigan
+! Mikrob ichakka kirishi shart emas: oziq-ovqatda to'plangan tayyor toksin ovqat bilan birga tushib, zaharlanish keltiradi
+@ M JAW
+
+? Stafilokokk ovqat zaharlanishi odatda qancha vaqtdan keyin boshlanadi?
++ Ovqatdan keyin ko'pincha 1 dan 6 soat ichida
+- Ovqatdan keyin ko'pincha 2 dan 3 hafta o'tgach
+- Ovqatdan keyin ko'pincha 1 dan 2 oy o'tgach
+- Ovqatdan keyin ko'pincha 5 dan 10 kun o'tgach
+- Ovqatdan keyin ko'pincha bir yildan so'ng
+! Material bo'yicha kasallik ovqat iste'moldan keyin ko'pincha 1–6 soat ichida boshlanadi
+@ M
+
+? Stafilokokk ovqat zaharlanishining tipik klinik belgilari qaysilar?
++ Qusish, qorin og'rig'i, diareya; harorat ko'pincha ko'tarilmaydi
+- Yuqori harorat, bo'g'imlar shishishi, teri toshmasi
+- Siydik ajralishining to'xtashi, sariqlik, jigar kattalashishi
+- Nafas qisilishi, yo'tal, ko'krak qafasidagi og'riq
+- Ko'z qorachig'i kengayishi, tutqanoq, bosh miya shishi
+! Zaharlanishda qusish, qorin og'rig'i va diareya kuzatiladi, harorat ko'pincha ko'tarilmaydi, kasallik odatda tez o'tadi
+@ M JAW
+
+? Enterotoksinni aniqlash uchun avval qanday ish bajariladi?
++ Tekshiriladigan mahsulotdan stafilokokk ajratib olinadi
+- Mikroblarni qaynatib yo'q qilib tashlanadi
+- Bemor zardobidagi antitelalar o'lchanadi
+- Mahsulot qurigunicha sovuq xonada saqlab qo'yiladi
+- Mahsulotga to'g'ridan-to'g'ri antibiotiklar qo'shiladi
+! Avval go'sht, sut yoki ovqat qoldig'i steril olinib, selektiv muhitga ekilib, stafilokokk ajratiladi
+@ M
+
+? Oziq-ovqatdan stafilokokk ajratishda qaysi selektiv muhit qo'llanadi?
++ Baird-Parker agari, tellurit saqlovchi selektiv muhit
+- Endo agari, ichak tayoqchalari uchun differensial muhit
+- Levin agari, laktozani bijg'ituvchilar uchun muhit
+- Ploskirev agari, ichak infeksiyalari uchun selektiv muhit
+- Sabouraud agari, zamburug'lar uchun kislotali muhit
+! Baird-Parker agari stafilokokklarni o'ziga xos koloniyalar bilan ajratadi, boshqa mikroblar o'sishini cheklaydi
+@ M JAW
+
+? PZR yordamida enterotoksin tekshiruvida nima aniqlanadi?
++ sea, seb, sec, sed, see kabi toksin genlarining borligi
+- Bemor qon zardobidagi antitelalar darajasi va titri
+- Bakteriya koloniyasining o'lchami, rangi va shakli
+- Oziq-ovqatning kimyoviy tarkibi, namligi va kislotaliligi
+- Bakteriya hujayra devorining qalinligi va tuzilishi
+! PZR yordamida sea, seb, sec, sed va see kabi toksin genlarining borligi tekshiriladi
+@ M
+
+? PZR natijasi musbat bo'lsa ham nima uchun toksin hosil bo'lganini kafolatlab bo'lmaydi?
++ Gen mavjud bo'lsa ham, u faol bo'lmasligi mumkin
+- PZR faqat o'lik hujayralar DNKsini aniqlaydi
+- PZR doimo yolg'on musbat natija beradi
+- Gen faqat toksin yo'q bo'lganda aniqlanadi
+- Toksin hosil bo'lishi geni bo'lmagan mikrobda ham kuchayadi
+! Gen borligi toksin hosil bo'lishini kafolatlamaydi, shuning uchun gen tahlili oqsil tahlili bilan birga bajariladi
+@ M
+
+? Enterotoksinni bevosita aniqlashda eng ko'p qo'llaniladigan immunologik usul qaysi?
++ ELISA, ya'ni fermentli immunosorbent test
+- Vidal reaksiyasi, ya'ni zardob aglyutinatsiyasi
+- Mantu sinamasi, ya'ni teri ichiga sinama
+- Gram bo'yash, ya'ni bo'yoq asosidagi mikroskopiya
+- Shik sinamasi, ya'ni teri ichiga toksin yuborish
+! ELISA maxsus antitanachalar yordamida toksinni bog'laydi va rangli reaksiya bilan belgilaydi, ko'p namunani bir vaqtda tekshiradi
+@ M
+
+? Tarixiy biologik usulda enterotoksin faolligi qanday sinalgan?
++ Maymunlarni toksin bilan ovqatlantirish orqali
+- Sichqonlarning terisiga toksinni surtish orqali
+- Quyonlarning ko'ziga toksinni tomizish orqali
+- Baliqlarni toksinli suvda saqlash orqali
+- Qushlarni toksinli urug' bilan boqish orqali
+! Tarixiy jihatdan enterotoksin faolligi maymunlarni ovqatlantirish bilan sinalgan, bu usul toksin ta'sirini ko'rsatgan
+@ M
+
+# 094
+
+? Dermonekrotik toksin qaysi biologik ta'sirga ega?
++ Teri va to'qimalarda nekroz keltirib chiqaradi
+- Ichak peristaltikasini kuchaytirib, diareya chaqiradi
+- Nerv-mushak o'tkazuvchanligini to'xtatib, falaj qiladi
+- Qon ivishini to'xtatib, qon ketishiga olib keladi
+- Jigar hujayralarida safro hosil bo'lishini oshiradi
+! Dermonekrotik toksin teri va to'qimalarda qizarish, shish va nekroz chaqiradigan oqsil tabiatli ekzotoksindir
+@ M JAW
+
+? Dermonekrotik toksin qayerda joylashadi va qanday ajratiladi?
++ Kultura filtratida, hujayralar ajratilgandan keyin
+- Hujayra yadrosi ichida, hujayra parchalanganda
+- Spora po'sti ichida, quritilgandan keyin
+- Xivchin tarkibida, mexanik ajratilgandan so'ng
+- Kapsula tarkibida, kislota bilan ishlov berilgandan so'ng
+! Toksin ekzotoksin sifatida mikrob kulturasi filtratida bo'ladi, shu sababli uni o'rganish suyuq kulturadan ajratishdan boshlanadi
+@ M
+
+? Toksin hosil bo'lishi odatda o'sishning qaysi bosqichida kuchayadi?
++ Logarifmik bosqich oxirida
+- Lag-bosqichning dastlabki daqiqalarida
+- O'lish bosqichining oxirida
+- Spora hosil bo'lgandan keyin
+- Inkubatsiya boshlanmasdan oldin
+! Toksin hosil bo'lishi odatda logarifmik o'sish bosqichining oxirida kuchayadi, shuning uchun kultura ma'lum vaqt o'stiriladi
+@ M
+
+? Kultura filtratini tayyorlashda hujayralar qanday olib tashlanadi?
++ Santrifugalash yoki filtrlash yo'li bilan
+- Qaynatish yoki kuydirish yo'li bilan
+- Quritish yoki changlatish yo'li bilan
+- Muzlatish yoki ultratovush bilan parchalash orqali
+- Kislota yoki ishqor qo'shib erish yo'li bilan
+! Hujayralar santrifugalash yoki filtrlash orqali olib tashlanib, toza suyuqlik olinadi
+@ M
+
+? Toksin filtrati nima uchun tez tahlil qilinadi va sovuqda saqlanadi?
++ Toksin vaqt o'tishi bilan faolligini yo'qotishi mumkin
+- Toksin vaqt o'tishi bilan zaharliligini oshirib boradi
+- Sovuqda toksin bakteriyaga aylanib ko'payadi
+- Filtrat quyoshda tez bug'lanib ketib, tarkibi o'zgaradi
+- Sovuq toksinni bakteriya sporasiga aylantirib saqlaydi
+! Toksin muddat o'tishi bilan faolligini yo'qotishi mumkin, shu sababli filtrat sovuqda saqlanib tez tahlil qilinadi
+@ M
+
+? Dermonekrotik toksinning teri sinovi qaysi hayvonda o'tkaziladi?
++ Odatda quyonning teri ostiga yuboriladi
+- Odatda tovuqning ko'z olmasiga tomiziladi
+- Odatda baliqning jabrasiga surtiladi
+- Odatda ilonning terisiga bosib qo'yiladi
+- Odatda qurbaqaning ichak shilliq qavatiga yuboriladi
+! Teri sinovida toksin odatda quyonning teri ostiga yuboriladi; qizarish, shish va nekroz faol toksinni ko'rsatadi
+@ M
+
+? Teri sinovida nazorat joyiga nima yuboriladi?
++ Toksinsiz muhit yoki toksinsiz filtrat
+- Ko'p miqdorda tozalangan faol toksin
+- Konsentrlangan kislota eritmasi
+- Tirik virulent stafilokokk kulturasi
+- Hayvon qoni va yog'idan olingan ekstrakt
+! Nazoratga toksinsiz muhit yoki filtrat yuboriladi va u joyda o'zgarish bo'lmasligi kerak, aks holda natija ishonchsiz
+@ M
+
+? Teri sinovida filtratda bakteriya yoki hujayra qoldiqlari bo'lsa nima bo'ladi?
++ Teri reaksiyasi noto'g'ri talqin qilinishi mumkin
+- Toksin faolligi ikki baravar kuchayib, aniqlashni osonlashtiradi
+- Natija har doim to'g'ri va aniq chiqadi
+- Hayvon organizmi toksinga qarshi immunitet hosil qilmaydi
+- Teri sinovining qayta o'tkazilishi butunlay ta'qiqlanadi
+! Filtrat tarkibida hujayra qoldig'i yoki bakteriya bo'lsa, teri reaksiyasi noto'g'ri talqin qilinishi mumkin
+@ M
+
+? Hujayra kulturasi usuli hayvon tajribasiga nisbatan qanday ustunlikka ega?
++ Standart sharoitda o'tadi va hayvon ishtirokini talab qilmaydi
+- Natijani darhol, hech qanday nazoratsiz beradi
+- Toksinlarni faolligidan qat'i nazar aniqlaydi
+- Hujayra liniyasi sezgirligini hech qachon tekshirishni talab qilmaydi
+- Tirik hayvonning organizmida o'tkaziladi
+! Hujayra kulturasi usuli nisbatan standart sharoitda o'tadi va hayvon ishtirokini talab qilmaydi, ammo hujayra liniyasi sezgirligi tekshirib turiladi
+@ M
+
+? Hujayra kulturasi tajribasida ijobiy nazorat sifatida nima ishlatiladi?
++ Ma'lum faol toksin
+- Toksinsiz sof muhit
+- Steril distillangan suv
+- Formalin bilan zararlangan hujayra
+- Tirik bo'lmagan hujayra liniyasi
+! Ijobiy nazorat sifatida ma'lum faol toksin, salbiy nazorat sifatida esa toksinsiz muhit ishlatiladi
+@ M
+
+# 095
+
+? Plazmakoagulaza fermenti qon plazmasida qanday jarayonni keltirib chiqaradi?
++ Fibrinogenga ta'sir qilib, fibrin ivishini chaqiradi
+- Fibrin laxtasini eritib, plazmani suyultiradi
+- Eritrotsitlarni parchalab, gemoglobinni ajratadi
+- Albuminni parchalab, kolloid bosimni pasaytiradi
+- Immunoglobulinlarni faollashtirib, antitela hosil qiladi
+! Plazmakoagulaza fibrinogenga ta'sir qilib fibrin ivishini yuzaga keltiradi va bakteriyani immun hujayralardan himoya qiladi
+@ M JAW
+
+? Plazmakoagulazaning ikki shakli qaysilar?
++ Erkin shakl va bakteriya devoriga bog'langan shakl
+- Issiqlikka chidamli shakl va sovuqqa chidamli shakl
+- Hujayra ichidagi shakl va yadrodagi shakl
+- Kislotali shakl va ishqorli shakl
+- Spora ichidagi shakl va kapsuladagi shakl
+! Plazmakoagulaza erkin (hujayradan tashqariga ajraladigan) va devorga bog'langan shakllarda uchraydi
+@ M JAW
+
+? Erkin koagulaza plazmadagi qaysi modda bilan kompleks hosil qiladi?
++ Protrombin bilan, stafilotrombin deb ataluvchi kompleks
+- Albumin bilan, stafiloalbumin deb ataluvchi kompleks
+- Transferrin bilan, stafilotransferrin deb ataluvchi kompleks
+- Gemoglobin bilan, stafilogemoglobin deb ataluvchi kompleks
+- Plazminogen bilan, stafilolizin deb ataluvchi kompleks
+! Erkin koagulaza protrombin bilan stafilotrombin kompleksini hosil qiladi, u fibrinogenni fibringa aylantirib plazmani ivitadi
+@ M JAW
+
+? "Clumping factor" deb ataladigan devorga bog'langan omil nimaga bog'lanadi?
++ To'g'ridan-to'g'ri fibrinogenga, bakteriyalar yopishadi
+- To'g'ridan-to'g'ri DNKga, hujayralar parchalanadi
+- To'g'ridan-to'g'ri lipidlarga, membrana buziladi
+- To'g'ridan-to'g'ri gemoglobinga, rang o'zgaradi
+- To'g'ridan-to'g'ri glyukozaga, bijg'ish boshlanadi
+! Bog'langan koagulaza (clumping factor) bevosita fibrinogenga bog'lanadi va bakteriyalarning bir-biriga yopishib agregat hosil qilishiga olib keladi
+@ M JAW
+
+? Probirka usulida plazmakoagulazani aniqlash uchun qaysi plazma ishlatiladi?
++ Quyon plazmasi, 37 °C da inkubatsiya qilinadi
+- Ot zardobi, 4 °C da inkubatsiya qilinadi
+- Inson siydigi, 56 °C da inkubatsiya qilinadi
+- Sigir suti, 22 °C da inkubatsiya qilinadi
+- Tovuq tuxumi sarig'i, 10 °C da inkubatsiya qilinadi
+! Probirka usulida sof kultura suyultirilib, ustiga quyon plazmasi qo'shiladi va 37 °C da inkubatsiya qilinadi
+@ M CLSI
+
+? Probirka usulida natija qachon tekshiriladi?
++ Dastlabki 4 soatda, aniq ivish bo'lmasa 24 soatgacha
+- Dastlabki 10 daqiqada, so'ng natija yakuniy hisoblanadi
+- 7 kundan keyin, bir marta tekshiriladi
+- 1 oydan keyin, bir marta tekshiriladi
+- Dastlabki 30 soatda, har yarim soatda tekshiriladi
+! Natija inkubatsiyaning dastlabki 4 soatida tekshiriladi, aniq ivish bo'lmasa 24 soatgacha kuzatiladi
+@ M
+
+? Probirka usulida musbat natija qanday ko'rinadi?
++ Probirka ag'darilganda oqmaydigan qattiq ivik hosil bo'ladi
+- Probirka ag'darilganda oqadigan suyuq loyqalanish bo'ladi
+- Muhit yashil rangga o'zgaradi, ivik hosil bo'lmaydi
+- Probirka tubida qora cho'kma hosil bo'ladi
+- Muhitda gaz pufakchalari hosil bo'ladi
+! Probirka ag'darilganda ham suyuqlik oqmaydigan qattiq ivik hosil bo'lsa, natija musbat hisoblanadi
+@ M
+
+? Slayd usuli plazmakoagulazaning qaysi shaklini aniqlaydi?
++ Devorga bog'langan shaklini, bir necha soniyada
+- Erkin shaklini, bir necha soatda
+- Toksin shaklini, bir necha kunda
+- Hujayra ichidagi shaklini, bir necha haftada
+- Spora shaklini, bir necha oyda
+! Slayd usuli devorga bog'langan koagulazani tezda aniqlaydi; musbat natijada agregatlar bir necha soniya yoki daqiqada hosil bo'ladi
+@ M JAW
+
+? Slayd usulining asosiy kamchiligi nima?
++ Ba'zi shtammlar yolg'on manfiy natija berishi mumkin
+- Natija faqat bir necha kundan keyin chiqadi
+- Qimmat apparat va elektr energiyasini talab qiladi
+- Erkin koagulazani aniqlay oladi
+- Natijani faqat elektron mikroskopda o'qish mumkin
+! Slayd usulida ba'zi shtammlar yolg'on manfiy natija berishi mumkin, shu sababli shubhali holatlarda probirka usuli bilan tasdiqlanadi
+@ M
+
+? Lateks aglyutinatsiya testi qanday zarrachalardan foydalanadi?
++ Fibrinogen bilan qoplangan lateks zarrachalaridan
+- Glyukoza bilan qoplangan shisha zarrachalaridan
+- Albumin bilan qoplangan metall zarrachalaridan
+- DNK bilan qoplangan ko'mir zarrachalaridan
+- Kraxmal bilan qoplangan qum zarrachalaridan
+! Lateks test fibrinogen bilan qoplangan zarrachalardan foydalanadi: clumping factor bo'lsa, ko'rinadigan aglyutinatsiya hosil bo'ladi
+@ M
