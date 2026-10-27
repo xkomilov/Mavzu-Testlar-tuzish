@@ -1,0 +1,454 @@
+# 057
+? Organizm himoyasi qaysi ikki asosiy darajadan iborat?
++ Nospetsifik va spetsifik omillar
+- Birlamchi va ikkilamchi dori omillari
+- Mahalliy va umumiy gormon omillari
+- Tashqi va ichki oziqa omillari
+- Aktiv va passiv harorat omillari
+! Organizm himoyasi ikki asosiy darajadan iborat: nospetsifik va spetsifik omillar
+@ M JAW
+
+? Nospetsifik omillarning asosiy xususiyati nima?
++ Har qanday begona moddaga tez javob beradi
+- Bitta aniq antigenni tanib, o'ziga xos javob beradi
+- Javob berishi uchun avval emlanish talab etiladi
+- Tug'ilgandan keyin bir yil o'tgachgina ishlaydi
+- Virusli infeksiyalarga qarshi ishlaydi, boshqalarga yo'q
+! Nospetsifik omillar har qanday begona moddaga tez javob beradi, spetsifik omillar esa aniq antigenni tanib, maxsus javob shakllantiradi
+@ M JAW
+
+? Immunitet omillari tarkibiga ko'ra qanday bo'linadi?
++ Hujayraviy va gumoral omillarga
+- Mexanik va kimyoviy omillarga
+- Aktiv va passiv omillarga
+- Tabiiy va sun'iy omillarga
+- Tashqi va ichki omillarga
+! Omillar tarkibiga ko'ra hujayraviy (fagotsit, limfotsit) va gumoral (antitelo, komplement) bo'ladi
+@ M JAW
+
+? Organizmning birinchi mexanik to'sig'i qaysi?
++ Teri
+- Oshqozon shirasi
+- Limfa tugunlari
+- Taloq
+- Suyak iligi
+! Teri organizmning birinchi mexanik to'sig'i hisoblanadi
+@ M JAW
+
+? Shilliq pardalar yuzasidagi qaysi omillar mikroblar yopishishini kamaytiradi?
++ Kiprikchalar, shilliq modda va sekretor IgA
+- Pigment, yog' va ter bezlarining ajratmasi
+- Mushak tolalari va suyak plastinkalari
+- Eritrotsitlar, trombotsitlar va qon plazmasi
+- Taloq, timus va limfa tugunlari hujayralari
+! Shilliq pardalar yuzasidagi kiprikchalar, shilliq modda va sekretor IgA mikroblarning yopishishi va ko'payishini kamaytiradi
+@ M JAW
+
+? Kolonizatsiya qarshiligi nima?
++ Mikroflora raqobat orqali patogenlarga to'sqinlik qiladi
+- Patogen mikroblar normal mikroflorani siqib chiqaradi
+- Antibiotiklar mikroblarni to'liq yo'q qilib tashlaydi
+- Teri qatlamlari qalinlashib, himoya kuchayadi
+- Qon quyilishidan keyin kuchli immun javob hosil bo'ladi
+! Kolonizatsiya qarshiligi — normal mikrofloraning oziq moddalar va yopishish joylari uchun raqobat orqali patogenlarga to'sqinlik qilishi
+@ M JAW
+
+? Oshqozon shirasidagi qaysi modda ko'plab mikroblarni zararsizlantiradi?
++ Xlorid kislota
+- Natriy bikarbonat
+- Pepsinogen
+- Safro pigmenti
+- O't kislotasi tuzi
+! Oshqozon shirasidagi xlorid kislota ko'plab mikroblarni zararsizlantiradi
+@ M JAW
+
+? Tupurik va ko'z yoshidagi lizotsim qanday ta'sir qiladi?
++ Bakteriya hujayra devorini parchalaydi
+- Bakteriya ribosomasini bloklaydi
+- Bakteriya DNKsini nusxalaydi
+- Bakteriya xivchinini kuchaytiradi
+- Bakteriya kapsulasini qalinlashtiradi
+! Tuprik va ko'z yoshi tarkibidagi lizotsim bakteriya hujayra devorini parchalaydi
+@ M JAW
+
+? Gumoral omillarga qaysilar kiradi?
++ Antitelo, komplement va boshqa eruvchan moddalar
+- Neytrofil, makrofag va limfotsit hujayralari
+- Teri, shilliq parda va kiprikchalar qatlami
+- Normal mikroflora va tupurik oqimi
+- Timus, taloq va suyak iligi organlari
+! Gumoral omillar — antitelo, komplement va boshqa eruvchan moddalar
+@ M JAW
+
+? Teri va shilliq pardalar shikastlanganda nima yuz beradi?
++ Infeksiya uchun kirish darvozasi ochiladi
+- Immunitet birdan mustahkamlanadi
+- Normal mikroflora yo'qoladi va infeksiya to'xtaydi
+- Mikroblar organizmdan chiqib ketadi
+- Antitelo ishlab chiqarilishi to'xtaydi
+! Teri va shilliq pardaning jarohatlanishi infeksiya uchun kirish darvozasini ochadi
+@ M JAW
+
+# 058
+? Fagotsitoz nima?
++ Hujayralarning mikroblarni yutib, ichida parchalashi
+- Hujayralarning antitelo ishlab chiqarib, tarqatishi
+- Mikroblarning hujayra ichida ko'payib, chiqishi
+- Hujayralarning ikkiga bo'linib, ko'payishi
+- Eritrotsitlarning gemoglobin bilan kislorod tashishi
+! Fagotsitoz — hujayralar tomonidan zarrachalar, mikroblar va hujayra qoldiqlarini yutib, ichida parchalash jarayoni
+@ M JAW
+
+? Fagotsitozning ilmiy asoschisi kim?
++ Ilya Ilich Mechnikov (rus olimi)
+- Lui Paster (fransuz olimi)
+- Robert Kox (nemis olimi)
+- Paul Erlix (nemis olimi)
+- Edvard Jenner (ingliz shifokori)
+! Fagotsitozning ilmiy asoschisi rus olimi Ilya Ilich Mechnikov
+@ M JAW
+
+? Mechnikov fagotsitozni qaysi jonzotlarda kuzatgan?
++ Yulduzcha lichinkalari va dafniyalarda
+- Quyon va dengiz cho'chqasi organizmida
+- Sichqon va kalamush organizmida
+- Ot va sigir organizmida
+- Qurbaqa va baliq organizmida
+! 1880-yillarda Mechnikov yulduzcha lichinkalari va dafniyalar ustida kuzatishlar o'tkazgan
+@ M JAW
+
+? Mikrofaglar asosan qaysi hujayralardan iborat?
++ Neytrofil granulotsitlardan
+- Monotsitlardan hosil bo'lgan hujayralardan
+- Dendritik hujayralardan
+- Plazmatik hujayralardan
+- Eritrotsit hujayralaridan
+! Mikrofaglar asosan neytrofil granulotsitlardir
+@ M JAW
+
+? Makrofaglar qaysi hujayralardan hosil bo'ladi?
++ Monotsitlardan
+- Neytrofillardan
+- Eritrotsitlardan
+- Trombotsitlardan
+- Bazofillardan
+! Makrofaglar monotsitlardan hosil bo'ladi va to'qimalarda uzoq yashaydi
+@ M JAW
+
+? Makrofaglar mikrobni yutishdan tashqari yana qanday vazifani bajaradi?
++ Antigenni boshqa immun hujayralarga taqdim etadi
+- Antitelolarni to'g'ridan-to'g'ri yo'q qilib yuboradi
+- Qon quyuqligini oshiradi va ivishini tezlashtiradi
+- Kislorodni to'qimalarga tashib beradi
+- Mikroblarni oziqa muhitida ko'paytirib beradi
+! Makrofaglar antigenni qayta ishlab, boshqa immun hujayralarga taqdim etadi va yallig'lanishni boshqaradi
+@ M JAW
+
+? Fagotsitozning birinchi bosqichi qaysi?
++ Xemotaksis
+- Adgeziya
+- Yutish
+- Hazm qilish
+- Toksin ajratish
+! Fagotsitoz birinchi navbatda xemotaksis bilan boshlanadi: hujayra kimyoviy signallar yo'nalishida harakatlanadi
+@ M JAW
+
+? Adgeziya bosqichida nima yuz beradi?
++ Fagotsit mikrob yuzasiga yopishadi
+- Fagotsit infeksiya o'chog'iga harakatlanadi
+- Mikrob fagotsit ichida parchalanadi
+- Fagotsit antitelo ishlab chiqaradi
+- Mikrob fagotsitdan tashqariga chiqadi
+! Adgeziya bosqichida fagotsit mikrob yuzasiga yopishadi, bunda hujayra yuzasidagi retseptorlar muhim rol o'ynaydi
+@ M JAW
+
+? Mechnikov g'oyasi dastlab nima uchun qarshilikka uchragan?
++ Gumoral omillar muhimroq deb hisoblangani uchun
+- Mikroskoplar hali mavjud bo'lmagani uchun
+- Fagotsitozni isbotlash imkoni bo'lmagani uchun
+- Antibiotiklar hali kashf etilmagani uchun
+- Hujayra nazariyasi to'liq rad etilgani uchun
+! G'oya dastlab qarshilikka uchragan, chunki o'sha davrda gumoral omillar muhimroq deb hisoblangan
+@ M JAW
+
+? Fagotsitoz va gumoral immunitet o'rtasidagi munosabat haqida keyinchalik nima aniqlandi?
++ Ular bir-birini to'ldiruvchi mexanizmlar ekani
+- Ular bir-biriga qarama-qarshi ekani
+- Gumoral immunitet fagotsitozni to'liq almashtirgani
+- Fagotsitoz faqat hayvonlarda uchrashi
+- Ikkalasi ham ahamiyatsiz ekani
+! Keyinchalik fagotsitoz va gumoral immunitet bir-birini to'ldiruvchi mexanizm ekani aniqlangan
+@ M JAW
+
+# 059
+? Normal mikroflora nima?
++ Organizmda doimiy yashaydigan mikroblar majmuasi
+- Laboratoriyada o'stiriladigan mikroblar to'plami
+- Organizmda vaqtincha paydo bo'ladigan patogenlar guruhi
+- Kasallik chaqiradigan mikroblarning umumiy guruhi
+- Tashqi muhitdagi chang zarralarining tarkibi
+! Odam va hayvon organizmida doimiy ravishda yashaydigan mikroblar majmuasi normal mikroflora deb ataladi
+@ M JAW
+
+? Normal mikroflora asosan qanday mikroblardan iborat?
++ Komensal mikroblardan
+- Patogen mikroblardan
+- Sporali mikroblardan
+- Viruslardan
+- Zamburug'lardan
+! Normal mikroflora komensal mikroblardan iborat bo'lib, organizmga zarar yetkazmaydi yoki ko'pincha foyda keltiradi
+@ M JAW
+
+? Qaysi sohada eng ko'p mikroblar yashaydi?
++ Ichakda
+- Terida
+- Burunda
+- Quloqda
+- Ko'zda
+! Ichakda eng ko'p mikroblar yashaydi
+@ M JAW
+
+? Normal mikroflora qachondan boshlab shakllanadi?
++ Ko'pincha tug'ilish paytidan boshlab
+- Maktab yoshidan boshlab shakllanadi
+- Balog'at yoshidan boshlab shakllanadi
+- Keksalik davrida shakllanadi
+- Birinchi antibiotik qabul qilingandan keyin
+! Normal mikroflora ko'pincha tug'ilish paytidan boshlab shakllanadi va hayot davomida o'zgarib boradi
+@ M JAW
+
+? Kolonizatsiya qarshiligida komensal mikroblar patogenlar bilan nima uchun raqobatlashadi?
++ Oziq moddalar va yopishish joyi uchun
+- Kislorod va yorug'lik nuri uchun
+- Dori vositalari va vitaminlar uchun
+- Suv va osh tuzi tanqisligi uchun
+- Harorat va namlik ko'rsatkichi uchun
+! Komensal mikroblar oziq moddalar va yopishish joylari uchun patogenlar bilan raqobatlashadi
+@ M JAW
+
+? Ba'zi komensal bakteriyalar boshqa mikroblarni qanday zararsizlantiradi?
++ Bakteriotsinlar ishlab chiqarib
+- Eritrotsitlarni parchalab, zona hosil qilib
+- Gaz pufakchalari hosil qilib, muhitni to'ldirib
+- Kapsulani qalinlashtirib, ko'payib
+- Xivchin sonini oshirib, harakatlanib
+! Ba'zi komensal bakteriyalar bakteriotsinlar ishlab chiqaradi, ular boshqa mikroblarni zararsizlantiradi
+@ M JAW
+
+? Antibiotiklar normal mikrofloraga zarar yetkazsa, nima yuz beradi?
++ Patogenlar osonroq ko'paya boshlaydi
+- Patogen mikroblar yo'qolib ketadi
+- Immunitet birdan keskin mustahkamlanadi
+- Infeksiya xavfi sezilarli kamayadi
+- Ichak mikroflorasi o'zgarmay qoladi
+! Antibiotiklar normal mikroflorani buzganda patogen mikroblar osonroq ko'paya boshlaydi
+@ M JAW
+
+? Mikroblardan xoli hayvonlarda qanday o'zgarish kuzatilgan?
++ Limfoid to'qimalar yetarli rivojlanmagan
+- Limfoid to'qimalar ortiqcha kattalashgan
+- Suyak to'qimasi yetarli rivojlanmagan
+- Jun qoplami qalinlashgan
+- Mushaklar ortiqcha kuchaygan
+! Tajribalarda mikroblardan xoli hayvonlarda limfoid to'qimalar yetarli darajada rivojlanmagani kuzatilgan
+@ M JAW
+
+? Ichak mikroflorasi shilliq pardada qaysi antitelo ishlab chiqarilishini rag'batlantiradi?
++ IgA
+- IgE
+- IgD
+- IgM
+- IgG
+! Ichak mikroflorasi shilliq pardada IgA ishlab chiqarilishini rag'batlantiradi
+@ M JAW
+
+? Odamlar mikroflorasi nima uchun individual bo'ladi?
++ Yoshga, ovqatlanishga va muhitga bog'liq bo'lgani uchun
+- Barcha odamlarda bir xil tarkibga ega bo'lgani uchun
+- Jinsga bog'liq bo'lib, boshqa omil bo'lmagani uchun
+- Qon guruhiga bog'liq bo'lib, boshqa omil bo'lmagani uchun
+- Kiyim turiga bog'liq bo'lib, boshqa omil bo'lmagani uchun
+! Mikroflora tarkibi yoshga, ovqatlanishga va yashash muhitiga bog'liq, shu sababli har bir odamning mikroflorasi o'ziga xos bo'ladi
+@ M JAW
+
+# 060
+? Spetsifik orttirilgan immunitetning asosiy xususiyati nima?
++ Aniq antigenni tanib, xotira hosil qiladi
+- Har qanday begona moddaga bir xil tez javob beradi
+- Tug'ilishdan boshlab bir xil kuchda mavjud bo'ladi
+- Xotira hosil qilmaydi va qisqa muddatli bo'ladi
+- Faqat mexanik to'siqlar orqali ishlab turadi
+! Spetsifik orttirilgan immunitet aniq antigenni tanib, unga qarshi maxsus javob beradi va xotira hosil qiladi
+@ M JAW
+
+? Immun tizimning markaziy organlari qaysilar?
++ Suyak iligi va timus
+- Limfa tugunlari va taloq
+- Jigar va buyrak
+- Yurak va o'pka
+- Oshqozon va ichak
+! Markaziy organlar suyak iligi va timusdan iborat bo'lib, immun hujayralar ularda shakllanadi va yetiladi
+@ M JAW
+
+? Immun tizimning periferik organlari qaysilar?
++ Limfa tugunlari, taloq va shilliq parda to'qimasi
+- Suyak iligi va timus (ayrisimon bez) organlari
+- Yurak va qon tomirlari tizimi organlari
+- Jigar va o't pufagi tizimi organlari
+- Bosh miya va orqa miya tizimi organlari
+! Periferik organlar limfa tugunlari, taloq va shilliq pardalar bilan bog'langan limfoid to'qimalardir
+@ M JAW
+
+? B-limfotsitlar qayerda yetiladi?
++ Suyak iligida yetiladi
+- Timusda (ayrisimon bezda) yetiladi
+- Taloqda (periferik organ) yetiladi
+- Jigarda (hazm organi) yetiladi
+- Oshqozonda (hazm organi) yetiladi
+! B-limfotsitlar suyak iligida yetiladi
+@ M JAW
+
+? T-limfotsitlar qayerda yetiladi?
++ Timusda
+- Suyak iligida
+- Jigarda
+- Buyrakda
+- Taloqda
+! T-limfotsitlar timusda yetiladi, shu sababli nomi shu organ bilan bog'liq
+@ M JAW
+
+? Faollashgan B-limfotsitlar nimaga aylanib, antitelo ishlab chiqaradi?
++ Plazmatik hujayralarga
+- Makrofag hujayralariga
+- Neytrofil hujayralariga
+- Eritrotsit hujayralariga
+- Trombotsit hujayralariga
+! Faollashgan B-limfotsitlar plazmatik hujayralarga aylanib, antitelolar ishlab chiqaradi
+@ M JAW
+
+? T-yordamchi hujayralar (CD4+) qanday vazifani bajaradi?
++ Sitokinlar orqali B-hujayralar va boshqalarni boshqaradi
+- Infeksiyalangan hujayralarni to'g'ridan-to'g'ri yo'q qiladi
+- Antitelolarni bevosita o'zi ishlab chiqaradi
+- Immun javobni to'liq to'xtatib, so'ndiradi
+- Kislorodni to'qimalarga tashib beradi
+! T-yordamchi (CD4+) hujayralar sitokinlar ishlab chiqarib, B-hujayralar va boshqa immun hujayralarni boshqaradi
+@ M JAW
+
+? Sitotoksik T-hujayralar (CD8+) nima qiladi?
++ Infeksiyalangan yoki o'zgargan hujayralarni yo'q qiladi
+- Antitelolarni ishlab chiqaradi
+- Sitokinlarni to'xtatadi
+- Immun javobni cheklab, autoimmunitetni oldini oladi
+- Mikroblarni oziqa sifatida yutadi
+! Sitotoksik T-hujayralar (CD8+) infeksiyalangan yoki o'zgargan hujayralarni yo'q qiladi
+@ M JAW
+
+? Regulyator T-hujayralar qanday vazifani bajaradi?
++ Javobni cheklab, autoimmunitetni oldini oladi
+- Immun javobni cheksiz kuchaytirib yuboradi
+- Antitelo ishlab chiqarib, qonga chiqaradi
+- Mikrobni yutib, ichida parchalab tashlaydi
+- Qon ivishini tezlashtirib, tromb hosil qiladi
+! Regulyator T-hujayralar immun javobni cheklaydi va autoimmun reaksiyalarning oldini olishga yordam beradi
+@ M JAW
+
+? T-limfotsitlar antigenni odatda qaysi molekulalar bilan birga tanib oladi?
++ MHC molekulalari bilan (hujayra yuzasida)
+- Gemoglobin molekulalari bilan (eritrotsitda)
+- Insulin molekulalari bilan (qonda)
+- Lizotsim molekulalari bilan (tupurikda)
+- Albumin molekulalari bilan (plazmada)
+! T-limfotsitlar antigenni odatda hujayra yuzasidagi MHC molekulalari bilan birga tanib oladi
+@ M JAW
+
+# 061
+? Gumoral omillar qayerda erigan holda uchraydi?
++ Plazma, limfa va to'qima suyuqliklarida
+- Suyak to'qimasining zich qatlami ichida
+- Hujayra yadrosining ichki qismida
+- Terining yuza shox qavatida
+- Oshqozon shirasining kislotali qismida
+! Gumoral omillar organizm suyuqliklarida, ya'ni qon plazmasi, limfa va to'qima suyuqliklarida erigan holda uchraydi
+@ M JAW
+
+? Gumoral omillar tarkibiga qaysilar kiradi?
++ Antitelolar, komplement, lizotsim va interferonlar
+- Neytrofillar, makrofaglar va limfotsit hujayralari
+- Teri, shilliq parda va kiprikchalar to'sig'i
+- Normal mikroflora va tupurik oqimi
+- Timus, taloq va suyak iligi organlari
+! Gumoral omillar tarkibiga antitelolar, komplement tizimi, lizotsim, interferonlar, properdin va boshqa oqsillar kiradi
+@ M JAW
+
+? Antigen nima?
++ Immun javobni qo'zg'atib, unga javob beradigan modda
+- Organizmning o'z hujayrasi tarkibiy qismi bo'lgan modda
+- Antitelo molekulasining o'zgargan shakli bo'lgan modda
+- Immun hujayralar ishlab chiqaradigan sitokin moddasi
+- Oziqa muhitining tayyor tarkibiy qismi bo'lgan modda
+! Antigen — organizmga kirgach immun javobni qo'zg'atadigan va shu javob bilan reaksiyaga kirishadigan modda
+@ M JAW
+
+? Immunogenlik nima?
++ Antigenning immun javobni keltirib chiqarish qobiliyati
+- Antigenning antitelo bilan aniq bog'lanish qobiliyati
+- Antigenning suvda erish qobiliyati
+- Antigenning haroratga chidamliligi
+- Antigenning rangini o'zgartirish qobiliyati
+! Immunogenlik — antigenning immun javobni keltirib chiqarish qobiliyati
+@ M JAW
+
+? Antigenlik nima?
++ Antitelo yoki limfotsit bilan aniq bog'lana olish xossasi
+- Immun javobni boshlab berish va uni kuchaytirish xossasi
+- Mikrobni to'g'ridan-to'g'ri o'ldirish va yo'q qilish xossasi
+- Vitamin sintez qilish va organizmni boyitish xossasi
+- Kislorodni to'qimalarga tashib berish va yetkazish xossasi
+! Antigenlik — antigenning antitelo yoki limfotsitlar bilan aniq bog'lana olish qobiliyati
+@ M JAW
+
+? Hapten nima?
++ O'zi immunogen emas, oqsil bilan birikib javob beradigan molekula
+- Katta molekulyar og'irlikdagi kuchli immunogen oqsil molekulasi
+- Antitelo molekulasining og'ir zanjiri bo'lgan qismi
+- Komplement tizimining tarkibiy qismi bo'lgan oqsil
+- Immun hujayraning yuzaki retseptori bo'lgan oqsil
+! Haptenlar kichik molekulalar bo'lib, o'zi immunogen emas, lekin oqsil bilan birikkanda immun javob beradi
+@ M JAW
+
+? Antigen determinanti (epitop) nima?
++ Antigen molekulasining antitelo bilan bog'lanadigan qismi
+- Antitelo molekulasining antigen bilan bog'lanmaydigan qismi
+- Mikrob hujayrasining DNK tarkibi
+- Oziqa muhitidagi indikator moddasi
+- Immun hujayraning yadro qismi
+! Antigen molekulasining antitelo bilan bog'lanadigan qismi epitop yoki antigen determinanti deb ataladi
+@ M JAW
+
+? Bitta antigen nechta epitopga ega bo'lishi mumkin?
++ Bir nechta epitopga
+- Bitta epitopga
+- Epitopga ega bo'la olmaydi
+- Ikkita epitopga
+- Epitoplar soni cheklangan, bitta
+! Bitta antigen bir necha epitopga ega bo'lishi mumkin va har bir epitop alohida immun javobni qo'zg'atishi mumkin
+@ M JAW
+
+? Ko'pgina antigenlar kimyoviy jihatdan nimadan iborat?
++ Yirik oqsil yoki polisaxaridlardan
+- Past molekulyar tuzlar va minerallardan
+- Oddiy gazlar va bug' aralashmasidan
+- Sof suv va erigan kislorod aralashmasidan
+- Metall ionlari va erigan ishqorlardan
+! Ko'pgina antigenlar yuqori molekulyar og'irlikdagi oqsil yoki polisaxaridlardir
+@ M JAW
+
+? Mikrob antigenlarini bilish laboratoriyada nima uchun muhim?
++ Patogenni aniqlashda va serologik tekshiruvda ishlatiladi
+- Oziqa muhitini sterillash uchun ishlatiladi
+- Mikroskopni sozlash uchun ishlatiladi
+- Dori narxini hisoblash uchun ishlatiladi
+- Termostat haroratini nazorat qilish uchun ishlatiladi
+! Mikrob antigenlari patogenni aniqlashda va serologik tekshiruvda muhim rol o'ynaydi
+@ M JAW
