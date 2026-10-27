@@ -46,6 +46,7 @@ SOURCES = {
     "EUCAST": "EUCAST. Disk diffusion method for antimicrobial susceptibility testing — metod bayoni",
     "CLSI": "CLSI. M02 — Performance Standards for Antimicrobial Disk Susceptibility Tests",
     "WHOAMR": "WHO. Antimicrobial resistance — Fact sheet (WHO, yangilangan versiya)",
+    "WHOIMM": "WHO. Immunization, vaccines and biologicals — umumiy ma'lumot (WHO)",
     "LENS": "Lens on Leeuwenhoek (lensonleeuwenhoek.net) — Visibility",
 }
 
