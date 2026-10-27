@@ -1,0 +1,551 @@
+# 276
+
+? Go'shtda umumiy mikroblar soni deganda qaysi mikroorganizmlar tushuniladi?
++ Aerob va fakultativ anaerob mezofillar
+- Majburiy anaerob termofil bakteriyalar
+- Psixrofil zamburug'lar va viruslar
+- Obligat parazit sporali mikroblar
+- Kislotaga chidamli mikobakteriyalar
+! Umumiy mikroblar soni muayyan oziqa muhitida belgilangan sharoitda o'sadigan aerob va fakultativ anaerob mezofil mikroorganizmlarni bildiradi
+@ M
+
+? Go'shtdagi umumiy mikroblar soni qanday birlikda ifodalanadi?
++ 1 g go'shtdagi KHB soni
+- 1 ml havodagi KHB soni
+- 1 litr suvdagi KHB soni
+- 1 m² sirtdagi KHB soni
+- 1 kg yog'dagi KHB soni
+! Natija 1 g go'sht yoki 1 ml suyuqlikdagi koloniya hosil qiluvchi birliklar (KHB) soni sifatida ifodalanadi
+@ M
+
+? Natija nima uchun "koloniya hosil qiluvchi birlik" deb yuritiladi?
++ Koloniya bitta hujayradan yoki guruhdan hosil bo'ladi
+- Koloniya faqat o'lik hujayralardan paydo bo'ladi
+- Koloniya doim bitta spora hosil qiladi
+- Koloniya mikroblarsiz agardan paydo bo'ladi
+- Koloniya hosil bo'lishi viruslarga bog'liq
+! Koloniya bitta tirik hujayradan yoki bir nechta hujayra guruhidan hosil bo'ladi, shuning uchun "koloniya hosil qiluvchi birlik" deyiladi
+@ M
+
+? Go'sht-pepton agari tarkibida nimalar bor?
++ Go'sht ekstrakti, pepton va agar-agar
+- Qon, tuxum sarig'i va oddiy tuz
+- Laktoza, safro va kristall binafsha
+- Glyukoza, sulfit va polimiksin
+- Mannitol, tellurit va yuqori tuz
+! Go'sht-pepton agari go'sht ekstrakti, pepton va agar-agardan tayyorlanadi va ko'pchilik mikroorganizmlar uchun oziqa beradi
+@ M
+
+? Go'sht namunasidan tahlil uchun qancha tortib olinadi?
++ 25 g yoki belgilangan miqdorda
+- 25 kg yoki cheksiz miqdorda
+- 0,25 mg yoki yarim tomchi
+- 250 kg yoki butun partiya
+- 2,5 mg yoki bir zarracha
+! Go'sht namunasi 25 g yoki belgilangan miqdorda steril sharoitda tortiladi va gomogenlanadi
+@ M
+
+? Quyma usulda suyultirilgan namuna qanday muhitga qo'shiladi?
++ Erigan, 45 °C gacha sovitilgan muhitga
+- Qaynoq, 100 °C li erigan agar muhitiga
+- Muzdek, 4 °C li qotgan agar muhitiga
+- Qotgan, 20 °C li quruq agar muhitiga
+- Qizigan, 80 °C li erigan agar muhitiga
+! Quyma usulda suyultirilgan namuna erigan va 45 °C gacha sovitilgan muhitga qo'shiladi
+@ M
+
+? Yuzaki ekishdan oldin Petri idishi bilan nima qilinadi?
++ Yuzasi quritiladi
+- Yuzasi suv bilan namlanadi
+- Yuzasi spirt bilan yoqiladi
+- Yuzasi muzlatiladi
+- Yuzasi yog'lanadi
+! Yuzaki ekishda Petri idishi yuzasi quritilgan bo'lishi kerak, aks holda ortiqcha namlik koloniyalarning tarqalib ketishiga olib keladi
+@ M
+
+? Go'sht ekmalari odatda qanday inkubatsiya qilinadi?
++ 37 °C da taxminan 24 soat, teskari holatda
+- 4 °C da taxminan 24 soat, to'g'ri holatda
+- 100 °C da taxminan 24 soat, teskari holatda
+- 37 °C da taxminan 1 daqiqa, to'g'ri holatda
+- 60 °C da taxminan 1 hafta, to'g'ri holatda
+! Idishlar teskari holatda, odatda 37 °C da taxminan 24 soat inkubatsiya qilinadi
+@ M
+
+? Sanash uchun 30 dan 300 gacha koloniyali idish nima uchun tanlanadi?
++ Kam bo'lsa tasodifiy xato, ko'p bo'lsa qo'shiladi
+- Bu oraliqda koloniyalar rangi o'zgarmaydi, deb
+- Bu oraliqda mikroblar tezroq o'lib ketadi, deb
+- Muhit tezroq quriydi va sanash oson bo'ladi
+- Idishning og'irligi kamayib, qulay bo'lib qoladi
+! Juda kam koloniya tasodifiy xatolar ehtimolini oshiradi, juda ko'p koloniya esa bir-biriga qo'shilib ketadi
+@ M
+
+? Go'sht harorati ko'tarilsa umumiy son qanday o'zgaradi?
++ Mikroblar soni ortib, xulosa noto'g'ri bo'ladi
+- Mikroblar soni kamayib, xulosa to'g'ri bo'ladi
+- Mikroblar soni o'zgarmay, xulosa aniq bo'ladi
+- Mikroblar butunlay yo'qolib, go'sht steril bo'ladi
+- Mikroblar rangi o'zgarib, sanash osonlashadi
+! Harorat ko'tarilsa mikroblar soni ortib ketadi, bu mahsulot haqida noto'g'ri xulosaga olib keladi
+@ M
+
+# 277
+
+? Koliformlar qanday bakteriyalar?
++ Gram-manfiy sporasiz tayoqchalar, laktozani bijg'itadi
+- Gram-musbat sporali kokklar, laktozani bijg'itmaydi
+- Gram-manfiy spiralsimon, laktozani parchalamaydi
+- Gram-musbat shoxlangan, kraxmalni parchalaydi
+- Gram-manfiy diplokokk, glyukozani bijg'itmaydi
+! Koliformlar gram-manfiy, sporasiz tayoqchalar bo'lib, laktozani 37 °C da bijg'itib kislota va gaz hosil qiladi
+@ M JAW
+
+? Go'shtda E. coli topilishi nimani bildiradi?
++ Yaqinda fekal ifloslanish bo'lganini
+- Ancha oldin tuproqdan ifloslanganini
+- Tuzlab qo'yilgan bo'lishini
+- Muzlatib qo'yilgan bo'lishini
+- Yaxshi pishirilgan bo'lishini
+! E. coli ichakda doimiy yashaydi va tashqi muhitda uzoq saqlanmaydi, shuning uchun topilishi yaqinda fekal ifloslanishni ko'rsatadi
+@ M JAW
+
+? Faqat koliformlar sonidan xulosa chiqarish nima uchun noto'g'ri bo'lishi mumkin?
++ Koliformlar o'simlik va tuproqda ham yashaydi
+- Koliformlar sporali bo'lgani uchun o'lmaydi
+- Koliformlar go'shtda umuman ko'paymaydi
+- Koliformlar laktozani bijg'itmaydi
+- Koliformlar ichakda uchramaydi
+! Koliformlarning boshqa turlari tashqi muhitda, o'simlik va tuproqda ham yashaydi, shuning uchun aniq tasdiqlash zarur
+@ M
+
+? Go'shtda koli-titr nima?
++ E. coli topilgan eng kichik mahsulot miqdori
+- 1 g go'shtdagi E. coli soni
+- E. coli topilmagan eng katta miqdor
+- 1 g go'shtdagi umumiy KHB soni
+- Go'sht namligining foizdagi ko'rsatkichi
+! Go'shtda koli-titr — ichak tayoqchalari topilgan eng kichik mahsulot miqdori (gramm hisobida)
+@ M
+
+? Go'sht va suv koli-ko'rsatkichlarini nima uchun solishtirib bo'lmaydi?
++ Birliklari farq qiladi: grammga nisbatan ml va litr
+- Suvda E. coli bo'lmaydi, go'shtda doim bor
+- Suv sporali, go'sht esa sporasiz muhit
+- Go'shtda koli-titr hisoblanmaydi
+- Suvda koli-indeks aniqlanmaydi
+! Suvda koli-ko'rsatkichlar ml va litr birliklarida ifodalanadi, go'shtda esa gramm bilan, shuning uchun bevosita solishtirib bo'lmaydi
+@ M
+
+? Bijg'itish usulida gaz qaerda to'planadi?
++ Durham naychasida
+- Probirka tubidagi cho'kmada
+- Paxta tiqin ichida
+- Idish qopqog'ida
+- Agar yuzasi ostida
+! Gaz Durham naychasida to'planadi, bu uni ko'rishga imkon beradi
+@ M
+
+? Bijg'itish usulida inkubatsiya muddati qancha?
++ 24 soat, zarur bo'lsa 48 soatgacha
+- 1 soat, zarur bo'lsa 2 soatgacha
+- 10 sutka, zarur bo'lsa 30 sutkagacha
+- 5 daqiqa, zarur bo'lsa 1 soatgacha
+- 3 soat, zarur bo'lsa 6 soatgacha
+! Inkubatsiya muddati odatda 24 soat, zarur bo'lsa 48 soatgacha uzaytiriladi
+@ M
+
+? Eng ehtimolli son (EES) usulining afzalligi nima?
++ Ko'p koloniyani sanash talab qilinmaydi
+- Aniq son beradi, taxmin bo'lmaydi
+- Qimmat jihoz talab qilinadi
+- Natija soniyada tayyor bo'ladi
+- Statistikadan foydalanilmaydi
+! EES usulida katta miqdordagi koloniyalarni sanash talab qilinmaydi, lekin natija taxminiy qiymat sifatida talqin qilinadi
+@ M
+
+? Bijg'ish belgisi yo'q probirkalar bilan nima qilinadi?
++ Manfiy deb yoziladi, jurnalda saqlanadi
+- Tashlab yuborilib, hisobga olinmaydi
+- Musbat deb yozib qo'yiladi
+- Qayta qizdirilib, tashlanadi
+- Boshqa namunaga qo'shiladi
+! Bijg'ish belgisi bo'lmagan probirkalar manfiy deb yoziladi, ammo ularni bekor qilmasdan jurnalda saqlash kerak
+@ M
+
+? Koli-indeks yuqori bo'lsa nimani bildiradi?
++ Ifloslanish shuncha katta ekanini
+- Ifloslanish shuncha kam ekanini
+- Yog'liligi shuncha yuqori ekanini
+- Yangiligi shuncha yuqori ekanini
+- Sterilligi shuncha yuqori ekanini
+! Koli-indeks 1 g mahsulotdagi ichak tayoqchalari soni bo'lib, qancha yuqori bo'lsa ifloslanish shuncha katta
+@ M
+
+# 278
+
+? Salmonellalar qanday bakteriyalar?
++ Gram-manfiy, harakatchan, sporasiz tayoqchalar
+- Gram-musbat, harakatsiz, sporali tayoqchalar
+- Gram-manfiy, harakatsiz, kapsulali kokklar
+- Gram-musbat, harakatchan, sporali kokklar
+- Gram-manfiy, spiralsimon, harakatchan shakllar
+! Salmonellalar gram-manfiy, harakatchan, sporasiz tayoqchalar bo'lib, odatda fakultativ anaerob
+@ M JAW
+
+? Go'shtga salmonellalar qanday tushishi mumkin?
++ Hayvon ichagidan, so'yish va qayta ishlashda
+- Osmondan yomg'ir va qor bilan birga
+- Quyosh nuri ta'sirida avtomatik tarzda
+- Metall asboblar o'z-o'zidan hosil qilib
+- Tuz va ziravorlardan o'sib chiqib
+! Salmonellalar go'shtga tirik hayvon ichagidan, so'yish paytida va qayta ishlash jarayonida tushishi mumkin
+@ M
+
+? Dastlabki zenginlashtirishning vazifasi nima?
++ Jarohatlangan hujayralarni tiklash va ko'paytirish
+- Salmonellalarni darhol o'ldirib yuborish
+- Namuna rangini o'zgartirib qo'yish
+- Boshqa mikroblarni butunlay ko'paytirish
+- Namunani qizdirib sterillab qo'yish
+! Dastlabki zenginlashtirishda salmonellalar boshqa mikroblardan oldin ko'payadi va jarohatlangan hujayralar tiklanadi
+@ M
+
+? Dastlabki zenginlashtirish odatda qanday o'tkaziladi?
++ 37 °C da bir kecha-kunduz
+- 4 °C da bir necha daqiqa
+- 100 °C da bir soat
+- 60 °C da bir hafta
+- 37 °C da bir soniya
+! Dastlabki zenginlashtirish odatda 37 °C da bir kecha-kunduz davom etadi
+@ M
+
+? Salmonellalar uchun selektiv zenginlashtirish muhiti qaysi?
++ Tetrationat yoki Rappaport-Vassiliadis muhiti
+- Manitolli tuzli yoki Baird-Parker muhiti
+- SPS yoki lesitinli agar muhiti
+- Sabouraud yoki Chapek agari muhiti
+- Levenshteyn-Yensen yoki qonli agar
+! Selektiv zenginlashtirish uchun tetrationat yoki Rappaport-Vassiliadis muhiti keng qo'llanadi
+@ M JAW
+
+? XLD agarida salmonellalar koloniyalari qanday ko'rinadi?
++ Ko'pincha qizil rangli koloniyalar
+- Sariq rangli, laktozani bijg'itadigan koloniyalar
+- Ko'k rangli yirik koloniyalar
+- Yashil metall yaltiroq koloniyalar
+- Rangsiz shaffof mayda koloniyalar
+! XLD agarida salmonellalar laktozani bijg'itmagani uchun ko'pincha qizil rangli koloniyalar hosil qiladi
+@ M JAW
+
+? Bismut sulfit agarida salmonellalar qanday koloniya beradi?
++ H2S hosil qilib, atrofida qora zona
+- Laktozani bijg'itib, atrofida sariq zona
+- Gemoliz qilib, atrofida tiniq zona
+- Mannitni bijg'itib, atrofida qizil zona
+- Lesitinazadan, atrofida xira zona
+! Bismut sulfit agarida salmonellalar vodorod sulfidi hosil qilib, koloniya atrofida qora zona paydo qiladi
+@ M JAW
+
+? Salmonellalarning ko'pchiligi qaysi biokimyoviy belgilarga ega?
++ H2S hosil qiladi, ureaza manfiy, lizin dekarboksilaza musbat
+- H2S hosil qilmaydi, ureaza musbat, lizin dekarboksilaza manfiy
+- H2S hosil qiladi, ureaza musbat, lizin dekarboksilaza manfiy
+- H2S hosil qilmaydi, ureaza manfiy, lizin dekarboksilaza manfiy
+- Laktozani bijg'itadi, H2S hosil qilmaydi
+! Salmonellalarning ko'pchiligi vodorod sulfidi hosil qiladi, ureaza hosil qilmaydi va lizin dekarboksilazasi musbat
+@ M JAW
+
+? Serologik tasdiqlashda salmonellalarning qaysi antigenlari aniqlanadi?
++ O va H antigenlari
+- A va B toksinlari
+- F va G fermentlari
+- R va S lipidlari
+- M va N oqsillari
+! Serologik tasdiqlashda maxsus agglyutinatsiyalovchi zardoblar bilan O va H antigenlari aniqlanadi
+@ M JAW KAUFF
+
+? Go'shtda salmonellalar topilsa mahsulot bilan nima qilinadi?
++ Odatda sotuvga chiqarilmaydi
+- Pishirmasdan sotuvga chiqariladi
+- Tuzlab, qayta ishlanmay sotiladi
+- E'tiborsiz qoldirilib, sotiladi
+- Muzlatib, yangi nom bilan sotiladi
+! Salmonellalar topilsa mahsulot odatda sotuvga chiqarilmaydi; qaror tekshiruv bayonnomasi asosida qabul qilinadi
+@ M
+
+# 279
+
+? Proteus avlodi qanday bakteriyalardan iborat?
++ Gram-manfiy, fakultativ anaerob tayoqchalar
+- Gram-musbat, majburiy anaerob kokklar
+- Gram-manfiy, spiralsimon spiroxetalar
+- Gram-musbat, sporali anaerob tayoqchalar
+- Gram-manfiy, kapsulali diplokokklar
+! Proteus avlodi gram-manfiy, tayoqcha shaklidagi, fakultativ anaerob bakteriyalardan iborat
+@ M JAW
+
+? Proteusning eng xarakterli o'sish belgisi qaysi?
++ Qattiq muhitda sudralib o'sish
+- Muhitda qora metall yaltirash
+- Qattiq muhitda quruq nuqtalar hosil qilish
+- Suyuq muhit yuzasida parda hosil qilish
+- Muhit yuzasida qizil halqa hosil qilish
+! Proteus qattiq oziqa muhiti yuzasida "sudralish" deb ataladigan xarakterli o'sishni hosil qiladi
+@ M JAW
+
+? Indol sinovi Proteus turlarini qanday ajratadi?
++ P. vulgaris indol-musbat, P. mirabilis indol-manfiy
+- P. vulgaris indol-manfiy, P. mirabilis indol-musbat
+- Ikkala tur ham indol-musbat bo'ladi
+- Ikkala tur ham indol-manfiy bo'ladi
+- Indol sinovi turlarni ajratmaydi
+! Proteus vulgaris odatda indol musbat, Proteus mirabilis esa indol manfiy bo'ladi
+@ M JAW
+
+? Go'shtga Proteus qanday yo'llar bilan tushishi mumkin?
++ Ichak tarkibi, tuproq, suv yoki xodim qo'li orqali
+- Quyosh nuri va yomg'ir tomchilari orqali
+- Elektr toki va tovush to'lqinlari orqali
+- Magnit maydoni va nur orqali
+- Radio to'lqinlar va shamol orqali
+! Go'shtga Proteus ichak tarkibi, tuproq, suv yoki xodimning qo'llari orqali tushishi mumkin
+@ M
+
+? Sovutish rejimi buzilgan go'shtda Proteus nima qiladi?
++ Oqsilni parchalab, hid va rangni o'zgartiradi
+- Oqsilni mustahkamlab, hidni yaxshilaydi
+- Go'shtni steril qilib, saqlab qo'yadi
+- Rangini yorqinlashtirib, yumshatadi
+- Yog'ni to'liq yo'q qilib yuboradi
+! Sovutish buzilgan go'shtda Proteus tezroq ko'payib oqsilni parchalaydi, bu hid, rang va konsistensiyaning o'zgarishiga olib keladi
+@ M
+
+? MakKonki agarida Proteus koloniyalari qanday bo'ladi?
++ Rangsiz yoki och rangli, laktozani bijg'itmaydi
+- Qizil-pushti rangli, laktozani bijg'itadi
+- Qora rangli, mannitni bijg'itadi
+- Sariq rangli, glyukozani bijg'itmaydi
+- Yashil rangli, laktozani bijg'itadi
+! MakKonki agarida laktozani bijg'itmaydigan Proteus koloniyalari rangsiz yoki och rangda bo'ladi
+@ M JAW
+
+? Proteusning asosiy biokimyoviy belgisi qaysi?
++ Ureaza musbat, muhit ishqoriy bo'ladi
+- Ureaza manfiy, muhit kislotali bo'ladi
+- Oksidaza musbat, muhit rangsizlanadi
+- Katalaza manfiy, muhit qorayadi
+- Koagulaza musbat, muhit ivib qoladi
+! Ureaza mochevinani parchalab muhitni ishqoriy holatga keltiradi; bu Proteusning asosiy biokimyoviy belgisi
+@ M JAW
+
+? TSI muhitida Proteus vodorod sulfidi hosil qilsa nima ko'rinadi?
++ Qora cho'kma
+- Sariq zona
+- Yashil halqa
+- Qizil metall yaltirash
+- Ko'k parda
+! Ko'pchilik Proteus turlari vodorod sulfidi hosil qiladi, bu Kligler yoki TSI muhitida qora cho'kma sifatida ko'rinadi
+@ M JAW
+
+? Yarim qattiq muhitda Proteus qanday belgi beradi?
++ Suyuqlik bo'ylab tarqalib, halqa hosil qiladi
+- Ekma chizig'ida cho'kma hosil qiladi
+- Muhitni qizil rangga bo'yab qo'yadi
+- Muhit yuzasida quruq parda hosil qiladi
+- Muhitni butunlay suyultirib yuboradi
+! Yarim qattiq muhitda Proteus suyuqlik bo'ylab tarqalib, xarakterli halqa hosil qiladi
+@ M
+
+? Yolg'iz Proteus topilishi nimani anglatadi?
++ Sanitariya nazoratini kuchaytirish zarurligini
+- Albatta sotuvga yaroqsiz ekanligini bildiradi
+- Ideal sifatli ekanligini bildiradi
+- Tekshiruv takrorlanmasligini bildiradi
+- Mahsulotning steril ekanligini bildiradi
+! Yolg'iz Proteus topilishi mahsulot yaroqsiz degani emas, lekin sanitariya nazoratini kuchaytirishni talab qiladi
+@ M
+
+# 280
+
+? Qo'ldan surtma olishning asosiy maqsadi nima?
++ Qo'ldagi mikroblar miqdori va turini aniqlash
+- Qo'l terisi rangi va tuzilishini aniqlash
+- Qo'l o'lchami va shaklini baholash
+- Xodimning yoshi va jinsini aniqlash
+- Xodimning kasbi va malakasini aniqlash
+! Surtma olishning asosiy maqsadi xodim qo'lidagi mikroblar miqdori va turini aniqlash, natija ish tartibini yaxshilash uchun ishlatiladi
+@ M
+
+? Qo'lda odatda qaysi mikroflora uchraydi?
++ Teri mikroflorasi, jumladan stafilokokklar
+- Ichak mikroflorasi, jumladan salmonellalar
+- Tuproq sporalari, jumladan klostridiylar
+- Suv mikroflorasi, jumladan legionellalar
+- Havo mikroflorasi, jumladan zamburug'lar
+! Qo'lda odatda teri mikroflorasi, jumladan stafilokokklar mavjud bo'ladi
+@ M JAW
+
+? Qo'lda koliformlar topilishi nimani bildiradi?
++ Gigiyena qoidalariga rioya qilinmaganini
+- Teri sog'lom ekanini ko'rsatadi
+- Qo'l yaxshi yuvilganini ko'rsatadi
+- Xodim tajribali ekanini ko'rsatadi
+- Qo'lqop ishlatilganini ko'rsatadi
+! Ichak mikroblari qo'l yuvilmagan yoki tualetdan keyin gigiyena qoidalariga rioya qilinmagan hollarda paydo bo'ladi
+@ M
+
+? Qo'ldan surtma olish uchun nima ishlatiladi?
++ Steril paxta tamponi yoki surtma tayoqchasi
+- Oddiy gazeta qog'ozi yoki salfetka
+- Yuvilmagan latta yoki qo'lqop
+- Quruq mato yoki paxta tolasi
+- Metall qirg'ich yoki pichoq
+! Surtma olish uchun steril paxta tamponi yoki maxsus surtma tayoqchasi ishlatiladi
+@ M
+
+? Surtma uchun tampon nima bilan namlanadi?
++ Steril fiziologik eritma yoki tashish muhiti
+- Spirt yoki konsentrlangan kislota eritmasi
+- Oddiy vodoprovod suvi yoki sovun eritmasi
+- Yog' yoki glitserin aralashmasi
+- Xlorli dezinfeksiya eritmasi aralashmasi
+! Tampon steril fiziologik eritma yoki tashish muhiti bilan namlanadi, ortiqcha suyuqlik idish devoriga siqib olinadi
+@ M
+
+? Qo'lda surtma qaerdan olinadi?
++ Kaftdan, barmoqlar orasi va tirnoq ostidan
+- Bilak ichkarisidan, terisi sog'lom joydan
+- Yelka va bo'yin terisidan
+- Ko'krak va qorin terisidan
+- Oyoq tovonidan
+! Surtma kaftdan olinadi, barmoqlar orasi va tirnoq ostidagi qism ham kiritilishi mumkin
+@ M
+
+? Surtma olishdan oldin xodim tirnoqlari qanday bo'lishi kerak?
++ Qisqa bo'lishi kerak
+- Uzun va bo'yalgan bo'lishi kerak
+- Sun'iy va yelimlangan bo'lishi kerak
+- Uzun va o'tkirlangan bo'lishi kerak
+- Bo'yoq bilan qoplangan bo'lishi kerak
+! Tirnoq ostida mikroblar to'planadi, shuning uchun xodim tirnoqlarini qisqa tutgan bo'lishi kerak
+@ M
+
+? Surtma olingach tamponga nima qilinadi?
++ Darhol steril idishga solinib
+- Ochiq qoldirilib, quritiladi
+- Boshqa tampon bilan aralashtiriladi
+- Stol ustiga qo'yib saqlanadi
+- Qo'l bilan ushlab kutiladi
+! Tampon darhol steril idishga solinadi va mahkam yopiladi; uchi hech qanday yuzaga tegmasligi kerak
+@ M
+
+? Tampon quruqlashib qolsa nima bo'ladi?
++ Tirik mikroblar soni kamayadi
+- Mikroblar soni ikki baravar oshadi
+- Mikroblar sporaga aylanib ko'payadi
+- Natija aniqroq bo'ladi
+- Namuna sterillanadi
+! Tampon quruqlashib qolsa tirik mikroblar soni kamayadi va salbiy natija berishi mumkin
+@ M
+
+? Qo'lda stafilokokklar topilishi nimani ko'rsatadi?
++ Gigiyenaga e'tibor kerakligini
+- Xodim mutlaqo sog'lom ekanini
+- Qo'l mutlaqo steril ekanini
+- Tekshiruv ortiqcha ekanini
+- Mahsulot ideal ekanini
+! Stafilokokklar topilishi xodim gigiyenasiga e'tibor berish kerakligini ko'rsatadi, chunki ular mahsulotga tushib, sifatni pasaytirishi mumkin
+@ M
+
+# 281
+
+? Namuna olish uchun qaysi buyumlar ko'proq tanlanadi?
++ Kesish stollari, pichoqlar, taxtalar
+- Eshik tutqichlari, kalitlar, soatlar, ko'zoynaklar
+- Kiyim ilgichlari, gilamlar, pardalar, mebellar
+- Devor rasmlari, gullar, kitoblar, o'yinchoqlar
+- Telefon, soat, hamyon, qalamlar
+! Kesish stollari, pichoqlar, taxtalar, idishlar, konveyer lentalari va o'lchash asboblari mahsulot bilan ko'p aloqada bo'ladi
+@ M
+
+? Qaysi buyumlar tez-tez tekshiriladi?
++ Aloqasi ko'proq bo'lgan buyumlar
+- Mahsulotdan uzoqda turgan buyumlar
+- Narxi eng arzon bo'lgan buyumlar
+- Eng yangi sotib olingan buyumlar
+- Hajmi eng kichik bo'lgan buyumlar
+! Ko'proq aloqada bo'ladigan buyumlar ko'proq tekshiriladi, chunki ularda ifloslanish xavfi yuqori
+@ M
+
+? Yuzasi tirnalgan yoki zanglagan buyumda nima paydo bo'ladi?
++ Mikroblar yashirinadigan joy paydo bo'ladi
+- Mikroblar tezda o'lib ketadi
+- Buyum o'z-o'zidan sterillanadi
+- Mikroblar sanalmay qoladi
+- Yuza dezinfeksiyaga ehtiyoj qoldirmaydi
+! Yuzasi tirnalgan, qirilgan yoki zanglagan bo'lsa, mikroblar yashirinadigan joy paydo bo'ladi
+@ M
+
+? Surtma olish maydoni nima yordamida belgilanadi?
++ Standart shablon (trafaret) yordamida
+- Ko'z bilan chamalab belgilanib
+- Qo'l kaftini qo'yib belgilanib
+- Lentani tasodifiy tashlab belgilanib
+- Tampon uzunligiga qarab belgilanib
+! Maydon standart shablon, ya'ni trafaret yordamida belgilanadi, shunda natija solishtirish uchun yaroqli bo'ladi
+@ M
+
+? Trafaret maydoni odatda qanday o'lchamda bo'ladi?
++ Masalan, 100 sm²
+- Masalan, 1 mm²
+- Masalan, 10 m²
+- Masalan, 1 km²
+- Masalan, 0,01 sm²
+! Trafaret maydoni odatda belgilangan o'lchamda, masalan 100 sm² bo'ladi
+@ M WHOLBM
+
+? Yuza kichik bo'lsa surtma qanday olinadi?
++ Butun yuza surtilib, yo'llanma xatda qayd etiladi
+- Narsa surtilmay, o'tkazib yuboriladi
+- Chetlari surtilib, natija yoziladi
+- Boshqa buyumdan olinib, almashtiriladi
+- Maydon taxminiy belgilanib, yozilmaydi
+! Yuza kichik bo'lsa butun yuza surtiladi va bu yo'llanma xatda qayd etiladi
+@ M
+
+? Notekis yuzalarda surtma maydoni qanday belgilanadi?
++ Tanlangan maydon o'lchami aniq yoziladi
+- O'lchami yozilmay, taxminiy qoldiriladi
+- O'lcham har gal o'zgartirib turiladi
+- O'lcham boshqa buyumdan ko'chiriladi
+- O'lchamga e'tibor berilmaydi
+! Notekis yuzalarda trafaret o'rniga tanlangan maydon belgilanadi va o'lchami aniq yoziladi, aks holda natijani solishtirib bo'lmaydi
+@ M
+
+? Surtma tamponi qanday namlanadi?
++ Ortiqcha suyuqlikdan siqib olinadi
+- Suvga to'liq botirilib, tomizilib turadi
+- Quruq holda ishlatiladi
+- Spirtga botirilib, yoqiladi
+- Yog'ga botirilib, yog'lanadi
+! Tampon ortiqcha suyuqlikdan siqib olinadi, chunki juda ko'p namlik ham, quruq tampon ham surtma sifatini pasaytiradi
+@ M
+
+? Tampon yuzada qanday harakatlantiriladi?
++ Zich bosilib, bir necha yo'nalishda surtiladi
+- Yengil tegizilib, bir marta o'tkaziladi
+- Havoda ushlab, tegmasdan silkitiladi
+- Yuzadan uzoqda aylantirib turiladi
+- Bosimsiz, bir nuqtada ushlab turiladi
+! Tampon yuzaga zich bosiladi va belgilangan maydon bo'ylab bir necha yo'nalishda surtiladi, shunda mikroblar tamponga to'liq o'tadi
+@ M
+
+? Surtma olingach tamponning uchi nima bo'lmasligi kerak?
++ Boshqa yuzaga tegmasligi kerak
+- Namlangan holda qolishi kerak
+- Qo'l bilan ushlanishi kerak
+- Ochiq havoda turishi kerak
+- Boshqa tamponga tegishi kerak
+! Tamponning uchi boshqa yuzaga tegmasligi kerak, aks holda namuna ifloslanadi
+@ M
