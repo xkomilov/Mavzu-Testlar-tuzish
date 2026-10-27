@@ -43,6 +43,9 @@ SOURCES = {
     "BURRI": "Burri R. (1909) — tush usuli bilan kapsulani aniqlash",
     "NEUF": "Neufeld F. (1902) — kapsula shishish (Quellung) reaksiyasi",
     "WHODW": "WHO. Guidelines for drinking-water quality, 4-nashr, 1-ilova bilan (2017)",
+    "EUCAST": "EUCAST. Disk diffusion method for antimicrobial susceptibility testing — metod bayoni",
+    "CLSI": "CLSI. M02 — Performance Standards for Antimicrobial Disk Susceptibility Tests",
+    "WHOAMR": "WHO. Antimicrobial resistance — Fact sheet (WHO, yangilangan versiya)",
     "LENS": "Lens on Leeuwenhoek (lensonleeuwenhoek.net) — Visibility",
 }
 

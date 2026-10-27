@@ -1,0 +1,272 @@
+# 035
+? Fagning mikrob hujayrasiga ta'siri qanday uch shaklda tahlil qilinadi?
++ Produktiv, abortiv va integrativ
+- Aerob, anaerob va fakultativ
+- Sporali, kapsulali va xivchinli
+- Bakteritsid, fungitsid va virusotsid
+- Transformatsion, konyugativ va sporulyativ
+! Fagning ta'siri produktiv, abortiv va integrativ ko'rinishlarda tahlil qilinadi
+@ M JAW
+
+? Adsorbsiya bosqichida fag bakteriyaning nimasiga yopishadi?
++ Hujayra yuzasidagi retseptorlarga
+- Hujayra ichidagi nukleoidga
+- Ribosomalarning 30S birligiga
+- Sitoplazmadagi zaxira donalariga
+- Spora yadrosidagi dipikolinatga
+! Adsorbsiya bosqichida fag dumi bakteriya yuzasidagi retseptorlarga yopishadi
+@ M JAW
+
+? Fag bakteriya hujayrasiga adsorbsiyadan keyin nimani kiritadi?
++ Nuklein kislotasini, oqsil qobig'i tashqarida qoladi
+- Oqsil qobig'ini, nuklein kislotasi tashqarida qoladi
+- Dum apparati va kapsid qobig'ini to'liq
+- Faqat dum ipchalari va plastinkasini
+- Hujayra devori parchalarini
+! Adsorbsiyadan keyin fag nuklein kislotasini bakteriya ichiga kiritadi, oqsil qobig'i ko'pincha tashqarida qoladi
+@ M JAW
+
+? Produktiv ko'payishning yakuniy natijasi qanday bo'ladi?
++ Hujayra lizisga uchrab, yangi fag zarralari chiqadi
+- Hujayra sporaga aylanib, fag saqlanadi
+- Fag genomi xromosomaga birikib, yashiringan holda qoladi
+- Fag hujayrada yo'qolib, hujayra zarar ko'rmaydi
+- Hujayra kapsula hosil qilib, fagdan himoyalanadi
+! Produktiv ko'payishda fag oqsillari sintez qilinadi, yangi fag zarralari yig'iladi va hujayra lizisga uchrab, fag tashqariga chiqadi
+@ M JAW
+
+? Abortiv ko'rinishda nima yuz beradi?
++ Hujayraga kiradi, ammo to'liq ko'payish boshlanmaydi, lizis bo'lmaydi
+- Hujayraga kiradi, ko'payadi va hujayrani darhol lizisga uchratadi
+- Genomi xromosomaga birikib, profagga aylanib qoladi
+- Hujayraga kirmasdan, muhitning o'zida mustaqil ko'payadi
+- Hujayra devorini erituvchi toksin ishlab chiqarib, lizis qiladi
+! Abortiv ko'rinishda fag hujayraga kirsa ham to'liq ko'payish boshlanmaydi, hujayra lizisga uchramaydi va fagning yangi avlodi hosil bo'lmaydi
+@ M JAW
+
+? Mo'tadil (temperat) fagning bakteriya xromosomasiga birikkan holati qanday ataladi?
++ Profag (lizogeniya)
+- Virion (adsorbsiya)
+- Kapsid (konversiya)
+- Plazmida (konyugatsiya)
+- Spora (germinatsiya)
+! Integrativ ko'rinishda mo'tadil fag bakteriya xromosomasiga birikib profag holatida qoladi; bu holat lizogeniya deb ataladi
+@ M BROCK
+
+? Profag bakteriyaga yangi xususiyatlar berishi nima deb ataladi?
++ Fagli konversiya
+- Fagli transformatsiya
+- Fagli adsorbsiya
+- Fagli aglyutinatsiya
+- Fagli presipitatsiya
+! Profag bakteriyaga yangi xususiyatlar berishi mumkin; bu hodisa fagli konversiya deyiladi, masalan toksin genlarining fag orqali o'tishi
+@ M BROCK
+
+? Fagning bakteriya xromosomasi bir qismini boshqa bakteriyaga yetkazishi nima deb ataladi?
++ Transduksiya
+- Konyugatsiya
+- Transformatsiya
+- Replikatsiya
+- Sporulyatsiya
+! Fag bakteriya xromosomasining bir qismini olib, boshqa bakteriyaga yetkazishi transduksiya deyiladi
+@ M BROCK
+
+? Bakteriyalarning fagga qarshi himoya mexanizmiga qaysi biri kiradi?
++ CRISPR tizimi orqali fag genomini tanib olib, parchalash
+- Hujayra devori sintezi uchun fag genomidan foydalanish
+- Yuzada fag uchun qo'shimcha retseptorlar hosil qilish
+- Ribosomada fag oqsillarini ko'paytirish
+- Kapsula ichiga yangi fag zarralarini yig'ish
+! Bakteriyalar retseptorlarni o'zgartirishi, DNKni parchalovchi fermentlar ishlab chiqarishi yoki CRISPR kabi tizimlar orqali fag genomini tanib olib parchalashi mumkin
+@ M BROCK
+
+? Qattiq muhitda fag lizisi natijasida nima hosil bo'ladi?
++ Pilakcha (fag dog'i)
+- Gaz pufakchasi
+- Qora cho'kma
+- Rangli pigment halqasi
+- Spora to'plami
+! Lizis bo'lgan hujayralar suyuq muhitni tiniqlashtiradi, qattiq muhitda esa pilakcha (fag dog'i) hosil bo'ladi
+@ M
+
+# 036
+? Fag preparatlarining faolligi nima orqali tekshiriladi?
++ Titrlash orqali
+- Gram bo'yash orqali
+- Qaynatish orqali
+- Quritish orqali
+- Filtrlash orqali
+! Har bir partiya faolligi titrlash orqali tekshiriladi, chunki vaqt o'tishi bilan fag miqdori kamayishi mumkin
+@ M
+
+? Fagoterapiya nima?
++ Yuqumli kasalliklarni fag yordamida davolash usuli
+- Yuqumli kasalliklarni fag yordamida aniqlash usuli
+- Yuqumli kasalliklarning oldini fag yordamida olish usuli
+- Bakteriyalarni fag yordamida bo'yash usuli
+- Fagni oziqa muhitida o'stirish usuli
+! Fagoterapiya — yuqumli kasalliklarni fag yordamida davolash usuli
+@ M
+
+? Fagoterapiya qaysi holatlarda ayniqsa istiqbolli deb qaraladi?
++ Antibiotiklarga chidamli infeksiyalarda
+- Antibiotiklarga sezgir virusli infeksiyalarda
+- Faqat sog'lom odamlarda profilaktikada
+- Zamburug'li terining yuzaki kasalliklarida
+- Mexanik jarohatlarning og'riq sindromida
+! Fagoterapiya ayniqsa antibiotiklarga chidamli infeksiyalarda istiqbolli deb qaraladi, lekin klinik qo'llashdan oldin sinovdan o'tkaziladi
+@ M
+
+? Fagoprofilaktika qachon qo'llanadi?
++ Epidemik o'choqdagi odamlarda kasallik oldini olish uchun
+- Kasallik og'ir kechganda bemorni davolash va tuzatish uchun
+- Kasallik tashxisini fag ajratib qo'yish uchun xizmat qiladi
+- Bakteriyalarni laboratoriyada fagotiplash uchun xizmat qiladi
+- Suv namunasini sterilizatsiya qilish uchun xizmat qiladi
+! Fagoprofilaktika epidemik o'choqdagi odamlar orasida ayrim kasalliklar, masalan dizenteriya va vabo, oldini olish uchun qo'llanadi
+@ M
+
+? Fagodiagnostikada nima aniqlanadi?
++ Ajratilgan fag orqali organizmda shu fagning mikrobi borligi
+- Bemor qonidagi antitelolar titri orqali kasallik davri aniqligi
+- Qaynash harorati orqali bakteriya turining nomi aniqligi
+- Oziqa muhitining pH i orqali mikrob turining nomi aniqligi
+- Bakteriya sporasining joylashuvi orqali kasallik turi aniqligi
+! Fagodiagnostikada kasal organizmdan, masalan najasdan, fag ajratilsa, bu organizmda shu fagning mikrobi borligini ko'rsatadi
+@ M
+
+? Fagotiplash nimani aniqlaydi?
++ Bir turdagi bakteriya shtammlarini bir-biridan ajratishni
+- Bakteriyaning kislorodga bo'lgan talabini va nafas turini
+- Bakteriyaning antibiotikka nisbatan MIK qiymatini aniqlashni
+- Bakteriya sporasining issiqlikka chidamliligini va nobud bo'lishini
+- Bakteriya kapsulasining kimyoviy tarkibini va qalinligini aniqlashni
+! Fagotiplash bir turdagi bakteriyaning fagotipini aniqlab, shtammlarni bir-biridan ajratadi; stafilokokk misolida kasalxona infeksiyalari manbasini aniqlashda qo'llanadi
+@ M JAW
+
+? Kolifag sanitar nazoratda nima uchun indikator sifatida ishlatilishi mumkin?
++ Suv va tuproq fekal ifloslanganini bildiradi
+- Suvdagi og'ir metall miqdori oshganini bildiradi
+- Tuproqdagi azot miqdori kamayganini bildiradi
+- Havodagi chang zarralari soni ko'payganini bildiradi
+- Oziqa muhitidagi pH qiymati o'zgarganini bildiradi
+! Ichak tayoqchasi fagi (kolifag) suv va tuproqning fekal ifloslanishini ko'rsatuvchi indikator sifatida ishlatilishi mumkin
+@ M
+
+? Fag preparatlarining xavfsizligi bo'yicha qaysi talab to'g'ri?
++ Endotoksin yoki begona moddalar bo'lmasligi kerak
+- Endotoksinning ma'lum miqdori bo'lishi ruxsat etiladi
+- Har bir partiyada tekshirilmaydi, bir marta sinaladi
+- Sterillik tekshiruvi umuman talab etilmaydi, sinovsiz beriladi
+- Faqat tashqi ko'rinishi va rangi baholanadi
+! Fag tarkibida endotoksin yoki boshqa begona moddalar bo'lmasligi kerak, xavfsizlik har bir ishlab chiqarish partiyasi uchun tekshiriladi
+@ M
+
+? Fag bilan davolashning cheklovlaridan biri nima?
++ Bakteriyalarda fagga chidamlilik rivojlanishi
+- Inson hujayralarining parchalanishi
+- Antibiotiklar bilan bir vaqtda ishlatib bo'lmasligi
+- Faqat zamburug'larga ta'sir qilishi
+- Sovuqda doimo faollashib ketishi
+! Bakteriya retseptorini o'zgartirsa, fag unga yopisha olmaydi; shu sababli bir necha fagdan iborat aralashmalar istiqbolli hisoblanadi
+@ M
+
+? Fag aniq mikrob turi aniqlanmasdan tanlansa, nima bo'lishi mumkin?
++ Davolash samarasiz bo'ladi
+- Davolash samaradorligi ikki baravar oshadi
+- Boshqa barcha bakteriyalarni ham o'ldiradi
+- Inson hujayralariga yopishib oladi
+- Antibiotikka aylanib qoladi
+! Fag faqat ma'lum bakteriyalarga ta'sir qilgani uchun aniq mikrob turi aniqlanishi kerak; noto'g'ri fag tanlansa, davolash samarasiz bo'ladi
+@ M
+
+# 037
+? Antibiotiklar kelib chiqishiga ko'ra qanday turlarga bo'linadi?
++ Tabiiy, yarim sintetik va sintetik
+- Tor, o'rta va keng spektrli
+- Bakteritsid, bakteriostatik va fungitsid
+- Gram-musbat, gram-manfiy va kislotaga chidamli
+- Oraliq, sezgir va chidamli
+! Antibiotiklar kelib chiqishiga ko'ra tabiiy, yarim sintetik va sintetik turlarga bo'linadi
+@ M JAW
+
+? Tabiiy antibiotiklar asosan qaysi mikroorganizmlar tomonidan hosil qilinadi?
++ Zamburug'lar va aktinomitsetlar
+- Viruslar va rikketsiyalar
+- Sodda jonivorlar va gelmintlar
+- Mikoplazmalar va xlamidiyalar
+- Spiroxetalar va leptospiralar
+! Tabiiy antibiotiklar mikroorganizmlar, asosan zamburug'lar va aktinomitsetlar tomonidan hosil qilinadi
+@ M JAW
+
+? Penitsillin, sefalosporin va vankomitsin hujayraning qaysi jarayonini buzadi?
++ Devor peptidoglikanining sintezini
+- Ribosomadagi oqsil sintezini
+- DNK-giraza ishini va replikatsiyani
+- Folat sintezini
+- Tashqi membrana fosfolipidlarini
+! Penitsillin, sefalosporin va vankomitsin hujayra devorining peptidoglikan sintezini buzadi, natijada hujayra lizisga uchraydi
+@ M JAW
+
+? Tetratsiklinlar va aminoglikozidlar bakteriya ribosomasining qaysi birligiga ta'sir qiladi?
++ 30S birligiga
+- 50S birligiga
+- 40S birligiga
+- 60S birligiga
+- 80S birligiga
+! Tetratsiklinlar 30S birlikka, aminoglikozidlar ham 30S birlikka bog'lanadi; makrolidlar va xloramfenikol esa 50S birlikka ta'sir qiladi
+@ M JAW
+
+? Makrolidlar va xloramfenikol ribosomaning qaysi birligiga ta'sir qiladi?
++ 50S birligiga
+- 30S birligiga
+- 40S birligiga
+- 60S birligiga
+- 80S birligiga
+! Makrolidlar va xloramfenikol bakteriya ribosomasining 50S birligiga ta'sir qiladi
+@ M JAW
+
+? Ftorxinolonlar (siprofloksatsin) hujayrada qaysi fermentga ta'sir qilib, replikatsiyani to'xtatadi?
++ DNK-giraza va topoizomerazaga
+- RNK-polimeraza va transkriptazaga
+- Transpeptidaza va karboksipeptidazaga
+- Dihidrofolatreduktaza va sintazaga
+- Katalaza va peroksidazaga
+! Ftorxinolonlar DNK-giraza va topoizomerazaga ta'sir qilib, DNK replikatsiyasini to'xtatadi
+@ M JAW
+
+? Rifampitsin qaysi fermentni bloklaydi?
++ RNK-polimerazani
+- DNK-girazani
+- Transpeptidazani
+- Dihidropteroat-sintazani
+- Beta-laktamazani
+! Rifampitsin bakteriyaning RNK-polimerazasini bloklaydi
+@ M JAW
+
+? Sulfanilamidlar bakteriyalarga nima uchun tanlab ta'sir qiladi?
++ Bakteriyalar folatni o'zi sintez qiladi, inson esa oziqadan oladi
+- Bakteriyalar folatni oziqadan oladi, inson o'zi sintez qiladi
+- Bakteriyalarda ribosomalar 80S, insonda esa 70S
+- Bakteriyalarda mitoxondriya bor, insonda yo'q
+- Bakteriyalar kapsula hosil qiladi, insonda yo'q
+! Sulfanilamidlar folat sintezini buzadi; bakteriyalar folatni o'zi sintez qiladi, inson esa uni oziqadan oladi, shuning uchun ular tanlab ta'sir qiladi
+@ M JAW
+
+? Polimiksinlar mikrob hujayrasining qaysi qismiga ta'sir qiladi?
++ Gram-manfiy bakteriyalarning tashqi membranasiga
+- Gram-musbat bakteriyalarning teyxoy kislotalariga
+- Ribosomaning 30S birligiga
+- DNK-giraza fermentiga
+- Foliy kislotasi sintezi fermentiga
+! Polimiksinlar gram-manfiy bakteriyalarning tashqi membranasini buzadi va hujayra tarkibining chiqib ketishiga olib keladi
+@ M JAW
+
+? Minimal ingibitor konsentratsiya (MIK) nima?
++ Bakteriya o'sishini to'xtatish uchun zarur bo'lgan eng kam konsentratsiya
+- Bakteriyani butunlay o'ldirish uchun zarur bo'lgan eng yuqori konsentratsiya
+- Antibiotikning qonda eng yuqori konsentratsiyasi
+- Antibiotikning organizmdan chiqarilish tezligi
+- Antibiotik disk atrofidagi o'smaslik zonasi diametri
+! MIK — bakteriya o'sishini to'xtatish uchun zarur bo'lgan eng kam antibiotik konsentratsiyasi
+@ M JAW
