@@ -1,0 +1,459 @@
+# 118
+
+? Ichak infeksiyalarining asosiy yuqish yo'li qaysi?
++ Fekal-oral yo'l
+- Havo-tomchi yo'li
+- Transmissiv yo'l
+- Parenteral yo'l
+- Vertikal yo'l
+! Ichak infeksiyalari asosan fekal-oral yo'l bilan yuqadi: mikroblar najas orqali chiqib, og'iz orqali yangi odamga o'tadi
+@ M JAW WHODW
+
+? Salmonella avlodi vakillari qanday mikroblar?
++ Gram-manfiy, harakatchan tayoqchalar
+- Gram-musbat, harakatsiz kokklar
+- Gram-manfiy, harakatsiz kokklar
+- Gram-musbat, sporali tayoqchalar
+- Gram-manfiy, egri spiralsimon shakllar
+! Salmonellalar Gram-manfiy, harakatchan tayoqchalar bo'lib, odam va hayvon ichagida uchraydi
+@ M JAW
+
+? Shigella avlodining harakatchanligi qanday?
++ Harakatsiz, xivchinlari yo'q
+- Peritrix xivchinlari bilan harakatchan
+- Bitta qutbli xivchin bilan harakatchan
+- Ikkala qutbda to'plam xivchinli, harakatchan
+- Endospora hosil qiluvchi, harakatsiz shakl
+! Shigellalar harakatsiz bakteriyalar bo'lib, dizenteriya (shigelloz) qo'zg'atadi
+@ M JAW
+
+? Shigellaning tabiiy rezervuari qaysi?
++ Asosan odam organizmi
+- Asosan yovvoyi qushlar organizmi
+- Asosan tuproq va chiriyotgan o'simliklar
+- Asosan kemiruvchilar va hasharotlar
+- Asosan sut beruvchi uy hayvonlari
+! Shigellalarning tabiiy rezervuari asosan odam bo'lib, kasallik odamdan odamga tarqaladi
+@ M JAW
+
+? Shigellalar ichakning qaysi qismida ko'payadi?
++ Yo'g'on ichak shilliq pardasida
+- Oshqozon shilliq pardasida, kislotali muhitda
+- O'n ikki barmoqli ichak bo'shlig'ida
+- Jigar ichki o't yo'llarida, safro ichida
+- Oshqozon osti bezi yo'llarida, bez ichida
+! Shigellalar yo'g'on ichak shilliq pardasida ko'payadi va kam miqdorda ham kasallik qo'zg'atishi mumkin
+@ M JAW
+
+? Ichak infeksiyalari qaysi omillar orqali tarqalishi mumkin?
++ Ifloslangan suv, yuvilmagan mevalar, xom go'sht
+- Hasharot chaqishi, tuproqli kiyim, qon quyish
+- Havo changi, ochiq deraza, quyosh nuri, shamol
+- Jinsiy aloqa, ona suti, qon quyish, in'ektsiya
+- Quruq non, qaynatilgan suv, issiq sho'rva, choy
+! Yuqish omillari: ichimlik suvi, yuvilmagan sabzavot va mevalar, pishmagan go'sht va sut mahsulotlari
+@ M JAW WHODW
+
+? Ichak infeksiyalarida najasni to'g'ri yo'q qilish va qo'l yuvish nimaga yordam beradi?
++ Fekal-oral yuqishning oldini olishga
+- Hasharot orqali yuqishning oldini olishga
+- Havo-tomchi orqali yuqishning oldini olishga
+- Qon orqali yuqishning oldini olishga
+- Jinsiy yo'l orqali yuqishning oldini olishga
+! Najasni to'g'ri yo'q qilish va hojatxonadan keyin qo'l yuvish fekal-oral yo'l bilan yuqishni to'sadi
+@ M WHODW
+
+? Ichak infeksiyalarining odatiy klinik belgilari qaysilar?
++ Isitma, qorin og'rig'i, ko'ngil aynishi, ichburug'
+- Yo'tal, burun bitishi, tomoq og'rig'i, isitma
+- Teri toshmasi, bo'g'im shishi, ko'z qizarishi
+- Sariqlik, qichishish, siydik qorayishi
+- Bosh aylanishi, quloq shang'illashi, ko'rish buzilishi
+! Ko'pchilik bemorlarda isitma, qorin og'rig'i, ko'ngil aynishi va ichburug' kuzatiladi
+@ M JAW
+
+? Ichburug'ning xarakteri (suvli yoki qon-shilimshiqli) nimaga yordam beradi?
++ Qo'zg'atuvchini taxmin qilishga
+- Bemor yoshini aniqlashga
+- Qon guruhini aniqlashga
+- Tashqi muhit haroratini baholashga
+- Antibiotik dozasini belgilashga
+! Ichburug'ning suvli yoki qon-shilimshiqli bo'lishi qo'zg'atuvchini taxmin qilishga yordam beradi
+@ M JAW
+
+? Ichak infeksiyalari patogenezida qaysi bosqichlar bor?
++ Yopishish, kirish va toksin ishlab chiqarish
+- Spora hosil qilish va tinim holatiga o'tish
+- Xivchin yo'qotish va kapsula hosil qilish
+- Fagotsitozdan qochish va qonda ko'payish
+- Bakteriofag bilan zararlanish va erish
+! Patogenez qo'zg'atuvchining shilliq pardaga yopishishi, kirishi va toksin ishlab chiqarishi bilan bog'liq
+@ M JAW
+
+# 119
+
+? Ichak tayoqchasi Gram usulida qanday bo'yaladi?
++ Pushti-qizil rangda (Gram-manfiy)
+- Binafsha rangda (Gram-musbat)
+- Ko'k rangda (kislotaga chidamli)
+- Rangsiz holda (bo'yalmaydi)
+- Yashil rangda (spora bo'yog'i bilan)
+! Ichak tayoqchasi Gram-manfiy, kalta tayoqcha bo'lib, pushti-qizil rangda ko'rinadi
+@ M JAW
+
+? Ichak tayoqchasi harakat va spora hosil qilishiga ko'ra qanday?
++ Ko'pchiligi harakatchan, sporasiz
+- Hammasi harakatsiz, sporali
+- Ko'pchiligi harakatsiz, sporasiz
+- Hammasi harakatchan, sporali
+- Ko'pchiligi harakatchan, sporali
+! Ko'pchilik shtammlar peritrix xivchinlari yordamida harakatlanadi, sporasiz bo'ladi
+@ M JAW
+
+? Ichak tayoqchasi uchun qulay kultural sharoit qaysi?
++ Aerob yoki fakultativ anaerob, 37 °C, 18–24 soat
+- Qat'iy anaerob sharoit, 55 °C da 3–5 kun davomida
+- Mikroaerofil sharoit, 22 °C da bir hafta davomida
+- Kislorodsiz muhit, 4 °C da 10 kun davomida
+- Yuqori CO2 muhiti, 42 °C da 30 daqiqa davomida
+! Ichak tayoqchasi oddiy muhitlarda aerob va fakultativ anaerob sharoitda o'sadi, odatda 37 °C da 18–24 soatda koloniya hosil qiladi
+@ M JAW
+
+? MakKonki agarida laktozani bijg'ituvchi koloniyalar qanday rang oladi?
++ Qizil-pushti rangli koloniya
+- Rangsiz, shaffof rangli koloniya
+- Qora, yaltiroq rangli koloniya
+- Yashil, quruq rangli koloniya
+- Sariq, xira rangli koloniya
+! MakKonki agarida laktoza bijg'ituvchi koloniyalar qizil-pushti rangga kiradi
+@ M JAW
+
+? Endo agarida E. coli koloniyalari qanday ko'rinadi?
++ Qizil, metall yaltiroqli koloniya
+- Rangsiz, shaffof va yarim yumshoq koloniya
+- Qora, yaltiroq va qattiq koloniya
+- Yashil, quruq va tangachali koloniya
+- Sariq, xira va g'adir-budir koloniya
+! Endo agarda laktoza bijg'ituvchi koloniyalar qizil rangda va metall yaltiroqlikka ega bo'ladi
+@ M JAW
+
+? O157:H7 shtammining qaysi biokimyoviy xususiyati bor?
++ Sorbitolni parchalamaydi
+- Glyukozani parchalamaydi
+- Gaz hosil qilmaydi
+- Harakatsiz bo'ladi
+- Oksidaza-musbat bo'ladi
+! O157:H7 sorbitolni parchalamaydi, shu sababli sorbitol saqlovchi muhitlarda aniqlanadi
+@ M JAW
+
+? Ichak tayoqchasi glyukozadan nima hosil qiladi?
++ Kislota va gaz
+- Kislota hosil qiladi, gaz hosil qilmaydi
+- Gaz hosil qiladi, kislota hosil qilmaydi
+- Spirt va ureaza ajratadi
+- Vodorod sulfid ajratadi
+! Ichak tayoqchasi glyukozani parchalab kislota va gaz hosil qiladi
+@ M JAW
+
+? E. coli IMViC testlarida qanday natija beradi?
++ Indol (+), metil-red (+), Foges–Proskauer (–), sitrat (–)
+- Indol (–), metil-red (–), Foges–Proskauer (+), sitrat (+)
+- Indol (+), metil-red (–), Foges–Proskauer (+), sitrat (+)
+- Indol (–), metil-red (+), Foges–Proskauer (–), sitrat (+)
+- Indol (+), metil-red (+), Foges–Proskauer (+), sitrat (–)
+! E. coli IMViC bo'yicha indol (+), metil-red (+), Foges–Proskauer (–), sitrat (–) natija beradi
+@ M JAW
+
+? Suv yoki oziq-ovqatda ichak tayoqchasining mavjudligi nimani bildiradi?
++ Yaqinda fekal ifloslanish bo'lganini
+- Suvning to'liq steril ekanini
+- Oziq-ovqatning pasterizatsiya qilinganini
+- Mahsulot tarkibida vitamin ko'pligini
+- Suvda xlor miqdori oshganini
+! Ichak tayoqchasi ichak mikroflorasining vakili bo'lgani uchun uning topilishi yaqinda fekal aralashuvdan darak beradi
+@ M WHODW
+
+? Ichak tayoqchasining pili va kapsulasi haqida qaysi gap to'g'ri?
++ Ayrim shtammlarda kapsula va pili bo'ladi
+- Hamma shtammlarda qalin kapsula bo'ladi
+- Birorta shtammda ham pili bo'lmaydi
+- Sporali shtammlardagina kapsula bo'ladi
+- Harakatsiz shtammlardagina pili uchraydi
+! Ko'pchilik shtammlar odatda kapsulasiz, ammo ayrim shtammlarda kapsula va pili uchraydi
+@ M JAW
+
+# 120
+
+? Endo agarining asosini nima tashkil etadi?
++ Pepton, azot manbai sifatida
+- Glyukoza, kislota manbai sifatida
+- Qon, o'sish omili sifatida
+- Safro tuzi, selektiv omil sifatida
+- Tuxum sarig'i, lipid manbai sifatida
+! Endo agarning asosini pepton tashkil etadi, u bakteriyalar uchun azot manbai va oqsil mahsulotlarini beradi
+@ M JAW
+
+? Endo agaridagi asosiy uglevod qaysi?
++ Laktoza
+- Glyukoza
+- Saxaroza
+- Maltoza
+- Mannit
+! Muhitda laktoza asosiy uglevod bo'lib, laktoza bijg'itish testi uchun substrat vazifasini bajaradi
+@ M JAW
+
+? Endo agarida kaliy fosfat qanday vazifani bajaradi?
++ pH barqarorligini ta'minlaydi
+- Muhitni qizil rangga bo'yaydi
+- Muhitni qattiq qiladi
+- Azot manbai bo'ladi
+- Bakteriyalarni o'ldiradi
+! Kaliy fosfat muhitda pH barqarorligini ta'minlaydi
+@ M JAW
+
+? Endo agarida natriy sulfit va asos fuksin qanday vazifani bajaradi?
++ Selektiv va rangli indikator vazifasini
+- Muhitning qattiq asosi bo'lish vazifasini
+- Azot va oqsil manbai bo'lish vazifasini
+- pH ni ushlab turuvchi bufer vazifasini
+- Asosiy uglevod manbai bo'lish vazifasini
+! Natriy sulfit va asos fuksin muhitning selektivlik hamda rangli indikator xususiyatini belgilaydi
+@ M JAW
+
+? Endo agarining qattiq asosini nima hosil qiladi?
++ Agar
+- Pepton
+- Laktoza
+- Fuksin
+- Kaliy fosfat
+! Agar muhitning qattiq asosini tashkil qiladi
+@ M JAW
+
+? Natriy sulfit asos fuksinga qanday ta'sir qiladi?
++ Fuksinni rangsizlantiradi
+- Fuksinni qizil rangga bo'yaydi
+- Fuksinni qora rangga bo'yaydi
+- Fuksinni cho'ktirib tashlaydi
+- Fuksinni gazga aylantiradi
+! Asos fuksin dastlab rangli bo'lsa-da, natriy sulfit uni rangsizlantiradi, shuning uchun muhit och rangli bo'ladi
+@ M JAW
+
+? Laktoza bijg'ituvchi bakteriyalar Endo agarida koloniyani qanday bo'yaydi?
++ Asetaldegid hosil qilib, fuksinni qayta ajratadi
+- Gaz hosil qilib, fuksinni parchalaydi
+- Indol hosil qilib, fuksinni cho'ktiradi
+- Ureaza ajratib, fuksinni qora qiladi
+- Vodorod sulfid hosil qilib, fuksinni yo'qotadi
+! Laktoza bijg'ishi asetaldegid hosil qiladi; u sulfit bilan bog'lanib, fuksinni qayta ajratadi va koloniya qizil-pushti bo'ladi
+@ M JAW
+
+? Endo agar tayyorlashda qaysi xato muhitni buzishi mumkin?
++ Haddan tashqari qizdirish
+- Distillangan suvdan foydalanish
+- Qo'llanmaga rioya qilish
+- Aseptik sharoitda quyish
+- Nazorat shtammi bilan tekshirish
+! Quruq kukun distillangan suvda eritiladi, lekin haddan tashqari qizdirish muhitni buzadi
+@ M JAW
+
+? Tayyor Endo agar Petri idishlariga quyilgandan keyin nima qilinadi?
++ Nazorat shtammlari bilan tekshiriladi
+- Darhol bemor namunasi bilan almashtiriladi
+- Quritib, kukun holiga keltiriladi
+- Qaynatib, qayta quyiladi
+- Formalin bilan sterillanadi
+! Tayyor muhit qotgandan keyin nazorat shtammlari bilan tekshiriladi, bu muhitning yaroqliligini ta'minlaydi
+@ M
+
+? Endo agarida metall yaltiroq koloniyalar nimani bildiradi?
++ E. coli uchun belgi, qo'shimcha test kerak
+- Shigellaga xos belgi, qo'shimcha test shart emas
+- Salmonellaga xos belgi, qo'shimcha test shart emas
+- Zamburug'ga xos belgi, qo'shimcha test shart emas
+- Stafilokokkka xos belgi, qo'shimcha test shart emas
+! Qizil rangdagi metall yaltiroq koloniya ichak tayoqchasi uchun belgi, lekin uni boshqa turlardan ajratish uchun qo'shimcha testlar kerak
+@ M JAW
+
+# 121
+
+? Enteropatogen E. coli (EPEC) ichak epiteliysida qanday lezyon hosil qiladi?
++ Yopishish va yo'qotish (attaching and effacing)
+- Epiteliy hujayralarini eritib, teshik hosil qilish
+- Qon tomirlarini tiqib, qon ketishini ko'paytirish
+- Ichak devorini nekrozga uchratib, teshish
+- Jigar to'qimasiga o'tib, abssess hosil qilish
+! EPEC epiteliyga yopishib mikrovilli strukturasini buzadi (attaching and effacing), chaqaloqlarda suvli ichburug' beradi
+@ M JAW
+
+? EPEC ko'proq qaysi yoshdagi bolalarda ichburug' chaqiradi?
++ Chaqaloqlar va kichik bolalarda
+- Maktab yoshidagi sog'lom bolalarda
+- O'smirlar va yosh kattalarda
+- Keksa yoshdagi odamlarda
+- Homilador ayollarda va ularning sheriklarida
+! EPEC ayniqsa chaqaloqlar va kichik bolalarda suvli, uzoq davom etadigan ichburug'ni keltirib chiqaradi
+@ M JAW
+
+? ETEC qaysi toksinlarni ishlab chiqaradi?
++ LT (issiqlikka sezgir) va ST (barqaror)
+- Shiga toksin va eksfoliativ toksin
+- Tetanospazmin va botulinik toksin
+- Difteriya toksini va pertussis toksini
+- Alfa-toksin va leykotsidin
+! ETEC LT (issiqlikka sezgir) va ST (issiqlikka barqaror) enterotoksinlarini ishlab chiqaradi
+@ M JAW
+
+? ETEC infeksiyasi qaysi holatda ko'p uchraydi?
++ Sayohatchilar ichburug'ida, issiq iqlimda
+- Sovuq iqlimli mintaqalarda, qishda
+- Yangi tug'ilgan chaqaloqlarda, faqat shu yoshda
+- Qon quyish tufayli, boshqa yo'l bilan emas
+- Jinsiy yo'l bilan yuqqanda, boshqa yo'l bilan emas
+! ETEC issiq iqlimli mintaqalarda va sayohatchilarda ko'p uchraydigan ichburug'ning asosiy sababchisidir
+@ M JAW WHODW
+
+? ETEC toksinlari ichak epiteliysiga qanday ta'sir qiladi?
++ Suv va elektrolitlar chiqishini kuchaytiradi
+- Suv va elektrolitlar so'rilishini kuchaytiradi
+- Epiteliyni yo'q qilib, qon ketishini chaqiradi
+- Oqsil sintezini to'xtatib, nekroz beradi
+- Nerv o'tkazuvchanligini to'xtatib, falaj beradi
+! LT va ST enterotoksinlari ichak epiteliysida suv va elektrolitlar chiqishini kuchaytiradi, natijada suvli ichburug' bo'ladi
+@ M JAW
+
+? Enteroinvaziv E. coli (EIEC) qaysi infeksiyaga o'xshash kasallik beradi?
++ Dizenteriya (shigelloz) kasalligiga
+- Vabo (kolera) kasalligiga, suvsimon ich ketish bilan
+- Qorin tifi kasalligiga, uzoq davom etuvchi isitma bilan
+- Botulizm kasalligiga, nerv tizimi falaji bilan
+- Qoqshol kasalligiga, mushaklar tortishishi bilan
+! EIEC shigellalarga o'xshash mexanizm bilan epiteliyga kirib ko'payadi va dizenteriyaga o'xshash qon-shilimshiqli ichburug' beradi
+@ M JAW
+
+? Enteroagregativ E. coli (EAEC) epiteliyga qanday yopishadi?
++ G'isht taxlamiga o'xshash agregatlar shaklida
+- Yakka-yakka, xivchinlari yordamida
+- Zanjir hosil qilib, kapsulasi yordamida
+- Spora shaklida, mustahkam po'sti yordamida
+- Epiteliy ichiga kirib, hujayrani eritib
+! EAEC ichak shilliq pardasiga g'isht taxlamiga o'xshash agregatlar shaklida yopishadi va uzoq davom etadigan ichburug' chaqiradi
+@ M JAW
+
+? EHEC (O157:H7) qaysi toksinni ishlab chiqaradi?
++ Shiga toksinni (Stx)
+- Tetanospazminni
+- Eksfoliativ toksinni
+- Kolera toksinni
+- Pertussis toksinni
+! O157:H7 Shiga toksin (Stx) ishlab chiqaradi, u hujayralarda oqsil sintezini to'xtatib to'qima nekrozini chaqiradi
+@ M JAW WHODW
+
+? EHEC infeksiyasi qanday klinik ko'rinishda namoyon bo'ladi?
++ Qonli ichburug' va kuchli qorin og'rig'i, isitma kam
+- Suvsimon ich ketish va yuqori isitma, qon yo'q
+- Yo'tal va nafas qisilishi, ko'krak og'rig'i
+- Teri toshmasi va bo'g'im og'rig'i, ich ketish yo'q
+- Sariqlik va jigar og'rig'i, ich ketish yo'q
+! EHEC infeksiyasi qonli ichburug' va kuchli qorin og'rig'i bilan namoyon bo'ladi, ko'pchilikda isitma kam bo'ladi
+@ M JAW
+
+? Nima uchun faqat O:H serotipga tayanish yetarli emas?
++ Bir serotip bir nechta patotipga mansub bo'lishi mumkin
+- Serotipni laboratoriyada hech qachon aniqlab bo'lmaydi
+- Har bir serotip faqat bitta patotipni bildirib turadi
+- Serotip tashqi muhit haroratiga qarab o'zgarib turadi
+- Serotip bemorning yoshiga qarab o'zgarib turadi
+! Bir xil O:H serotip turli patotiplarga tegishli bo'lishi mumkin, shuning uchun serotipning o'zi yetarli emas
+@ M JAW
+
+# 122
+
+? Esherixiozda mahalliy ichak himoyasining asosiy qismi nima?
++ Sekretor IgA antitelalari
+- Sekretor IgE antitelalari
+- Qondagi IgM antitelalari
+- Teridagi Langergans hujayralari
+- Jigardagi Kupfer hujayralari
+! Ichak shilliq pardasidagi sekretor IgA patogenlarning epiteliyga yopishishini to'sadi
+@ M JAW
+
+? Ichak normal mikroflorasi patogen E. coli ga qanday ta'sir qiladi?
++ Kolonizatsiya qarshiligi bilan o'rnashishini qiyinlashtiradi
+- Patogenni oziqlantirib, ko'payishini tezlashtirib yuboradi
+- Patogenning toksin ishlab chiqarishini kuchaytirib yuboradi
+- Patogenga kapsula hosil qilishda yordam berib yuboradi
+- Patogenni tez qon oqimiga o'tkazib yuboradi
+! Normal ichak floralari kolonizatsiya qarshiligi hosil qilib, patogen E. coli ning o'rnashishini qiyinlashtiradi
+@ M JAW
+
+? Antibiotiklar normal florani buzsa nima bo'lishi mumkin?
++ Patogen shtammlar ko'payishi mumkin
+- Patogen shtammlar butunlay yo'qoladi
+- Ichak infeksiyasi xavfi kamayadi
+- Oshqozon kislotasi ko'payadi
+- Sekretor IgA miqdori oshadi
+! Antibiotiklar normal florani zararlasa, himoya kuchsizlanib, patogen shtammlar ko'payishi mumkin
+@ M JAW
+
+? Oshqozon kislotasi kamaygan bemorlarda nima kuzatiladi?
++ Ichak infeksiyasi osonroq rivojlanadi
+- Ichak infeksiyasi kamroq rivojlanadi
+- Infeksiyaga qarshi immunitet kuchayadi
+- Infeksiya faqat teri orqali yuqadi
+- Infeksiya xavfi mutlaqo o'zgarmaydi
+! Oshqozon kislotasi birinchi himoya qatlami bo'lgani uchun kislota kamayganda infeksiya osonroq rivojlanadi
+@ M JAW
+
+? Esherixiozning umumiy profilaktikasida suv bo'yicha qaysi chora asosiy?
++ Suvni xlorlash yoki qaynatish
+- Suvni muzlatib, saqlash
+- Suvni quyoshda qoldirish
+- Suvni ochiq idishda ushlab turish
+- Suvni tuz bilan aralashtirish
+! Ichimlik suvini xlorlash, qaynatish va tozalangan manbalardan foydalanish esherixioz xavfini sezilarli kamaytiradi
+@ M JAW WHODW
+
+? Oziq-ovqat xavfsizligi qoidalariga qaysi talab kiradi?
++ Go'shtni yaxshi pishirish, xom va pishganini ajratish
+- Go'shtni xom iste'mol qilish va birga saqlash
+- Sabzavotni yuvmay yeyish va tezda saqlash
+- Sutni qaynatmay ichish, xona haroratida saqlash
+- Pishgan ovqatni xom go'sht yonida saqlash va yeyish
+! Go'shtni yaxshi pishirish, sabzavot va mevalarni yuvish hamda pishgan va xom mahsulotlarni alohida saqlash tavsiya etiladi
+@ M WHODW
+
+? Esherixiozga qarshi maxsus profilaktika holati qanday?
++ Keng qo'llaniladigan vaksina hozircha yo'q
+- Majburiy bir martalik bolalar vaksinasi mavjud
+- Anatoksin asosidagi vaksina umrbod himoya beradi
+- Jonli vaksina chaqaloqlarga tug'ilganda beriladi
+- Vaksina faqat keksa odamlarga beriladi
+! Ichak tayoqchasining barcha patotiplariga qarshi keng qo'llaniladigan inson vaksinasi mavjud emas
+@ M JAW
+
+? Sayohatchilarga profilaktik antibiotik nima uchun tavsiya etilmaydi?
++ Chidamlilikni kuchaytiradi
+- Ichakni butunlay steril qiladi
+- Immunitetni umrbod kuchaytiradi
+- Suvni xlorlaydi
+- Infeksiyani butunlay yo'qotadi
+! Profilaktik antibiotik chidamlilikni kuchaytirishi mumkin, shuning uchun asosiy profilaktika oziq-ovqat va suv xavfsizligi qoidalariga rioya qilishdir
+@ M JAW WHODW
+
+? Ichak tayoqchasi keltirib chiqargan ichburug'da asosiy davo qaysi?
++ Og'iz orqali regidratatsiya (suv-tuz eritmasi)
+- Muzlatilgan qon plazmasini tomir ichiga yuborish
+- Jarrohlik aralashuv va ichak bo'lagini olib tashlash
+- Vitaminlar kursi va uzoq muddatli dam olish
+- Qattiq parhez va suyuqlik berishni cheklash
+! Asosiy davo og'iz orqali regidratatsiya bo'lib, suv-tuz eritmasi bilan suyuqlik yo'qotilishini qoplashni anglatadi
+@ M WHODW JAW
+
+? Kichik yoshdagi emizilmagan chaqaloqlarda ichak infeksiyasi xavfi nima uchun yuqori?
++ Ona sutidagi himoya omillari olmaydi
+- Ona sutidagi himoya omillari ko'p oladi
+- Ularning ichagi steril bo'ladi
+- Ular kislotali ovqat iste'mol qiladi
+- Ularda oshqozon kislotasi ko'p bo'ladi
+! Ona suti himoya omillariga ega bo'lgani uchun emizilmagan chaqaloqlarda ichak infeksiyasi xavfi yuqoriroq
+@ M JAW

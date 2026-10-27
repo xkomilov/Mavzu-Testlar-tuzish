@@ -48,6 +48,8 @@ SOURCES = {
     "WHOAMR": "WHO. Antimicrobial resistance — Fact sheet (WHO, yangilangan versiya)",
     "WHOIMM": "WHO. Immunization, vaccines and biologicals — umumiy ma'lumot (WHO)",
     "WHOANA": "Cardona V. va boshq. World Allergy Organization Anaphylaxis Guidance (WAO Journal, 2020)",
+    "CDCSTI": "CDC. Sexually Transmitted Infections Treatment Guidelines, 2021 (MMWR Recomm Rep 2021;70(4))",
+    "CDCGBS": "CDC. Prevention of Perinatal Group B Streptococcal Disease: Revised Guidelines (MMWR 2010;59(RR-10))",
     "LENS": "Lens on Leeuwenhoek (lensonleeuwenhoek.net) — Visibility",
 }
 

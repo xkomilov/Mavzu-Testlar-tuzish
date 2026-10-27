@@ -7,7 +7,7 @@
 - Balg'am va tomoq surtmasi
 - Teri va yara yiringi
 ! B guruh streptokokkni aniqlash uchun tug'ishdan oldingi kunlarda vaginal va rektal surtma olinadi
-@ M CDCSTER
+@ M CDCGBS
 
 ? Meningit gumon qilinganda streptokokk tekshiruvi uchun qaysi material olinadi?
 + Orqa miya suyuqligi
