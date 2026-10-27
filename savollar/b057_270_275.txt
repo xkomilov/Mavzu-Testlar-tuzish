@@ -1,0 +1,560 @@
+# 270
+
+? Sut uchun koli-titr nimani bildiradi?
++ E. coli aniqlanadigan eng kichik sut hajmini
+- 1 ml sutdagi E. coli hujayralari sonini
+- E. coli topilmaydigan eng katta sut hajmini
+- 1 g sutdagi umumiy mikroblar sonini
+- Sutdagi yog' miqdorining foizini
+! Sut uchun koli-titr ichak tayoqchasi aniqlanadigan sutning eng kichik hajmi (ml) bilan ifodalanadi
+@ M
+
+? Sut uchun koli-indeks nimani ko'rsatadi?
++ Ma'lum hajmdagi sutda E. coli sonini
+- Ichak tayoqchasi topiladigan eng kam hajmni
+- Sutdagi sut kislotali bakteriyalar ulushini
+- Ma'lum hajmdagi sut yog'i miqdorini
+- Sutning kislotaligi darajasini
+! Koli-indeks ma'lum hajmdagi sutdagi ichak tayoqchalari soni bo'lib, raqamli ma'lumot beradi
+@ M
+
+? Koli-titr kichik bo'lsa sut haqida nima deyish mumkin?
++ Sut ko'proq ifloslangan hisoblanadi
+- Sut yuqori sifatli hisoblanadi
+- Sut yog'liroq hisoblanadi
+- Sut ideal steril hisoblanadi
+- Sut yangi sog'ilgan hisoblanadi
+! Koli-titr qanchalik kichik bo'lsa, sut shunchalik ko'p ifloslangan hisoblanadi
+@ M
+
+? Sutdagi koliformlar bijg'itish usulida qanday inkubatsiya qilinadi?
++ 37 °C da 24 soat
+- 56 °C da 24 soat
+- 4 °C da 24 soat
+- 37 °C da 1 daqiqa
+- 100 °C da 24 soat
+! Probirkalar termostatda 37 °C da 24 soat inkubatsiya qilinadi, so'ng gaz hosil bo'lishi va rang o'zgarishi kuzatiladi
+@ M
+
+? Qaysi probirkalar musbat deb belgilanadi?
++ Gaz hosil qilgan probirkalar
+- Loyqalangan probirkalar
+- Rangsiz qolgan probirkalar
+- Cho'kma bergan probirkalar
+- Muzlagan probirkalar
+! Gaz hosil qilgan probirkalar musbat deb belgilanadi va ularning soni hisoblash bosqichida ishlatiladi
+@ M
+
+? Sut tahlilida tasdiqlash bosqichi nima uchun majburiy?
++ Gaz hosil qiluvchi boshqa bakteriyalar ham bo'lishi mumkin
+- Gaz hosil bo'lishi sut kislotasidan kelib chiqadi
+- Hamma probirkalar bir xil natija beradi
+- Laktoza gaz hosil qilmaydigan modda
+- Endo agari gaz hosil qiladi
+! Gaz hosil qiluvchi boshqa bakteriyalar ham bo'lishi mumkin, shuning uchun tasdiqlanmagan natija xulosaga kiritilmaydi
+@ M
+
+? Eijkman sinovida termostat nega muntazam tekshiriladi?
++ Ozgina og'ish ham natijani o'zgartiradi
+- Termostat rangi o'zgarib turadi
+- Elektr sarfi ko'p bo'ladi
+- Jurnal yozuvi talab qilinadi
+- Termostat tez sinib qoladi
+! Harorat aniq nazorat qilinadi, chunki ozgina og'ish ham natijani o'zgartirishi mumkin
+@ M
+
+? Eng ehtimolli son (EHS) jadvali nimaga asoslangan?
++ Parallel probirkalar natijasi va ehtimollik
+- Sut yog'i va oqsil miqdoriga, hamda rangiga
+- Termostat harorati va ishlash soatlari
+- Idish rangi, hajmi va tayyorlangan joyi
+- Xodim tajribasi, yoshi va kasbiy darajasi
+! EHS jadvali parallel probirkalarning natijalariga asoslangan va statistik ehtimollikni hisobga oladi
+@ M
+
+? Pasterizatsiyalangan va xom sutda ichak tayoqchasining uchrash ehtimoli qanday?
++ Farq qiladi, mahsulot turi hisobga olinadi
+- Bir xil, hech farqlanmaydi
+- Pasterizatsiyalangan sutda ko'proq bo'ladi
+- Xom sutda mutlaqo bo'lmaydi
+- Doim nolga teng bo'ladi
+! Pasterizatsiyalangan va xom sutda ichak tayoqchasining uchrash ehtimoli farq qiladi, shuning uchun mahsulot turi talqinda hisobga olinadi
+@ M
+
+? Koli-titr va koli-indeks sanitar nazoratda nima uchun muhim?
++ Xavfli partiyalarni tezda aniqlashga yordam beradi
+- Sut yog'ini aniqlashga yordam beradi
+- Sutning ta'mini yaxshilashga yordam beradi
+- Idish hajmini o'lchashga yordam beradi
+- Sut narxini belgilashga yordam beradi
+! Bu ko'rsatkichlar sanitar nazoratda muhim o'rin tutadi va xavfli partiyalarni tezda aniqlashga yordam beradi
+@ M
+
+# 271
+
+? Krem mahsulotlari tarkibiga nimalar kirishi mumkin?
++ Sut yog'i, qand, tuxum yoki o'simlik yog'lari
+- Metall kukuni, tuz va mineral moy
+- Ohak, gips va kvars qumi
+- Neft mahsuloti, bo'yoq va smola
+- Rezina, plastmassa va sintetik tola
+! Krem tarkibiga sut yog'i, qand, tuxum yoki o'simlik yog'lari kirishi mumkin va ular mikroblar uchun ozuqa manbai
+@ M
+
+? Kremdan namuna nega turli qatlamlardan olinadi?
++ Yuza va ichki qism bir xil bo'lmasligi mumkin
+- Qatlamlar bir-biridan rangi bilan farq qiladi
+- Yuza qatlam doim steril bo'ladi
+- Ichki qatlam doim ifloslangan bo'ladi
+- Namuna hajmi ko'payishi uchun
+! Yuza va ichki qism bir xil bo'lmasligi mumkin, shuning uchun namuna butun partiyani ifodalaydi
+@ M
+
+? Krem idishidan namuna qanday olinadi?
++ Tashqi yuzasi tozalanib, steril asbob bilan
+- Yuvilmay, yalang qo'l bilan ochilib
+- Silkitilib, ochiq holda qoldirilib
+- Qaynatilib, ichi quritib ochilib
+- Muzlatilib, keyin zo'rlab ochilib
+! Idish ochilishidan oldin tashqi yuzasi tozalanadi va namuna steril asbob bilan olinadi
+@ M
+
+? Krem namunasining yo'llanma xatida nimalar ko'rsatiladi?
++ Nomi, ishlab chiqarilgan sana, muddati
+- Narxi, reklama matni, dizayni, qadoq rangi
+- Sotuvchi ismi, xarid sanasi, chek raqami
+- Iste'molchi yoshi, jinsi, shikoyati, manzili
+- Do'kon raqami, kassir, tovar javoni
+! Yo'llanma xatda mahsulot nomi, ishlab chiqarilgan sana, yaroqlilik muddati, partiya raqami va ishlab chiqaruvchi ko'rsatiladi
+@ M
+
+? Yo'llanma xatda bo'sh maydonlar bo'lsa laboratoriya nima qiladi?
++ Tekshiruvni kechiktiradi yoki xatni qaytaradi
+- Xatni o'zi to'ldirib qo'yadi
+- Tekshiruvni bekor qilib, namunani yo'q qiladi
+- Bo'sh joyni taxminan yozib qo'yadi
+- Xatni e'tiborsiz qoldiradi
+! Noto'liq hujjat asosida ish qilib bo'lmaydi, shuning uchun laboratoriya tekshiruvni kechiktiradi yoki xatni qaytaradi
+@ M
+
+? Krem namunasi qanday sharoitda tashiladi?
++ Sovuq sharoitda, yopiq idishda
+- Issiq sharoitda, ochiq idishda
+- Quyosh nurida, yopiq idishda
+- Xona haroratida, ochiq idishda
+- Isitish moslamasi yonida
+! Krem namunasi sovuq sharoitda tashiladi, tashish paytida idish ochilmaydi va shikastlanmaydi
+@ M
+
+? Krem harorati oshsa nima bo'ladi?
++ Yog' va oqsil buziladi, mikroblar tez ko'payadi
+- Mikroblar o'lib, mahsulot steril bo'ladi
+- Yog' qotib, mikroblar o'sishi to'xtaydi
+- Mahsulot sifati yaxshilanadi
+- Mahsulot tarkibi o'zgarmay qoladi
+! Harorat oshsa yog' va oqsil tarkibi buziladi va mikroblar tez ko'payishi mumkin
+@ M
+
+? Laboratoriyada qabul paytida krem haqida nimalar yoziladi?
++ Ko'rinishi, rangi va harorati
+- Narxi, vazni va chegirmasi
+- Idish zavodi va ishlab chiqarilgan yili
+- Xodim kayfiyati va soati
+- Ob-havo va shamol tezligi
+! Qabul paytida namunaning ko'rinishi, rangi va harorati yozib qo'yiladi
+@ M
+
+? Krem mahsulotlarida qaysi ko'rsatkichlar nazorat qilinadi?
++ Umumiy son, koli-titr, koli-indeks
+- Qon guruhi, rezus omil, gemoglobin
+- Vitamin miqdori, rang va zichlik
+- Idish hajmi, og'irligi va narxi
+- Ob-havo, shamol va namlik
+! Krem mahsulotlarida umumiy mikroblar soni, koli-titr, koli-indeks va patogen mikroblar nazorat qilinadi
+@ M
+
+? Namuna idishining raqami qanday bo'lishi kerak?
++ Yo'llanma xatdagi ma'lumotga to'liq mos
+- Yo'llanma xatdan farq qilishi mumkin
+- Xatsiz, mustaqil belgilangan
+- Laboratoriya tomonidan keyin yoziladi
+- Raqamsiz, faqat rangi bilan belgilangan
+! Raqam yo'llanma xatdagi ma'lumot bilan to'liq mos kelishi kerak, aks holda namuna boshqa partiya bilan adashishi mumkin
+@ M
+
+# 272
+
+? Krem natijalari nima uchun ehtiyotkorlik bilan talqin qilinadi?
++ Yog' ichak tayoqchasi tarqalishiga ta'sir qiladi
+- Yog' ichak tayoqchasini darhol o'ldirib yuboradi
+- Tarkibida laktoza mutlaqo bo'lmaydi deb hisoblanadi
+- Yog' bijg'itish jarayonini to'xtatib qo'yadi
+- Doim steril ekani tufayli ehtiyot bo'linadi
+! Krem yuqori yog' tarkibiga ega bo'lgani uchun yog' ichak tayoqchalarining tarqalishiga va ajralib chiqishiga ta'sir qilishi mumkin
+@ M
+
+? Kremda E. coli topilsa nimani ko'rsatadi?
++ Tayyorlash yoki tashishda fekal ifloslanishni
+- Yog'liligi yuqori ekanini ko'rsatadi
+- Pasterizatsiya qilinganini ko'rsatadi
+- Qadog'i sifatli ekanini ko'rsatadi
+- Yangi ishlab chiqarilganini ko'rsatadi
+! Ichak tayoqchasining topilishi tayyorlash yoki tashish vaqtida fekal ifloslanish ehtimolini ko'rsatadi
+@ M
+
+? Krem namunasi suspenziya uchun qanday aralashtiriladi?
++ Sekin va to'liq, ko'piksiz
+- Shiddatli chayqatib, ko'pik hosil qilib
+- Aralashtirilmay, yuza qatlamdan olib
+- Qaynatib, sovitib olib
+- Muzlatib, mayda bo'laklab
+! Aralashtirish sekin va to'liq bajariladi, chunki shiddatli chayqatish ko'pik hosil qilib, hajmni noto'g'ri o'lchashga olib keladi
+@ M
+
+? Ajralgan yog'li qatlam qanday tozalanadi?
++ Qattiq ishqalanmaydi, yumshoq usul qo'llanadi
+- Qattiq ishqalab, kuch bilan tozalab olinadi
+- Spirt bilan yuvib tashlanadi va artiladi
+- Qizdirib bug'latiladi va quritib olinadi
+- Sentrifugada aylantirib, ajratib tashlanadi
+! Yog'li qatlam qattiq ishqalash bilan tozalanmaydi; mikroblarni yo'qotmaslik uchun yumshoq usul qo'llanadi
+@ M
+
+? Kremda natijani hisoblashda nimalar e'tiborga olinadi?
++ Ekilgan miqdor va suyultirish koeffitsiyenti
+- Krem rangi, hidi va tashqi ko'rinishi
+- Idish narxi, zavodi va ishlab chiqarilgan yili
+- Xodim ismi, yoshi va ish staji
+- Termostat markasi, quvvati va ishlash vaqti
+! Hisoblashda ekilgan krem miqdori va suyultirish koeffitsiyenti e'tiborga olinadi, shunda natija yagona birlikda ifodalanadi
+@ M
+
+? Kremda Eijkman sinovi qaysi haroratda o'tkaziladi?
++ 44 °C da, fekal koliformlar uchun
+- 22 °C da, fekal koliformlar uchun
+- 4 °C da, fekal koliformlar uchun
+- 60 °C da, fekal koliformlar uchun
+- 100 °C da, fekal koliformlar uchun
+! Eijkman sinovi 44 °C da o'tkaziladi va fekal kelib chiqishdagi koliformlarni aniqlashga yordam beradi
+@ M WHODW
+
+? 37 °C va 44 °C sinov natijalari qanday talqin qilinadi?
++ Birgalikda talqin qilinadi
+- Alohida va bir-biriga bog'lanmagan
+- Yuqori harorat natijasi tashlanadi
+- Past harorat natijasi tashlanadi
+- Ikkalasi ham e'tiborsiz qoldiriladi
+! Sinov natijasi 37 °C dagi natija bilan birga talqin qilinadi, bu xulosani ishonchliroq qiladi
+@ M
+
+? Kremdagi koli-titr nimani bildiradi?
++ E. coli aniqlanadigan eng kichik miqdorni
+- 1 ml dagi umumiy mikroblar sonini
+- E. coli topilmaydigan eng katta miqdorni
+- Yog' miqdorining foizini
+- Namlik darajasining foizini
+! Koli-titr kremda ichak tayoqchasi aniqlanadigan eng kichik miqdorni bildiradi
+@ M
+
+? Kremda tasdiqlangan natijalar nega jurnalga yoziladi?
++ Har bir musbat probirka koloniya bilan bog'lanadi
+- Jurnal to'lishi va varaqlar ishlatilishi uchun
+- Probirkalar sonini kamaytirib qo'yish uchun
+- Muhit narxini aniqlab hisoblash uchun
+- Termostat quvvatini hisoblab chiqish uchun
+! Yozuv har bir musbat probirkani aniq koloniya bilan bog'laydi, bu tahlil shaffofligini oshiradi
+@ M
+
+? Kremda tasdiqlash uchun musbat probirkadan qaysi agarga ekiladi?
++ Endo yoki EMB agariga
+- Sabouraud yoki Chapek agariga
+- Qonli yoki shokoladli agarga
+- Manitolli tuzli yoki SPS agarga
+- Levenshteyn-Yensen yoki Ploskirev agariga
+! Musbat probirkalardan Endo yoki eozin metilen ko'k (EMB) agariga ekish o'tkaziladi
+@ M
+
+# 273
+
+? Staphylococcus aureus qanday bakteriya?
++ Gram-musbat, sharsimon, katalaza-musbat
+- Gram-manfiy, tayoqcha, katalaza-manfiy
+- Gram-musbat, spiral, oksidaza-musbat
+- Gram-manfiy, vibrion, ureaza-musbat
+- Gram-musbat, shoxlangan, indol-musbat
+! S. aureus gram-musbat, sharsimon, katalaza-musbat, fakultativ anaerob mikroorganizm
+@ M JAW
+
+? Mikroskopda S. aureus qanday joylashadi?
++ Angur shingiliga o'xshash
+- Uzun zanjir shaklida
+- Juft lansetsimon shaklda
+- Palisad shaklida
+- Spiral burama shaklida
+! S. aureus mikroskop ostida angur shingillarini eslatuvchi holda joylashadi
+@ M JAW
+
+? Koagulaza fermenti nimaga ta'sir qiladi?
++ Plazmadagi fibrinogenga, qonni ivitadi
+- Eritrotsitlar gemoglobiniga, qonni eritadi
+- Plazmadagi albuminga, qonni suyultiradi
+- Leykotsitlar yadrosiga, ularni parchalaydi
+- Trombotsitlar membranasiga, ularni yig'adi
+! Koagulaza plazmadagi fibrinogenga ta'sir qilib qonni ivitadi; koagulaza sinovi S. aureusni boshqa stafilokokklardan ajratishda asosiy belgi
+@ M JAW
+
+? S. aureus enterotoksinlari qanday xususiyatga ega?
++ Issiqqa chidamli, oziq-ovqat orqali zaharlaydi
+- Issiqqa chidamsiz, faqat teri kasalligi chaqiradi
+- Issiqqa chidamli, faqat nafas kasalligi chaqiradi
+- Kislotaga chidamsiz, faqat siydik infeksiyasi chaqiradi
+- Sovuqqa chidamsiz, faqat ko'z kasalligi chaqiradi
+! S. aureus enterotoksinlari issiqqa chidamli bo'lib, oziq-ovqat orqali zaharlanishni keltirib chiqaradi
+@ M JAW
+
+? Baird-Parker agarida S. aureus koloniyalari qanday ko'rinadi?
++ Qora, yaltiroq, atrofida tiniq zona
+- Qizil, metall yaltirashli, atrofida sariq zona
+- Oq, quruq, atrofida yashil zona
+- Sariq, shilimshiq, atrofida ko'k zona
+- Rangsiz, shaffof, atrofida qora zona
+! Baird-Parker agari tellurit va tuxum sarig'i saqlaydi; S. aureus qora yaltiroq koloniyalar hosil qiladi, atrofida tiniq zona paydo bo'ladi
+@ M JAW
+
+? Mannitol tuzli agarda S. aureus nima qiladi?
++ Mannitni bijg'itib, muhitni sariq qiladi
+- Laktozani bijg'itib, muhitni qizil qiladi
+- Glyukozani bijg'itib, muhitni yashil qiladi
+- Saxarozani bijg'itib, muhitni qora qiladi
+- Mannitni bijg'itmay, muhitni ko'k qiladi
+! Yuqori tuz boshqa mikroblarni cheklaydi, S. aureus esa mannitni bijg'itib muhitni sariq rangga bo'yaydi
+@ M JAW
+
+? Kosmetik mahsulotda neytrallashtiruvchi muhit nima uchun ishlatiladi?
++ Konservant mikrob o'sishini bostirmasligi uchun
+- Mikroblarni o'ldirib, namunani sterillash uchun
+- Rangini o'zgartirib, tiniqlashtirish uchun
+- Hidini butunlay yo'qotib yuborish uchun
+- Zichligini oshirib, quyuqlashtirib qo'yish uchun
+! Kosmetikadagi konservantlar mikroblar o'sishini bostirishi mumkin, neytrallashtiruvchi muhit esa natijaning haqiqiy holatni aks ettirishiga yordam beradi
+@ M
+
+? Suyuq muhitda zenginlashtirish nima uchun qo'llanadi?
++ Kam miqdordagi mikroblarni topishga yordam beradi
+- Mikroblarni o'ldirib yuborishga yordam beradi
+- Krem rangini o'zgartirishga yordam beradi
+- Idish hajmini kamaytirishga yordam beradi
+- Koloniyalarni quritishga yordam beradi
+! Avval suyuq muhitda zenginlashtirish, so'ng qattiq muhitga ekish kam miqdordagi mikroblarni topishga yordam beradi
+@ M
+
+? Kremga mikroblar qanday yo'llar bilan tushishi mumkin?
++ Xom ashyo, suv, idish va xodimlar qo'li orqali
+- Quyosh nuri va yomg'ir tomchilari orqali
+- Elektr toki va tovush to'lqinlari orqali
+- Magnit maydoni va yorug'lik nurlari orqali
+- Radio to'lqinlar va shamol oqimi orqali
+! Tayyorlash jarayonida xom ashyo, suv, idishlar va xodimlarning qo'llari orqali mikroblar tushishi mumkin
+@ M
+
+? Kremdagi konservantlarning vazifasi nima?
++ Mikroblar ko'payishini cheklash, kafolat emas
+- Mikroblarni doim to'liq yo'q qilib yuborish
+- Rangini oqartirib, ko'rinishini yaxshilash
+- Hidini kuchaytirib, xushbo'y qilib qo'yish
+- Zichligini oshirib, quyuqlashtirib qo'yish
+! Konservantlar mikroblar ko'payishini cheklash uchun qo'shiladi, lekin ularning samaradorligi to'liq kafolatlanmaydi
+@ M
+
+# 274
+
+? Go'shtning sanitar-bakteriologik tekshiruvi maqsadi nima?
++ Patogenlar va sanitariya buzilishini aniqlash
+- Narxi va ta'mini aniqlab baholab chiqish
+- Vazni va yog' miqdorini aniqlab hisoblash
+- Rangi va hidini ko'z bilan baholab chiqish
+- Yoshi va zotini aniqlab, qayd etib chiqish
+! Tekshiruv mahsulotda patogen mikroblar, ko'rsatkich mikroorganizmlar va sanitariya buzilishi belgilarini aniqlaydi
+@ M
+
+? Namuna nega partiyaning turli joylaridan olinadi?
++ Bir idishdagi ifloslanish partiyani ifodalamasligi uchun
+- Namuna umumiy hajmini ko'paytirib olish uchun
+- Idishlarni tezroq to'ldirib, vaqtni tejash uchun
+- Mikroblarni o'ldirib yuborish va tozalash uchun
+- Asboblarni sinab ko'rib, tekshirib chiqish uchun
+! Bir idishdagi tasodifiy ifloslanish butun partiya haqida noto'g'ri xulosaga olib kelishi mumkin
+@ M
+
+? Go'sht namunasida nimalar alohida ko'rsatiladi?
++ Tashqi qatlam va ichki qism
+- Rang va hid tafsilotlari
+- Yosh va zot ma'lumotlari
+- Narx va vazn ko'rsatkichlari
+- Yog' va suyak nisbati
+! Go'sht namunasida tashqi qatlam va ichki qism alohida ko'rsatiladi, chunki mikroblar miqdori farq qiladi
+@ M
+
+? Kolbasa namunasi olishda nimalar tekshiriladi?
++ O'ramning butunligi, sana va partiya raqami
+- O'rami rangi, narxi va dizayni
+- Idish hajmi, vazni va shakli
+- Sotuvchi ismi, manzili va telefoni
+- Reklama matni va shtrix-kodi
+! Kolbasa mahsulotlarida o'ramning butunligi, ishlab chiqarilgan sana va partiya raqami tekshiriladi
+@ M
+
+? Namuna olishda asboblar har bir namunadan keyin nima qilinadi?
++ Qayta sterillanadi yoki yangisi bilan almashtiriladi
+- Spirt bilan artilib, o'shanday ishlatiladi
+- Suvda chayilib, qayta ishlatiladi
+- Quritilib, boshqa namunaga o'tkaziladi
+- Qizdirilmay saqlanib qo'yiladi
+! Asboblar har bir namunadan so'ng qayta sterillanadi yoki yangisi bilan almashtiriladi
+@ M
+
+? Yo'llanma xatni kimlar imzolaydi?
++ Namuna oluvchi va qabul qiluvchi
+- Laboratoriya mudiri yolg'iz o'zi
+- Imzo talab qilinmaydi
+- Mijoz yolg'iz o'zi
+- Imzo o'rniga muhr bosiladi
+! Yo'llanma xat namuna oluvchi hamda qabul qiluvchi tomonidan imzolanadi
+@ M
+
+? Go'sht namunasi qanday sharoitda tashiladi?
++ Sovutilgan sharoitda, harorat ko'tarilmasligi kerak
+- Issiq sharoitda, tezroq yetkazish uchun
+- Quyoshda quritilib, yengillashtirilib
+- Ochiq idishda, shamolda ventilyatsiya bilan
+- Xona haroratida, uzoq vaqt davomida
+! Harorat ko'tarilishi mikroorganizmlarning tez ko'payishiga olib keladi, shuning uchun namuna sovutilgan sharoitda tashiladi
+@ M
+
+? Muzlatilgan namunalar nega maxsus tartibda tekshiriladi?
++ Muzlatish ba'zi mikroblarga zarar yetkazadi
+- Muzlatish mikroblarni ko'paytiradi
+- Muzlatish mikroblarni sterillaydi
+- Muzlatish rangini o'zgartiradi
+- Muzlatish hajmini kamaytiradi
+! Muzlatish ba'zi mikroblarga zarar yetkazishi mumkin, shuning uchun muzlatilgan namunalar maxsus tartibda tekshiriladi
+@ M
+
+? Yorliq yozuvi nega suvga chidamli siyoh bilan yoziladi?
++ Tekshiruvda yozuv o'chib ketmasligi uchun
+- Yozuv chiroyli ko'rinishi va yaltirashi uchun
+- Narxi arzonligi va qulayligi tufayli
+- Juda tez qurib, yopishmasligi uchun
+- Namunani sterillashi va tozalashi uchun
+! Tekshiruv davomida yozuv o'chib ketsa natija noaniq bo'ladi
+@ M
+
+? Ko'rsatkich mikroblar miqdori nimani taxmin qilishga imkon beradi?
++ Ifloslanish qayerda sodir bo'lganini
+- Yoshi va zotini taxmin qilishga imkon beradi
+- Yog'liligi va yumshoqligini taxmin qiladi
+- Narxi va bozor qiymatini taxmin qiladi
+- Rangi va tashqi ko'rinishini taxmin qiladi
+! Ko'rsatkich mikroblar miqdori orqali ifloslanish xom ashyoda yoki qayta ishlash paytida sodir bo'lganini taxmin qilish mumkin
+@ M
+
+# 275
+
+? Go'shtning tashqi yuzasi va ichki qismida mikroblar qanday?
++ Tashqida ko'p, ichki qismida ancha kam
+- Tashqida kam, ichki qismida ko'p
+- Ikkala qismda ham teng
+- Tashqida umuman bo'lmaydi
+- Ichki qismda ko'p, tashqida kam
+! Go'sht tashqi yuzasida ko'p miqdorda mikroblar bo'lishi mumkin, ichki qismida ularning soni ancha kam
+@ M
+
+? Tayyorlash ishi qaerda va qanday olib boriladi?
++ Alohida, toza, dezinfeksiya qilingan joyda
+- Umumiy yo'lakda, ochiq stolda
+- Ovqatlanish xonasida, dasturxon yonida
+- Hovlida, shamol esadigan joyda
+- Omborxonada, chiqindi yonida
+! Tayyorlash ishi alohida, toza va dezinfeksiya qilingan joyda olib boriladi
+@ M
+
+? Namuna tayyorlashda asboblar qanday bo'lishi kerak?
++ Avtoklavda yoki quruq issiqlikda sterillangan
+- Sovuq suvda chayib, oddiy usulda quritilgan
+- Spirt bilan artilib, shundayligicha ishlatiladigan
+- Quyoshda quritilib, changdan himoyalangan
+- Yuvilmay, avvalgi ishdan keyin qo'llanadigan
+! Pichoq, qaychi, pinset, shpatel kabi asboblar steril bo'lishi kerak; ular avtoklavda yoki quruq issiqlik shkafida sterillanadi
+@ M CDCSTER
+
+? Kasallik belgisi bo'lgan xodim nima qilishi kerak?
++ Namuna bilan ishlamasligi kerak
+- Niqob taqib ishlayveradi
+- Qo'lqop kiyib ishlaydi
+- Qisqa vaqt ishlashi mumkin
+- Boshqa xodim o'rniga ishlaydi
+! Yo'tal, aksirish yoki boshqa kasallik belgilari bo'lgan xodim namunaga begona mikroblar tushirishi mumkin, shuning uchun u bilan ishlamaydi
+@ M
+
+? Namuna bilan ishlayotgan xodim qo'lida nimalar bo'lmasligi kerak?
++ Zargarlik buyumlari, uzuk yoki soat
+- Steril qo'lqop yoki himoya vositasi
+- Toza xalat yoki ish kiyimi
+- Bosh kiyim yoki maxsus qalpoq
+- Himoya niqobi yoki yuz himoyasi
+! Zargarlik buyumlari, uzuk yoki soat ifloslanish manbai bo'lishi mumkin
+@ M
+
+? Go'shtning tashqi qatlami qanday ajratiladi?
++ Steril pichoq bilan kesib olinadi
+- Qo'l bilan yirtib olinadi
+- Qaynoq suvda yuvib olinadi
+- Spirt bilan kuydirib olinadi
+- Qizdirib quritiladi
+! Go'shtning tashqi qatlami steril pichoq bilan kesib olinadi, shunda tashqi ifloslanish tekshiruvga ta'sir qilmaydi
+@ M
+
+? Maydalash nima uchun sovuq sharoitda bajariladi?
++ Qizib ketish mikroblarga zarar yetkazadi
+- Sovuqda go'sht yumshaydi
+- Qizish go'sht rangini o'zgartiradi
+- Sovuq mikroblarni ko'paytiradi
+- Sovuq pichoqni o'tkirlaydi
+! Juda qizib ketish mikroblarga zarar yetkazishi mumkin, shuning uchun maydalash sovuq sharoitda bajariladi
+@ M
+
+? Gomogenlash natijasida nima yuz beradi?
++ Mikroblar suyuqlikda tekis taqsimlanadi
+- Mikroblar bir joyda to'planadi
+- Mikroblar nobud bo'ladi
+- Mikroblar sporaga aylanadi
+- Mikroblar ko'payib ketadi
+! Gomogenlash natijasida mikroblar suyuqlikda tekis taqsimlanadi, bu keyingi suyultirish uchun zarur
+@ M
+
+? Gomogenat ko'piklansa yoki qatlamlarga ajralsa nimani bildiradi?
++ Aralashtirish yetarli emasligini
+- Aralashtirish ortiqcha ekanini
+- Namuna steril ekanini
+- Eritma yangi ekanini
+- Go'sht yaxshi ekanini
+! Ko'piklanish yoki qatlamlarga ajralish aralashtirish yetarli emasligini ko'rsatadi va jarayon qayta boshlanadi
+@ M
+
+? Gomogenatdan qanday suyultirish seriyalari tayyorlanadi?
++ O'nli suyultirish seriyalari
+- Bir martalik seriya
+- Konsentrlash seriyalari
+- Qizdirish seriyalari
+- Muzlatish seriyalari
+! Gomogenlangan namunadan steril suyuqlik bilan o'nli seriyalar tayyorlanadi
+@ M
+
+? Rangi o'zgargan oziqa muhiti bilan nima qilinadi?
++ Ishlatilmaydi, yo'q qilinadi
+- E'tiborsiz ishlatiladi
+- Qayta qizdirilib ishlatiladi
+- Suyultirilib ishlatiladi
+- Spirt qo'shib ishlatiladi
+! Muhit rangi o'zgargan yoki yuzasida yog'li qatlam hosil bo'lgan bo'lsa, bunday muhit ishlatilmaydi
+@ M

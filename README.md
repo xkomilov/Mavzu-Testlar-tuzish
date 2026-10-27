@@ -3,7 +3,7 @@
 `олий тоифа laborant.zip` ichidagi 291 ta mavzu (`Мавзу2/NNN.docx`) uchun test jadvallari.
 
 ## Tuzilishi
-- `Тест2/NNN.xlsx` — tayyor jadvallar (shablon.xlsx asosida; hozircha 001–269).
+- `Тест2/NNN.xlsx` — tayyor jadvallar (shablon.xlsx asosida; hozircha 001–275).
 - `savollar/*.txt` — savollar matn ko'rinishida (`? savol`, `+ to'g'ri`, `- noto'g'ri ×4`, `! izoh`, `@ manba kalitlari`).
 - `tools/build_tests.py` — sifat tekshiruvi (`check`) va `.xlsx` ga yig'ish (`build`). Aralashtirish mavzu raqamidan olingan seed bilan, natija qayta qurilganda o'zgarmaydi.
 - `tools/verify_xlsx.py` — tayyor faylni qayta o'qib format tekshiradi (sarlavha, dimension, A–E ro'yxat tekshiruvi, Correct ↔ Comment mosligi).
