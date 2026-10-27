@@ -1,0 +1,551 @@
+# 177
+
+? Botulizmning eng ko'p uchraydigan shakli qaysi?
++ Oziq-ovqat botulizmi
+- Yara botulizmi (jarohatdan)
+- Bolalar botulizmi (ichakdan)
+- Nafas yo'li botulizmi
+- Teri botulizmi (kesikdan)
+! Eng ko'p uchraydigan shakl oziq-ovqat botulizmi bo'lib, toksin bilan zararlangan mahsulotni iste'mol qilishdan kelib chiqadi
+@ M JAW WHODW
+
+? Oziq-ovqat botulizmida zaharlanishni nima keltirib chiqaradi?
++ Ovqatda tayyor turgan toksin
+- Ichakda ko'payadigan tirik mikrob
+- Ichakda hosil bo'ladigan spora
+- Qonda aylanadigan bakteriofag
+- Terida ko'payadigan tirik mikrob
+! Toksin oziq-ovqatda tayyor holda bo'ladi, shuning uchun tirik bakteriya bo'lmasdan ham zaharlanish yuzaga keladi
+@ M JAW
+
+? Qaysi mahsulotlarda botulizm toksini ko'proq to'planadi?
++ Uy konservasi: sabzavot, go'sht, baliq
+- Yangi non va qaynoq sho'rva mahsuloti
+- Yangi sut va issiq choy mahsuloti
+- Qaynoq guruch va salat mahsuloti
+- Quruq meva va yangi holva mahsuloti
+! Spora uy konservasi kabi kislorodsiz va kislotaligi past sabzavot, go'sht, baliq mahsulotlarida faollashib toksin hosil qiladi
+@ M JAW WHODW
+
+? Botulizm xavfini belgilovchi omillar qaysilar?
++ Kislotalilik va saqlash harorati
+- Mahsulotning rangi va qadoq shakli
+- Narxi va ishlab chiqaruvchi nomi
+- Mahsulot hidi va idish hajmi
+- O'lchami va yorlig'ining rangi
+! Mahsulotning kislotaligi va saqlash harorati xavfni belgilovchi omillardir
+@ M JAW
+
+? Botulizm qo'zg'atuvchisi sporalari odam uchun asosiy xavfni qayerdan keltiradi?
++ Atrof-muhit: tuproq, oziq-ovqat
+- Odamdan odamga nafas orqali
+- Bemorning ter va so'lagi orqali
+- Toza suv va sovun orqali
+- Hasharot chaqishi orqali
+! Odam uchun asosiy xavf atrof-muhitdagi sporalar: ular oziq-ovqatga, yaralarga va bolalarning ichagiga tushishi mumkin
+@ M JAW
+
+? Botulizmda belgilar nega tez paydo bo'ladi?
++ Toksin ovqatda tayyor bo'lgani uchun
+- Toksin ichakda sekin hosil bo'lgani uchun
+- Toksin sovuqda sekin faollashgani uchun
+- Toksin qonda ko'payib ketgani uchun
+- Toksin sporadan sekin ajralgani uchun
+! Toksin ovqatda tayyor bo'lgani sababli bemorlarda belgilar tez paydo bo'ladi
+@ M JAW
+
+? Qaysi hayvonlar botulizm tarqalishida ishtirok etishi mumkin?
++ Qushlar
+- Hasharotlar
+- Baliqlar
+- Kemiruvchilar
+- Sudralib yuruvchilar
+! Ayrim hayvonlar, masalan qushlar, toksin bilan zaharlanishi va kasallik tarqalishida ishtirok etishi mumkin
+@ M JAW
+
+? Qaysi baliq mahsulotlari xavfli hisoblanadi?
++ Dudlangan, tuzlangan, qisman pishgan
+- Qovurilgan, qaynoq, to'liq pishgan
+- Sovutilgan, toza, to'liq pishgan
+- Qaynatilgan, qaynoq, to'liq pishgan
+- Tutilgan zahoti, darhol yeyilgan
+! Dudlangan, tuzlangan yoki qisman pishirilgan baliq mahsulotlari ham xavfli hisoblanadi
+@ M JAW WHODW
+
+? Qaysi konserva bankasi ayniqsa shubhali?
++ Shishgan yoki zanglagan banka
+- Tiniq shishali, yangi banka
+- Qopqog'i tekis, toza banka
+- Yorlig'i yaltiroq, yangi banka
+- Narxi yuqori, qadoqli banka
+! Konserva bankasi shishgan yoki zanglagan bo'lsa, u ayniqsa diqqat bilan tekshiriladi
+@ M JAW
+
+? Yetarlicha qizdirilmagan konservada sporalar nima qiladi?
++ Faollashib, toksin hosil qiladi
+- Nobud bo'ladi, toksin bo'lmaydi
+- Sporalar suvga aylanadi
+- Rangsizlanib, zararsiz qoladi
+- Toksinni yo'qotadi
+! Kislorodsiz va yetarlicha qizdirilmagan konservalarda sporalar faollashib toksin hosil qiladi
+@ M JAW
+
+# 178
+
+? Bolalar botulizmida asosiy material qaysi?
++ Najas
+- Siydik namunasi
+- Balg'am namunasi
+- Tupurik namunasi
+- Likvor namunasi
+! Bolalar botulizmida najas asosiy material, chunki qo'zg'atuvchi ko'pincha shu yerda aniqlanadi
+@ M JAW
+
+? Yara botulizmida qaysi materiallar olinadi?
++ Yara ajralmasi va to'qima
+- Najas va siydik namunasi
+- Balg'am va tupurik namunasi
+- Sut va ter namunasi
+- Likvor va safro namunasi
+! Yara botulizmida yara ajralmasi va to'qima namunasi olinadi
+@ M JAW
+
+? Shubhali oziq-ovqat namunalari nima uchun saqlanadi?
++ Manbani aniqlash uchun
+- Bemorga qaytarib berish uchun
+- Qayta pishirib yeyish uchun
+- Hayvonlarga berish uchun
+- Tashlab yuborish uchun
+! Bemor iste'mol qilgan ovqat qoldiqlari epidemiologik tekshiruv va manbani aniqlash uchun saqlanadi
+@ M JAW
+
+? Oziq-ovqat namunasida toksinni aniqlash uchun nima qilinadi?
++ Ekstrakt tayyorlanib, sinaladi
+- Qaynatilib, tashlab yuboriladi
+- Quritilib, kukun qilinadi
+- Muzlatilib, saqlab qo'yiladi
+- Ochiq qoldirilib, kuzatiladi
+! Mahsulot namunasi toksin borligini aniqlash uchun ekstraktlanib, sinovdan o'tkaziladi
+@ M JAW
+
+? Toksin bilan ishlashda nima uchun himoya kiyimi kiyiladi?
++ Toksin juda kuchli zahar bo'lgani uchun
+- Toksin zararsiz modda bo'lgani uchun
+- Toksin tez bug'lanib ketgani uchun
+- Toksin rangli modda bo'lgani uchun
+- Toksin hidli modda bo'lgani uchun
+! Ekstrakt tayyorlashda biologik xavfsizlik qoidalariga qat'iy rioya qilinadi, chunki toksin juda kuchli zahar
+@ M JAW WHOLBM
+
+? Tuproq va suv namunalari nima uchun tekshirilishi mumkin?
++ Sporalarni aniqlash uchun
+- Toksin hosil qilish uchun
+- Antibiotik topish uchun
+- Bemorni davolash uchun
+- Vaksina tayyorlash uchun
+! Tuproq va suv namunalari sporalar borligini tekshirish uchun olinadi, asosan epidemiologik tadqiqotda
+@ M JAW
+
+? Namuna idishida nima yoziladi?
++ Ma'lumot, sana va vaqt
+- Xodim ismi va yoshi
+- Idish hajmi va rangi
+- Havo harorati va namligi
+- Transport turi va narxi
+! Har bir idishda bemor yoki mahsulot haqidagi ma'lumotlar, olingan sana va vaqt aniq yozib qo'yiladi
+@ M JAW
+
+? Namuna qanday idishga olinadi?
++ Steril idishga
+- Ochiq idishga
+- Iflos idishga
+- Qopqoqsiz idishga
+- Nam idishga
+! Namuna steril idishga olinadi va imkon qadar tez laboratoriyaga yuboriladi
+@ M JAW
+
+? Botulizmda qon va zardob nima uchun tekshiriladi?
++ Toksinni aniqlash uchun
+- Qon guruhini aniqlash uchun
+- Gemoglobinni aniqlash uchun
+- Qand miqdorini aniqlash uchun
+- Xolesterinni aniqlash uchun
+! Bemor zardobi va najasida botulinum toksinining aniqlanishi eng ishonchli tasdiq hisoblanadi
+@ M JAW
+
+? Konserva namunasini yuborishda nima qayd etiladi?
++ Qadoqlanishi va sanasi
+- Narxi va sotilgan do'koni
+- Rangi va ko'rinishi
+- O'lchami va vazni
+- Sotuvchi ismi va manzili
+! Mahsulotning qadoqlanishi va ishlab chiqarilgan sanasi ham qayd etiladi
+@ M JAW
+
+# 179
+
+? Chaqaloqlarda botulizm qanday namoyon bo'ladi?
++ Qabziyat, zaif yig'i, bo'shashgan mushak
+- Isitma, qichishish, toshma, shishish
+- Qusish, ich ketishi, qon aralash najas
+- Yo'tal, burun bitishi, tomoq og'rig'i
+- Sariqlik, jigar kattalashishi, qichishish
+! Chaqaloqlarda kasallik qabziyat, zaif yig'lash, kam harakatlanish va bo'shashgan mushaklar bilan namoyon bo'ladi
+@ M JAW
+
+? Botulizmda harorat va sezuvchanlik qanday bo'ladi?
++ Harorat ko'tarilmaydi, sezuvchanlik saqlanadi
+- Harorat ko'tariladi, sezuvchanlik yo'qoladi
+- Harorat tushadi, sezuvchanlik yo'qoladi
+- Harorat ko'tariladi, sezuvchanlik saqlanadi
+- Harorat o'zgarmaydi, sezuvchanlik yo'qoladi
+! Botulizmda harorat odatda ko'tarilmaydi, sezuvchanlik esa ko'pincha saqlanadi
+@ M JAW CDCPINK
+
+? Botulizm Gyon–Barre sindromidan nimasi bilan farqlanadi?
++ Gyon–Barrede refleks pasayishi pastdan yuqoriga tarqaladi
+- Botulizmda refleks pasayishi pastdan yuqoriga tarqaladi
+- Gyon–Barrede ko'z harakati birinchi buziladi
+- Ikkalasida ham toksin aniqlanadi
+- Ikkalasi ham ovqatdan yuqadi
+! Gyon–Barre sindromida refleksning pasayishi odatda pastdan yuqoriga tarqaladi; botulizmda esa tushuvchi falaj
+@ M JAW CDCPINK
+
+? Miasteniya gravisda falaj qanday o'zgaradi?
++ Charchash bilan kuchayadi
+- Dam olish bilan kuchayadi
+- Sovuqda kuchayadi
+- Ovqatdan keyin yo'qoladi
+- Uyqu bilan kuchayadi
+! Miasteniya gravisda falaj charchash bilan kuchayadi, vegetativ buzilishlar kuzatilmaydi
+@ M JAW
+
+? Botulizmga o'xshash belgilarni qaysi holatlar berishi mumkin?
++ Organofosfat zaharlanishi, insult
+- Gripp, qizamiq, tepki, suvchechak
+- Gepatit, tif, vabo, ichburug'
+- Sil, zaxm, gonoreya, xlamidioz
+- Vabo, o'lat, kuydirgi, brutsellyoz
+! Organofosfat yoki antixolinergik zaharlanish, shuningdek insult botulizmga o'xshash belgilar berishi mumkin
+@ M JAW
+
+? Differensial tashxisda qaysi anamnez muhim?
++ Toksikologik va dori tarixi
+- Sevimli ranglari haqida tarix
+- Sport yutuqlari haqida tarix
+- Kiyim tanlash haqida tarix
+- Dam olish rejalari haqida tarix
+! Toksikologik anamnez, neyrologik tekshiruv va bemorning dori qabul qilish tarixi sinchkovlik bilan so'raladi
+@ M JAW
+
+? Kana chaqishidan kelib chiqadigan falaj botulizmdan nimasi bilan farq qiladi?
++ Kana olingach, tezroq yo'qoladi
+- Kana olingach, ko'proq kuchayadi
+- Kana olingach, o'zgarmasdan qoladi
+- Sovuq mavsumda ko'proq uchraydi
+- Bolalarda ko'proq uchraydi
+! Kana chaqishi bilan bog'liq belgilar ko'pincha botulizmdan tezroq yo'qoladi
+@ M JAW
+
+? Botulizmning eng ishonchli laboratoriya tasdig'i qaysi?
++ x
+- a
+- b
+- c
+- d
+! Eng ishonchli tasdiq bemor zardobi yoki najasida botulinum toksinining aniqlanishi
+@ M JAW
+
+? Botulinum toksini qanday usullar bilan topiladi?
++ Sichqonda biologik sinov, ELISA
+- Gram bo'yash va katalaza sinovi
+- Koagulaza va ureaza sinovi
+- Optoxin va safro sinovi
+- Vidal va Rayt reaksiyasi
+! Toksin sichqonlarda biologik sinov, immunofermentativ test yoki boshqa usullar bilan topiladi
+@ M JAW
+
+? Bemorning ahvolini baholashda qaysi belgilar birgalikda tashxisga kuchli dalil?
++ Simmetrik tushuvchi falaj, harorat yo'qligi
+- Assimmetrik ko'tariluvchi falaj, yuqori harorat
+- Qichishish va toshma
+- Yo'tal va burun bitishi
+- Qorin og'rig'i va ich ketishi
+! Simmetrik tushuvchi falaj, harorat ko'tarilmasligi va saqlangan sezuvchanlik tashxisga kuchli dalil bo'ladi
+@ M JAW CDCPINK
+
+# 180
+
+? Botulizmda toksinga qarshi nima qo'llanadi?
++ Antitoksin (zardob, immunoglobulin)
+- Penitsillin va ampitsillin guruhi
+- Gentamitsin va streptomitsin guruhi
+- Izoniazid va rifampitsin guruhi
+- Flukonazol va nistatin guruhi
+! Botulizmda ot zardobidan tayyorlangan antitoksin va bolalar uchun odam immunoglobulini qo'llanadi
+@ M JAW CDCPINK
+
+? Antitoksin qachon beriladi?
++ Gumon paydo bo'lishi bilan, erta
+- Laboratoriya natijasidan keyin, kechroq
+- Sog'ayganidan keyin
+- Bir hafta o'tgach
+- Og'ir asoratdan keyin
+! Antitoksin qanchalik erta berilsa, og'irlashish shunchalik kam bo'ladi, shuning uchun gumonda darhol beriladi
+@ M JAW CDCPINK
+
+? Zardobga qanday xavf mavjud?
++ Allergik reaksiya
+- Qon bosimi tushishi
+- Ko'rish yaxshilanishi
+- Tez sog'ayish
+- Immunitet yo'qolishi
+! Zardobga allergik reaksiyalar ehtimoli sababli bemor doimiy kuzatiladi
+@ M JAW
+
+? Nafas mushaklari falaji rivojlansa nima qilinadi?
++ Sun'iy nafas apparatiga ulanadi
+- Sovuq vanna qabul qildiriladi
+- Faqat uxlab dam oladi
+- Issiq kompress qo'yiladi
+- Qattiq parhezga o'tkaziladi
+! Nafas olish mushaklari falaji rivojlansa, bemor sun'iy nafas apparatiga ulanadi
+@ M JAW
+
+? Yutish buzilganda ovqat qanday beriladi?
++ Zond orqali
+- Og'iz orqali, tez
+- Sovuq holda, ko'p
+- Quruq holda
+- Yutmasdan
+! Yutish buzilganda ovqat zond orqali beriladi, bu aspiratsion pnevmoniyaning oldini oladi
+@ M JAW
+
+? Botulizmdan tiklanish qancha davom etishi mumkin?
++ Haftalar yoki oylar
+- Soatlar yoki kunlar
+- Daqiqalar yoki soatlar
+- Soniyalar yoki daqiqalar
+- Kunlar yoki haftalar
+! Tiklanish uzoq davom etishi mumkin, bemor haftalar yoki oylar davomida parvarish va reabilitatsiyada bo'ladi
+@ M JAW
+
+? Oziq-ovqat botulizmida antibiotiklar haqida qaysi gap to'g'ri?
++ Odatda buyurilmaydi
+- Doimo buyuriladi, asosiy chora
+- Birinchi tanlov hisoblanadi
+- Toksinni zararsizlantiradi
+- Antitoksinni almashtiradi
+! Antibiotiklar odatda buyurilmaydi; ayrimlari bakteriyalar parchalanib toksin ajralishini kuchaytirishi mumkin
+@ M JAW
+
+? Intensiv parvarishda yana nima nazorat qilinadi?
++ Suyuqlik va elektrolit balansi
+- Soch o'sishi va uning uzunligi
+- Tirnoq rangi va uning shakli
+- Kiyim tozaligi va uning rangi
+- Xona rangi va uning yorug'ligi
+! Bemorning suyuqlik va elektrolit balansi nazorat qilinadi
+@ M JAW
+
+? Jismoniy mashqlar botulizmdan keyin nimaga yordam beradi?
++ Mushak kuchi asta tiklanishiga
+- Toksin ko'payishiga olib keladi
+- Nafas to'xtashiga olib keladi
+- Falaj kuchayishiga olib keladi
+- Bakteriya ko'payishiga olib keladi
+! Jismoniy mashqlar mushaklar kuchini asta-sekin tiklashga yordam beradi
+@ M JAW
+
+? Botulizmda qaysi preparat bolalar uchun qo'llanadi?
++ Maxsus odam immunoglobulini
+- Ot zardobi, katta dozada
+- Penitsillin G, katta dozada
+- Gentamitsin, katta dozada
+- Metronidazol, katta dozada
+! Bolalar uchun maxsus odam immunoglobulin preparatlari qo'llanadi
+@ M JAW CDCPINK
+
+# 181
+
+? Bo'g'ma (difteriya) qo'zg'atuvchisi qaysi tur?
++ Corynebacterium diphtheriae
+- Bordetella pertussis (ko'kyo'tal)
+- Clostridium tetani (qoqshol)
+- Bacillus anthracis (kuydirgi)
+- Haemophilus influenzae (gemofil)
+! Bo'g'ma (difteriya) qo'zg'atuvchisi Corynebacterium diphtheriae; Bordetella pertussis esa ko'kyo'tal qo'zg'atuvchisi
+@ JAW WHODIPH CDCPINK
+
+? C. diphtheriae biovarlari qaysilar?
++ Gravis, mitis, intermedius
+- Alfa, beta, gamma
+- A, B, C
+- O1, O139, El Tor
+- Typhi, Paratyphi, Enteritidis
+! C. diphtheriae biovarlari: gravis, mitis va intermedius
+@ JAW CDCPINK
+
+? C. diphtheriae morfologiyasi qanday?
++ Gram-musbat, tayoqcha, uchi kengaygan
+- Gram-manfiy, kokk, juft joylashgan
+- Gram-musbat, kokk, zanjirsimon
+- Gram-manfiy, spiral, uzun egri
+- Gram-musbat, tayoqcha, sporali
+! C. diphtheriae Gram-musbat, uchlari kengaygan (cho'qmorsimon) pleomorf tayoqchalar, harakatsiz va sporasiz
+@ JAW CDCPINK
+
+? C. diphtheriae hujayrasida qanday qo'shimchalar bor?
++ Metaxromatik (volyutin) donacha
+- Endospora (spora po'sti ichida)
+- Kapsula (qalin polisaxarid)
+- Xivchin (peritrix tola)
+- Pili (yopishuvchi ipcha)
+! Bo'g'ma tayoqchasida metaxromatik (volyutin, Babesh–Ernst) donachalar bo'lib, Neyser usulida aniqlanadi
+@ JAW CDCPINK
+
+? C. diphtheriae surtmada qanday joylashadi?
++ V yoki xitoy harflari ko'rinishida
+- Zanjir bo'lib, uzun iplar
+- Uzum shingili ko'rinishida
+- Juft kokk ko'rinishida
+- Tarqoq, yakka spiral ko'rinishida
+! Bo'g'ma tayoqchalari bir-biriga burchak ostida joylashib, V yoki xitoy harflari ko'rinishini beradi
+@ JAW CDCPINK
+
+? Qaysi muhit C. diphtheriae uchun an'anaviy hisoblanadi?
++ Lyoffler ivigan zardobi
+- Endo agari, laktozali
+- Manitli tuzli agar
+- Sabouraud agari
+- Levin agari
+! Lyoffler ivigan zardob muhiti C. diphtheriae o'stirish va metaxromatik donachalarni ko'rish uchun an'anaviy
+@ JAW CDCPINK
+
+? Tellurit agarida C. diphtheriae koloniyalari qanday bo'ladi?
++ Kulrang-qora (tellurit qaytargan)
+- Qizil (laktozani bijg'itgan)
+- Sariq (manitolni bijg'itgan)
+- Rangsiz (ureaza hosil qilgan)
+- Yashil (oksidaza hosil qilgan)
+! Selektiv tellurit agarida C. diphtheriae telluritni qaytarib kulrang-qora koloniyalar hosil qiladi
+@ JAW CDCPINK
+
+? Bo'g'ma toksinini kodlovchi tox geni qayerda?
++ Lizogen β-korinefagda
+- Plazmidda, konyugatsiya orqali
+- Spora po'stida, spora ichida
+- Xivchin tolasida, xivchin ichida
+- Mitoxondriya ichida, yadroda
+! Bo'g'ma toksini geni (tox) lizogen β-korinefag tarkibida bo'ladi, shuning uchun faqat lizogen shtammlar toksigen
+@ JAW CDCPINK
+
+? C. diphtheriae biokimyoviy belgisi qaysi?
++ Glyukoza, maltozani bijg'itadi
+- Laktoza, saxarozani bijg'itadi
+- Saxarozani bijg'itadi, glyukozani emas
+- Hech qaysi shakarni bijg'itmaydi
+- Laktozanigina bijg'itadi
+! C. diphtheriae glyukoza va maltozani kislota hosil qilib bijg'itadi, saxarozani odatda bijg'itmaydi
+@ JAW CDCPINK
+
+? Bordetella pertussis qaysi kasallikni qo'zg'atadi?
++ Ko'kyo'talni
+- Bo'g'mani (difteriya)
+- Qoqsholni (tetanus)
+- Botulizmni (zaharlanish)
+- Kuydirgini (antraks)
+! Bordetella pertussis ko'kyo'tal qo'zg'atuvchisi; bo'g'ma esa Corynebacterium diphtheriae tomonidan chaqiriladi
+@ JAW WHOPERT
+
+# 182
+
+? Bo'g'ma qo'zg'atuvchisi asosan qanday yo'l bilan yuqadi?
++ Havo-tomchi yo'li bilan
+- Fekal-oral yo'l bilan
+- Transmissiv yo'l bilan
+- Parenteral yo'l bilan
+- Jinsiy yo'l bilan
+! Bo'g'ma asosan nafas yo'llari orqali, yo'tal, aksirish va gapirishda hosil bo'ladigan mayda tomchilar bilan yuqadi
+@ M JAW WHODIPH
+
+? Bo'g'ma infeksiyasining manbai kim?
++ Bemor va toksigen tashuvchi
+- Sog'lom emlangan bola, tashuvchi emas
+- Uy hayvonlari va qushlar, tashuvchi
+- Suv havzalari va daryolar, tashuvchi
+- Tuproq va uning changi, tashuvchi
+! Infeksiya manbai — bemor va toksigen qo'zg'atuvchi tashuvchi odam
+@ JAW WHODIPH CDCPINK
+
+? Bo'g'ma yuqishi qayerda ehtimoli oshadi?
++ Yaqin muloqotda: oila, bog'cha
+- Alohida xonada, yolg'iz holda
+- Ochiq maydonda, uzoq masofada
+- Uzoq masofada, alohida holda
+- Tog'li hududda, yolg'iz holda
+! Yaqin muloqot, masalan oilada yoki bog'chada bir xonada uzoq vaqt birga bo'lish, yuqish ehtimolini oshiradi
+@ M JAW
+
+? Buyumlar orqali yuqish haqida qaysi gap to'g'ri?
++ Kam yuqadi, tashqarida tez nobud bo'ladi
+- Eng keng tarqalgan, doimiy yo'l hisoblanadi
+- Doimo yuqadi, shubhasiz yo'l hisoblanadi
+- Sovuqda yuqadi, issiqda yuqmaydi
+- Suvda yuqadi, quruqda yuqmaydi
+! Qo'zg'atuvchi buyumlar orqali kamdan-kam yuqadi, chunki tashqi muhitda tez nobud bo'ladi
+@ M JAW
+
+? Qo'zg'atuvchi nafas yo'llariga kirgach qayerga yopishadi?
++ Kiprikli epiteliy hujayralariga
+- Eritrotsitlarga, qon ichida
+- Neytrofillarga, qon ichida
+- Nerv hujayralariga, miya ichida
+- Jigar hujayralariga, bez ichida
+! Qo'zg'atuvchi nafas yo'llariga kirgach, kiprikli epiteliy hujayralariga yopishadi
+@ M JAW
+
+? Bo'g'ma toksini ta'sir mexanizmi qanday?
++ EF-2 ni ADP-ribozillab, oqsil sintezini to'xtatadi
+- Adenilatsiklazani faollashtirib, suv ajratadi
+- Atsetilxolin ajralishini to'xtatib, falaj qiladi
+- Membranada teshik hosil qilib, hujayrani eritadi
+- Glitsin retseptorini to'sib, tortishish qiladi
+! Toksinning A fragmenti elongatsiya omili 2 ni ADP-ribozillab, oqsil sintezini to'xtatadi va hujayra nobud bo'ladi
+@ M JAW
+
+? Bo'g'ma toksini qanday tuzilishga ega?
++ A va B fragmentli oqsil
+- Lipopolisaxarid zanjiri
+- Polisaxarid kapsulasi
+- Peptidoglikan bo'lagi
+- Teyxoy kislota bo'lagi
+! Bo'g'ma toksini A va B fragmentlardan iborat; B fragment hujayraga birikib, A ning hujayra ichiga kirishiga yordam beradi
+@ M JAW
+
+? Bo'g'maning xarakterli mahalliy belgisi qaysi?
++ Halqumda yopishqoq oq-kulrang parda
+- Burunda suvli ajralma va shishish
+- Terida qizil mayda toshma va dog'
+- Ichakda qon aralash najas va og'riq
+- Quloqda yiringli ajralma va og'riq
+! Tomoq va halqumda shilliq qavatga mahkam yopishgan, olib tashlanganda qon ketadigan bo'g'ma pardasi hosil bo'ladi
+@ M JAW
+
+? Katta yoshli kasallar nima uchun xavfli bo'lishi mumkin?
++ Yengil o'tib, bolalarga manba bo'ladi
+- Doim og'ir o'tib, o'limga olib keladi
+- Hech qachon yuqtirmaydi, zararsiz bo'ladi
+- Hayvonlarga yuqtiradi, odamga emas
+- Antibiotikka sezgir bo'lmaydi, yuqtiradi
+! Immuniteti pasaygan katta yoshlilarda kasallik yengil o'tishi mumkin, ammo ular bolalar uchun manba bo'ladi
+@ M JAW
+
+? Oila a'zolarini emlash nima uchun muhim?
++ Yaqin kontaktlarda yuqishni to'sadi
+- Antibiotikni almashtirib yuboradi
+- Bemorni tezda davolab yuboradi
+- Toksinni o'ldirib yuboradi
+- Tashxisni tezlashtirib yuboradi
+! Yaqin oila a'zolarini emlash va kontaktlarni aniqlash profilaktikaning ajralmas qismi hisoblanadi
+@ M JAW WHODIPH CDCPINK

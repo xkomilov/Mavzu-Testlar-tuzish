@@ -51,6 +51,9 @@ SOURCES = {
     "CDCSTI": "CDC. Sexually Transmitted Infections Treatment Guidelines, 2021 (MMWR Recomm Rep 2021;70(4))",
     "CDCGBS": "CDC. Prevention of Perinatal Group B Streptococcal Disease: Revised Guidelines (MMWR 2010;59(RR-10))",
     "WHOBRU": "WHO/FAO/OIE. Brucellosis in humans and animals (WHO/CDS/EPR/2006.7)",
+    "WHODIPH": "WHO. Diphtheria vaccine: WHO position paper, August 2017 (Wkly Epidemiol Rec 2017;92:417-36)",
+    "WHOPERT": "WHO. Pertussis vaccines: WHO position paper, August 2015 (Wkly Epidemiol Rec 2015;90:433-58)",
+    "CDCPINK": "CDC. Epidemiology and Prevention of Vaccine-Preventable Diseases (Pink Book), 14th ed. (2021)",
     "LENS": "Lens on Leeuwenhoek (lensonleeuwenhoek.net) — Visibility",
 }
 
