@@ -1,0 +1,668 @@
+# 236
+
+? Dezinfeksiya usullari qanday guruhlarga bo'linadi?
++ Fizikaviy va kimyoviy usullarga
+- Mexanik va elektrik usullarga
+- Termik va akustik usullarga
+- Optik va magnit usullarga
+- Pnevmatik va gidravlik usullarga
+! Dezinfeksiya fizikaviy (issiqlik, ultrabinafsha nur) va kimyoviy usullarga bo'linadi
+@ M CDCSTER
+
+? Dezinfeksiya uchun odatda qaysi konsentratsiyadagi spirt ishlatiladi?
++ 70 foizli etil spirti
+- 100 foizli absolyut spirt
+- 30 foizli etil spirti
+- 10 foizli etil spirti
+- 5 foizli etil spirti
+! Odatda 70 foizli spirt ishlatiladi; CDC bo'yicha spirtlar 60–90 % konsentratsiyada eng samarali
+@ M CDCSTER
+
+? Nima uchun 70 foizli spirt tanlanadi?
++ Mikrob hujayrasiga yaxshi kirib boradi
+- Tez qaynab, bug'lanib ketadi
+- Rangi bilan mikroblarni bo'yaydi
+- Oqsillarni umuman o'zgartirmaydi
+- Sporalarni to'liq yo'q qiladi
+! Bu konsentratsiya mikroblar hujayrasiga yaxshi kiradi; spirt sporalarga ta'sir qilmaydi va tez bug'lanadi
+@ M CDCSTER
+
+? Xlorli birikmalar bilan ishlashdan oldin sirt nima uchun tozalanadi?
++ Organik moddalar bilan tez reaksiyaga kirishadi
+- Yog'larda erimagani uchun yuzani buzadi
+- Rangi sirtning qorayib ketishiga sabab bo'ladi
+- Metall bilan kimyoviy aralashib o'chib qoladi
+- Suvda erimay cho'kma hosil qilgani uchun
+! Xlorli birikmalar organik moddalar bilan tez reaksiyaga kirishib sarflanadi, shuning uchun sirt avval tozalanadi
+@ M CDCSTER
+
+? Quyidagilardan qaysi biri xlorli dezinfeksiyalovchi modda?
++ Natriy gipoxlorit eritmasi
+- Izopropil spirti eritmasi
+- Kvaternar ammoniy eritmasi
+- Fenol (karbol kislota) eritmasi
+- Vodorod peroksid eritmasi
+! Natriy gipoxlorit va xlorli ohak keng spektrli ta'sir ko'rsatadigan xlor birikmalari
+@ M CDCSTER
+
+? Kvaternar ammoniy birikmalarining asosiy kamchiligi nima?
++ Sporalarga kuchsiz ta'sir qiladi
+- Juda yuqori toksikligi va o'tkir hidi
+- Metallarni tez zanglatishi va yemirishi
+- Vegetativ bakteriyalarga umuman ta'sir qilmaydi
+- Suvda erimay cho'kma hosil qilishi
+! Kvaternar ammoniy birikmalari sirtlar uchun qulay, lekin sporalarga kuchsiz ta'sir qiladi
+@ M CDCSTER
+
+? Foiz konsentratsiya nimani bildiradi?
++ 100 ml eritmadagi moddaning grammlardagi miqdori
+- 1 litr suvdagi moddaning milligrammlardagi miqdori
+- 100 g suvdagi moddaning millilitrlardagi miqdori
+- 1 ml eritmadagi molekulalar sonining miqdori
+- Eritma massasining hajmga bo'lingan zichligi
+! Foiz konsentratsiya 100 ml eritmadagi moddaning grammlarda ifodalangan miqdori; 5 % eritma 100 ml da 5 g modda saqlaydi
+@ M
+
+? 5 foizli eritmaning 100 ml da necha gramm modda bo'ladi?
++ 5 gramm
+- 0,5 gramm
+- 50 gramm
+- 500 gramm
+- 0,05 gramm
+! 5 % eritma 100 ml da 5 g modda saqlaydi
+@ M
+
+? C1 × V1 = C2 × V2 formulasida V2 nimani bildiradi?
++ Tayyor eritma hajmini
+- Olinadigan zaxira eritma hajmini
+- Kerakli konsentratsiyani
+- Boshlang'ich konsentratsiyani
+- Qo'shiladigan suv hajmini
+! Formulada C1 boshlang'ich konsentratsiya, V1 olinadigan hajm, C2 kerakli konsentratsiya, V2 esa tayyor eritma hajmi
+@ M
+
+? 5 foizli zaxira eritmadan 500 ml 0,5 foizli eritma tayyorlash uchun necha ml olinadi?
++ 50 ml
+- 5 ml
+- 100 ml
+- 250 ml
+- 450 ml
+! V1 = (0,5 × 500) / 5 = 50 ml; unga 450 ml suv qo'shiladi
+@ M
+
+? Kislotadan eritma tayyorlashda qanday tartib saqlanadi?
++ Kislotani suvga sekin qo'shish
+- Suvni kislotaga bir yo'la quyish
+- Kislota va suvni bir vaqtda qaynatish
+- Kislotani isitilgan idishda suyultirish
+- Suvni kislota ustiga sachratib quyish
+! Kislota suvga sekin qo'shiladi; teskarisi qilinsa issiqlik ajralib, sachrash xavfi tug'iladi
+@ M WHOLBM
+
+? Xlorli eritma kislota yoki ammiak bilan aralashtirilsa nima bo'ladi?
++ Zaharli gaz ajralishi mumkin
+- Dezinfeksiya kuchi ikki baravar ortadi
+- Rangsiz shaffof tusga o'tib qoladi
+- Konsentratsiyasi o'z-o'zidan kamayadi
+- Muzlab, qotib qolishi mumkin
+! Xlorli birikmalar kislota yoki ammiak bilan reaksiyaga kirib zaharli gaz ajratishi mumkin, shuning uchun aralashtirilmaydi
+@ M CDCSTER
+
+# 237
+
+? Zararli materiallar qaysi guruhlarga ajratiladi?
++ Kulturalar, yuqumli namunalar, o'tkir buyumlar
+- Qog'oz, mato, yog'och va karton buyumlar
+- Shisha, metall, rezina va keramika buyumlar
+- Oziq-ovqat, suv, dori va vitamin vositalari
+- Kiyim, poyabzal, gilam va parda buyumlar
+! Mikrobiologik kulturalar, yuqumli namunalar va o'tkir uchli buyumlar alohida guruhlarga kiradi
+@ M WHOLBM
+
+? Avtoklavga qo'yiladigan paket yoki idish qanday bo'lishi kerak?
++ Bug' kirishi uchun ochiq yoki filtrli
+- Bug' o'tmasligi uchun zich yopilgan
+- Havo kirmasligi uchun metall plombali
+- Kamerani to'liq to'ldiradigan hajmli
+- Qopqog'i mahkam burab qo'yilgan
+! Paket va idish bug' kirishi uchun ochiq yoki maxsus filtrli bo'lishi kerak, aks holda zararsizlantirish samarasiz bo'ladi
+@ M CDCSTER
+
+? Yopiq idishlarni avtoklavlash qanday xavf tug'diradi?
++ Bosim ostida portlash xavfini
+- Muzlab qolish xavfini
+- Rangsizlanish xavfini
+- Magnit maydon hosil bo'lishi xavfini
+- Statik zaryad to'planishi xavfini
+! Yopiq idishlar bosim ostida portlashi mumkin, shuning uchun qopqoq bo'shatiladi
+@ M CDCSTER
+
+? Avtoklavdan keyin indikator rangi o'zgarmasa nima deb qaraladi?
++ Jarayon to'liq o'tmagan deb qaraladi
+- Jarayon muvaffaqiyatli o'tgan deb qaraladi
+- Indikator muddati o'tgan deb qaraladi
+- Bosim o'lchagich buzilgan deb qaraladi
+- Chiqindi zararsiz deb qaraladi
+! Indikator rangi o'zgarmasa jarayon to'liq o'tmagan hisoblanadi va yuklama qayta ishlanadi
+@ M CDCSTER
+
+? Quruq issiqlik pechida harorat odatda qancha ushlab turiladi?
++ 160–180 °C atrofida
+- 60–80 °C atrofida
+- 100–120 °C atrofida
+- 250–300 °C atrofida
+- 40–50 °C atrofida
+! Quruq issiqlik pechida harorat 160–180 °C atrofida ushlab turiladi va zararsizlantirish bir necha soat davom etadi
+@ M CDCSTER
+
+? Quruq issiqlik pechida qaysi buyumlar zararsizlantiriladi?
++ Shisha va metall buyumlar
+- Plastik va rezina buyumlar
+- Qog'oz va mato buyumlar
+- Suyuq oziqa muhitlari
+- Rezina tiqin va naychalar
+! Quruq issiqlik shisha va metall buyumlar uchun ishlatiladi; plastik, qog'oz va mato bu haroratda buzilishi mumkin
+@ M CDCSTER
+
+? Quruq issiqlik pechining eshigi ochilishidan oldin nima qilinadi?
++ Pech soviguncha kutiladi
+- Sovuq suv sepib sovitiladi
+- Eshik zo'rlab ochiladi
+- Harorat yana 50 darajaga ko'tariladi
+- Buyumlar ustiga muz qo'yiladi
+! Issiq buyumlarga sovuq havo tegsa, shisha va naychalar sinishi mumkin, shuning uchun pech soviguncha kutiladi
+@ M
+
+? Insenerator yordamida kuydirish nima uchun qo'llanadi?
++ Yuqumli chiqindini yakuniy yo'q qilish uchun
+- Shisha idishlarni qayta ishlatish uchun
+- Oziqa muhitlarini sovitib saqlash uchun
+- Bo'yoqlarni quritish va saqlash uchun
+- Mikroskop linzalarini tozalash uchun
+! Kuydirish yuqumli chiqindi, to'qima qoldiqlari va hayvon tanalarini yakuniy yo'q qilish usuli
+@ M WHOLBM
+
+? Kuydirish usuli qaerda bajarilishi mumkin?
++ Maxsus jihozlangan ruxsat etilgan muassasada
+- Laboratoriyaning oddiy ish stolida yoqib
+- Ochiq hovlidagi chiqindi uyumida yoqib
+- Yashash binosining oshxonasi plitasida
+- Maktab sport zalining markazida
+! Kuydirish yuqori harorat va gazlar bilan bog'liq bo'lgani uchun faqat ruxsat etilgan, maxsus jihozlangan muassasada bajariladi
+@ M
+
+? Ultrabinafsha nur mikroblarga qanday ta'sir qiladi?
++ Mikroblar DNKsiga zarar yetkazadi
+- Hujayra ribosomalarini eritib yuboradi
+- Mikroblarni muzlatib qotirib qo'yadi
+- Oqsillarni qaynatib koagulyatsiya qiladi
+- Hujayralarni quritib kukunga aylantiradi
+! UB nur mikroblar DNKsiga zarar yetkazib, ularning ko'payishini to'xtatadi
+@ M JAW
+
+? Ultrabinafsha nurning asosiy cheklovi nima?
++ Ochiq sirtga ta'sir qiladi, soyada ishlamaydi
+- Chuqur to'qimalarga kirib, hammasini yoqadi
+- Devor orqali o'tib, hamma joyga ta'sir qiladi
+- Changli sharoitda samaradorligi oshadi
+- Qalin qatlamli materiallarni yaxshi zararsizlantiradi
+! UB nur kam kirib boradi: u faqat ochiq sirtga ta'sir qiladi va soya, chang yoki qalin qatlamda samarasi pasayadi
+@ M JAW
+
+? Gamma va elektron nurlanish qaerda qo'llanadi?
++ Sanoatda bir martalik tibbiy buyumlarda
+- Har kuni laboratoriya stollarida
+- Bo'yoq eritmalarini tayyorlashda
+- Mikroskop ob'ektivini tozalashda
+- Surtma preparatlarini quritishda
+! Gamma va elektron nurlanish sanoatda bir martalik tibbiy buyumlarni zararsizlantirishda qo'llanadi, laboratoriyada kam uchraydi
+@ M CDCSTER
+
+# 238
+
+? Kimyoviy usulning asosiy afzalligi nima?
++ Qizdirilmaydigan buyumlarga zarar bermaydi
+- Sporalarni har doim to'liq yo'q qiladi
+- Chiqindisi atrof-muhitga zararsiz bo'ladi
+- Xodim uchun mutlaqo xavfsiz hisoblanadi
+- Organik moddali sirtda ham to'liq ishlaydi
+! Kimyoviy usul elektron asboblar, optik qismlar va plastik kabi qizdirib bo'lmaydigan buyumlarga zarar yetkazmaydi
+@ M CDCSTER
+
+? Qon yoki balg'am bor sirtda dezinfeksiya qanday boshlanadi?
++ Avval mexanik tozalash bajariladi
+- Darhol kuchli vosita sepib qo'yiladi
+- Sirt quruq mato bilan yopib qo'yiladi
+- Avval spirt bilan yoqib yuboriladi
+- Vosita konsentratsiyasi kamaytirib qo'yiladi
+! Organik moddalar vosita samarasini kamaytiradi, shuning uchun avval mexanik tozalash, so'ng dezinfeksiya qilinadi
+@ M CDCSTER
+
+? Xlorli eritma ishlatishda qaysi eritma samaraliroq?
++ Yangi tayyorlangan eritma
+- Bir oy oldin tayyorlangan eritma
+- Ochiq idishda saqlangan eritma
+- Quyoshda qoldirilgan eritma
+- Muddati o'tgan eritma
+! Xlorli eritmalar tez sarflanadi va faolligini yo'qotadi, shu sababli yangi tayyorlangan eritma samaraliroq
+@ M CDCSTER
+
+? Xlorli birikmalar metall va bo'yoqli yuzalarga qanday ta'sir qiladi?
++ Zarar yetkazishi va oqartirishi mumkin
+- Himoya qatlami hosil qilib mustahkamlaydi
+- Yuzani yaltiratib tozalab qo'yadi
+- Rangini yanada to'qroq qilib beradi
+- Yuzaga ta'sir ko'rsatmaydi
+! Xlorli birikmalar metallga zarar yetkazishi va materiallarni oqartirishi mumkin, shuning uchun konsentratsiya materialga mos tanlanadi
+@ M CDCSTER
+
+? Fenol nima uchun laboratoriyalarda cheklangan qo'llanadi?
++ Toksik, teri orqali ham zaharlashi mumkin
+- Suvda erimay, cho'kma hosil qiladi
+- Mikroblarga umuman ta'sir qilmaydi
+- Arzon va keng tarqalgan bo'lgani uchun
+- Sporalarni tez yo'q qilgani uchun
+! Fenol toksik, xodimlar teri orqali ham zaharlanishi mumkin, shu sabab uning o'rniga boshqa vositalar afzal ko'riladi
+@ M CDCSTER
+
+? Formaldegid bilan ishlashda nima talab etiladi?
++ Yaxshi shamollatish va himoya vositalari
+- Ochiq xonada himoya vositalarisiz ishlash
+- Qaynoq suvda eritib sepib yuborish
+- Idishni ochiq qoldirib havoni tozalash
+- Kanalizatsiyaga to'kib tashlash
+! Formaldegid kanserogen deb tan olingan, shuning uchun yaxshi shamollatiladigan joyda, himoya vositalari bilan ishlatiladi
+@ M CDCSTER
+
+? Ishlatilgan glutaraldegid eritmasi qanday yo'q qilinadi?
++ Maxsus chiqindi sifatida yig'iladi
+- Oddiy kanalizatsiyaga to'kib tashlanadi
+- Ochiq hovlida tuproqqa quyiladi
+- Oddiy axlat qutisiga sepiladi
+- Qayta ishlatish uchun ochiq qoldiriladi
+! Ishlatilgan glutaraldegid eritmasi maxsus chiqindi sifatida yig'iladi va oddiy kanalizatsiyaga tashlanmaydi
+@ M CDCSTER
+
+? Qaysi vosita formaldegidga qaraganda kuchliroq sporotsid hisoblanadi?
++ Glutaraldegid
+- Kvaternar ammoniy
+- Izopropil spirti
+- Etil spirti
+- Fenol
+! Glutaraldegid formaldegidga qaraganda kuchliroq sporotsid ta'sirga ega deb hisoblanadi, lekin teri va nafas yo'llarini tirnashtiradi
+@ M CDCSTER
+
+? Vodorod peroksid parchalanganda asosan nimalar hosil bo'ladi?
++ Suv, kislorod va sirka kislotasi
+- Xlorid kislota va natriy tuzi
+- Fenol va formaldegid birikmalari
+- Ammiak va azot dioksidi gazi
+- Uglerod oksidi va qurum
+! Peroksid birikmalar suv, kislorod va sirka kislotasiga parchalanadi, shuning uchun ular ekologik jihatdan qulay
+@ M CDCSTER
+
+? Kvaternar ammoniy birikmalari mikroblarga qanday ta'sir qiladi?
++ Hujayra membranasini buzadi
+- Ribosomada oqsil sintezini to'xtatadi
+- Peptidoglikan sintezini bloklaydi
+- DNK giraza fermentini to'xtatadi
+- Mikroblarni muzlatib qotirib qo'yadi
+! Kvaternar ammoniy birikmalari sirt faol modda bo'lib, mikroblar hujayra membranasini buzadi
+@ M CDCSTER
+
+? Kvaternar ammoniy birikmalari nima uchun kundalik tozalashda qulay?
++ Kam toksik, hidsiz va materialga kam zarar
+- Sporalarni ham tez va to'liq yo'q qiladi
+- Sabun bilan aralashganda samarasi oshadi
+- Juda toksik bo'lgani uchun faol ishlaydi
+- Metallarni yaxshi tozalab yaltiratadi
+! Bu birikmalar kam toksik, odatda hid chiqarmaydi va materialga kam zarar yetkazadi, shuning uchun sirtlarni kundalik tozalashda qulay
+@ M CDCSTER
+
+? Kvaternar birikmalar qaysi moddalar bilan aralashsa samarasi pasayadi?
++ Sabunlar va anion sirt faol moddalar
+- Distillangan suv va toza idish
+- Etil spirti va izopropil spirti
+- Vodorod peroksid va kislorod
+- Natriy xlorid va fiziologik eritma
+! Kvaternar birikmalar sabunlar va anion sirt faol moddalar bilan aralashib, samaradorligini pasaytirishi mumkin
+@ M
+
+# 239
+
+? Petri idishlari va kolbalar ko'pincha qanday shishadan tayyorlanadi?
++ Termik chidamli borosilikat shisha
+- Oddiy deraza oynasi shishasi
+- Rangli bezak uchun shisha
+- Ko'zgu tayyorlanadigan shisha
+- Termik chidamsiz shaffof shisha
+! Termik chidamli borosilikat shisha yuqori harorat va bosimga chidaydi, kimyoviy barqaror va sinishga bardoshli
+@ M CDCSTER
+
+? Plastmassa idishlarni avtoklavlashdan oldin nima tekshiriladi?
++ Avtoklavlash belgisi va ko'rsatma
+- Rangi yorqinligi va hidi
+- Narxi va ishlab chiqarilgan joyi
+- Vazni va qopqog'ining rangi
+- Hajmi va shaffofligi darajasi
+! Plastmassa idishlarning hammasi ham avtoklavlashga chidamaydi; ustida avtoklavlash belgisi bo'lishi va ko'rsatmaga rioya qilinishi kerak
+@ M CDCSTER
+
+? Laboratoriya metall asboblari qanday materialdan bo'lishi kerak?
++ Zanglamaydigan po'latdan
+- Oddiy, zanglovchi temirdan
+- Yumshoq qo'rg'oshindan
+- Qalay bilan qoplangan misdan
+- Alyuminiy folgadan
+! Pinset va qaychi kabi metall asboblar zanglamaydigan po'latdan bo'lishi kerak
+@ M
+
+? Ishlatilgan idish qachon tozalanadi?
++ Iloji boricha tez, qoldiq qurimasdan
+- Bir hafta o'tgach, qoldiq qurigach
+- Oy oxirida, hammasi to'planganda
+- Ertasi kuni, qoldiq qotganidan keyin
+- Ish tugamaguncha tegilmasdan qoldiriladi
+! Qurigan qoldiqni ajratish qiyin, shuning uchun idish ishlatilgandan so'ng iloji boricha tez tozalanadi
+@ M
+
+? Kultura bilan ishlatilgan idishlar qanday tartibda tozalanadi?
++ Avval dezinfeksiya, so'ngra yuvish
+- Avval yuvish, so'ngra dezinfeksiya
+- Dezinfeksiyasiz oqar suvda yuviladi
+- Quruq holda qoldirib tashlanadi
+- Qizdirib quritilib, yuvilmay ishlatiladi
+! Kulturali idishlar avval dezinfeksiyalanadi, so'ngra yuviladi; bu xodimni yuvish jarayonidagi infeksiyadan himoya qiladi
+@ M WHOLBM
+
+? Idishlar nima bilan yuviladi?
++ Iliq suv, neytral vosita va cho'tka
+- Qaynoq kislota va metall cho'tka
+- Konsentrlangan ishqor va qum
+- Sovuq suv va kuchli abraziv kukun
+- Benzin va quruq mato
+! Yuvishda iliq suv, neytral yuvish vositasi va cho'tka ishlatiladi; kuchli kislota yoki ishqor shisha yuzasini zararlaydi
+@ M
+
+? Yuvilgan idish qanday chayiladi?
++ Oqar suv, so'ngra distillangan suv bilan
+- Sovunli suv bilan chayilib, quritiladi
+- Spirt bilan chayilib, tezda yoqiladi
+- Xlorli eritma bilan chayilib, quritiladi
+- Kislotali suv bilan chayilib, saqlanadi
+! Yuvilgan idish oqar suv bilan, so'ngra distillangan suv bilan chayiladi; qoldiq sovun natijani buzadi
+@ M
+
+? Idish ichida suv qolgan holda sterilizatsiya qilinsa nima bo'ladi?
++ Paket namlanib, steril holati buziladi
+- Idish tezroq sterillanadi va quriydi
+- Suv mikroblarni o'zi yo'q qiladi
+- Paket qalinlashib, bug'ni o'tkazadi
+- Sterillik ikki baravar ishonchli bo'ladi
+! Ichkaridagi suv bug' hosil qilib, o'rash materialini namlaydi va paketning steril holatini buzadi
+@ M
+
+? Paxta tiqinning vazifasi nima?
++ Havo almashadi, mikroblar kirmaydi
+- Muhitni isitib, bug'lanishini tezlatadi
+- Bo'yoqni singdirib, rangini oshiradi
+- Mikroblar o'sishini kuchaytirib beradi
+- Havo o'tkazmay, vakuum hosil qiladi
+! Paxta tiqin havo almashinuvini ta'minlaydi, lekin ichkariga mikroblar kirishiga yo'l qo'ymaydi
+@ M
+
+? Sterilizatsiya paytida kolba qopqog'i qanday holatda bo'ladi?
++ Portlashdan saqlash uchun bo'shatilgan
+- Bug' kirmasligi uchun mahkam burab yopilgan
+- Havo chiqmasligi uchun parafin bilan yopilgan
+- Kengaymasligi uchun muhrlab qo'yilgan
+- Bosimni oshirish uchun qo'shimcha siqilgan
+! Yopiq idishdagi bosim portlashga olib kelishi mumkin, shuning uchun kolba va probirka qopqog'i bo'shatib qo'yiladi
+@ M CDCSTER
+
+? Sterilizatsiyaga tayyor paket yorlig'ida nima ko'rsatiladi?
++ Tayyorlangan sana, idish turi va xodim ismi
+- Bemor ismi, kasalligi va tug'ilgan yili
+- Do'kon nomi, narxi va chegirma miqdori
+- Idish rangi, hidi va og'irligi grammda
+- Laboratoriya manzili va uning maydoni
+! Yorliqda tayyorlangan sana, idish turi va xodimning ismi ko'rsatiladi; bu paket qaysi yuklamaga kirganini aniqlashga yordam beradi
+@ M
+
+? Sterilizatsiya yuklamasi jurnaliga nimalar yoziladi?
++ Rejim, harorat, bosim va vaqt
+- Xodim kayfiyati, ob-havo va soat
+- Idish narxi, rangi va markasi
+- Xonaning yoritilishi va shovqin darajasi
+- Bemor ismi va tug'ilgan yili
+! Jurnalda sterilizatsiya rejimi, harorat, bosim va vaqt qayd etiladi, bu yozuvlar nazoratning asosiy qismi
+@ M CDCSTER
+
+# 240
+
+? Sterilizatsiya dezinfeksiyadan nimasi bilan farq qiladi?
++ Sporalarni ham yo'q qilib, sterillikni ta'minlaydi
+- Patogen mikroblar sonini kamaytiradi, xolos
+- Tirik to'qimalarga zarar bermay qo'llanadi
+- Sirtlarga kimyoviy vosita surtish bilan cheklanadi
+- Qaynatish yo'li bilan to'liq bajariladi
+! Dezinfeksiya patogenlarni kamaytiradi, sporalarni yo'q qilmasligi mumkin; sterilizatsiya esa sterillik holatini ta'minlaydi
+@ M CDCSTER
+
+? Antiseptika qaerda qo'llanadi?
++ Tirik to'qimalarga zarar yetkazmay qo'llanadi
+- Jarrohlik asboblari va shisha idishlarga
+- Laboratoriya sirtlari va polga
+- Oziqa muhitlari va chiqindi idishlariga
+- Havo filtrlari va ventilyatsiya quvurlariga
+! Antiseptika tirik to'qimalarga qo'llanadi va ularga zarar yetkazmaslik talabi bilan bog'liq
+@ M CDCSTER
+
+? Sterilizatsiya rejimi qaysi mikroblarga mo'ljallanadi?
++ Eng chidamli mikroblar — sporalarga
+- Eng sezgir vegetativ hujayralarga
+- Viruslarning yuqumli zarrachalariga
+- Zamburug' konidiyalarining bir qismiga
+- Sodda jonivorlar kistalariga
+! Sporalar eng chidamli, shuning uchun rejim ularga mo'ljallanadi va vegetativ shakllar uchun ham yetarli bo'ladi
+@ M CDCSTER
+
+? Issiqlik bilan sterilizatsiya qanday turlarga bo'linadi?
++ Quruq va nam issiqlikka
+- Sovuq va muzlatishga
+- Elektr va magnit maydoniga
+- Tovush va ultratovushga
+- Bosimli va bosimsiz sovuqqa
+! Issiqlik usullari quruq issiqlik va nam issiqlik (bug') turlariga bo'linadi
+@ M CDCSTER
+
+? Qaynatish nima uchun sterilizatsiya hisoblanmaydi?
++ 100 °C da barcha sporalar yo'q bo'lmaydi
+- Suv 100 °C ga yetmaydi
+- Qaynatganda mikroblar ko'payib ketadi
+- Qaynatish vegetativ hujayralarga ta'sir qilmaydi
+- Qaynoq suv oqsillarni mustahkamlaydi
+! 100 °C da sporalar ishonchli yo'q qilinmaydi, shuning uchun qaynatish faqat qisman dezinfeksiya hisoblanadi
+@ M CDCSTER
+
+? Filtrlash qaysi eritmalar uchun qo'llanadi?
++ Issiqlikka bardoshsiz eritmalar uchun
+- Juda bardoshli shisha buyumlar uchun
+- Bo'yoq bilan bo'yalgan matolar uchun
+- Katta hajmdagi tuproq uyumlari uchun
+- Metall asboblar va pinset to'plamlari uchun
+! Filtrlash antibiotik, oqsil va zardob kabi termolabil eritmalar uchun qo'llanadi: mikroblar ushlanib, o'tgan suyuqlik steril bo'ladi
+@ M CDCSTER
+
+? Membrana filtrlarning g'ovakligi odatda qancha?
++ Taxminan 0,22 mkm
+- Taxminan 22 mkm
+- Taxminan 0,022 mkm
+- Taxminan 220 mkm
+- Taxminan 2200 mkm
+! Membrana filtrlarning g'ovakligi odatda 0,22 mkm atrofida bo'lib, bakteriyalarni ushlab qolish uchun yetarli
+@ M CDCSTER
+
+? Membrana filtrdan qaysi mikroorganizmlar o'tishi mumkin?
++ Ba'zi viruslar va mayda mikoplazmalar
+- Stafilokokk va streptokokk hujayralari
+- Sporalar va ichak tayoqchalari
+- Xamirturush va zamburug' hujayralari
+- Katta bakteriyalar va ularning kapsulalari
+! Ba'zi viruslar va mayda mikoplazmalar 0,22 mkm filtrdan o'tishi mumkin, shuning uchun usul hamma holatda mos emas
+@ M CDCSTER
+
+? HEPA filtrlar nima uchun ishlatiladi?
++ Havodagi mayda zarrachalarni ushlash uchun
+- Suvdagi viruslarni qaynatish uchun
+- Oziqa muhitini quruq sterillash uchun
+- Bo'yoqni suyultirib tozalash uchun
+- Preparatni fiksatsiya qilish uchun
+! HEPA filtrlar juda mayda zarrachalarni ushlab, xona havosini tozalaydi; operatsiya xonalari va steril zonalarda qo'llanadi
+@ M CDCSTER
+
+? Etilenoksid qanday xususiyatga ega?
++ Juda zaharli va yonuvchan gaz
+- Hidsiz, zararsiz va yonmaydigan gaz
+- Qoldiqsiz, shamollatish talab etmaydigan gaz
+- Qizdirilgan holda qo'llanadigan quruq modda
+- Kuchli radioaktiv nurlanuvchi modda
+! Etilenoksid juda zaharli va yonuvchan, shuning uchun maxsus kamera va uzoq shamollatish talab qiladi
+@ M CDCSTER
+
+? Etilenoksid va formaldegid bug'i qaysi asboblar uchun ishlatiladi?
++ Issiqlikka sezgir asboblar uchun
+- Issiqlikka chidamli shisha idishlar uchun
+- Metall pinset va qaychi to'plamlari uchun
+- Oziqa muhitlari quyiladigan kolbalar uchun
+- Bo'yoq eritmasi saqlanadigan idishlar uchun
+! Kimyoviy gazlar plastik va elektron buyumlar kabi yuqori haroratga chidamaydigan asboblarni zararsizlantiradi
+@ M CDCSTER
+
+? Vodorod peroksid plazma usuli qanday xususiyatga ega?
++ Past harorat va qisqa vaqtda ishlaydi
+- Yuqori harorat va uzoq vaqt talab qiladi
+- Qog'oz va tabiiy tolalar uchun eng mos keladi
+- Ko'p soatlik shamollatish talab etadi
+- Oddiy qaynoq suvda bajariladi
+! Plazma usuli past harorat va qisqa vaqtda ishlaydi, lekin qog'oz va ba'zi tabiiy tolalarga mos emas
+@ M CDCSTER
+
+# 241
+
+? Avtoklav kamerasida bosim oshganda nima yuz beradi?
++ Suvning qaynash harorati ko'tariladi
+- Suvning qaynash harorati pasayadi
+- Suv qaynashdan to'xtab qoladi
+- Bug' hosil bo'lishi to'xtaydi
+- Bug' hajmi ikki baravar kamayadi
+! Yopiq idishda bosim oshganda suvning qaynash harorati ko'tariladi va bug' 121 °C va undan yuqori haroratgacha yetadi
+@ M CDCSTER
+
+? Standart avtoklav rejimida bug' harorati taxminan qancha?
++ Taxminan 121 °C
+- Taxminan 100 °C
+- Taxminan 60 °C
+- Taxminan 80 °C
+- Taxminan 37 °C
+! Avtoklav kamerasida bug' taxminan 121 °C va undan yuqori haroratga yetadi, bu atmosfera bosimidagi qaynashdan ancha yuqori
+@ M CDCSTER
+
+? Bug'ning sterilizatsiyadagi muhim afzalligi nima?
++ Issiqlikni materialga tez uzatadi
+- Issiqlikni sekin va asta uzatadi
+- Materialni quritib, namlikni olib qo'yadi
+- Havo bilan aralashib, ta'sirini oshiradi
+- Sporalarga umuman ta'sir qilmaydi
+! Bug' sovuq yuzada kondensatsiyalanib katta miqdorda issiqlik ajratadi, shuning uchun mikroblar oqsillarini tez buzadi
+@ M CDCSTER
+
+? Avtoklavda bug' havo bilan aralashsa nima bo'ladi?
++ Issiqlik uzatilishi keskin pasayadi
+- Issiqlik uzatilishi keskin ortadi
+- Bosim o'z-o'zidan nolga tushadi
+- Sterillash vaqti uch barobar qisqaradi
+- Haroratni o'lchash osonlashadi
+! Bug' havo bilan aralashsa issiqlik uzatilishi keskin pasayadi va sterilizatsiya samaradorligi kamayadi
+@ M CDCSTER
+
+? Avtoklavning asosiy qismlari qaysilar?
++ Kamera, qopqoq, manometr va xavfsizlik klapani
+- Okulyar, ob'ektiv, kondensor va revolver
+- Tubus, stol, makrovint va yoritgich
+- Rotor, naycha, tormoz va qopqoq
+- Termostat, nasos, filtr va sovutgich
+! Avtoklav kamera, qopqoq, zichlovchi rezina, bosim o'lchagich, harorat datchigi va xavfsizlik klapanidan iborat
+@ M CDCSTER
+
+? Materiallar avtoklav kamerasiga qanday joylashtiriladi?
++ Bo'sh joy qoldirib, zich qo'ymasdan
+- Imkon qadar zich, bo'sh joysiz qilib
+- Kamerani to'liq to'ldirib, tiqilinch qilib
+- Hajm chegarasidan oshirib, ustma-ust
+- Eng pastki qatlamga tig'iz joylab
+! Bug' barcha yuzalarga tegishi uchun materiallar bo'sh joy qoldirib joylashtiriladi va hajm chegarasidan oshirilmaydi
+@ M CDCSTER
+
+? Suyuqlik solingan kolbalarning qopqog'i avtoklavda qanday bo'ladi?
++ Bo'shatilgan, yopiq bo'lmagan
+- Mahkam burab, muhrlab yopilgan
+- Parafin bilan qotirib yopilgan
+- Metall zajim bilan siqilgan
+- Rezina tiqin bilan zich berkitilgan
+! Suyuqlik solingan kolbalar yopiq bo'lmasligi, qopqog'i bo'shatilgan bo'lishi kerak, aks holda portlash xavfi bor
+@ M CDCSTER
+
+? O'ralgan materiallar uchun avtoklavda keng qo'llanadigan rejim qaysi?
++ 121 °C da 15–20 daqiqa
+- 100 °C da 15–20 daqiqa
+- 121 °C da 1–2 daqiqa
+- 60 °C da 15–20 daqiqa
+- 37 °C da 15–20 daqiqa
+! Odatda 121 °C da 15–20 daqiqa ishlash keng qo'llanadi; CDC gravitatsion rejimda o'ralgan asboblar uchun 15–30 daqiqa ko'rsatadi
+@ M CDCSTER
+
+? O'ralmagan asboblar uchun qaysi avtoklav rejimi qo'llanishi mumkin?
++ 134 °C da bir necha daqiqa
+- 60 °C da bir necha soat
+- 80 °C da bir necha kun
+- 37 °C da bir sutka
+- 100 °C da bir necha daqiqa
+! O'ralmagan asboblar uchun 134 °C da bir necha daqiqali rejim qo'llanishi mumkin, ammo ular tez qayta ifloslanadi
+@ M CDCSTER
+
+? Avtoklavda bug' tez chiqarilsa nima bo'lishi mumkin?
++ Ichidagi suyuqlik qaynab chiqib ketadi
+- Suyuqlik muzlab qotib qoladi
+- Paketlar to'liq quriydi va qotadi
+- Sterillik ikki baravar oshadi
+- Indikator ranglari yangilanadi
+! Tez chiqarish idish ichidagi suyuqlikni qaynatib yuborishi mumkin, shuning uchun bug' sekin chiqariladi
+@ M CDCSTER
+
+? Bowie-Dick sinovi nimani tekshiradi?
++ Havo chiqarilishi va bug' tarqalishini
+- Kameradagi suv sifati va qattiqligini
+- Bosim o'lchagich yoritilishini
+- Zichlagich uzunligi va qalinligini
+- Elektr tarmog'i kuchlanishi va chastotasini
+! Bowie-Dick sinovi havo to'liq chiqarilganini va bug' kamerada bir xil tarqalishini ko'rsatadi
+@ M CDCSTER
+
+? Bowie-Dick sinovi qachon bajarilishi tavsiya etiladi?
++ Har kuni birinchi yuklamadan oldin
+- Yiliga bir marta tekshiruvda
+- Har yili avtoklav sotib olinganda
+- Har bir yuklamadan keyin ketma-ket
+- Avtoklav buzilganda ta'mirdan keyin
+! Sinov har kuni birinchi yuklamadan oldin bajarilishi tavsiya etiladi; indikator o'zgarmasa kamerada havo qolgan hisoblanadi
+@ M CDCSTER
+
+? Sterilizatsiyadan keyin avtoklav qopqog'ini qachon ochish xavfsiz?
++ Bosim pasayib, harorat xavfsiz bo'lgach
+- Bosim hali yuqori paytda darhol
+- Bug' otilib chiqayotgan paytda
+- Sterilizatsiya boshlanishi bilanoq
+- Harorat eng yuqoriga chiqqanda
+! Bosim nolga yaqinlashmasdan va harorat pasaymasdan qopqoqni ochish xavfli, issiq bug' otilib chiqishi mumkin
+@ M CDCSTER
