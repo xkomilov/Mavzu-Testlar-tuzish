@@ -1,0 +1,272 @@
+# 001
+? Mikrobiologiya fani qaysi guruh organizmlarni o'rganadi?
++ Mikroskop yordamida kuzatiladigan bakteriyalar, viruslar, zamburug'lar va sodda jonivorlarni
+- Ko'z bilan ko'rinadigan yirik umurtqali hayvonlar, ularning organlari va to'qimalarini
+- Gelmintlar, bo'g'imoyoqlilar va ularning lichinkalik hamda voyaga yetgan davrlarini
+- Yuksak o'simliklar, ularning urug'lari va meva to'qimalarining tuzilishi hamda o'sishini
+- Tuproq, tog' jinslari va minerallarning kimyoviy tarkibi hamda hosil bo'lishini
+! Mikrobiologiya ko'zga ko'rinmas, asosan mikroskopda kuzatiladigan organizmlarni, ya'ni bakteriyalar, viruslar, zamburug'lar va sodda jonivorlarni o'rganadi
+@ M JAW BROCK
+
+? Bakteriyalarning tipik hajmi taxminan qancha?
++ 0,5 dan 5 mikrometrgacha
+- 20 dan 300 nanometrgacha
+- 5 dan 50 mikrometrgacha
+- 0,5 dan 5 millimetrgacha
+- 50 dan 500 mikrometrgacha
+! Bakteriyalarning tipik o'lchami taxminan 0,5–5 mkm; viruslar (taxminan 20–300 nm) bakteriyalardan kichik
+@ M BROCK
+
+? Viruslarni bakteriyalardan ajratib turuvchi asosiy xususiyat qaysi?
++ Bakteriyalardan kichik bo'lib, faqat tirik hujayra ichida ko'payadi
+- Bakteriyalardan yirik bo'lib, sun'iy oziqa muhitida mustaqil ko'payadi
+- Ikkiga bo'linib ko'payadi va oddiy oziqa muhitida koloniya hosil qiladi
+- Hujayra devori va ribosomalarga ega bo'lib, moddalar almashinuvini mustaqil bajaradi
+- Faqat yuqori haroratda ko'payadi va tirik hujayra talab qilmaydi
+! Viruslar hujayrasiz tuzilmalar bo'lib, o'z ribosomalari va moddalar almashinuviga ega emas, shu sababli faqat tirik hujayra ichida ko'payadi
+@ M JAW
+
+? Tuproqdagi azot aylanishida bakteriyalar ishtirokida qaysi jarayonlar amalga oshadi?
++ Azot fiksatsiyasi, nitrifikatsiya va denitrifikatsiya
+- Fotosintez, transpiratsiya va gidroliz
+- Glikoliz, Krebs sikli va oksidlovchi fosforlanish
+- Transkripsiya, translatsiya va replikatsiya
+- Kristallanish, bug'lanish va kondensatsiya
+! Azot fiksatsiyasi, nitrifikatsiya va denitrifikatsiya ko'p jihatdan mikroblar faoliyatiga tayanadi
+@ M BROCK
+
+? Mikrobiologik tekshiruv qaysi uch bosqichda bajariladi?
++ Namuna olish, laboratoriya tahlili va natijani talqin qilish
+- Bemorni ro'yxatga olish, davolash va reabilitatsiya qilish
+- Namuna olish, sterilizatsiya qilish va hisobotni arxivga topshirish
+- Mikroskopiya, rentgenografiya va elektrokardiografiya o'tkazish
+- Tashxis qo'yish, antibiotik tanlash va profilaktika rejalashtirish
+! Materialga ko'ra tekshiruv uch bosqichdan iborat va birortasidagi xato butun natijani buzishi mumkin
+@ M WHOLBM
+
+? Bemordan olingan qon, siydik yoki balg'am namunasi tekshirilganda ishning to'g'ri ketma-ketligi qaysi?
++ Avval mikroorganizm turi aniqlanadi, so'ng antibiotiklarga sezuvchanligi baholanadi
+- Avval antibiotiklarga sezuvchanlik baholanadi, so'ng mikroorganizm turi aniqlanadi
+- Namunadagi mikroblar o'ldiriladi, so'ng ekma qilinib tur aniqlanadi
+- Mikroorganizm turi aniqlanmaydi, davo bemor shikoyatlariga qarab tanlanadi
+- Faqat antibiotiklarga sezuvchanlik aniqlanadi, tur aniqlash talab qilinmaydi
+! Klinik mikrobiologiyada avval qo'zg'atuvchi turi aniqlanadi, keyin uning antibiotiklarga sezuvchanligi baholanadi
+@ M JAW
+
+? Mikroorganizmlar yordamida insulin ishlab chiqarilganda u qaysi turdagi mahsulot sifatida olinadi?
++ Rekombinant oqsil sifatida
+- Sintetik vitamin sifatida
+- Fermentli qo'shimcha sifatida
+- Immun zardob sifatida
+- Antibiotik sifatida
+! Biotexnologiyada mikroorganizmlar rekombinant oqsillar, jumladan insulin ishlab chiqarishda qo'llanadi
+@ M BROCK
+
+? Laboratoriyada aniqlangan shtammlar qayd etilib, ular haqidagi ma'lumotlar kim bilan almashiladi?
++ Sanitariya-epidemiologik xizmat bilan
+- Dorixonalar tarmog'i va dori ishlab chiqaruvchilar bilan
+- Maktab va bog'chalar ma'muriyati bilan
+- Faqat bemorning oila a'zolari bilan
+- Transport va aloqa xizmatlari bilan
+! Materialga ko'ra shtammlar qayd etiladi va sanitariya-epidemiologik xizmat bilan almashiladi, bu profilaktika choralarini rejalashtirishga xizmat qiladi
+@ M
+
+? Quyidagi mahsulotlardan qaysi guruhi mikroorganizmlar ishtirokida tayyorlanadi?
++ Yogurt, pishloq va non xamiri
+- Qand lavlagi shakari, osh tuzi va soda
+- Bug'doy uni, o'simlik yog'i va asal
+- Margarin, sut kukuni va glyukoza
+- Sirka essensiyasi, kraxmal va gelatin
+! Biotexnologiyada mikroorganizmlar yogurt, pishloq va non xamiri kabi oziq-ovqat mahsulotlarini tayyorlashda qo'llanadi
+@ M BROCK
+
+? Tibbiy mikrobiologiya fani nimalarni o'rganadi?
++ Infeksion kasalliklar qo'zg'atuvchilarini, ularning ta'sir mexanizmi va laboratoriya tashxisi usullarini
+- O'simliklar kasalliklari qo'zg'atuvchilarini, ularning ta'sir mexanizmi va tuproq unumdorligini oshirish yo'llarini
+- Sut mahsulotlarining bijg'ishini, ularni saqlash va qayta ishlash texnologiyasini
+- Dori vositalarining kimyoviy sintezi, tuzilishi va dorixonada tayyorlanish qoidalarini
+- Hayvonlar kasalliklarini jarrohlik yo'li bilan davolash va ularni boqish usullarini
+! Tibbiy mikrobiologiya infeksion kasalliklarning qo'zg'atuvchilarini, ularning organizmdagi ta'sir mexanizmini va laboratoriya tashxisi usullarini o'rganadi
+@ M JAW
+
+# 002
+? Mikrobiologiya tarixining dastlabki davri qanday ataladi?
++ Kashfiyot davri
+- Morfologik davr
+- Immunologik davr
+- Molekulyar-genetik davr
+- Fiziologik-biokimyoviy davr
+! Fan rivojlanishi kashfiyot, morfologik, fiziologik-biokimyoviy, immunologik va molekulyar-genetik davrlarga bo'linadi; birinchisi kashfiyot davri
+@ M JAW
+
+? Levenguk bakteriyalar va sodda jonivorlarni kuzatishda qaysi asbobdan foydalangan?
++ O'zi yasagan oddiy linzali mikroskopdan
+- XX asrda yaratilgan elektron mikroskopdan
+- Fazaviy-kontrast optikali mikroskopdan
+- Lyuminessent yoritgichli mikroskopdan
+- Skanerlovchi zondli yuqori aniqlikdagi mikroskopdan
+! Levenguk o'zi yasagan oddiy bir linzali mikroskop yordamida mikroorganizmlarni birinchi marta tasvirlab bergan
+@ M DOBELL
+
+? Gram usuli bakteriyalarni qaysi ikki guruhga ajratadi?
++ Gram-musbat va gram-manfiy
+- Aerob va fakultativ anaerob
+- Kokklar va tayoqchasimonlar
+- Patogen va shartli patogen
+- Sporali va sporasizlar
+! Gram usuli bakteriyalarni hujayra devori tuzilishiga ko'ra gram-musbat va gram-manfiy guruhlarga ajratadi
+@ M JAW
+
+? Kox postulatlariga ko'ra sof kultura yangi sog'lom organizmga yuqtirilganda nima yuz berishi kerak?
++ Dastlabki kasallikning o'zi chaqirilishi kerak
+- Organizmda antitelolar hosil bo'lib, kasallik rivojlanmasligi kerak
+- Boshqa mikroblarning o'sishi to'xtashi kerak
+- Mikrob spora hosil qilib, tashqi muhitga chiqishi kerak
+- Mikrob sog'lom organizm mikroflorasiga aylanishi kerak
+! Kox postulatlariga ko'ra sof kulturada o'stirilgan mikrob sog'lom organizmga yuqtirilganda xuddi shu kasallikni chaqirishi kerak
+@ M JAW
+
+? Lui Paster fiziologik-biokimyoviy davrda qaysi yutuqlari bilan tanilgan?
++ Bijg'ish mikroblar ishi ekanini isbotlab, sterilizatsiya tamoyillarini ishlab chiqqan
+- Tamaki mozaikasi qo'zg'atuvchisi bakteriyalar ushlanadigan filtrdan o'tishini ko'rsatgan
+- Mog'or atrofida bakteriyalar o'smasligini payqab, penitsillinni kuzatgan
+- Uch domenli tasnifni rRNK ketma-ketligiga asoslab taklif qilgan
+- Qattiq muhitlarni joriy etib, sof kulturani ajratish imkonini yaratgan
+! Paster bijg'ish jarayonlarini mikroblar amalga oshirishini isbotlagan va sterilizatsiya tamoyillarini ishlab chiqqan
+@ M BROCK
+
+? Ivanovskiy 1892-yilda qaysi kasallik qo'zg'atuvchisini o'rganib, viruslar kashfiyotiga asos soldi?
++ Tamaki mozaikasi qo'zg'atuvchisi
+- Kuydirgi kasalligi qo'zg'atuvchisi
+- Sil kasalligi qo'zg'atuvchisi
+- Qoqshol kasalligi qo'zg'atuvchisi
+- Vabo kasalligi qo'zg'atuvchisi
+! Ivanovskiy tamaki mozaika kasalligi qo'zg'atuvchisi bakteriyalarni ushlab qoluvchi filtrdan o'tishini ko'rsatdi, bu viruslar kashfiyotining boshlanishi bo'ldi
+@ M JAW
+
+? Aleksandr Fleming 1928-yilda nimani kuzatgan?
++ Oziqa muhitidagi mog'or atrofida bakteriyalar o'smasligini
+- Sut kislotali bijg'ishning mikroblar tomonidan amalga oshishini
+- Viruslarning bakteriya hujayrasi ichida ko'payishini
+- Qattiq muhitda sof kultura koloniyalari hosil bo'lishini
+- Bakteriyalarning xivchinlar yordamida harakatlanishini
+! Fleming 1928-yilda oziqa muhitidagi begona mog'or atrofida bakteriyalar o'smasligini payqagan, bu penitsillinning kashf etilishiga olib kelgan
+@ M FLEM
+
+? Karl Voz 1990-yilda rRNK ketma-ketligiga asoslanib hujayrali hayotni qaysi uch domenga bo'ldi?
++ Bacteria, Archaea va Eukarya
+- Prokaryota, Virus va Fungi
+- Bacteria, Protista va Plantae
+- Eubacteria, Mycota va Animalia
+- Monera, Archaea va Viridiplantae
+! Woese, Kandler va Wheelis 1990-yilda hayotni Bacteria, Archaea va Eukarya domenlariga ajratishni taklif qilgan
+@ M WOESE
+
+? Polimeraza zanjir reaksiyasi (PZR) tashxisni qanday tezlashtiradi?
++ Kam miqdordagi DNKni ko'paytirish orqali
+- Qattiq muhitda koloniyalar hosil qilish orqali
+- Bakteriya devorini binafsha rangga bo'yash orqali
+- Namunani bosim ostida bug' bilan zararsizlantirish orqali
+- Antibiotik atrofidagi o'smaslik zonasini o'lchash orqali
+! PZR kam miqdordagi DNKni ko'paytirib, tashxisni tezlashtiradi
+@ M JAW
+
+? Robert Kox sof kulturalarni ajratib olish imkonini beradigan qaysi yangilikni joriy etdi?
++ Qattiq oziqa muhitlarini joriy etishni
+- Gram bo'yash usulini ishlab chiqishni
+- Elektron mikroskopni yaratishni
+- Penitsillinni kashf etishni
+- PZR usulini ishlab chiqishni
+! Kox jelatin va keyinchalik agar asosidagi qattiq oziqa muhitlarini joriy etib, sof kulturalarni ajratishni mumkin qilgan
+@ M KOCH
+
+# 003
+? Antoni van Levenguk mikroskoplari taxminan necha martagacha kattalashtirish bergan?
++ 200 martagacha
+- 20 martagacha
+- 60 martagacha
+- 1000 martagacha
+- 2000 martagacha
+! Levenguk linzalari odatda 100–200 marta kattalashtirgan, saqlanib qolgan eng kuchlisi esa 260 martadan oshgan
+@ M LENS
+
+? Bakteriyalarni shakli, harakati va spora hosil qilishiga ko'ra guruhlagan Ferdinand Kon kim bo'lgan?
++ Nemis botanigi
+- Daniyalik shifokor
+- Gollandiyalik mato savdogari
+- Fransuz kimyogari
+- Nemis jarrohi
+! Ferdinand Kon nemis botanigi bo'lib, bakteriyalarni tizimli o'rganishga kirishgan
+@ M BROCK
+
+? Hozirgi kunda ham ishlatiladigan yassi yumaloq shisha idishni kim va qachon taklif qilgan?
++ Julius Petri, 1887-yilda
+- Robert Kox, 1876-yilda
+- Hans Gram, 1884-yilda
+- Ferdinand Kon, 1872-yilda
+- Antoni van Levenguk, 1683-yilda
+! Julius Petri Koxning laboratoriyasida ishlagan va 1887-yilda Petri idishini taklif qilgan
+@ M PETRI
+
+? Gram usulida bo'yash bosqichlari qaysi ketma-ketlikda bajariladi?
++ Kristall binafsha, yod eritmasi, spirt bilan rangsizlantirish, safranin
+- Safranin, yod eritmasi, spirt bilan rangsizlantirish, kristall binafsha
+- Kristall binafsha, safranin, spirt bilan rangsizlantirish, yod eritmasi
+- Yod eritmasi, kristall binafsha, safranin, spirt bilan rangsizlantirish
+- Spirt bilan rangsizlantirish, kristall binafsha, yod eritmasi, safranin
+! Surtma kristall binafsha bilan bo'yaladi, yod bilan mordanlanadi, etanol yoki aseton-spirt bilan rangsizlantiriladi va safranin bilan qarshi bo'yaladi
+@ M JAW GRAM
+
+? Gram usulida bo'yalgandan keyin gram-manfiy hujayralar qanday rangda ko'rinadi?
++ Qizil-pushti rangda
+- Binafsha rangda
+- To'q yashil rangda
+- Och sariq rangda
+- To'q jigarrang rangda
+! Gram-manfiy hujayralar rangsizlantirilgach, qarshi bo'yoq safranin rangini olib qizil-pushti ko'rinadi, gram-musbat hujayralar esa binafsha bo'lib qoladi
+@ M JAW
+
+? Faqat hujayra shakliga qarab tasniflashning asosiy cheklovi nimada?
++ Turli turlar bir xil shaklga ega bo'lishi mumkin, shuning uchun tur belgilanmaydi
+- Bakteriyalar shakli har doim yagona bo'lib, bir tur ikki xil ko'rinishda uchramaydi
+- Shakl bo'yicha tasnif faqat viruslarga tatbiq etiladi, bakteriyalarga qo'llanmaydi
+- Bo'yash jarayoni shaklni butunlay o'zgartiradi, shuning uchun foydasiz bo'ladi
+- Shakl faqat elektron mikroskopda ko'rinadi, yorug'lik mikroskopida ko'rinmaydi
+! Turli turlarga mansub bakteriyalar bir xil shaklga ega bo'lishi mumkin, shuning uchun faqat shakl asosida aniq tur belgilash ishonchli emas
+@ M BROCK
+
+? Zich oziqa muhitida o'sgan koloniyalarni tavsiflashda laborant qaysi belgilarni yozib boradi?
++ Shakli, chekkasi, rangi, yuzasining tekisligi va hajmini
+- Hujayra devori qalinligi, ribosomalar soni va DNK uzunligini
+- Antibiotik atrofidagi o'smaslik zonasi diametri va MIK qiymatini
+- Qon guruhi, rezus-omil va leykotsitlar formulasini
+- Mikroskop okulyarining kattalashtirishi va tubus uzunligini
+! Koloniyaning shakli, chekkasi, rangi, yuzasining tekisligi va hajmi yozib boriladi va dastlabki identifikatsiyada yo'naltiruvchi belgi bo'ladi
+@ M JAW
+
+? Kokk, basil, spirilla va spirochetalar atamalari bakteriyalarning qaysi xususiyatiga asoslangan?
++ Hujayra shakliga
+- Gram bo'yog'iga munosabatiga
+- Kislorodga bo'lgan talabiga
+- Spora hosil qilishiga
+- Antibiotiklarga sezuvchanligiga
+! Kokk, basil, spirilla va spirochetalar bakteriyalarning hujayra shaklini bildiruvchi atamalardir
+@ M JAW
+
+? Immersion moy qo'llanishi mikroskopda nimani yaxshiladi?
++ Tasvirning ravshanligini
+- Preparatning fiksatsiyasini
+- Bakteriyalarning ko'payish tezligini
+- Bo'yoqning rangsizlanish tezligini
+- Linzalarning mexanik mustahkamligini
+! Materialga ko'ra immersion moy tasvirning ravshanligini yaxshilagan; moy yuqori ajrata olish qobiliyati uchun yorug'likni preparatdan obyektivga yo'qotishsiz o'tkazadi
+@ M BROCK
+
+? Gram usuli bakteriyalarni qaysi xususiyatiga ko'ra ikki guruhga ajratadi?
++ Hujayra devori tuzilishiga
+- Xivchinlar soniga va joylashishiga
+- Kapsula mavjudligi va qalinligiga
+- Sporaning joylashuvi va shakliga
+- Koloniya rangi va hajmiga
+! Gram usuli bakteriyalarni hujayra devorining tuzilishiga qarab binafsha rangni saqlovchi va rangsizlanuvchi guruhlarga ajratadi
+@ M JAW GRAM
