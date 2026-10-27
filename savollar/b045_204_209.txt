@@ -103,10 +103,10 @@
 
 ? Endemik qaytalama tifning vektori qaysi?
 + Yumshoq kana (Ornithodoros)
-- Odam biti (Pediculus)
-- Burga (Xenopsylla)
-- Pashsha (Musca)
-- Chivin (Anopheles)
+- Odam biti (Pediculus humanus)
+- Burga (Xenopsylla cheopis)
+- Pashsha (Musca domestica)
+- Chivin (Anopheles maculipennis)
 ! Endemik shakl uchun asosiy vektorlar Ornithodoros avlodiga mansub yumshoq kanalar
 @ M JAW WHODW
 
@@ -175,10 +175,10 @@
 
 ? Endemik shakl odamga qaysi sharoitda yuqadi?
 + O'choqqa kirganda, kana chaqqanda
-- Hammom ichida cho'milganda
-- Maktabda dars paytida
-- Bozorda xarid qilganda
-- Teatrda o'tirganda
+- Hammomda cho'milganda, suv ichganda
+- Maktabda dars o'tirganda, yozganda
+- Bozorda xarid qilganda, savdolashganda
+- Teatrda tomosha qilganda, o'tirganda
 ! Odam kasallikni tabiiy o'choqqa kirganda va vektor chaqqanda yuqtiradi; ko'pincha qishloq sharoiti bilan bog'liq
 @ M JAW
 
@@ -350,10 +350,10 @@
 
 ? Hujumlar orasidagi tanaffus tashxisda nima beradi?
 + Boshqa isitmali kasallikdan farqlash
-- Tashxisni butunlay rad etish
-- Davolashni to'xtatish
-- Vaksina tanlash
-- Antibiotik tanlash
+- Tashxisni butunlay rad etish uchun asos
+- Davolashni to'xtatish uchun asos
+- Vaksina tanlash uchun asos bo'ladi
+- Antibiotik tanlash uchun asos bo'ladi
 ! Hujumlar orasidagi tanaffus kasallikni boshqa surunkali isitmali holatlardan ajratishda foydali
 @ M JAW
 
@@ -534,10 +534,10 @@
 
 ? Leptospira patogenligida qaysi omil muhim?
 + Gemolizin (sfingomielinaza)
-- Klassik ekzotoksin
-- Qalin kapsula qobig'i
-- Spora po'sti
-- Xivchin tolasi
+- Klassik ekzotoksin (botulin)
+- Qalin kapsula qobig'i (Burri)
+- Spora po'sti (dipikolinat)
+- Xivchin tolasi (flagellin)
 ! Leptospiralar klassik ekzotoksin hosil qilmaydi, ammo gemolizinlar, jumladan sfingomielinaza, muhim
 @ M JAW
 

@@ -267,10 +267,10 @@
 
 ? Aseptika qoidalari nima uchun saqlanadi?
 + Begona mikroblar natijani buzmasligi uchun
-- Namunani ko'paytirish uchun
-- Namuna rangini o'zgartirish uchun
-- Namuna hajmini oshirish uchun
-- Antibiotikni kuchaytirish uchun
+- Namunani ko'paytirib olish uchun
+- Namuna rangini o'zgartirib qo'yish uchun
+- Namuna hajmini oshirib yuborish uchun
+- Antibiotikni kuchaytirib yuborish uchun
 ! Aseptika qoidalari qat'iy saqlanishi kerak, aks holda begona mikroblar natijani buzishi mumkin
 @ M JAW
 

@@ -65,10 +65,10 @@
 
 ? Musluk namuna olishdan oldin suv nima uchun bir necha daqiqa oqiziladi?
 + Quvurda turib qolgan suv chiqib ketishi uchun
-- Muslukni sovitish va tozalash uchun
-- Suvga xlor qo'shilishi uchun
-- Idish ichini namlab olish uchun
-- Suv bosimini kamaytirish uchun
+- Muslukni sovitish va tozalab olish uchun
+- Suvga xlor qo'shilishini ta'minlash uchun
+- Idish ichini oldindan namlab olish uchun
+- Suv bosimini kamaytirib qo'yish uchun
 ! Oqizish quvurdagi turib qolgan suvni chiqarib yuboradi, shunda namuna tizim suvini ifodalaydi
 @ M WHODW
 
@@ -83,10 +83,10 @@
 
 ? Yopiq manbadan olingan namunaning yo'llanma xatida qo'shimcha nima ko'rsatiladi?
 + Manba turi: musluk, quduq yoki rezervuar
-- Havza turi va qirg'oq chuqurligi
-- Qushlar soni va uyalar joyi
-- Suvdagi baliq turlari va hajmi
-- Daryo kengligi va oqim tezligi
+- Havza turi va qirg'oq chuqurligi o'lchami
+- Qushlar soni va ularning uyalar joyi
+- Suvdagi baliq turlari va ularning hajmi
+- Daryo kengligi va oqim tezligi qiymati
 ! Xatda suv manbaining turi (musluk, quduq, rezervuar), tizim tavsifi va xlor qoldig'i (o'lchangan bo'lsa) qayd etiladi
 @ M WHODW
 
@@ -385,11 +385,11 @@
 @ M
 
 ? Bijg'itish usulida natija qanday hisoblanadi?
-+ Naychalar kombinatsiyasi bo'yicha ehtimoliy son jadvalidan
++ Naychalar kombinatsiyasi bo'yicha EHS jadvalidan
 - Koloniyalar og'irligini o'lchab hisoblanadi
 - Hamma naychalar o'rtachasi olinib hisoblanadi
-- Bitta naycha natijasini ikki barobar oshirib
-- Mikroskopda hujayralarni sanab hisoblanadi
+- Bitta naycha natijasi ikki barobar oshiriladi
+- Mikroskopda hujayralar sanalib hisoblanadi
 ! Ijobiy va manfiy naychalarning kombinatsiyasiga mos eng ehtimoliy son jadvaldan olinadi
 @ M WHODW
 
@@ -569,11 +569,11 @@
 @ M
 
 ? Yo'llanma xatga nimalar yoziladi?
-+ Olingan vaqt, mahsulot nomi, partiya raqami, sana
++ Vaqt, mahsulot nomi, partiya raqami, sana
 - Sotuvchi ismi, mahsulot narxi, chegirma
-- Iste'molchi yoshi, jinsi, kasbi
-- Idish rangi, hajmi va vazni
-- Xarid joyi, kassir va chek
+- Iste'molchi yoshi, jinsi, kasbi, manzili
+- Idish rangi, hajmi va vazni, shakli
+- Xarid joyi, kassir ismi va chek raqami
 ! Namuna olish vaqti, mahsulot nomi, partiya raqami va ishlab chiqarilgan sana yo'llanma xatga yoziladi
 @ M
 
@@ -597,7 +597,7 @@
 
 ? Xamirturush va mog'orlar sharbat sifatiga qanday ta'sir qiladi?
 + Ta'mi, hidi va ko'rinishini buzadi
-- Sterilligini oshiradi
+- Sterilligini oshirib beradi
 - Gazini ko'paytirib yuboradi
 - Tiniqlashtirib beradi
 - Sifatiga ta'sir qilmaydi

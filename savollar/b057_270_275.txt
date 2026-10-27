@@ -56,10 +56,10 @@
 
 ? Eijkman sinovida termostat nega muntazam tekshiriladi?
 + Ozgina og'ish ham natijani o'zgartiradi
-- Termostat rangi o'zgarib turadi
-- Elektr sarfi ko'p bo'ladi
+- Termostat rangi tez o'zgarib turadi
+- Elektr sarfi ko'p bo'lib ketadi
 - Jurnal yozuvi talab qilinadi
-- Termostat tez sinib qoladi
+- Termostat tez sinib qolishi mumkin
 ! Harorat aniq nazorat qilinadi, chunki ozgina og'ish ham natijani o'zgartirishi mumkin
 @ M
 
@@ -94,10 +94,10 @@
 
 ? Krem mahsulotlari tarkibiga nimalar kirishi mumkin?
 + Sut yog'i, qand, tuxum yoki o'simlik yog'lari
-- Metall kukuni, tuz va mineral moy
-- Ohak, gips va kvars qumi
-- Neft mahsuloti, bo'yoq va smola
-- Rezina, plastmassa va sintetik tola
+- Metall kukuni, tuz va mineral moy aralashmasi
+- Ohak, gips va kvars qumi aralashmasi
+- Neft mahsuloti, bo'yoq va smola aralashmasi
+- Rezina, plastmassa va sintetik tola aralashmasi
 ! Krem tarkibiga sut yog'i, qand, tuxum yoki o'simlik yog'lari kirishi mumkin va ular mikroblar uchun ozuqa manbai
 @ M
 
@@ -397,10 +397,10 @@
 
 ? Kolbasa namunasi olishda nimalar tekshiriladi?
 + O'ramning butunligi, sana va partiya raqami
-- O'rami rangi, narxi va dizayni
-- Idish hajmi, vazni va shakli
+- O'rami rangi, narxi va dizayni haqida
+- Idish hajmi, vazni va shakli haqida
 - Sotuvchi ismi, manzili va telefoni
-- Reklama matni va shtrix-kodi
+- Reklama matni va shtrix-kod rangi
 ! Kolbasa mahsulotlarida o'ramning butunligi, ishlab chiqarilgan sana va partiya raqami tekshiriladi
 @ M
 
@@ -433,10 +433,10 @@
 
 ? Muzlatilgan namunalar nega maxsus tartibda tekshiriladi?
 + Muzlatish ba'zi mikroblarga zarar yetkazadi
-- Muzlatish mikroblarni ko'paytiradi
-- Muzlatish mikroblarni sterillaydi
-- Muzlatish rangini o'zgartiradi
-- Muzlatish hajmini kamaytiradi
+- Muzlatish barcha mikroblarni ko'paytiradi
+- Muzlatish barcha mikroblarni sterillaydi
+- Muzlatish namuna rangini o'zgartiradi
+- Muzlatish namuna hajmini kamaytiradi
 ! Muzlatish ba'zi mikroblarga zarar yetkazishi mumkin, shuning uchun muzlatilgan namunalar maxsus tartibda tekshiriladi
 @ M
 
@@ -525,10 +525,10 @@
 
 ? Gomogenlash natijasida nima yuz beradi?
 + Mikroblar suyuqlikda tekis taqsimlanadi
-- Mikroblar bir joyda to'planadi
-- Mikroblar nobud bo'ladi
-- Mikroblar sporaga aylanadi
-- Mikroblar ko'payib ketadi
+- Mikroblar bir joyda to'planib qoladi
+- Mikroblar butunlay nobud bo'lib ketadi
+- Mikroblar sporaga aylanib qoladi
+- Mikroblar ko'payib, soni oshib ketadi
 ! Gomogenlash natijasida mikroblar suyuqlikda tekis taqsimlanadi, bu keyingi suyultirish uchun zarur
 @ M
 

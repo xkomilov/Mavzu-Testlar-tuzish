@@ -204,10 +204,10 @@
 
 ? Dastlabki zenginlashtirishning vazifasi nima?
 + Jarohatlangan hujayralarni tiklash va ko'paytirish
-- Salmonellalarni darhol o'ldirib yuborish
-- Namuna rangini o'zgartirib qo'yish
-- Boshqa mikroblarni butunlay ko'paytirish
-- Namunani qizdirib sterillab qo'yish
+- Salmonellalarni darhol o'ldirib yuborish uchun
+- Namuna rangini o'zgartirib qo'yish uchun
+- Boshqa mikroblarni butunlay ko'paytirish uchun
+- Namunani qizdirib sterillab qo'yish uchun
 ! Dastlabki zenginlashtirishda salmonellalar boshqa mikroblardan oldin ko'payadi va jarohatlangan hujayralar tiklanadi
 @ M
 
@@ -305,10 +305,10 @@
 
 ? Go'shtga Proteus qanday yo'llar bilan tushishi mumkin?
 + Ichak tarkibi, tuproq, suv yoki xodim qo'li orqali
-- Quyosh nuri va yomg'ir tomchilari orqali
-- Elektr toki va tovush to'lqinlari orqali
-- Magnit maydoni va nur orqali
-- Radio to'lqinlar va shamol orqali
+- Quyosh nuri va yomg'ir tomchilari orqali tushadi
+- Elektr toki va tovush to'lqinlari orqali tushadi
+- Magnit maydoni va yorug'lik nurlari orqali tushadi
+- Radio to'lqinlar va shamol oqimi orqali tushadi
 ! Go'shtga Proteus ichak tarkibi, tuproq, suv yoki xodimning qo'llari orqali tushishi mumkin
 @ M
 
@@ -397,10 +397,10 @@
 
 ? Qo'ldan surtma olish uchun nima ishlatiladi?
 + Steril paxta tamponi yoki surtma tayoqchasi
-- Oddiy gazeta qog'ozi yoki salfetka
-- Yuvilmagan latta yoki qo'lqop
-- Quruq mato yoki paxta tolasi
-- Metall qirg'ich yoki pichoq
+- Oddiy gazeta qog'ozi yoki qog'oz salfetka
+- Yuvilmagan latta yoki ishlatilgan qo'lqop
+- Quruq mato yoki oddiy paxta tolasi
+- Metall qirg'ich yoki o'tkir pichoq
 ! Surtma olish uchun steril paxta tamponi yoki maxsus surtma tayoqchasi ishlatiladi
 @ M
 
@@ -507,10 +507,10 @@
 
 ? Yuza kichik bo'lsa surtma qanday olinadi?
 + Butun yuza surtilib, yo'llanma xatda qayd etiladi
-- Narsa surtilmay, o'tkazib yuboriladi
-- Chetlari surtilib, natija yoziladi
-- Boshqa buyumdan olinib, almashtiriladi
-- Maydon taxminiy belgilanib, yozilmaydi
+- Surtilmay, o'tkazib yuboriladi va yozilmaydi
+- Chetlari surtilib, natija yoziladi va tugaydi
+- Boshqa buyumdan olinib, almashtirib qo'yiladi
+- Maydon taxminiy belgilanib, qayd etilmaydi
 ! Yuza kichik bo'lsa butun yuza surtiladi va bu yo'llanma xatda qayd etiladi
 @ M
 

@@ -240,10 +240,10 @@
 
 ? Biologik usulda aerob kultura nima uchun tekshiriladi?
 + Begona mikroblar natijani buzmasligi uchun
-- Kultura narxini aniqlash uchun
-- Kislorod miqdorini o'lchash uchun
-- Muhit rangini o'zgartirish uchun
-- Likopcha hajmini hisoblash uchun
+- Kultura narxini aniqlab olish uchun
+- Kislorod miqdorini o'lchab ko'rish uchun
+- Muhit rangini o'zgartirib qo'yish uchun
+- Likopcha hajmini hisoblab chiqish uchun
 ! Begona mikroblar aralashsa natija noto'g'ri talqin qilinishi mumkin, shu sababli faqat toza shtammlar ishlatiladi
 @ M
 

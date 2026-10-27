@@ -56,6 +56,7 @@ SOURCES = {
     "CDCPINK": "CDC. Epidemiology and Prevention of Vaccine-Preventable Diseases (Pink Book), 14th ed. (2021)",
     "WHOTB": "WHO. Global tuberculosis report; WHO Consolidated Guidelines on Tuberculosis (Module 3: Diagnosis, 2021)",
     "CDCMUR": "CDC. Murine Typhus — Clinical Overview (Rickettsial Diseases, CDC)",
+    "PHARM": "European Pharmacopoeia 2.6.1 / USP <71> — Sterility tests (sterillik sinovi)",
     "LENS": "Lens on Leeuwenhoek (lensonleeuwenhoek.net) — Visibility",
 }
 

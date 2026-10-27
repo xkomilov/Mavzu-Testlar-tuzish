@@ -165,7 +165,7 @@
 @ M
 
 ? Koch usuli formulasida qaysi omillar hisobga olinadi?
-+ Koloniyalar soni, likopcha yuzasi, ekspozitsiya vaqti
++ Koloniyalar soni, likopcha yuzasi, ekspozitsiya
 - Likopcha rangi, xona hidi va havo harorati
 - Xodim yoshi, qurilma narxi va soat vaqti
 - Agar zichligi, pH qiymati va tuz miqdori

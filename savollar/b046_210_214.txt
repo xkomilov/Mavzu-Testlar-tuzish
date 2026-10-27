@@ -82,11 +82,11 @@
 @ M JAW
 
 ? Immun bosqich leptospiremiyadan keyin nimani ko'rsatadi?
-+ Antitelolar ishlab chiqarilishi boshlanishini
++ Antitelolar ishlab chiqarila boshlanishini
 - Qondagi qo'zg'atuvchi soni ortishini
-- Kasallikning butunlay tugashini
-- Vaksina ta'sirining boshlanishini
-- Qo'zg'atuvchi sporalanishini
+- Kasallik butunlay tugaganini ko'rsatadi
+- Vaksina ta'siri boshlanganini ko'rsatadi
+- Qo'zg'atuvchi sporalanganini ko'rsatadi
 ! Leptospiremiya bosqichidan keyin immun tizim antitelolar ishlab chiqara boshlaydi
 @ M JAW
 
@@ -139,10 +139,10 @@
 
 ? Qorong'i maydonda leptospira qanday ko'rinadi?
 + Harakatlanuvchi spiral shakl
-- Harakatsiz kokk shakl
-- Sporali tayoqcha shakl
-- Zanjirli kokk shakl
-- Shoxlangan ip shakl
+- Harakatsiz kokksimon shakl
+- Sporali tayoqchasimon shakl
+- Zanjirsimon kokksimon shakl
+- Shoxlangan ipsimon shakl
 ! Qorong'i maydon mikroskopiyasi qon yoki siydikda harakatlanuvchi leptospiralarni ko'rishga yordam beradi
 @ M JAW
 
@@ -157,10 +157,10 @@
 
 ? Mikroskopiyada nima uchun ehtiyot bo'lish kerak?
 + Begona zarra va kristallar o'xshab ko'rinadi
-- Leptospira hech qachon ko'rinmaydi
-- Zarralar leptospira hisoblanadi
-- Mikroskop faqat sporani ko'rsatadi
-- Natija doim aniq bo'ladi
+- Leptospira hech qachon ko'rinmaydi, shuning uchun
+- Zarralarning hammasi leptospira hisoblanadi
+- Mikroskop faqat sporalarni ko'rsatadi, shuning uchun
+- Natija doim aniq bo'ladi, shuning uchun
 ! Begona zarralar va kristallar leptospiralarga o'xshab ko'rinishi mumkin, shuning uchun ehtiyotkorlik zarur
 @ M JAW
 
@@ -175,10 +175,10 @@
 
 ? Kultura usulining ahamiyati qanday?
 + Sof ajratadi, lekin vaqt talab qiladi
-- Tez natija beradi va oson
+- Tez natija beradi va juda oson
 - Sezgirligi juda yuqori va tez
-- Qanday kamchiligi yo'q
-- O'lik hujayralarni topadi
+- Hech qanday kamchiligi yo'q usul
+- O'lik hujayralarni ham topa oladi
 ! Kultura qo'zg'atuvchini sof holda ajratish imkonini beradi, ammo vaqt talab qiladi
 @ M JAW
 
@@ -231,10 +231,10 @@
 
 ? Virusli gepatit leptospirozdan nimasi bilan farqlanadi?
 + Leptospirozda buyrak, mushak belgisi ko'p
-- Gepatitda buyrak belgisi ko'proq
-- Ikkalasida sariqlik umuman yo'q
-- Ikkalasida jigar fermenti normal
-- Gepatitda mushak og'rig'i kuchli
+- Gepatitda buyrak belgisi ko'proq bo'ladi
+- Ikkalasida sariqlik umuman bo'lmaydi
+- Ikkalasida jigar fermenti normal bo'ladi
+- Gepatitda mushak og'rig'i kuchli bo'ladi
 ! Sariqlik va jigar fermentlari ko'rsatkichlari muhim, ammo leptospirozda buyrak va mushak belgilari ko'proq namoyon bo'ladi
 @ M JAW
 
@@ -249,10 +249,10 @@
 
 ? Dastlabki kunlarda qaysi usullar ustun?
 + PCR va qon kulturasi
-- MAT va ELISA
-- Siydik kulturasi
-- Gram bo'yash
-- Rentgen
+- MAT va ELISA tahlili
+- Siydik kulturasi usuli
+- Gram bo'yash usuli
+- Rentgen tekshiruvi
 ! Dastlabki kunlarda PCR va qon kulturasi ustun, keyinchalik MAT va ELISA ishonchli
 @ M JAW
 

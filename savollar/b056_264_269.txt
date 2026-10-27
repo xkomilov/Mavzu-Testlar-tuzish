@@ -83,10 +83,10 @@
 
 ? Tuproq uchun inkubatsiya nima uchun bir necha kun davom etishi mumkin?
 + Aktinomitsetlarni hisobga olish uchun
-- Viruslarni ko'paytirish uchun
-- Muhit qotishi uchun
-- Termostat qizishi uchun
-- Idish sterillanishi uchun
+- Viruslarni ko'paytirib olish uchun
+- Muhit qotib qolishini kutish uchun
+- Termostat qizib ketishini kutish uchun
+- Idish sterillanib bo'lishini kutish uchun
 ! Aktinomitsetlarni hisobga olish uchun inkubatsiya bir necha kun davom etishi mumkin
 @ M BROCK
 
@@ -323,10 +323,10 @@
 
 ? Sutga ishlab chiqarishda tushishi mumkin bo'lgan patogenlar qaysilar?
 + Salmonellalar va stafilokokklar
-- Rikketsiya va xlamidiya
-- Treponema va Borrelia
-- Mikoplazma va ureaplazma
-- Gonokokk va meningokokk
+- Rikketsiyalar va xlamidiyalar
+- Treponema va Borrelia turlari
+- Mikoplazma va ureaplazmalar
+- Gonokokk va meningokokklar
 ! Salmonellalar va stafilokokklar sutga ishlab chiqarish yoki saqlash davrida tushishi mumkin
 @ M JAW
 
