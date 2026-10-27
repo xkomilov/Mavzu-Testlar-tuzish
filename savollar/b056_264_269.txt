@@ -1,0 +1,578 @@
+# 264
+
+? KHB qisqartmasi nimani bildiradi?
++ Koloniya hosil qiluvchi birlik
+- Kimyoviy hosil bo'luvchi birikma
+- Kislotali havoda bijg'ish davri
+- Kuchli harorat bilan boshqarish
+- Kichik hujayra bo'linish tezligi
+! Har bir koloniya odatda bitta tirik mikrob yoki guruhdan paydo bo'ladi, shuning uchun uni koloniya hosil qiluvchi birlik (KHB) deyiladi
+@ M
+
+? Tuproqdagi umumiy mikroblar soni qanday birlikda ifodalanadi?
++ 1 g tuproqdagi KHB soni
+- 1 litr suvdagi koloniyalar soni
+- 1 m³ havodagi koloniyalar soni
+- 1 sm² sirtdagi koloniyalar soni
+- 1 ml sutdagi koloniyalar soni
+! Natija odatda 1 g tuproq uchun koloniya hosil qiluvchi birlik (KHB) sifatida ifodalanadi
+@ M
+
+? Tuproq mikroblari uchun qaysi muhitlar ko'pincha ishlatiladi?
++ Umumiy maqsadli yoki kraxmal-kazein agar
+- Endo agari yoki Ploskirev agari
+- Sabouraud agari yoki Chapek agari
+- Manitolli tuzli agar yoki SS agar
+- Qonli agar yoki shokoladli agar
+! Tuproq mikroblari uchun ko'pincha umumiy maqsadli agar yoki kraxmal-kazein agar ishlatiladi
+@ M BROCK
+
+? Muhit nima uchun qotguncha sovutiladi?
++ Issiq muhit ekilgan mikroblarni nobud qiladi
+- Issiq muhit agar zichligini oshirib yuboradi
+- Sovuq muhit mikroblarni tezroq ko'paytiradi
+- Issiq muhit idish rangini o'zgartirib yuboradi
+- Sovuq muhit bo'yoqni yaxshi o'zlashtiradi
+! Muhit qotguncha sovutiladi, chunki issiq muhit ekilgan mikroblarni nobud qilishi mumkin
+@ M
+
+? Tuproq suspenziyasi nega ketma-ket suyultiriladi?
++ Koloniyalar bir-biriga yopishib ketmasligi uchun
+- Tuproq zarrachalari tezroq cho'kishi uchun
+- Muhit rangi o'zgarmasligi uchun
+- Mikroblar tezroq ko'payishi uchun
+- Idishlar sonini oshirish uchun
+! Boshlang'ich konsentratsiyada koloniyalar bir-biriga yopishib ketadi, shuning uchun suspenziya ketma-ket suyultiriladi
+@ M
+
+? Har bir suyultirish uchun parallel nusxalar soni qancha bo'ladi?
++ Kamida ikkita
+- Bitta bo'lsa yetarli
+- Parallel nusxa kerak emas
+- Nusxa soni ahamiyatsiz
+- Bitta nusxa bilan cheklanadi
+! Har bir suyultirish uchun kamida ikkita parallel nusxa tayyorlanadi, shunda tasodifiy xatolar natijaga kam ta'sir qiladi
+@ M
+
+? Tuproq mikroblari odatda qaysi haroratda o'stiriladi?
++ 28–30 °C da (mezofillar)
+- 4–5 °C da (psixrofillar)
+- 56–60 °C da (termofillar)
+- 80–90 °C da (giperterm)
+- 100 °C da qaynatib
+! Tuproq mikroblarining ko'pchiligi mezofil bo'lib, odatda 28–30 °C da o'stiriladi
+@ M BROCK
+
+? Hisoblash uchun qaysi idish tanlanadi?
++ 30 dan 300 gacha koloniyali idish
+- 3 dan 10 gacha koloniyali idish
+- 1000 dan 5000 gacha koloniyali idish
+- 1 dan 2 gacha koloniyali idish
+- 10 000 dan ko'p koloniyali idish
+! Hisoblash uchun odatda 30 dan 300 gacha koloniya bo'lgan idish tanlanadi
+@ M WHODW
+
+? Bir-biriga yopishgan koloniyalar qanday hisoblanadi?
++ Bitta deb hisoblanadi
+- Har biri alohida sanaladi
+- Ikki baravar qilib sanaladi
+- Sanoqdan butunlay chiqariladi
+- Uch baravar qilib sanaladi
+! Bir-biriga yopishgan koloniyalar bitta mikrob guruhidan kelib chiqqan bo'lishi mumkin, shuning uchun bitta deb hisoblanadi
+@ M
+
+? Tuproq uchun inkubatsiya nima uchun bir necha kun davom etishi mumkin?
++ Aktinomitsetlarni hisobga olish uchun
+- Viruslarni ko'paytirish uchun
+- Muhit qotishi uchun
+- Termostat qizishi uchun
+- Idish sterillanishi uchun
+! Aktinomitsetlarni hisobga olish uchun inkubatsiya bir necha kun davom etishi mumkin
+@ M BROCK
+
+# 265
+
+? Tuproqda koli-titr nimani bildiradi?
++ E. coli aniqlanadigan eng kam tuproq miqdorini
+- 1 g tuproqdagi E. coli hujayralari sonini
+- E. coli topilmaydigan eng ko'p tuproq miqdorini
+- 1 ml suspenziyadagi umumiy mikroblar sonini
+- Tuproq namligining foizdagi ko'rsatkichini
+! Koli-titr — ichak tayoqchasi hali aniqlanadigan tuproq miqdorining eng kichik qiymati (gramm hisobida)
+@ M
+
+? Koli-titr kichik bo'lsa nimani bildiradi?
++ Tuproq ko'proq ifloslanganini bildiradi
+- Tuproq toza ekanini bildiradi
+- Tuproq quruq ekanini bildiradi
+- Tuproq unumdor ekanini bildiradi
+- Tuproq steril ekanini bildiradi
+! Koli-titr qanchalik kichik bo'lsa, tuproq shunchalik ko'p ifloslangan hisoblanadi
+@ M
+
+? Tuproqda oddiy musbat natija nima uchun yetarli emas?
++ Koliformlarning bir qismi tuproqda tabiiy yashaydi
+- Koliformlar tuproqda mutlaqo bo'lmaydi va uchramaydi
+- Musbat natija doim noto'g'ri chiqadi, shuning uchun
+- Tuproq laktozani bijg'itmaydigan muhit hisoblanadi
+- Gaz hosil bo'lishi faqat suvda kuzatiladi, shuning uchun
+! Koliformlarning bir qismi tuproqda tabiiy yashaydi, shuning uchun E. coli ekanligi tasdiqlanishi shart
+@ M
+
+? Tuproq suspenziyasi bijg'itish usulida qaysi muhitga solinadi?
++ Laktozali buyonga
+- Kraxmalli agarga
+- Tuxum sarig'i agariga
+- Qonli agarga
+- Sulfitli agarga
+! Bijg'itish usulida tuproq suspenziyasi laktozali buyonga turli hajmlarda solinadi
+@ M
+
+? Tuproq uchun bijg'itish usulida inkubatsiya rejimi qanday?
++ 37 °C da 24 soat
+- 56 °C da 24 soat
+- 4 °C da 24 soat
+- 37 °C da 1 daqiqa
+- 100 °C da 24 soat
+! Probirkalar termostatda 37 °C da 24 soat inkubatsiya qilinadi, so'ng gaz hosil bo'lishi va rang o'zgarishi tekshiriladi
+@ M
+
+? Tasdiqlash bosqichida musbat probirkadan qaysi agarga ekiladi?
++ Endo yoki EMB agariga
+- Sabouraud yoki Chapek agariga
+- Qonli yoki shokoladli agarga
+- Manitolli tuzli yoki SS agarga
+- SPS yoki lesitinli agarga
+! Musbat probirkalardan namuna Endo yoki eozin metilen ko'k (EMB) agariga ekiladi
+@ M
+
+? Koloniyalar Gram usulida bo'yalganda nima aniqlanadi?
++ Gram-manfiy tayoqchalar
+- Gram-musbat kokklar
+- Sporali tayoqchalar
+- Xamirturush hujayralari
+- Kislotaga chidamli tayoqchalar
+! Gram bilan bo'yalgan koloniyalarda gram-manfiy tayoqchalar aniqlanadi, bu tasdiqlashning ikkinchi bosqichi
+@ M
+
+? Eijkman sinovi nimani aniqlashda qo'llanadi?
++ Ichak kelib chiqishidagi termotolerant koliformlarni
+- Sporali anaeroblarni va ularning sporalarini
+- Tuproq aktinomitsetlarini va ularning ipchalarini
+- Xamirturush va mog'orlarni va ularning konidiyalarini
+- Kislotaga chidamli mikobakteriyalarni va ularning shnurlarini
+! Eijkman sinovi ichak kelib chiqishiga ega koliformlarni aniqlashda qo'llanadi
+@ M
+
+? Eijkman sinovida bijg'itish muhiti qaysi haroratda inkubatsiya qilinadi?
++ 44 °C da, ichak tayoqchasi o'sadi
+- 22 °C da, ichak tayoqchasi o'sadi
+- 4 °C da, ichak tayoqchasi o'sadi
+- 60 °C da, ichak tayoqchasi o'sadi
+- 100 °C da, ichak tayoqchasi o'sadi
+! Eijkman sinovida muhit 44 °C da inkubatsiya qilinadi, chunki ichak tayoqchasi bu haroratda yaxshi o'sadi
+@ M WHODW
+
+? Tuproqda koli-indeks nimani ko'rsatadi?
++ 1 g tuproqdagi ichak tayoqchalari sonini
+- Ichak tayoqchasi topiladigan eng kam miqdorni
+- 1 ml suvdagi sporalar sonini
+- Tuproq namligi foizini
+- Tuproq pH ko'rsatkichini
+! Koli-indeks 1 g tuproqdagi ichak tayoqchalari sonini ko'rsatadi, koli-titr esa eng kichik miqdorni bildiradi
+@ M
+
+? Bijg'itish usulida natija qaysi jadval yordamida topiladi?
++ Eng ehtimolli son jadvali
+- Normal qon ko'rsatkichlari jadvali
+- Dori dozalari jadvali
+- Bo'yoqlar tarkibi jadvali
+- Kimyoviy elementlar jadvali
+! Natija musbat probirkalar soni bo'yicha eng ehtimolli son (EHS) jadvali yordamida topiladi
+@ M
+
+# 266
+
+? Clostridium perfringens qanday bakteriya?
++ Sporali, anaerob tayoqcha
+- Sporasiz, aerob kokk
+- Kapsulali, aerob diplokokk
+- Xivchinli, aerob spiroxeta
+- Sporasiz, fakultativ vibrion
+! C. perfringens sporali, anaerob, tayoqcha shaklidagi bakteriya; sporalari issiqlikka chidamli
+@ M JAW
+
+? Tuproq suspenziyasi nima uchun qizdiriladi?
++ Vegetativ hujayralar o'ladi, sporalar qoladi
+- Sporalar o'ladi, vegetativ shakllar qoladi
+- Mikroblar ko'payib, soni ikki baravar oshadi
+- Hamma mikroblar o'zgarishsiz saqlanadi
+- Tuproq suspenziyasi to'liq sterillanadi
+! Qizdirish vegetativ hujayralarni nobud qilib, faqat sporalarni qoldiradi
+@ M JAW
+
+? Perfringens uchun namuna odatda qaysi haroratda qizdiriladi?
++ 75–80 °C da qisqa muddat
+- 20–25 °C da uzoq muddat
+- 37 °C da bir sutka
+- 121 °C da yarim soat
+- 4 °C da bir hafta
+! Qizdirish odatda 75–80 °C da qisqa muddat davom etadi
+@ M
+
+? C. perfringens nima uchun anaerob sharoitda o'stiriladi?
++ Kislorodda o'smaydi yoki juda sekin o'sadi
+- Kislorod yetishmasa, tezda nobud bo'lib qoladi
+- Aerob bakteriyalar kabi tez ko'payishi uchun
+- Atmosfera ishtirokida sporalar hosil qilishi uchun
+- Namlik bor joyda toksin hosil qilmasligi uchun
+! Bakteriya kislorod ishtirokida o'smaydi yoki juda sekin o'sadi, shuning uchun anaerob sharoit zarur
+@ M JAW
+
+? Perfringens uchun qaysi selektiv muhit ishlatiladi?
++ Sulfit-polimiksin-sulfadiazin (SPS) agar
+- Endo yoki Ploskirev agari muhiti
+- Levenshteyn-Yensen yoki Chapek muhiti
+- Manitolli tuzli yoki qonli agar muhiti
+- Sabouraud yoki Chapek agari muhiti
+! Perfringens uchun sulfit-polimiksin-sulfadiazin (SPS) agar kabi selektiv muhit ishlatiladi
+@ M
+
+? SPS agarda C. perfringens koloniyalari qanday ko'rinadi?
++ Qora koloniyalar hosil qiladi
+- Qizil metall yaltirashli koloniyalar
+- Sariq shilimshiq koloniyalar
+- Rangsiz shaffof koloniyalar
+- Yashil floressensiyali koloniyalar
+! SPS agarda C. perfringens qora koloniyalar hosil qiladi
+@ M
+
+? C. perfringens koloniyalari nima uchun qora rangda bo'ladi?
++ Sulfitni qaytaradi
+- Laktozani bijg'itadi
+- Mannitni parchalaydi
+- Ureazani ajratadi
+- Oksidaza hosil qiladi
+! Bakteriya sulfitni qaytargani uchun koloniyalar qora bo'ladi
+@ M
+
+? C. perfringensni tasdiqlash uchun qaysi faollik tekshiriladi?
++ Lesitinaza faolligi (tuxum sarig'i agarida)
+- Koagulaza faolligi (plazmada)
+- Ureaza faolligi (Kristensen muhitida)
+- Oksidaza faolligi (diskda)
+- Katalaza faolligi (peroksidda)
+! Tuxum sarig'i agarida lesitinaza ishlab chiqarish C. perfringens uchun xarakterli
+@ M JAW
+
+? Perfringens natijasi qanday ifodalanadi?
++ 1 g tuproqdagi perfringens sporalari soni
+- 1 ml suvdagi perfringens koloniyalari soni
+- 1 m³ havodagi perfringens mikroblari soni
+- 1 sm² sirtdagi perfringens hujayralari soni
+- 100 ml sutdagi perfringens koloniyalari soni
+! Natija 1 g tuproqdagi perfringens sporalari soni sifatida ifodalanadi
+@ M
+
+? Perfringens natijasi past bo'lsa nima qilinadi?
++ Katta hajmdagi namuna qizdirib ekiladi
+- Natija nol deb yoziladi
+- Qizdirish bosqichi tashlab ketiladi
+- Namuna hajmi keskin kamaytiriladi
+- Anaerob sharoit bekor qilinadi
+! Natija past bo'lsa, kam sonli sporalarni topish uchun katta hajmdagi namuna qizdirilib ekiladi
+@ M
+
+? Perfringens tuproqda nimani ko'rsatishi mumkin?
++ Eski fekal ifloslanish izini
+- Yangi ifloslanishning aniq belgisini
+- Tuproqning sterilligini
+- Tuproq pH ko'rsatkichini
+- Suv sathi balandligini
+! Perfringens tuproqda eski fekal ifloslanish izini ko'rsatishi mumkin va yordamchi ko'rsatkich sifatida qaraladi
+@ M
+
+? Perfringens ko'rsatkichining cheklovi nima?
++ Ichak tayoqchasi kabi aniq ko'rsatkich emas
+- Eng aniq va yagona ko'rsatkich hisoblanadi
+- Tuproqda umuman uchramaydi
+- Aerob sharoitda tez o'sadi
+- Qizdirishga chidamsiz hisoblanadi
+! Perfringensning mavjudligi ichak tayoqchasi kabi aniq ifloslanish ko'rsatkichi emas, natijani talqin qilishda bu hisobga olinadi
+@ M
+
+# 267
+
+? Xom sutdagi tabiiy himoya tizimlari qancha davom etadi?
++ Qisqa vaqt, sovutish bilan qo'llab-quvvatlanadi
+- Cheksiz, doim to'liq himoya qiladi
+- Bir yil, qo'shimcha chora talab qilmaydi
+- Bir necha hafta, qizdirish talab etiladi
+- Mutlaq himoya, sovutish ortiqcha
+! Xom sutda mikroblarni cheklovchi tabiiy tizimlar bor, lekin ularning ta'siri qisqa vaqt davom etadi va sovutish bilan qo'llab-quvvatlanadi
+@ M
+
+? Sut kislotali mahsulotlarda qaysi bakteriyalar muhim rol o'ynaydi?
++ Laktobatsillar va streptokokklar
+- Salmonella va Shigella turlari
+- Clostridium va Bacillus turlari
+- Vibrio va Pseudomonas turlari
+- Klebsiella va Proteus turlari
+! Sut mahsulotlarida sut kislotali bakteriyalar, ayniqsa laktobatsillar va streptokokklar qatiq, qaymoq va pishloqni tayyorlashda ishlatiladi
+@ M JAW
+
+? Sutga ishlab chiqarishda tushishi mumkin bo'lgan patogenlar qaysilar?
++ Salmonellalar va stafilokokklar
+- Rikketsiya va xlamidiya
+- Treponema va Borrelia
+- Mikoplazma va ureaplazma
+- Gonokokk va meningokokk
+! Salmonellalar va stafilokokklar sutga ishlab chiqarish yoki saqlash davrida tushishi mumkin
+@ M JAW
+
+? Namuna olishdan oldin sut nima qilinadi?
++ Yaxshilab aralashtiriladi
+- Qatlamlarga ajralguncha qoldiriladi
+- Yog' qatlami ajratib tashlanadi
+- Qaynatilib, sovitiladi
+- Muzlatilib, eritiladi
+! Qatlamlar orasidagi farq natijani buzishi mumkin, shuning uchun sut yaxshilab aralashtiriladi
+@ M
+
+? Partiyaning turli joylaridan nima uchun namuna olinadi?
++ Butun partiyani to'g'ri ifodalash uchun
+- Idishlarni tezroq to'ldirish uchun
+- Sut yog'ini ajratish uchun
+- Namuna hajmini kamaytirish uchun
+- Mikroblarni o'ldirish uchun
+! Turli joylardan olingan miqdorlar aralashtirilib o'rtacha namuna tayyorlanadi, bu butun partiyani to'g'ri ifodalaydi
+@ M
+
+? Sut namunasi yo'llanma xatida nimalar ko'rsatiladi?
++ Nomi, partiya raqami, sanalar, joy
+- Sotib olingan narx, chegirma va chek raqami
+- Iste'molchi yoshi, jinsi va kasbi
+- Idish rangi, hajmi va vazni
+- Do'kon manzili va kassir ismi
+! Yo'llanma xatda namunaning nomi, partiya raqami, ishlab chiqarilgan va olingan sana, joy va ishlab chiqaruvchi ko'rsatiladi
+@ M
+
+? Sut mahsulotlarini tashishda nima muhim?
++ Sovuq zanjirni saqlash
+- Issiq zanjirni saqlash
+- Tez qizdirish
+- Ochiq holda saqlash
+- Quruq muhitda saqlash
+! Sovuq zanjir muhim, chunki harorat oshsa mikroblar tez ko'payadi va natijaning haqiqiy holatini ko'rsatmay qoladi
+@ M
+
+? Namunani muzlatish nima uchun usul talab qilmasa qo'llanmaydi?
++ Muzlash mikroblarning bir qismini nobud qiladi
+- Muzlash mikroblarni ko'paytirib yuboradi
+- Muzlash sut rangini o'zgartiradi
+- Muzlash idishni sindirib yuboradi
+- Muzlash sutni sterillaydi
+! Muzlash mikroblarning bir qismini nobud qiladi va natijani buzadi
+@ M
+
+? Yo'llanma xatda bo'sh maydonlar bo'lsa nima bo'ladi?
++ Laboratoriya xatni qaytaradi
+- Laboratoriya uni o'zi to'ldiradi
+- Namuna tekshirilib, xat tashlanadi
+- Natija taxminan yoziladi
+- Xat e'tiborsiz qoldiriladi
+! Bo'sh maydonlar natijani noto'g'ri talqin qilishga olib keladi, shuning uchun laboratoriya bunday xatni qabul qilishdan oldin qaytaradi
+@ M
+
+? Sutda odatda qaysi ko'rsatkichlar nazorat qilinadi?
++ Umumiy son, koli-titr, koli-indeks, patogenlar
+- Qon guruhi, rezus omil va gemoglobin miqdori
+- Vitamin miqdori, rang va zichlik ko'rsatkichi
+- Idish hajmi, og'irligi va narxi ko'rsatkichi
+- Ob-havo, shamol va namlik ko'rsatkichi
+! Sut va sut mahsulotlarida odatda umumiy mikroblar soni, koli-titr, koli-indeks va patogenlar nazorat qilinadi
+@ M
+
+# 268
+
+? Sut va kefir tekshiruvdan oldin qanday tayyorlanadi?
++ Yaxshilab aralashtiriladi, qattiq chayqatilmaydi
+- Qattiq chayqatilib, ko'pik hosil qilinadi
+- Aralashtirilmay, ustki qatlamdan olinadi
+- Qaynatilib, sovitib olinadi
+- Muzlatilib, qayta eritiladi
+! Suyuq mahsulotlar yaxshilab aralashtiriladi; qattiq chayqatish mikroblarni ajratib yuborib, natijani sun'iy oshirishi mumkin
+@ M
+
+? Qaymoq va smetana kabi quyuq mahsulotlar qanday tayyorlanadi?
++ Steril eritma bilan bir xil suspenziya qilinadi
+- Qaynoq suvda eritilib, ko'pik olinadi
+- Quruq holda to'g'ridan-to'g'ri ekiladi
+- Spirtda eritilib, bug'latiladi
+- Qizdirilib, sterillanib ekiladi
+! Yog'li va quyuq mahsulotlar steril eritma bilan aralashtirilib, bir xil suspenziya hosil qilinadi
+@ M
+
+? Pishloqdan namuna qaerdan olinadi?
++ Ichki qismidan, steril asbob bilan
+- Yuza qatlamidan, qo'l bilan
+- Po'stlog'idan, tozalanmagan pichoq bilan
+- Chetidan, ochiq havoda qirib
+- Ustki changdan, cho'tka bilan
+! Pishloq steril asbob bilan kesib olinadi, namuna ichki qismidan olinishi tavsiya etiladi
+@ M
+
+? Pishloq yuzasidan namuna nima uchun olinmaydi?
++ Yuza tashqi muhitdan ko'proq ifloslangan bo'ladi
+- Yuza mutlaqo steril bo'lib, mikrob saqlamaydi
+- Yuzada mikroblar bo'lmaydi va tahlil mazmunsiz
+- Yuza tezda qurib qolib, o'sishga to'sqinlik qiladi
+- Yuza qizarib ketib, rangini yo'qotib qo'yadi
+! Yuza qatlam ko'pincha tashqi muhit ta'siridan ko'proq ifloslangan bo'ladi
+@ M
+
+? Sut mahsulotlari uchun suyultirish eritmasi qanday?
++ Steril fiziologik eritma yoki peptonli suv
+- Distillangan suv yoki spirt eritmasi
+- Kislotali bufer yoki sirka eritmasi
+- Konsentrlangan tuz yoki shakar eritmasi
+- Glitserin yoki efir aralashmasi
+! Sut mahsulotlari uchun steril fiziologik eritma yoki peptonli suv ishlatiladi, ular mikroblarning tirik holatini saqlaydi
+@ M
+
+? Har bir namuna uchun qanday asbob ishlatiladi?
++ Yangi steril asbob
+- Avvalgi namunada ishlatilgan asbob
+- Spirt bilan artilgan eski asbob
+- Umumiy ishlatiladigan bitta asbob
+- Qizdirilmagan oddiy asbob
+! Har bir namuna uchun yangi asbob ishlatiladi, bu boshqa namunalardan ifloslanishning oldini oladi
+@ M
+
+? Mahsulotda umumiy mikroblar sonining yuqoriligi nimani bildirishi mumkin?
++ Ishlab chiqarish yoki saqlash sanitariyasi buzilganini
+- Ideal sterillik darajasiga erishilganini va sifatini
+- Yog'lilik yuqoriligi va yog' miqdorining ortishini
+- Rangi oqligi va tashqi ko'rinishining yaxshiligini
+- Narxining pastligi va xaridorgir ekanligini
+! Yuqori son ishlab chiqarish sanitariyasi yoki saqlash sharoitining buzilganini bildirishi mumkin
+@ M
+
+? Koli-titr va koli-indeks mahsulotda nimani ko'rsatadi?
++ Fekal ifloslanishni
+- Yog' miqdorini
+- Oqsil miqdorini
+- Kislotalik darajasini
+- Shakar miqdorini
+! Koli-titr va koli-indeks fekal ifloslanish ko'rsatkichlari hisoblanadi
+@ M
+
+? Xom sut va ishlangan sutni nima uchun to'g'ridan-to'g'ri solishtirib bo'lmaydi?
++ Termik ishlovdan keyin mikroblar kamroq bo'ladi
+- Ishlangan sutda mikroblar ko'proq bo'ladi
+- Xom sut doim steril bo'ladi
+- Ikkala sutning tarkibi bir xil
+- Xom sutda laktoza bo'lmaydi
+! Termik ishlov berilgan mahsulotda mikroblar soni odatda kamroq bo'ladi, shuning uchun uni xom sut bilan bevosita solishtirib bo'lmaydi
+@ M
+
+? Sut kislotali mahsulotlarda umumiy sonni baholashda nima hisobga olinadi?
++ Foydali bakteriyalar ulushi alohida hisobga olinadi
+- Foydali bakteriyalar umuman hisobga olinmaydi
+- Foydali bakteriyalar ham patogen hisoblanadi
+- Umumiy son tahlili o'tkazilmaydi
+- Foydali bakteriyalar sanoqdan chiqariladi
+! Sut kislotali mahsulotlarda foydali bakteriyalar ko'p, shuning uchun umumiy son tahlilida ularning ulushi alohida hisobga olinadi
+@ M
+
+# 269
+
+? Sutda umumiy mikroblar soni nimaga asoslanadi?
++ O'sgan koloniyalarni sanashga
+- Yog' foizini kislotali usulda o'lchashga
+- Kislotaligini titrlash usulida aniqlashga
+- Zichligini areometr bilan aniqlashga
+- Rangini standart bilan taqqoslashga
+! Ekilgan suspenziyadan o'sgan koloniyalar sanaladi va bu sutdagi tirik mikroblar sonini aniqlashning asosi
+@ M
+
+? Sutda umumiy son qanday birlikda ifodalanadi?
++ 1 ml sutdagi KHB soni
+- 1 g tuproqdagi KHB soni
+- 1 m³ havodagi KHB soni
+- 1 litr suvdagi KHB soni
+- 1 sm² sirtdagi KHB soni
+! Natija koloniya hosil qiluvchi birlik (KHB) sifatida, odatda 1 ml sut uchun hisoblanadi
+@ M
+
+? 1 ml sut 9 ml steril eritmada suyultirilsa, qanday suyultirish hosil bo'ladi?
++ 1:10
+- 1:100
+- 1:9
+- 1:5
+- 1:1000
+! 1 ml sut 9 ml eritmada suyultirilganda umumiy hajm 10 ml bo'ladi, ya'ni 1:10 suyultirish
+@ M
+
+? Ketma-ket suyultirishda har bir bosqichda nima almashtiriladi?
++ Yangi steril pipetka
+- Termostat yoki uning harorati
+- Lupa yoki sanash qurilmasi
+- Jurnal yoki yorliq qog'ozi
+- Ish stoli yoki uning sirti
+! Ketma-ket suyultirish har bir bosqichda yangi pipetka bilan bajariladi
+@ M
+
+? Sut ekmalari odatda qanday inkubatsiya qilinadi?
++ 30 °C da, teskari holatda
+- 4 °C da, to'g'ri holatda
+- 60 °C da, to'g'ri holatda
+- 100 °C da, teskari holatda
+- −20 °C da, to'g'ri holatda
+! Idishlar odatda 30 °C da teskari holatda va chayqatmasdan o'stiriladi
+@ M
+
+? Sanash uchun qanday idish tanlanadi?
++ 30 dan 300 gacha koloniyali idish
+- 3 dan 10 gacha koloniyali idish
+- 1000 dan 5000 gacha koloniyali idish
+- 1 dan 2 gacha koloniyali idish
+- 10 000 dan ko'p koloniyali idish
+! Odatda 30 dan 300 gacha koloniya bo'lgan idishlar hisobga olinadi, chunki bu oraliqda sanoq eng ishonchli
+@ M
+
+? Yopishgan yoki juda kichik koloniyalar qanday hisobga olinadi?
++ Alohida qayd etiladi
+- Tashlab yuboriladi
+- Yashirib qo'yiladi
+- Ikki marta sanaladi
+- Sanoqdan avtomatik chiqariladi
+! Bir-biriga yopishgan yoki juda kichik koloniyalar alohida qayd etiladi, shunda sanoqdagi noaniqlik hisobotda ko'rinadi
+@ M
+
+? Ikki parallel idish orasida farq katta bo'lsa nima qilinadi?
++ Tahlil takrorlanadi
+- Kattasi tanlanadi
+- Kichigi tanlanadi
+- Farq e'tiborsiz qoldiriladi
+- Natija ikki baravar oshiriladi
+! Katta farq ekish yoki sanashdagi xatoni ko'rsatadi, shuning uchun tahlil takrorlanadi
+@ M
+
+? Sutda KHB hisoblash formulasida nimalar hisobga olinadi?
++ Koloniyalar soni, suyultirish koeffitsiyenti
+- Idish rangi, sut yog'i, xona harorati
+- Termostat markasi, pipetka narxi, soat vaqti
+- Muhit rangi, idish hajmi, xodim yoshi
+- Lupa kattalashtirishi, jurnal rangi, sana
+! Natija formula bo'yicha hisoblanadi: koloniyalar soni, suyultirish koeffitsiyenti va ekilgan hajm e'tiborga olinadi
+@ M
+
+? Sut uchun qanday oziqa muhiti ishlatiladi?
++ Umumiy maqsadli oziqa agari
+- Selektiv Endo agari muhiti
+- Sabouraud agari muhiti
+- SPS agari anaerob muhiti
+- Manitolli tuzli agar muhiti
+! Sut uchun umumiy maqsadli oziqa muhiti (agar) ishlatiladi
+@ M
