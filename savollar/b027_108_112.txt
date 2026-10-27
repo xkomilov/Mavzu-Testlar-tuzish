@@ -1,0 +1,459 @@
+# 108
+
+? Meningokokk meningitida qanday klinik belgilar kuzatiladi?
++ Bosh og'rig'i, isitma, bo'yin qotishi, ong buzilishi
+- Qorin og'rig'i, ich ketish, qusish, suvsizlanish
+- Yo'tal xurujlari, nafas qisilishi, ko'krak og'rig'i
+- Sariqlik, jigar kattalashishi, teri qichishishi
+- Bo'g'im shishi, yurak urishi tezlashishi, toshma
+! Meningit miya pardalari yallig'lanishi bo'lib, bosh og'rig'i, isitma, bo'yin qotishi va ong buzilishi bilan namoyon bo'ladi
+@ M JAW WHOLBM
+
+? Meningokokk miya pardalariga qanday yo'l bilan o'tadi?
++ Qon orqali, so'ng subaraxnoidal bo'shliqda ko'payadi
+- Quloq pardasi orqali, so'ng yurak bo'shlig'iga o'tadi
+- Teri jarohati orqali, so'ng ichakda ko'payadi
+- Ovqat hazm qilish yo'li orqali, so'ng jigarda to'planadi
+- Siydik yo'li orqali, so'ng buyrakda ko'payadi
+! Meningokokk miya pardasiga qon orqali o'tib, subaraxnoidal bo'shliqda ko'payadi, shu sababli likvor tarkibi o'zgaradi
+@ M JAW WHOLBM
+
+? Meningit asoratlari orasida qaysi biri qayd etilgan?
++ Eshitish qobiliyatining pasayishi, nevrologik buzilishlar
+- Ko'rish qobiliyatining oshishi, mushaklar kuchayishi
+- Jigarning kattalashishi, qon bosimi ko'tarilishi
+- Buyrak toshlarining paydo bo'lishi, siydik ko'payishi
+- Teri qatlamlarining ko'chishi, soch to'kilishi
+! Meningit asoratlariga eshitish qobiliyatining pasayishi va nevrologik buzilishlar kiradi, erta davolash asoratlarni kamaytiradi
+@ M JAW WHOLBM
+
+? Meningokokk sepsisi (meningokokkemiya) nima?
++ Bakteriya qonda ko'payadigan tizimli infeksiya
+- Bakteriya burun shilliq qavatida turadigan holat
+- Bakteriya miya pardasida joylashadigan holat
+- Bakteriya ichak devorida toksin hosil qiladigan holat
+- Bakteriya teri yuzasida yara hosil qiladigan holat
+! Meningokokkemiya bakteriyaning qonda ko'payishi bilan kechadigan tizimli infeksiya bo'lib, isitma va qon bosimi pasayishi bilan boradi
+@ M JAW WHOLBM
+
+? Meningokokk sepsisining muhim belgisi qaysi?
++ Ko'k-qizil nuqtasimon toshma (petexiyalar)
+- Oqish va quruq tangachali teri dog'lari
+- Suvli yirik pufakchalar va qichishish
+- Sariq rangli qatlam va yiringli yaralar
+- Chuqur qora yara va uning atrofida halqa
+! Ko'k-qizil nuqtasimon toshmalar, ya'ni petexiyalar, meningokokk sepsisining muhim belgisidir; toshma tez kengayishi mumkin
+@ M JAW WHOLBM
+
+? Vaterxauzen–Fridrixsen sindromi nima bilan xarakterlanadi?
++ Buyrak usti bezlarida qon ketishi va shok bilan
+- Jigar to'qimasining yog'li o'zgarishi va sariqlik bilan
+- Miya po'stlog'ida yiringli o'choqlar va tutqanoq bilan
+- O'pka alveolalarining shishi va quruq yo'tal bilan
+- Me'da shilliq qavatining yarasi va qon qusish bilan
+! Sindrom meningokokk sepsisining og'ir shakli bo'lib, buyrak usti bezlarida qon ketishi va qon bosimining keskin tushishi, shok bilan kechadi
+@ M JAW WHOLBM
+
+? Og'ir meningokokk sepsisida qaysi asorat rivojlanishi mumkin?
++ Tarqoq intravaskulyar koagulyatsiya (DVS-sindrom)
+- Qon bosimining doimiy oshishi va siydik ko'payishi
+- Hamma organlar ishining kuchayishi va tezlashishi
+- Qon ivish tizimining mustahkamlanishi va laxta kamayishi
+- Teri yuzasidagi qizarish va o'z-o'zidan tuzalish
+! Sepsis og'ir holatda tarqoq intravaskulyar koagulyatsiya va organlar yetishmovchiligiga olib kelishi mumkin, intensiv terapiya talab qilinadi
+@ M JAW WHOLBM
+
+? Meningokokk infeksiyasi qanday kechishi bilan xavfli?
++ Bir necha soatda og'ir holatga tushishi mumkin
+- Kasallik doimo yengil va sekin kechadigan bo'ladi
+- Belgilar bir necha oydan keyin paydo bo'ladi
+- Kasallik o'z-o'zidan davosiz o'tib ketadi
+- Bemorda doim faqat yengil isitma bo'ladi
+! Kasallik tez boshlanishi mumkin, bemor ba'zan bir necha soat ichida og'ir holatga tushadi, shuning uchun shoshilinch tashxis va davolash zarur
+@ M JAW WHOLBM
+
+? Meningokokk meningiti ko'proq qaysi aholi guruhlarida uchraydi?
++ Bolalar va yoshlarda
+- Keksa odamlarda
+- Homilador ayollarda
+- Chaqaloq tug'ilgandan keyingi bir soatda
+- Qishloq mehnatkashlarida
+! Meningokokk meningiti bolalar va yoshlarda ko'proq uchraydi
+@ M JAW
+
+? Meningokokk tashuvchisi kim hisoblanadi?
++ Burun-halqumida bakteriya bor, kasallik belgisi yo'q odam
+- Qonida bakteriya bor, og'ir kasallik belgisi bor odam
+- Teri yuzasida toshma bor, isitmasi yo'q odam
+- Miya pardasi yallig'langan, bosh og'rig'i bor odam
+- Ichagida bakteriya bor, qusish va ich ketishi bor odam
+! Tashuvchi — burun-halqumida meningokokk bor, lekin kasallik belgisi bo'lmagan odam; infeksiya manbaiga u ham kiradi
+@ JAW WHOLBM
+
+# 109
+
+? Komplement tizimining C5–C9 komponentlari yetishmasa, nima ortadi?
++ Takroriy meningokokk infeksiyalari xavfi
+- Meningokokkka qarshi to'liq himoya
+- Gripp infeksiyasiga chidamlilik
+- Allergik reaksiyalarga moyillik yo'qolishi
+- Antibiotiklarga sezuvchanlik kamayishi
+! Komplementning terminal komponentlari (C5–C9) yetishmasa, takroriy meningokokk infeksiyalari xavfi ortadi
+@ M JAW WHOLBM
+
+? Bakteriyolitik antitelalar meningokokkka qanday ta'sir qiladi?
++ Komplement yordamida bakteriyani eritadi
+- Bakteriyani sporaga aylantirib saqlaydi
+- Bakteriya kapsulasini qalinlashtiradi
+- Bakteriya toksinini kuchaytirib yuboradi
+- Bakteriyani antibiotikka chidamli qiladi
+! Bakteriyolitik antitelalar komplement bilan birga bakteriya membranasini teshib, uni eritadi
+@ M JAW
+
+? Bakteriyolitik antitelalar asosan qaysi antigenlarga qarshi hosil bo'ladi?
++ Kapsula polisaxaridi va membrana oqsillariga
+- Xivchin oqsili va spora po'sti oqsillariga
+- Ribosoma RNKsi va hujayra yadrosi DNKsiga
+- Mitoxondriya va hujayra yadrosi oqsillariga
+- Gemoglobin va qon albumini oqsillariga
+! Ular asosan kapsula polisaxaridiga va tashqi membrana oqsillariga qarshi hosil bo'ladi
+@ M JAW
+
+? Kasallikdan keyingi meningokokk immuniteti qanday xususiyatga ega?
++ Serogruppaga xos, boshqa serogruppadan himoya qilmaydi
+- Serogruppalarga qarshi umrbod himoya beradi
+- Qisqa vaqt saqlanib, so'ng butunlay yo'qoladi
+- Bolalarda hosil bo'lib, kattalarda hosil bo'lmaydi
+- Tashuvchilarda hosil bo'ladi
+! Kasallikdan keyingi immunitet ko'pincha serogruppaga xos bo'lib, boshqa serogruppa bilan qayta yuqishdan himoya qilmaydi
+@ M JAW
+
+? Meningokokk tarqalishini kamaytiradigan umumiy gigiyenik chora qaysi?
++ Yo'talda og'izni yopish, qo'l yuvish, shamollatish
+- Sovuq suvda cho'milish, ochiq havoda uxlash
+- Xonalarni yopib saqlash, odamlarni to'plash
+- Issiq ichimliklar ichish, ko'p uxlash yetarli
+- Kiyimlarni dazmollash, poyabzalni almashtirish
+! Yo'tal va aksirishda og'izni yopish, qo'l yuvish va yopiq xonalarni shamollatish tashuvchi orqali tarqalishni cheklaydi
+@ M JAW
+
+? Kasal bilan yaqin aloqada bo'lganlarga nima tavsiya etiladi?
++ Tibbiy kuzatuv va kerak bo'lsa kimyoprofilaktika
+- Qanday kuzatuvsiz, odatdagi hayot tarzi
+- Vitamin berish va yengil dam olish
+- Issiq vanna qilish va ko'p yurish
+- Oziq-ovqatni almashtirish va sovuq suv ichish
+! Kontakt guruhiga kirgan odamlarga tibbiy kuzatuv o'tkaziladi va kerak bo'lsa kimyoprofilaktika (antibiotik) beriladi
+@ M WHOLBM
+
+? Meningokokkka qarshi maxsus profilaktika nima orqali amalga oshiriladi?
++ Kapsula polisaxaridli vaksinalar orqali
+- Anatoksinni muntazam yuborish orqali
+- Jonli zaiflashtirilgan bakteriya orqali
+- Antibiotikni doimiy qabul qilish orqali
+- Qon zardobini har yili yuborish orqali
+! Maxsus profilaktika kapsula polisaxaridi (va konyugirlangan) vaksinalarga asoslanadi; kapsula antitelalari asosiy himoya omilidir
+@ M WHOLBM JAW
+
+? Bolalarni vaksinalash nima uchun alohida ahamiyatga ega?
++ Ularda antitelalar darajasi past, xavf yuqori bo'ladi
+- Ularda antitelalar darajasi yuqori, xavf past bo'ladi
+- Ularda komplement tizimi bo'lmaydi
+- Ular kasallikni hech qachon o'tkazmaydi
+- Ularning immuniteti umrbod saqlanadi
+! Bolalarda antitelalar darajasi ko'pincha past bo'ladi, bu esa xavfni oshiradi, shuning uchun vaksinalash muhim
+@ M JAW
+
+? Meningokokk infeksiyasini davolashda qaysi guruh antibiotiklar qo'llanadi?
++ Beta-laktamlar, masalan penitsillin yoki seftriakson
+- Aminoglikozidlar, masalan faqat og'iz orqali gentamitsin
+- Antiprotozoy dorilar, masalan metronidazol
+- Zamburug'ga qarshi dorilar, masalan flukonazol
+- Sil kasalligiga qarshi dorilar, masalan izoniazid
+! Meningokokk infeksiyasida beta-laktam antibiotiklar (penitsillin, seftriakson) birinchi tanlov hisoblanadi
+@ WHOLBM JAW
+
+? Tashuvchilik orqali shakllanadigan immunitet qanday?
++ Qisman bo'ladi va hamma uchun bir xil emas
+- To'liq bo'lib, barcha uchun bir xil bo'ladi
+- Shakllanmaydi
+- Mahalliy teri immuniteti shaklida bo'ladi
+- Vaksinadan keyin paydo bo'ladi
+! Tashuvchilik orqali ham qisman immunitet shakllanadi, ammo u hamma uchun bir xil emas
+@ M JAW
+
+# 110
+
+? Meningokokk meningitida asosiy tekshiriladigan material qaysi?
++ Likvor (orqa miya suyuqligi)
+- Siydik (buyrak ajralmasi)
+- Najas (ichak ajralmasi)
+- Sut (emizikli ona ajralmasi)
+- Safro (jigar ajralmasi)
+! Meningit gumonida bel punksiyasi orqali steril sharoitda olingan likvor asosiy material hisoblanadi
+@ M JAW WHOLBM
+
+? Likvor surtmasida qanday ko'rinish meningokokkni ko'rsatadi?
++ Neytrofillar ichidagi Gram-manfiy diplokokklar
+- Eritrotsitlar ichidagi Gram-musbat diplokokklar
+- Hujayrasiz zanjirsimon Gram-musbat kokklar
+- Neytrofillar ichidagi Gram-musbat tayoqchalar
+- Limfotsitlar ichidagi Gram-manfiy spiroxetalar
+! Gram-manfiy diplokokklar, ayniqsa neytrofillar ichida joylashgan bo'lsa, meningokokk ehtimoli yuqori bo'ladi
+@ M JAW WHOLBM
+
+? Qon kulturasi meningokokk uchun qachon asosiy material hisoblanadi?
++ Meningokokk sepsisi va bakteriemiyada
+- Teri yuzasidagi yengil yaralarda
+- Tashuvchilikni aniqlashda
+- Tomoq og'rig'i belgisi bo'lganda
+- Bo'g'im og'rig'i belgisi bo'lganda
+! Qon sepsis va bakteriemiyada asosiy material bo'lib, kultura ikki yoki undan ko'p hajmda, turli nuqtalardan olinadi
+@ M JAW
+
+? Qon kulturasi idishlari tashishda qanday saqlanadi?
++ Ochilmasdan va sovitilmasdan tashiladi
+- Ochilib, muzda sovitilib tashiladi
+- Ochiq holda, qaynoq suvda tashiladi
+- Muzlatilib, bir hafta saqlanib tashiladi
+- Quruq kukun holiga keltirilib tashiladi
+! Meningokokk tashqi sharoitda tez nobud bo'lgani uchun qon idishlari ochilmasdan va sovitilmasdan tashiladi
+@ M JAW
+
+? Petexiyalardan material olish nima uchun foydali?
++ Meningokokk DNKsini aniqlash mumkin
+- Bemorning qon guruhini aniqlash mumkin
+- Jigar fermentlarini o'lchash mumkin
+- Qondagi glyukoza miqdorini aniqlash mumkin
+- Siydikdagi oqsil miqdorini o'lchash mumkin
+! Ko'k-qizil petexiyalardan olingan material meningokokk DNKsini aniqlashda foydali bo'ladi
+@ M JAW
+
+? Teri elementlaridan material qanday olinadi?
++ Steril tampon yoki aspiratsiya, avval teri tozalanadi
+- Teri tozalanmay, oddiy quruq cho'tka bilan olinadi
+- Qaynoq suv bilan yuvib, sochiq bilan artib olinadi
+- Quritilgan teri parchasini kesib olib, yuboriladi
+- Bemor terisini qirib, ochiq idishga solib yuboriladi
+! Teri elementlaridan material aspiratsiya yoki steril tampon bilan olinadi, avval teri antiseptik bilan tozalanadi
+@ M JAW
+
+? Bir vaqtda bir necha xil material olish nimaga yordam beradi?
++ Aniqlash ehtimoli va natijalar ishonchliligini oshiradi
+- Natijani kamaytirib, tashxisni murakkablashtiradi
+- Namunaning steril bo'lib qolishini ta'minlaydi
+- Bakteriyaning tezda nobud bo'lishiga olib keladi
+- Likvor bosimini pasaytirib, bemorni tinchlantiradi
+! Bir nechta material bir vaqtda olinsa, bakteriyani aniqlash ehtimoli oshadi va natijalar bir-birini tasdiqlaydi
+@ M
+
+? Likvor kulturasi uchun nima uchun namunaning bir qismi zaxirada saqlanadi?
++ Zarur bo'lsa, qayta tekshirish imkoni uchun
+- Butunlay tashlab yuborish va yo'qotish uchun
+- Bemorga qaytarib berish va yo'qotish uchun
+- Qizdirib, mikrobni o'ldirib yuborish uchun
+- Oziqa muhitiga aylantirib ishlatish uchun
+! Likvor namunasining bir qismi zaxirada saqlanadi, bu zarur bo'lsa qayta tekshirish imkonini beradi
+@ M
+
+? Bel punksiyasi qanday sharoitda bajariladi?
++ Aseptik qoidalar asosida, steril asboblar bilan
+- Oddiy sharoitda, steril bo'lmagan asboblar bilan
+- Uy sharoitida, tibbiy nazoratsiz, qo'lda
+- Qo'lqopsiz, steril bo'lmagan ignada, tez
+- Ochiq havoda, tez va ehtiyotsiz tarzda
+! Likvor punksiyasi asoratlarning oldini olish uchun aseptik qoidalarga qat'iy rioya qilishni talab qiladi
+@ M JAW
+
+? Likvorning qaysi ko'rsatkichlari tekshiruvda qayd etiladi?
++ Bosimi, rangi va tiniqligi
+- Hidi, shirinligi va zichligi
+- Og'irligi, uzunligi va hajmi
+- Harorati, sho'rligi va qovushqoqligi
+- Bemorning yoshi, jinsi va vazni
+! Tekshiruvda likvorning bosimi, rangi va tiniqligi ham qayd etiladi
+@ M JAW
+
+# 111
+
+? Meningokokk tekshiruvining preanalitik bosqichida nima muhim?
++ Namunani kechiktirmay laboratoriyaga yetkazish
+- Namunani bir hafta xona haroratida saqlash
+- Namunani muzda qotirib, keyin tekshirish
+- Namunani qaynatib, mikroblarni o'ldirish
+- Namunani yorliqsiz topshirib yuborish
+! Tashish vaqti va harorati muhim: namuna kechikmasdan yetkazilishi kerak, aks holda natija noto'g'ri bo'lishi mumkin
+@ M JAW
+
+? Qanday namuna laboratoriyada qabul qilinmaydi?
++ Buzilgan, oqib ketgan yoki yorliqsiz namuna
+- Yorliqli, yo'llanmasi mos kelgan namuna
+- Steril idishga olingan toza namuna
+- Tezda yetkazilgan, yorlig'i aniq namuna
+- Ro'yxatga olingan, raqami berilgan namuna
+! Buzilgan, oqib ketgan yoki yorliqsiz namuna qabul qilinmaydi, shifokorga xabar beriladi va qayta olish tavsiya etiladi
+@ M
+
+? Qabul qilingan namunaga nima beriladi?
++ Noyob laboratoriya raqami
+- Bemorning pasport raqami
+- Xodimning shaxsiy raqami
+- Shifokorning telefon raqami
+- Binoning inventar raqami
+! Har bir namuna ro'yxatga olinib, noyob raqam beriladi; bu namunani kuzatish va natijani yo'qotmaslik uchun zarur
+@ M
+
+? Dastlabki ishlov qayerda bajariladi?
++ Biologik xavfsizlik shkafida
+- Ochiq deraza oldida, shamolda
+- Umumiy kutish zalida, bemorlar yonida
+- Oddiy ish stoli ustida, ochiq holda
+- Muzlatkich kamerasi ichida, qopqoqsiz
+! Meningokokk xavfli patogen bo'lgani uchun dastlabki ishlov biologik xavfsizlik shkafida bajariladi
+@ M JAW
+
+? Likvor surtmasi mikroskopiyasi natijasi shifokorga qachon xabar qilinishi mumkin?
++ Kulturadan oldin, yakuniy tashxissiz holda
+- Kultura natijasi tayyor bo'lgandan keyingina
+- Ikki hafta o'tgandan keyin, arxivlashda
+- Hech qachon xabar qilinmaydi, bemorga aytiladi
+- Bemor so'ragandagina xabar qilinadi, xolos
+! Mikroskopik natija kulturadan oldin shifokorga xabar qilinishi mumkin, ammo u yakuniy tashxis emas, ehtimoliy ma'lumotdir
+@ M
+
+? Meningokokk ekmalari odatda qanday sharoitda o'stiriladi?
++ Shokoladli agarda, namlangan CO2 muhitida
+- Endo agarida, kislorodsiz muhitda, 37 °C da
+- Sabouraud agarida, quruq havoda, 25 °C da
+- Manitli tuzli agarda, quruq havoda, 55 °C da
+- Levenshteyn–Yensen muhitida, 22 °C da
+! Neysseriyalar shokoladli agarda, namlangan CO2 (taxminan 5 %) muhitida 35–37 °C da yaxshi o'sadi
+@ JAW WHOLBM
+
+? Neisseria meningitidis oksidaza sinamasida qanday natija beradi?
++ Musbat natija beradi
+- Manfiy natija beradi
+- Natija o'zgaruvchan bo'ladi
+- Sinama qo'llanmaydi
+- Sovuqda musbat bo'ladi
+! Neisseria meningitidis oksidaza-musbat Gram-manfiy diplokokk bo'lib, identifikatsiyada oksidaza sinamasi qo'llanadi
+@ JAW WHOLBM
+
+? Meningokokk qaysi shakarlarni parchalaydi?
++ Glyukoza va maltozani
+- Laktoza va saxarozani
+- Laktozani
+- Saxarozani
+- Qaysi shakarni
+! N. meningitidis glyukoza va maltozadan kislota hosil qiladi, laktoza va saxarozani parchalamaydi
+@ JAW WHOLBM
+
+? PCR yoki molekulyar usullarga qaysi materiallar tayyorlanadi?
++ Teri elementlari va surtmalar
+- Tuproq namunalari va suv ifloslanishi
+- Oziq-ovqat mahsulotlari namunalari
+- Bemor kiyimi va choyshablari bo'laklari
+- Havo namunalari va chang
+! Teri elementlari va surtma materiallari PCR yoki boshqa molekulyar usullarga tayyorlanadi
+@ M
+
+? Ishlov tugagach, ish stoli va asboblar bilan nima qilinadi?
++ Belgilangan dezinfeksiya vositasi bilan artish
+- Quruq latta bilan bir marta artib qo'yish
+- Ochiq havoda o'z-o'zidan quritib qo'yish
+- Oddiy suv bilan chayib tashlash, xolos
+- Tozalamasdan, keyingi ishga qoldirib ketish
+! Ishlov tugagach, ish stoli va asboblar belgilangan dezinfeksiya vositasi bilan, ta'sir muddatiga rioya qilib tozalanadi
+@ M
+
+# 112
+
+? Namuna idishiga yopishtiriladigan yorliqda qanday ma'lumot bo'ladi?
++ Bemor raqami, familiyasi, namuna turi, sana
+- Xodimning oilaviy holati, manzili va yoshi
+- Idish ishlab chiqarilgan zavod nomi va partiyasi
+- Bemor yaqinlarining telefon raqami va manzili
+- Bino qavati, xona raqami va xodim ismi
+! Har bir idishga bemorning identifikatsiya raqami, familiyasi, namuna turi va olingan sana-vaqt yozilgan yorliq yopishtiriladi
+@ M
+
+? Yorliq qayerga yopishtiriladi?
++ Idish tanasiga, qopqoqqa emas
+- Qopqoqqa
+- Idish tagiga, namuna ustiga
+- Qo'lqopga, xodim kiyimiga
+- Yo'llanma qog'oziga, idishsiz
+! Yorliq idish tanasiga yopishtiriladi, qopqoqqa esa yopishtirilmaydi, chunki qopqoq ochilganda yorliq ajralib ketishi mumkin
+@ M
+
+? Yorliq qanday bo'lishi kerak?
++ Suv va spirtdan o'chmaydigan
+- Qalam bilan yozilgan, oson o'chadigan
+- Qisqartmalar bilan yozilgan, noaniq
+- Og'zaki aytilgan, qog'ozga yozilmagan
+- Sanasiz yozilgan, ismi noaniq
+! Yorliq sifatli bosma yoki chidamli siyoh bilan yozilib, suv, spirt yoki ishqalanishdan o'chmasligi kerak
+@ M
+
+? Likvor namunasi qanday haroratda va qanday yetkaziladi?
++ Xona haroratida, tez, sovitilmasdan
+- Muzda sovitilib, bir kundan keyin
+- Muzlatilgan holda, bir haftadan keyin
+- Qaynoq suvda isitilib, sekin
+- 4 °C da sovutgichda, ikki kundan keyin
+! Likvor xona haroratida tez yetkaziladi va sovitilmaydi, chunki sovitish meningokokkni nobud qilishi mumkin
+@ M JAW WHOLBM
+
+? Qon kulturasi namunasi sovutgichda saqlansa nima bo'lishi mumkin?
++ Meningokokk nobud bo'lishi mumkin
+- Meningokokk tez ko'payib ketadi
+- Meningokokk sporaga aylanadi
+- Meningokokk toksin hosil qiladi
+- Namuna steril bo'lib qoladi
+! Qon namunasi xona haroratida saqlanadi, sovutgichda saqlash meningokokkni nobud qilishi mumkin
+@ M JAW
+
+? Likvor idishlari haqida qaysi gap to'g'ri?
++ Bir necha idish olinib, har biri alohida tekshiriladi
+- Bitta idish olinib, hammasi birgalikda tekshiriladi
+- Ochiq qoldirib, havo kirishi ta'minlanadi
+- Sovutgichda muzlatib, uzoq vaqt saqlanadi
+- Quritilib, kukun holida laboratoriyaga yuboriladi
+! Likvor steril, mahkam yopiladigan idishga olinadi; odatda bir necha idish to'ldiriladi, har biri alohida tekshiruv uchun
+@ M
+
+? Qabul paytida likvor ko'rinishi (tiniq, xira, qonli) nima uchun qayd etiladi?
++ Hujjatda tavsifi saqlanishi uchun
+- Bemorga qaytarib berilishi uchun
+- Qaynatib sterillanishi uchun
+- Tashlab yuborilishi uchun
+- Bir hafta saqlanishi uchun
+! Likvor ko'rinishi (tiniq, xira yoki qonga aralashgan) qabul hujjatiga qayd etiladi
+@ M
+
+? Qon idishlarining hajmi yo'riqnomadagi nisbatga mos bo'lmasa nima bo'ladi?
++ O'sish sezgirligi pasayadi
+- O'sish sezgirligi oshadi
+- Namuna avtomatik steril bo'ladi
+- Natijaga hech qanday ta'sir qilmaydi
+- Bakteriya tezroq nobud bo'ladi
+! Idishlar hajmi yo'riqnomadagi nisbatga mos bo'lmasa, o'sish sezgirligi pasayadi
+@ M
+
+? Qon namunasi olinish vaqti nima uchun antibiotikka nisbatan qayd etiladi?
++ Natijani to'g'ri talqin qilish uchun
+- Antibiotik dozasini oshirish uchun
+- Antibiotikni to'xtatib qo'yish uchun
+- Bemorni kasalxonadan chiqarish uchun
+- Qon guruhini aniqlash uchun
+! Qon olinish vaqtini antibiotikka nisbatan qayd etish natijani to'g'ri talqin qilishga imkon beradi
+@ M
+
+? Namunani topshirgan va qabul qilgan xodimlar haqidagi ma'lumot nima uchun jurnalga yoziladi?
++ Namuna harakati kuzatilishi uchun
+- Xodimlarning ish haqini hisoblash uchun
+- Namunaning rangini aniqlab olish uchun
+- Namunani qayta ishlatib yuborish uchun
+- Bemor ismini yashirib qo'yish uchun
+! Namunani topshirgan va qabul qilgan xodimlar jurnalga yozilib imzolanadi, bu namunaning harakati kuzatilishini ta'minlaydi
+@ M

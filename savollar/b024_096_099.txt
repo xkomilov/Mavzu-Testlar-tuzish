@@ -1,0 +1,367 @@
+# 096
+
+? Streptokokklar Gram usulida qanday bo'yaladi?
++ Binafsha rangga, ya'ni Gram-musbat
+- Pushti rangga, ya'ni Gram-manfiy
+- Bo'yalmaydi, kislotaga chidamli
+- Ko'k rangga, faqat kapsulasi bilan
+- Qizil rangga, faqat yadrosi bilan
+! Streptokokklar Gram usulida binafsha rangga bo'yaladi, ya'ni Gram-musbat hisoblanadi
+@ M JAW
+
+? Streptokokklar kislorodga munosabati bo'yicha qaysi guruhga kiradi?
++ Fakultativ anaerob, kislorodli va kislorodsiz o'sadi
+- Qat'iy aerob, kislorod bo'lmaganda umuman o'smaydi
+- Qat'iy anaerob, kislorod ta'sirida tezda nobud bo'ladi
+- Mikroaerofil, 20 % kislorodda eng yaxshi o'sadi
+- Kapnofil, karbonat angidridsiz muhitda o'sadi
+! Streptokokklar fakultativ anaerob bo'lib, kislorodli ham, kislorodsiz sharoitda ham o'sa oladi
+@ M JAW
+
+? Streptokokklar uchun oziqa muhitiga odatda nima qo'shiladi?
++ 5–10 % qon yoki zardob
+- 5–10 % osh tuzi yoki o't
+- 5–10 % glitserin yoki kartoshka
+- 5–10 % ammoniy tuzi yoki xlorid kislota
+- 5–10 % mochevina yoki sut shakari
+! Ko'pchilik streptokokklar qon yoki zardob qo'shilgan muhitda yaxshi o'sadi, odatda muhitga 5–10 % qon qo'shiladi
+@ M JAW
+
+? Alfa-gemolizda qon agarida koloniya atrofida nima ko'rinadi?
++ Yashil rangli, qisman parchalangan zona
+- Aniq shaffof, to'liq parchalangan zona
+- Qizil rangli, o'zgarmagan zona
+- Qora rangli, cho'kma hosil bo'lgan zona
+- Qanday o'zgarishsiz, tiniq bo'lmagan zona
+! Alfa-gemolizda eritrotsitlar qisman parchalanib, koloniya atrofida yashil rangli zona hosil bo'ladi
+@ M JAW
+
+? Beta-gemolizning ko'rinishi qanday?
++ Eritrotsitlar to'liq parchalanib, aniq shaffof zona hosil bo'ladi
+- Eritrotsitlar qisman parchalanib, yashil zona hosil bo'ladi
+- Eritrotsitlar o'zgarmaydi, koloniya atrofida zona bo'lmaydi
+- Eritrotsitlar qorayib, koloniya atrofida cho'kma hosil bo'ladi
+- Eritrotsitlar yopishib, koloniya atrofida qizil halqa hosil bo'ladi
+! Beta-gemolizda eritrotsitlar to'liq parchalanadi va koloniya atrofida aniq shaffof zona paydo bo'ladi
+@ M JAW
+
+? Lensfild klassifikatsiyasi streptokokklarni qaysi belgisiga qarab guruhlarga ajratadi?
++ Hujayra devori karbonsuv antigeniga qarab
+- Hujayra yadrosidagi DNK tarkibiga qarab
+- Koloniyaning o'lchami va rangiga qarab
+- Xivchinlarining soni va joylashishiga qarab
+- Spora hosil qilish qobiliyatiga qarab
+! Lensfild klassifikatsiyasi streptokokklarni hujayra devori karbonsuv antigeniga qarab A, B, C, D, G va boshqa guruhlarga ajratadi
+@ M JAW
+
+? Lensfild bo'yicha B guruhi qaysi turga to'g'ri keladi?
++ Streptococcus agalactiae
+- Streptococcus pyogenes
+- Streptococcus pneumoniae
+- Streptococcus mutans
+- Staphylococcus aureus
+! Lensfild A guruhi odatda S. pyogenes ga, B guruhi esa S. agalactiae ga to'g'ri keladi
+@ M JAW
+
+? Ayrim streptokokklar kapsulasi qaysi moddadan iborat bo'ladi?
++ Gialuron kislotadan, odam to'qimasidagi moddaga o'xshash
+- Xitindan, zamburug' hujayra devoriga o'xshash
+- Selluloza va kraxmaldan, o'simlik devoriga o'xshash
+- Mikolat kislotadan, mikobakteriya devoriga o'xshash
+- Teyxoy kislotadan, hujayra membranasiga o'xshash
+! Kapsula ko'pincha gialuron kislotadan iborat bo'lib, odam to'qimasidagi moddaga o'xshashligi sababli immunitet uni begona deb aniqlay olmaydi
+@ M JAW
+
+? S. pyogenesning asosiy virulentlik omillaridan biri bo'lgan M oqsili qanday ta'sir qiladi?
++ Fagotsitozga qarshilik ko'rsatadi
+- Fagotsitozni kuchaytirib yuboradi
+- Eritrotsitlarni to'liq parchalaydi
+- Plazminogenni faollashtirib laxtani eritadi
+- Qon plazmasini ivitib, laxta hosil qiladi
+! M oqsili hujayra devorida joylashgan bo'lib, fagotsitozga qarshi ta'sir ko'rsatadi va S. pyogenesning asosiy virulentlik omilidir
+@ M JAW
+
+? Streptokokklar katalaza sinovida qanday natija beradi?
++ Manfiy natija beradi
+- Musbat natija beradi
+- Kuchli musbat natija beradi
+- Natija o'zgaruvchan, shtamm rangiga bog'liq
+- Sinov streptokokklarga qo'llanmaydi
+! Streptokokklar katalaza-manfiy, stafilokokklar esa katalaza-musbat, shu belgi ularni farqlashga yordam beradi
+@ M JAW
+
+# 097
+
+? Streptolizin O ga qarshi antitelalar (ASO) nimani ko'rsatish uchun ishlatiladi?
++ Yaqinda o'tgan streptokokk infeksiyasini
+- Hozirgi vaqtda tomoqdagi virus borligini
+- Organizmda doimiy himoya mavjudligini
+- Qonda gemoglobin yetishmovchiligini
+- Siydikdagi oqsil miqdorini
+! ASO yaqinda o'tkazilgan streptokokk infeksiyasini ko'rsatadi, ayniqsa revmatik isitma va glomerulonefrit tashxisida muhim
+@ M JAW
+
+? Streptokinaza qanday ta'sir ko'rsatadi?
++ Plazminogenni faollashtirib, fibrin ivig'ini eritadi
+- Fibrinogenni fibringa aylantirib, laxta hosil qiladi
+- Eritrotsit membranasida teshiklar hosil qiladi
+- Immunoglobulinlarni Fc qismi bilan bog'laydi
+- DNKni bo'laklarga ajratib, yiringni suyultiradi
+! Streptokinaza plazminogenni plazminga aylantirib fibrin ivig'ini eritadi va bakteriya tarqalishini osonlashtiradi
+@ M JAW
+
+? Streptokinaza tarixda qanday dori sifatida qo'llangan?
++ Trombolitik, ya'ni qon laxtasini eritadigan dori
+- Antikoagulyant, ya'ni qon ivishini oldini oladigan dori
+- Antibakterial, ya'ni mikrobni o'ldiradigan dori
+- Antiviral, ya'ni virus ko'payishini to'xtatadigan dori
+- Antigistamin, ya'ni allergiyani kamaytiradigan dori
+! Streptokinaza fibrin laxtasini eritgani uchun tarixda trombolitik dori sifatida qo'llangan, ammo immunologik reaksiyalar cheklov bo'lgan
+@ M JAW
+
+? Gialuronidaza biriktiruvchi to'qimada nimani parchalaydi?
++ Gialuron kislotani, tarqalishga yordam beradi
+- Kollagen tolalarini, qon ivishini tezlashtiradi
+- Glikogenni, energiya hosil bo'lishini oshiradi
+- Fibrinogenni, laxta hosil bo'lishini kuchaytiradi
+- Eritrotsit membranasini, gemoliz chaqiradi
+! Gialuronidaza gialuron kislotani parchalab, bakteriyaning to'qima bo'ylab tarqalishiga yordam beradi
+@ M JAW
+
+? Streptodornaza (DNazalar) yiringga qanday ta'sir qiladi?
++ DNKni parchalab, yiringning yopishqoqligini kamaytiradi
+- DNKni sintez qilib, yiringni quyuqlashtiradi
+- RNKni parchalab, yiring hosil bo'lishini to'xtatadi
+- Oqsillarni to'plab, yiringni qotirib qo'yadi
+- Lipidlarni parchalab, yiringni qizil rangga bo'yaydi
+! DNazalar hujayra DNKsini parchalab, yiringning yopishqoqligini kamaytiradi va bakteriyalar osonroq tarqaladi
+@ M JAW
+
+? Anti-DNaza B qanday ahamiyatga ega?
++ Yaqinda bo'lgan infeksiyaning qo'shimcha markeri
+- Gepatit B infeksiyasining diagnostik markeri
+- Organizmning vaksinadan keyingi himoya belgisi
+- Qon guruhini aniqlovchi belgi
+- Allergik reaksiya darajasining ko'rsatkichi
+! Anti-DNaza B streptokokk infeksiyasining yaqinda bo'lganini ko'rsatuvchi qo'shimcha marker, ASO bilan birga baholanadi
+@ M JAW
+
+? Streptokokklarning pirogen ekzotoksinlari qaysi guruhga kiradi?
++ Superantigenlar, T-limfotsitlarni keng faollashtiradi
+- Endotoksinlar, hujayra devori lipopolisaxaridi
+- Neyrotoksinlar, nerv tolalari o'tkazuvchanligini to'xtatadi
+- Enterotoksinlar, ichak epiteliysini bevosita buzadi
+- Anatoksinlar, tabiiy ravishda zararsiz toksin shakli
+! Pirogen ekzotoksinlar (SPE) superantigen bo'lib, T-limfotsitlarni antigen spetsifikligisiz keng faollashtiradi
+@ M JAW
+
+? Pirogen ekzotoksin ta'siri bilan qaysi kasallik tez-tez bog'lanadi?
++ Skarlatina, teri toshmasi bilan kechadigan kasallik
+- Qorin tifi, ichak teshilishi bilan kechadigan kasallik
+- Vabo, guruch suvi ko'rinishidagi ich ketish bilan
+- Kuydirgi, qora yara hosil bo'ladigan kasallik
+- Qoqshol, mushaklar tortishishi bilan kechadigan kasallik
+! Pirogen ekzotoksin isitma va teri toshmasi chaqiradi, toshma skarlatina kasalligi bilan bog'liq
+@ M JAW
+
+? SpeB qanday fermentga kiradi?
++ Sistein proteaza, to'qimani shikastlaydi
+- Lipaza, yog'larni parchalab energiya beradi
+- Katalaza, vodorod peroksidini parchalaydi
+- Ureaza, mochevinani ammiakka aylantiradi
+- Oksidaza, sitoxrom orqali elektron uzatadi
+! SpeB sistein proteaza bo'lib, to'qima shikastlanishi va bakteriyaning tarqalishida ishtirok etadi
+@ M JAW
+
+? Streptokokklarda "enterotoksin" atamasi haqida material nima deydi?
++ Aniq va keng tarqalgan ma'lumot kam, atama pirogen toksinlarni nazarda tutadi
+- Stafilokokklar kabi ovqat zaharlanishi chaqiruvchi toksin aniq isbotlangan
+- Streptokokk enterotoksini ichakda tez ta'sir qiluvchi kuchli neyrotoksin
+- Streptokokk enterotoksini barcha ovqat zaharlanishlarining asosiy sababi
+- Streptokokklarda enterotoksin atamasi umuman ishlatilmaydi
+! Materialga ko'ra streptokokklarda ovqat zaharlanishi chaqiruvchi enterotoksin haqida keng ma'lumot kam, atama ko'pincha pirogen ekzotoksinlarni bildiradi
+@ M
+
+# 098
+
+? Streptokokk faringitining asorati sifatida qaysi holat rivojlanishi mumkin?
++ Revmatik isitma, yurak va bo'g'imlar zararlanishi
+- Qorin tifi, ichak shilliq qavati yarasi bilan kechuvchi
+- Botulizm, nerv tizimini falaj qiluvchi toksin kasalligi
+- Vabo, suvsimon ich ketishli o'ta xavfli kasallik
+- Leptospiroz, buyrak va jigar zararlanishi bilan kechuvchi
+! Davolanmagan streptokokk faringiti ba'zan revmatik isitma kabi immunologik asoratlar bilan yakunlanishi mumkin
+@ M JAW
+
+? Impetigo qaysi guruh bolalarida keng tarqalgan va qanday yuqadi?
++ Bolalarda, kontakt orqali oson yuqadi
+- Keksalarda, faqat qon orqali yuqadi
+- Chaqaloqlarda, faqat ona suti orqali yuqadi
+- O'smirlarda, faqat jinsiy yo'l bilan yuqadi
+- Kattalarda, faqat hasharot chaqishi orqali yuqadi
+! Impetigo bolalarda keng tarqalgan yuza teri infeksiyasi bo'lib, kontakt orqali oson yoyiladi
+@ M JAW
+
+? Skarlatinaga xos klinik belgilar qaysilar?
++ Tomoq og'rig'i, isitma va xarakterli teri toshmasi
+- Qorin og'rig'i, qon aralash ich ketish va qusish
+- Bo'yin muskullari qotishi, tutqanoq va falaj
+- Yo'tal xurujlari, qusish va bo'g'ilish
+- Sariqlik, jigar kattalashishi va siydik qorayishi
+! Skarlatina pirogen ekzotoksin bilan bog'liq bo'lib, tomoq og'rig'i, isitma va xarakterli teri toshmasi bilan namoyon bo'ladi
+@ M JAW
+
+? Streptokokk toksik shok sindromi qanday kechadi?
++ Tez rivojlanuvchi shok va ko'p organ yetishmovchiligi bilan
+- Sekin rivojlanuvchi yengil isitma va tomoq qizarishi bilan
+- Teri yuzasidagi mayda toshma va qichishish bilan
+- Ichak yallig'lanishi va yengil ich ketish bilan
+- Qanday belgisiz, yashirin tarzda kechib ketish bilan
+! Streptokokk toksik shok sindromi kam uchraydi, lekin og'ir: shok va ko'p organ yetishmovchiligi bilan tez kechadi
+@ M JAW
+
+? Nekrotizuvchi fasciitning asosiy xususiyati qaysi?
++ Fassiya qatlamining tez nekrozlanishi, shoshilinch jarrohlik talab qiladi
+- Teri yuzasining sekin quruqlashishi, hech qanday davo talab qilmaydi
+- Tomoq shilliq qavatining qizarishi, tez o'z-o'zidan o'tadi
+- Siydik yo'llari yallig'lanishi, antibiotiksiz tuzaladi
+- Suyaklarning sekin yumshashi, ortopedik korset talab qiladi
+! Nekrotizuvchi fasciit ko'pincha S. pyogenes tufayli bo'lib, fassiya qatlamining tez nekrozlanishi bilan kechadi va shoshilinch jarrohlik talab qiladi
+@ M JAW
+
+? Viridans streptokokklari qaysi kasallikni chaqirishi mumkin?
++ Endokardit, yurak klapanlarining surunkali zararlanishi
+- Skarlatina, tomoq va teri toshmasi bilan kasallik
+- Nekrotizuvchi fasciit, fassiya qatlami nekrozi
+- Tomoq difteriyasi, tomoqdagi plyonka bilan kasallik
+- Qizilcha, teriga ommaviy toshma bilan kasallik
+! Viridans streptokokklar yurak klapanlariga ta'sir qilib endokarditni, ba'zan surunkali kechuvchi shaklni chaqirishi mumkin
+@ M JAW
+
+? Tug'ruqdan keyingi infeksiya (puerperal sepsis) ko'pincha qaysi qo'zg'atuvchi bilan bog'liq?
++ S. pyogenes (A guruh streptokokk)
+- S. agalactiae (B guruh streptokokk)
+- Vibrio cholerae (vabo vibrioni)
+- Corynebacterium diphtheriae (bo'g'ma tayoqchasi)
+- Clostridium botulinum (botulizm qo'zg'atuvchisi)
+! Tug'ruqdan keyingi sepsis ko'pincha S. pyogenes tufayli kelib chiqishi mumkin
+@ M JAW
+
+? S. agalactiae yangi tug'ilgan chaqaloqqa qanday o'tadi?
++ Tug'ish paytida onaning vaginal yoki rektal florasidan
+- Chaqaloq tug'ilgandan keyin maktabda do'stlari orqali
+- Hasharot chaqishi orqali, tug'ruqxonada
+- Ichimlik suvi orqali, tug'ruqxonadan chiqqach
+- Tuproq bilan kontaktda, bir necha oy o'tgach
+! S. agalactiae homilador ayol vaginal yoki rektal florasida bo'lishi mumkin va tug'ish paytida chaqaloqqa o'tadi
+@ M JAW
+
+? Chaqaloqlarda B guruh streptokokk qanday kasalliklarni chaqirishi mumkin?
++ Sepsis, pnevmoniya yoki meningit
+- Skarlatina, revmatizm yoki podagra
+- Zaxm, gonoreya yoki xlamidioz
+- Qoqshol, botulizm yoki kuydirgi
+- Malyariya, toksoplazmoz yoki amyobiaz
+! Chaqaloqlarda B guruh streptokokk sepsis, pnevmoniya yoki meningit rivojlanishiga olib kelishi mumkin
+@ M JAW
+
+? Homiladorlikda B guruh streptokokk xavfini kamaytirish uchun nima tavsiya etiladi?
++ Homiladorlikda tekshirish va tug'ishda antibiotik berish
+- Tug'ruqdan keyin chaqaloqqa maxsus vaksina qilib qo'yish
+- Tug'ish paytida har doim rejalashtirilgan kesarcha kesish
+- Onadan chaqaloqni bir necha hafta ajratib saqlab qo'yish
+- Homiladorlik davrida faqat vitamin va temir qabul qilish
+! Homiladorlikda B guruh streptokokk tekshiriladi va tug'ish paytida profilaktik antibiotik berilishi yangi tug'ilganlarda og'ir kasallik xavfini kamaytiradi
+@ M JAW CDCSTER
+
+# 099
+
+? Streptokokk infeksiyasidan keyingi immunitet qanday xususiyatga ega?
++ Vaqt o'tishi bilan susayadi, takroriy kasallik mumkin
+- Umrbod saqlanadi, takroriy kasallik bo'lmaydi
+- Bir necha soatdan keyin darhol yo'qoladi
+- Bolalarda hosil bo'ladi, kattalarda hosil bo'lmaydi
+- Guruhlarga qarshi bir xil himoya beradi
+! Infeksiyadan keyingi immunitet vaqt o'tishi bilan susayadi, shuning uchun takroriy kasallik xavfi saqlanib qoladi
+@ M JAW
+
+? ASO va anti-DNaza B yuqori bo'lsa, bu nimani bildiradi?
++ Yaqinda streptokokk bilan kontakt bo'lganini
+- Yangi infeksiyadan to'liq himoyalanganini
+- Organizm hech qachon kasallanmaganini
+- Vaksina to'liq ta'sir qilganini
+- Streptokokk organizmdan butunlay chiqib ketganini
+! Bu antitelalar oldingi kontaktni ko'rsatadi, ammo bemorni yangi infeksiyadan to'liq himoya qilmaydi
+@ M JAW
+
+? Streptokokk infeksiyasining umumiy profilaktikasida qaysi chora asosiy?
++ Qo'llarni muntazam yuvish va shaxsiy gigiyena
+- Sog'lom bolalarga profilaktik antibiotik berish
+- Yil davomida qattiq izolyatsiyada saqlash
+- Tomoqni kuniga bir marta bo'yash
+- Bolalarni haftada bir marta hammomga olib borish
+! Qo'llarni muntazam yuvish va shaxsiy gigiyena tomchi va aloqa orqali yuqishning oldini olishga yordam beradi
+@ M JAW
+
+? Bolalar jamoalarida antibiotik boshlanganidan keyin bemorga nima tavsiya etiladi?
++ Bir muddat jamoadan ajratib qo'yish
+- Darhol jamoaga qaytarib, hech narsa o'zgartirmaslik
+- Qo'shni bolalar bilan bir xonada o'ynatish
+- O'yinchoqlarni birga ishlatishga ruxsat berish
+- Maktab ishtirokisiz qo'shimcha tekshiruv o'tkazmaslik
+! Antibiotik boshlangandan keyin bemorni bir muddat ajratib qo'yish infeksiyaning yoyilishini kamaytiradi
+@ M
+
+? Oziq-ovqat tayyorlovchi xodim tomoq yoki teri infeksiyasi belgilarini ko'rsatsa, nima qilish kerak?
++ Zarur bo'lsa vaqtincha ishdan chetlatiladi
+- Odatdagidek ishni davom ettirishi mumkin
+- Qo'lqop kiyib ishlashi yetarli
+- Og'zini niqob bilan yopishi yetarli
+- Bemorligini yashirib ishlashi yaxshi
+! Ovqat tayyorlovchi xodim tomoq yoki teri infeksiyasi belgilarini kuzatib, kerak bo'lsa ishdan vaqtincha chetlanishi lozim
+@ M
+
+? A guruh streptokokkka qarshi vaksina holati qanday?
++ Keng qo'llaniladigan rasmiy vaksina mavjud emas
+- Bolalarga bir martalik majburiy vaksina qilinadi
+- Homilador ayollarga beriladigan vaksina bor
+- Anatoksin asosidagi vaksina umrbod himoya beradi
+- Jonli zaiflashtirilgan vaksina keng qo'llanadi
+! A guruh streptokokkka qarshi keng qo'llaniladigan vaksina yo'q, bunga M oqsilining ko'p turli shtammlardagi xilma-xilligi sabab bo'ladi
+@ M JAW
+
+? Nima uchun streptokokk vaksinasini yaratish murakkab?
++ M oqsili ko'p turli shtammlarda xilma-xil bo'lgani uchun
+- Hujayra devori umuman antigenlik xususiyatiga ega emasligi uchun
+- Bakteriya faqat bitta antigenli shtammga ega bo'lgani uchun
+- Qo'zg'atuvchini laboratoriyada o'stirib bo'lmagani uchun
+- Bakteriya faqat odam organizmidan tashqarida yashagani uchun
+! Vaksina yaratish M oqsilining ko'p shtammlardagi xilma-xilligi tufayli murakkab bo'lib, ko'p turli shtammlarni qamrab olishi kerak
+@ M JAW
+
+? A guruh streptokokk infeksiyalarida birinchi tanlov dori qaysi?
++ Penitsillin
+- Gentamitsin
+- Tetratsiklin
+- Xloramfenikol
+- Ko'p dori aralashmasi sifatida kotrimoksazol
+! A guruh streptokokk infeksiyalarini davolashda penitsillin birinchi tanlov dorisi hisoblanadi, rezistentlik kam uchragan
+@ M JAW
+
+? Penitsillinga allergiyasi bo'lgan bemorda qaysi dorilar qo'llanadi?
++ Makrolid yoki klindamitsin
+- Boshqa penitsillin turlari yuqori dozada
+- Gentamitsin yoki streptomitsin
+- Metronidazol yoki tinidazol
+- Izoniazid yoki rifampitsin
+! Penitsillinga allergiyada makrolid yoki klindamitsin qo'llanadi, ammo makrolidlarga rezistentlik hisobga olinadi
+@ M JAW
+
+? Yangi tug'ilgan chaqaloqlarda B guruh streptokokk infeksiyasi uchun qaysi dorilar qo'llanadi?
++ Penitsillin yoki ampitsillin
+- Gentamitsin yoki streptomitsin
+- Izoniazid yoki rifampitsin
+- Metronidazol yoki levomitsetin
+- Amfoterisin B yoki flukonazol
+! Chaqaloqlarda B guruh streptokokk infeksiyasini davolashda penitsillin yoki ampitsillin qo'llanadi, doza yosh va vazniga bog'liq
+@ M JAW
