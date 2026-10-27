@@ -1,0 +1,587 @@
+# 258
+
+? Aspiratsion usulda nima bajariladi?
++ Havo tirqishdan so'rilib, agar yuzasiga uriladi
+- Ochiq likopcha havoga qo'yilib, cho'ktiriladi
+- Havo filtrdan o'tkazilib, qaynatiladi
+- Havo sovitilib, suyuq holatda yig'iladi
+- Havo bo'yoq eritmasi orqali o'tkaziladi
+! Aspiratsion usulda ma'lum hajmdagi havo tor tirqish orqali so'riladi va mikroorganizmlar ozuqali agar yuzasiga urilib yopishadi
+@ M JAW
+
+? Aspiratsion usul nima uchun sedimentatsiondan aniqroq?
++ Havoning aniq hajmi o'lchanadi
+- Likopcha hajmi kattaroq bo'ladi
+- Muhit tarkibi murakkabroq bo'ladi
+- Inkubatsiya muddati uzoqroq bo'ladi
+- Koloniyalar rangli bo'lib o'sadi
+! Aspiratsion usulda havoning aniq hajmi o'lchanadi va natija shu hajmga nisbatan hisoblanadi
+@ M
+
+? Aspiratsion usulda qaysi qurilmalar qo'llanadi?
++ Krotov yoki Andersen tipidagi qurilma
+- Kipp yoki Soxlet tipidagi apparat
+- Kox yoki Arnold tipidagi apparat
+- Petri yoki Pasteur tipidagi idish
+- Durham yoki Gram tipidagi naycha
+! Aspiratsion usulda Krotov tipidagi qurilma yoki Andersen tipidagi namuna oluvchi qo'llanadi
+@ M
+
+? Aspiratsion qurilma qanday balandlikda o'rnatiladi?
++ Taxminan 1,5 m, nafas zonasiga yaqin
+- Taxminan 0,1 m, polga juda yaqin joyda
+- Taxminan 5 m, shiftga yaqin balandlikda
+- Taxminan 10 m, tomga yaqin balandlikda
+- Taxminan 0,3 m, stol tagidagi pastlikda
+! Qurilma odam nafas olish zonasiga yaqin, odatda taxminan 1,5 m balandlikda o'rnatiladi
+@ M
+
+? Aspiratsion usulda havo hajmi nima uchun aniq o'lchanadi?
++ Natijani hisoblash uchun asos bo'ladi
+- Qurilma rangini tanlash uchun
+- Muhit narxini hisoblash uchun
+- Likopcha sonini kamaytirish uchun
+- Termostatni sozlash uchun
+! So'rilgan havo hajmi natijani 1 m³ ga hisoblashning asosi, shuning uchun uni aniq o'lchash zarur
+@ M
+
+? Namuna olingach likopcha bilan nima qilinadi?
++ Tezda yopiladi va raqamlanadi
+- Ochiq qoldirib quritiladi
+- Qaynoq suvda yuviladi
+- Sovutgichga ochiq qo'yiladi
+- Bir sutka havoda qoldiriladi
+! Likopcha tezda yopiladi, raqamlanadi va laboratoriyaga iloji boricha tez olib boriladi
+@ M
+
+? Havo namunasi yo'llanma xatiga qaysi sharoitlar kiritiladi?
++ Harorat, namlik, shamollatish va odamlar soni
+- Xona devori rangi va mebel turi
+- Qurilma narxi va ishlab chiqaruvchisi
+- Xodimning oilaviy ahvoli
+- Ob'ektiv kattalashtirish va moy turi
+! Havo harorati, nisbiy namlik, shamollatish turi va odamlar soni yo'llanma xatga kiritiladi, bu natijani sharoit bilan bog'laydi
+@ M
+
+? Aspiratsion usulda likopchalar qanday inkubatsiya qilinadi?
++ 37 °C da 24 soat, ag'darilgan holda
+- 4 °C da 24 soat, yotqizilgan holda
+- 100 °C da 24 soat, ag'darilgan holda
+- 37 °C da 30 soniya, ag'darilgan holda
+- 60 °C da 1 hafta, yotqizilgan holda
+! Likopchalar termostatda 37 °C da 24 soat inkubatsiya qilinadi va ag'darilgan holda saqlanadi
+@ M
+
+? Havo mikroblari natijasi qanday birlikda hisoblanadi?
++ 1 m³ havodagi koloniyalar soni
+- 1 ml havodagi hujayralar og'irligi
+- 1 litr suvdagi koloniyalar soni
+- 1 g tuproqdagi sporalar soni
+- 100 sm² sirtdagi mikrob yuzasi
+! Natija 1 m³ havodagi koloniyalar soni sifatida hisoblanadi
+@ M
+
+? Havo namunasi uchun likopchadagi muhit qanday bo'lishi kerak?
++ Qotgan va ishlatishdan oldin sovigan
+- Suyuq va qaynoq holatda turgan
+- Muzlagan va qotib qolgan holatda
+- Qurigan va yoriq ketgan holatda
+- Hali erib turgan va issiq holatda
+! Muhit steril Petri likopchasiga quyilgan, qotgan va ishlatishdan oldin sovigan bo'lishi kerak, aks holda namlik natijaga ta'sir qiladi
+@ M
+
+# 259
+
+? Sedimentatsion usulda nima bajariladi?
++ Ochiq likopcha havoga qo'yilib, mikroblar cho'kadi
+- So'rilgan havo agar yuzasiga uriladi va yopishadi
+- Filtrdan o'tkazilgan havo filtr ustida sanaladi
+- Likopcha yopiq holda inkubatsiyaga qo'yiladi
+- Suyuqlikda eritilgan havo bevosita tekshiriladi
+! Ochiq Petri likopchalari ma'lum vaqt havoga qo'yiladi; mikroblar gravitatsiya ta'sirida agar yuzasiga cho'kadi
+@ M JAW
+
+? Sedimentatsion usul havodagi mikroblarning qaysi qismini ko'rsatadi?
++ Cho'kkan qismini
+- To'liq sonini
+- Viruslarning hammasini
+- Havo hajmini aniq o'lchagan sonini
+- Gaz tarkibini
+! Yirik zarrachalar tezroq cho'kadi, mayda zarrachalar havo oqimi bilan harakatlanadi, shuning uchun usul faqat cho'kkan qismni ko'rsatadi
+@ M
+
+? Sedimentatsion usul aniqlik jihatidan qanday?
++ Aspiratsionga nisbatan kam aniq
+- Aspiratsiondan ancha aniqroq
+- Aspiratsion bilan bir xil aniq
+- Eng aniq usul hisoblanadi
+- Hajmni o'lchaydigan aniq usul
+! Sedimentatsion usul aniq hajmga asoslangan aspiratsion usulga nisbatan kam aniq, natija ko'proq taqqoslash uchun mo'ljallangan
+@ M
+
+? Sedimentatsion usulda likopchalar qaerda joylashtiriladi?
++ Poldan taxminan 1,5 m balandlikda
+- Poldan taxminan 5 m balandlikda
+- Eshik yonida, shamol oqimida
+- Deraza oldida, kuchli oqimda
+- Poldan taxminan 10 sm balandlikda
+! Likopchalar odam nafas olish zonasiga yaqin, odatda poldan taxminan 1,5 m balandlikda, eshik va derazadan uzoqroq qo'yiladi
+@ M
+
+? Likopchalar eshik va derazadan nima uchun uzoq qo'yiladi?
++ Kuchli havo oqimi natijani buzadi
+- Quyosh nuri agarni eritadi
+- Shamol likopchani sindiradi
+- Namlik agarni quritadi
+- Chiqindi hidi mikroblarni o'ldiradi
+! Kuchli havo oqimi natijani buzadi va mikroblarni notekis taqsimlaydi
+@ M
+
+? Sedimentatsion usulda ekspozitsiya vaqti odatda qancha?
++ Bir necha daqiqadan bir soatgacha
+- Bir necha sutkadan bir oygacha
+- Bir necha soniyagacha
+- Bir necha haftadan bir yilgacha
+- Bir necha soatdan bir sutkagacha
+! Ekspozitsiya vaqti odatda bir necha daqiqadan bir soatgacha; uni tanlashda xonadagi odamlar faolligi va havo harakati hisobga olinadi
+@ M
+
+? Juda uzun ekspozitsiya nimaga olib keladi?
++ Koloniyalar zichlashib ketishiga
+- Koloniyalar umuman o'smasligiga
+- Muhit muzlab qolishiga
+- Mikroblar o'lib ketishiga
+- Likopcha shaffof bo'lib qolishiga
+! Juda uzun ekspozitsiya koloniyalarning zichlashib ketishiga, juda qisqasi esa kam koloniya berib natijani zaiflashtirishga olib keladi
+@ M
+
+? Sedimentatsion usulda natija qaysi usul bilan hisoblanadi?
++ Koch usulida formula bo'yicha
+- Gram usulida bo'yash bo'yicha
+- Neisser usulida sanash bo'yicha
+- Ziehl usulida o'lchash bo'yicha
+- Romanovskiy usulida hisob bo'yicha
+! Natija Koch usulida maxsus formula bo'yicha hisoblanadi
+@ M
+
+? Koch usuli formulasida qaysi omillar hisobga olinadi?
++ Koloniyalar soni, likopcha yuzasi, ekspozitsiya vaqti
+- Likopcha rangi, xona hidi va havo harorati
+- Xodim yoshi, qurilma narxi va soat vaqti
+- Agar zichligi, pH qiymati va tuz miqdori
+- Termostat quvvati, havo namligi va bosimi
+! Formulada koloniyalar soni, Petri likopchasining yuzasi va ekspozitsiya vaqti inobatga olinadi
+@ M
+
+? Sedimentatsion usulda hisoblangan qiymat qanday ifodalanadi?
++ 1 m³ havodagi mikroblar soni sifatida
+- 1 litr havodagi og'irlik sifatida
+- 1 ml suvdagi koloniyalar sifatida
+- 1 g tuproqdagi hujayralar sifatida
+- 100 sm² sirtdagi dog'lar sifatida
+! Hisoblangan qiymat 1 m³ havodagi mikroblar soni sifatida ifodalanadi
+@ M
+
+? Likopchada kondensat bo'lsa nima yuz beradi?
++ Koloniyalar tarqalib yoki qo'shilib ketadi
+- Koloniyalar yo'qolib, umuman o'smaydi
+- Muhit rangi qizarib, o'zgarib ketadi
+- Likopcha sterilligi oshib, ishonchli bo'ladi
+- Mikroblar tezda nobud bo'lib ketadi
+! Likopcha ichida kondensat hosil bo'lsa, koloniyalar tarqalib ketishi yoki bir-biriga qo'shilishi mumkin
+@ M
+
+# 260
+
+? Havodagi umumiy mikroblar soni nimani aks ettiradi?
++ Shamollatish, odamlar zichligi va tozalash sifatini
+- Xona devori rangi va uning qalinligini
+- Xona narxi va umumiy maydon kattaligini
+- Mebel turi va uning eskirganlik darajasini
+- Xodimlar maoshi va ularning ish stajini
+! Havodagi umumiy mikroblar soni xonaning shamollatish holatini, odamlar zichligini va tozalash sifatini aks ettiradi
+@ M
+
+? Havodagi mikroblar soni yuqori bo'lsa nima qilinadi?
++ Tozalash va shamollatish tartibi qayta ko'riladi
+- Xona devori qayta bo'yaladi va yangilanadi
+- Natija e'tiborsiz qoldirilib, tashlab yuboriladi
+- Xonadagi mebel to'liq almashtirib chiqiladi
+- Xodimlar maoshi oshirilib, rag'batlantiriladi
+! Mikroblar soni yuqori bo'lgan xonada tozalash va shamollatish tartibi qayta ko'riladi, qo'shimcha nazorat o'tkaziladi
+@ M
+
+? Odamlar ko'p to'planganda havodagi mikroblar soni qanday o'zgaradi?
++ Odatda ortadi, shuning uchun tekshiruv takrorlanadi
+- Odatda kamayadi, chunki havo tozalanib boradi
+- O'zgarmaydi, doim bir xil darajada qoladi
+- Nolga tushadi, chunki mikroblar yo'qoladi
+- Kamayadi va sterillikka yaqinlashib boradi
+! Odamlar ko'p to'planadigan vaqtda mikroblar soni odatda ortadi, shuning uchun tekshiruv turli vaqtlarda takrorlanadi
+@ M
+
+? Havodagi mikroblar sonini aniqlashda qaysi usullar qo'llanadi?
++ Aspiratsion va sedimentatsion usullar
+- Seleksion va sentrifugalash usullari
+- Filtrlash va titrlash usullari
+- Distillash va kristallash usullari
+- Fraksiyalash va ekstraksiya usullari
+! Havodagi umumiy mikroblar sonini aniqlash uchun aspiratsion va sedimentatsion usullar qo'llanadi
+@ M
+
+? Tibbiy xonalarda qaysi usul afzal ko'riladi?
++ Aniqroq aspiratsion usul
+- Kamroq aniq sedimentatsion usul
+- Gram bo'yash usuli
+- Mikroskopik sanash usuli
+- Kimyoviy titrlash usuli
+! Tibbiy xonalarda aniqroq aspiratsion usul afzal ko'riladi, chunki har bir hajmdagi natija muhim
+@ M
+
+? Havodagi umumiy sonni aniqlash uchun qaysi muhit ishlatiladi?
++ Go'sht-pepton agari yoki ozuqali agar
+- Endo agari yoki Ploskirev agari muhiti
+- Sabouraud agari yoki Chapek agari
+- Qonli agar yoki shokoladli agar muhiti
+- Manitolli tuzli agar yoki SS agar
+! Umumiy sonni aniqlash uchun go'sht-pepton agari yoki umumiy ozuqali agar ishlatiladi
+@ M
+
+? Havo likopchalari odatda qanday inkubatsiya qilinadi?
++ 37 °C da 24 soat
+- 4 °C da 2 soat
+- 100 °C da 24 soat
+- 56 °C da 5 soat
+- 37 °C da 1 daqiqa
+! Ekilgan likopchalar odatda 37 °C da 24 soat inkubatsiya qilinadi
+@ M
+
+? Termostat harorati nima uchun har kuni yozib boriladi?
++ Harorat og'ishi natijaga ta'sir qiladi
+- Termostat rangi o'zgarib turadi
+- Elektr sarfi hisoblanishi uchun
+- Likopchalar soni aniqlanishi uchun
+- Xodim ish vaqti nazorat qilinishi uchun
+! Harorat og'ishi natijaga bevosita ta'sir qiladi; og'ish aniqlansa inkubatsiya qayta boshlanadi
+@ M
+
+? Likopchada koloniyalar juda ko'p bo'lsa nima qilinadi?
++ Bir qismi sanalib, proporsional hisoblanadi
+- Likopcha tashlanib, tekshiruv bekor qilinadi
+- Koloniyalar yo'q deb yoziladi
+- Natija taxminan ikki baravar kamaytiriladi
+- Koloniyalar bo'yalib, qayta ekiladi
+! Koloniyalar juda ko'p bo'lsa, likopchaning bir qismi sanaladi va natija proporsional hisoblanadi
+@ M
+
+? Aspiratsion usulda natija nimalarga asoslanib hisoblanadi?
++ So'rilgan havo hajmi va koloniyalar soniga
+- Likopcha yuzasi va ekspozitsiya vaqtiga
+- Termostat quvvati va xona hajmiga
+- Muhit narxi va likopcha soniga
+- Xodim bo'yi va qurilma og'irligiga
+! Aspiratsion usulda natija havoning so'rilgan hajmi va koloniyalar soni asosida 1 m³ uchun hisoblanadi
+@ M
+
+# 261
+
+? Havo orqali tomchilar bilan tarqaluvchi bakteriyalar qaysilar?
++ S. aureus, S. pyogenes, B. pertussis
+- V. cholerae, S. typhi, S. flexneri
+- C. tetani, C. botulinum, C. perfringens
+- T. pallidum, N. gonorrhoeae, C. trachomatis
+- H. pylori, C. jejuni, B. fragilis
+! Staphylococcus aureus, Streptococcus pyogenes va Bordetella pertussis yo'tal, aksirish yoki gapirish paytida tomchilar orqali havoga chiqishi mumkin
+@ M JAW
+
+? Legionella qaerdan aerozol shaklida tarqalishi mumkin?
++ Sovutish minoralari va issiq suv quvurlaridan
+- Quruq tuproq va yo'l changidan keladi
+- Qadoqlangan konservalar va ularning idishidan
+- Muzlatilgan go'sht va uning qoldig'idan
+- Sut mahsulotlari va ularni saqlash joyidan
+! Legionella suv tizimlaridan, masalan sovutish minoralari va issiq suv quvurlaridan aerozol shaklida tarqalishi mumkin
+@ M JAW
+
+? Aspergillus zamburug'lari kimlar uchun jiddiy xavf tug'diradi?
++ Immuniteti susaygan kishilar uchun
+- Sog'lom odamlar uchun o'ta xavfli
+- Faqat bolalar uchun yagona xavfli
+- Hayvonlar uchun xavfli, odamga zararsiz
+- Hamma uchun bir xil xavfsiz
+! Aspergillus changda keng tarqalgan, sog'lom odamlarga kam ta'sir qiladi, immuniteti susaygan kishilar uchun jiddiy xavf
+@ M JAW
+
+? Havo uchun ko'rsatkich mikroblar qaysilar?
++ Gemolitik streptokokklar va S. aureus
+- Sporali anaeroblar va Clostridium
+- Ichak tayoqchasi va Salmonella
+- Xamirturush va Penicillium
+- Spiroxeta va rikketsiyalar
+! Gemolitik streptokokklar va Staphylococcus aureus havoda inson kelib chiqishidagi ifloslanishning ko'rsatkich mikroblari
+@ M
+
+? Havodagi ko'rsatkich mikroblar nimani bildiradi?
++ Inson kelib chiqishidagi ifloslanishni
+- Tuproq kelib chiqishidagi ifloslanishni
+- Suv kelib chiqishidagi ifloslanishni
+- Sanoat chiqindisi ifloslanishini
+- Hayvon axlati ifloslanishini
+! Ular havoga aynan odamlar orqali tushadi va odam teri hamda nafas yo'llarida yashaydi
+@ M
+
+? Ko'rsatkich mikroblarning yo'qligi nimani anglatadi?
++ Patogen yo'qligini kafolatlamaydi
+- Patogen yo'qligini to'liq kafolatlaydi
+- Havo steril ekanini bildiradi
+- Tekshiruv takrorlanmasligini bildiradi
+- Xona shamollatilmaganini bildiradi
+! Ko'rsatkich mikroblarning yo'qligi patogenlar yo'qligini kafolatlamaydi, shuning uchun maqsadli patogenlar alohida tekshiriladi
+@ M
+
+? Staphylococcus aureus uchun qaysi selektiv muhit ishlatiladi?
++ Manitolli tuzli agar
+- Endo agari
+- Sabouraud agari
+- Shokoladli agar
+- Levenshteyn-Yensen muhiti
+! Manitolli tuzli agarda tuz yuqori bo'lgani uchun ko'p mikroblar o'smaydi, S. aureus esa manitolni bijg'itib muhit rangini o'zgartiradi
+@ M JAW
+
+? Streptokokklarni gemoliz bo'yicha aniqlash uchun qaysi muhit qo'llanadi?
++ Qonli agar
+- Manitolli tuzli agar
+- Sabouraud agari
+- Endo agari
+- Ploskirev agari
+! Streptokokklarni gemoliz bo'yicha aniqlash uchun qonli agar qo'llanadi; gemolitik koloniyalar atrofida rangsiz zona hosil bo'ladi
+@ M JAW
+
+? Sabouraud agariga zamburug'lar uchun nima qo'shiladi?
++ Bakteriyalar o'sishini cheklash uchun antibiotik
+- Zamburug'lar o'sishini cheklash uchun kislota
+- Rangi o'zgarishi uchun qand
+- Zichlikni oshirish uchun jelatin
+- Sterillik uchun spirt
+! Zamburug'lar uchun Sabouraud agari ishlatiladi; bakteriyalar o'sishini cheklash uchun muhitga antibiotik qo'shiladi
+@ M
+
+? O'sgan koloniyalar nima uchun yangi muhitga ajratiladi?
++ Sof kultura olish uchun
+- Rangini o'zgartirish uchun
+- Koloniyalar sonini ko'paytirish uchun
+- Muhit narxini tejash uchun
+- Likopchani sterillash uchun
+! Koloniyalar sof kultura olish uchun yangi muhitga ajratiladi; sof kultura bo'lmasa identifikatsiya ishonchsiz bo'ladi
+@ M
+
+? Stafilokokklarni dastlabki aniqlashda qaysi tezkor testlar o'tkaziladi?
++ Katalaza va koagulaza
+- Ureaza va indol
+- Oksidaza va nitrat
+- Voges-Proskauer va metil qizil
+- Sitrat va malonat
+! Gram bo'yashdan keyin katalaza va koagulaza kabi tezkor testlar o'tkaziladi; S. aureus koagulaza musbat
+@ M JAW
+
+# 262
+
+? Rizosfera nima?
++ O'simlik ildizi atrofidagi zona
+- Tuproqning eng chuqur qatlami
+- Tuproq usti chang qatlami
+- Daryo bo'yidagi qum qatlami
+- Tosh va shag'al qatlami
+! Rizosfera — o'simlik ildizlari atrofidagi zona, unda mikroorganizmlar ko'p to'planadi
+@ M BROCK
+
+? Tuproqning bir grammida qancha mikroorganizm bo'lishi mumkin?
++ Millionlab
+- Bitta ham bo'lmaydi
+- Bir nechta
+- O'nlab
+- Yuzlab
+! Tuproqning bir grammida millionlab mikroorganizmlar bo'lishi mumkin
+@ M BROCK
+
+? Tuproq namunasi odatda qaysi chuqurlikdan olinadi?
++ 0 dan 20 sm gacha
+- 2 m dan 5 m gacha
+- 50 m dan 100 m gacha
+- 1 mm dan 2 mm gacha
+- 20 m dan 30 m gacha
+! Namuna ustki qatlamdan olinadi, odatda 0 dan 20 sm gacha chuqurlikdan
+@ M
+
+? Tuproq namunasi uchun qanday joy tanlanadi?
++ Chiqindi, o't ildizi va toshlar kam joy
+- Chiqindi to'plangan va toshli joy
+- O'tlar qalin, toshlar ko'p joy
+- Kanalizatsiya oqimi yonidagi joy
+- Axlat uyumi atrofidagi joy
+! Chiqindi, o't ildizlari va toshlar katta ulushda bo'lmagan joy tanlanadi, shunda natija haqiqatga yaqin bo'ladi
+@ M
+
+? Tuproq namunasi qaysi asbob bilan olinadi?
++ Steril shpatel yoki burg'u
+- Oddiy kurak, tozalanmagan
+- Yog'li qo'l bilan
+- Ifloslangan chelak
+- Qo'lqopsiz yalang qo'l
+! Namuna steril shpatel yoki burg'u yordamida bir nechta nuqtadan yig'iladi
+@ M
+
+? Olingan tuproq nima uchun aralashtiriladi?
++ O'rtacha namuna hosil qilish uchun
+- Mikroblarni o'ldirish uchun
+- Tuproqni quritish uchun
+- Namuna rangini o'zgartirish uchun
+- Namuna hajmini kamaytirish uchun
+! Tuproq yaxshilab aralashtirilib o'rtacha namuna hosil qilinadi va bir xil tarkib ta'minlanadi
+@ M
+
+? Asboblar har bir nuqtadan keyin nima bilan artiladi?
++ Spirt bilan artiladi
+- Quruq tuproq bilan
+- Yog' bilan
+- Suvsiz qum bilan
+- Qaynoq moy bilan
+! Asboblar har bir nuqtadan keyin spirt bilan artiladi, bu mikroblarning bir nuqtadan ikkinchisiga o'tishini oldini oladi
+@ M
+
+? Tuproq namunasining yo'llanma xatida qaysi ma'lumotlar ko'rsatiladi?
++ Namuna raqami, joy nomi, koordinata
+- Shifokor nomi, bemor yoshi, tashxis
+- Xodim oilasi, kasbi, maoshi
+- Mashina markasi, rangi, narxi
+- Idish zavodi, narxi, rangi
+! Xatda namuna raqami, joyning nomi va koordinatalari, chuqurlik va nuqtalar soni, sana, tuproq turi va ob-havo yoziladi
+@ M
+
+? Tuproq namunasi qanday tashiladi?
++ Salqin joyda, quyoshdan himoyalab
+- Issiq joyda, quyosh ostida
+- Iliq narsalar orasida, ochiq holda
+- Isitish moslamasi yonida
+- Qaynoq idishda, yopiq holda
+! Tashish paytida namuna salqin joyda saqlanadi va quyosh nuridan himoyalanadi
+@ M
+
+? Uzoq saqlash tuproq mikroblariga qanday ta'sir qiladi?
++ Sonini va turlarini o'zgartiradi
+- Sonini ham turini ham saqlab turadi
+- Sterillashga olib keladi
+- Hamma mikroblarni bir xil ko'paytiradi
+- Mikroblarni butunlay yo'qotadi
+! Uzoq saqlash mikroblar soni va turining o'zgarishiga olib keladi, shuning uchun tashish vaqti qisqa tutiladi
+@ M
+
+? Yomg'irli kunlardan keyin olingan namunalar bilan nima qilinadi?
++ Alohida qayd etiladi
+- Tashlab yuboriladi
+- Aralashtirib yuboriladi
+- Qaynatib olinadi
+- Quritib saqlanadi
+! Yomg'irli kunlardan keyin olingan namunalar yo'llanma xatda alohida qayd etiladi
+@ M
+
+# 263
+
+? Sanitar tekshiruvda tuproq namunasi qaysi joylardan olinadi?
++ Aholi yashaydigan joylar, bog'lar
+- Cho'l va tog' cho'qqilari, muz qatlami
+- Sanoat chiqindisi ko'milgan hududlar
+- Daryo tubi va dengiz qirg'oqlari
+- Bo'sh bino va omborlar
+! Sanitar tekshiruvda aholi yashaydigan joylar, bog'lar va o'yin maydonlari tanlanadi
+@ M
+
+? Tuproq namunasi nima uchun bir necha nuqtadan olinadi?
++ Bitta joy butun maydonni belgilamasligi uchun
+- Tuproq umumiy hajmini ko'paytirib olish uchun
+- Idishlarni tezroq to'ldirib olish uchun
+- Mikroblarni o'ldirib tozalab olish uchun
+- Asboblarni sinab ko'rib baholash uchun
+! Bir nechta nuqtadan olinib aralashtirilsa, bitta joyning o'ziga xos xususiyati butun maydonga noto'g'ri yoyilmaydi
+@ M
+
+? Tuproq olish asboblari qanday tayyorlanadi?
++ Tozalanib va sterillanadi
+- Yuvilmay ishlatiladi
+- Qum bilan ishqalanadi
+- Quyoshda quritiladi
+- Sovuq suvda chayiladi
+! Bel, kurak, shpatel kabi asboblar tekshiruvdan oldin tozalanadi va sterillanadi, shunda namunaga begona mikroblar tushmaydi
+@ M
+
+? Tuproq namunasi uchun qanday idish ishlatiladi?
++ Steril shisha yoki polietilen paket
+- Oddiy yuvilmagan shisha banka
+- Ochiq turadigan metall chelak
+- Ifloslangan qog'oz xalta
+- Ochiq turadigan yog'och quti
+! Namuna uchun steril shisha idish yoki maxsus polietilen paket ishlatiladi
+@ M
+
+? Tuproq namunasi nima uchun asosan yuza qatlamdan olinadi?
++ Mikroorganizmlarning asosiy qismi shu yerda
+- Chuqur qatlamda mikroblar bo'lmaydi
+- Yuza qatlam steril bo'ladi
+- Chuqur qatlam tez qurib qoladi
+- Yuza qatlamda toshlar ko'p bo'ladi
+! Mikroorganizmlarning asosiy qismi yuza qatlamda to'planadi, chuqurlik esa tekshirish maqsadiga qarab belgilanadi
+@ M
+
+? Ho'l tuproqni quritish nimaga olib keladi?
++ Mikroblar sonini o'zgartirib yuboradi
+- Mikroblar sonini oshirib sterillaydi
+- Tuproqni steril qilib qo'yadi
+- Natijani aniqroq qiladi
+- Mikroblar sonini mutlaq saqlaydi
+! Tuproqni quritish mikroblar sonini o'zgartirib yuboradi, shuning uchun quritish faqat maxsus usul talab qilganda qo'llanadi
+@ M
+
+? Namuna laboratoriyaga nima uchun imkon qadar tez yetkaziladi?
++ Saqlashda mikroblar soni va turi o'zgaradi
+- Tuproq qurib, yengil bo'lib qoladi
+- Idish tezda eskirib, yaroqsiz bo'ladi
+- Yorliq yozuvi vaqt o'tib o'chib ketadi
+- Namuna hajmi ko'payib, to'lib ketadi
+! Namuna uzoq saqlansa mikroblar soni va turi o'zgaradi, shuning uchun tekshiruv imkon qadar tez boshlanadi
+@ M
+
+? Tuproq idishiga nima yoziladi?
++ Raqam, joy, sana va chuqurlik
+- Narx, rang, vazn va hajm
+- Xodim yoshi, jinsi, manzili
+- Mashina raqami, haydovchi ismi
+- Tuproq rangi, hidi, narxi
+! Har bir idishga raqam, namuna olingan joy, sana va chuqurlik yoziladi; belgilar yo'llanma xat bilan mos kelishi kerak
+@ M
+
+? Laboratoriyada qabul paytida nimalar tekshiriladi?
++ Namuna holati, idish butunligi, yozuvlar
+- Idish rangi, hidi va uning og'irligi
+- Tuproq narxi va uni sotgan sotuvchi
+- Xodim oilasi va uning yoshi haqida
+- Qurilma markasi va uning quvvati
+! Qabul paytida namunaning holati, idishning butunligi va yozuvlar tekshiriladi; shikastlangan namunalar tahlilga qo'yilmasligi mumkin
+@ M
+
+? Tahlil uchun tuproq qismi qanday olinadi?
++ Ma'lum og'irlikda tortib olinadi
+- Ko'z bilan chamalab olinadi
+- Qo'l bilan siqib olinadi
+- Hajm bo'yicha yarmicha olinadi
+- Hammasi butunicha olinadi
+! Tahlil uchun ma'lum og'irlikdagi tuproq qismi steril asbob bilan toza muhitda tortib olinadi
+@ M
+
+? Tuproq zarrachalarini bir xil qilish uchun nima qilinadi?
++ Sekin aralashtiriladi, qattiq ezilmaydi
+- Qattiq ezilib, kukunga aylantiriladi
+- Qizdirib, quritiladi
+- Muzlatilib, parchalanadi
+- Suvga tashlab, qaynatiladi
+! Namuna sekin aralashtiriladi, lekin mikroblarga zarar yetmasligi uchun juda qattiq ezilmaydi
+@ M
