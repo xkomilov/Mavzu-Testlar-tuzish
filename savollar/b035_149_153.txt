@@ -1,0 +1,459 @@
+# 149
+
+? O'lat qo'zg'atuvchisi 37 °C da harakatchanligi bo'yicha qanday?
++ Harakatsiz bo'ladi
+- Peritrix xivchinlari bilan harakatchan
+- Bitta xivchin bilan juda tez harakatchan
+- Sirpanib harakatlanadi
+- Spiral shaklda burilib harakatlanadi
+! O'lat qo'zg'atuvchisi (Yersinia pestis) 37 °C da harakatsiz bo'ladi, past haroratda esa xivchin hosil qilib harakatlanishi mumkin
+@ M JAW
+
+? Y. pestis kapsulasi qaysi sharoitda hosil bo'ladi?
++ Odam organizmida, 37 °C da
+- Sovutgichda, 4 °C haroratda
+- Tashqi muhitda, 28 °C da
+- Quritilgan holatda saqlanganda
+- Tuproq namunasida saqlanganda
+! Odam organizmida va 37 °C da mikrob kapsula hosil qiladi, u fagotsitlardan himoya qiladi va virulentlikning muhim omilidir
+@ M JAW
+
+? O'lat qo'zg'atuvchisining o'sish sur'ati qanday?
++ Sekin, 28 °C da bir necha kun
+- Juda tez, 37 °C da bir necha daqiqada
+- Tez, 56 °C da bir necha soatda
+- O'smaydi, faqat hayvon organizmida o'sadi
+- Tez, 4 °C da bir necha soatda
+! O'lat qo'zg'atuvchisi o'sishi sekin: qon agarida 28 °C da bir necha kun o'stirilganda kichik koloniyalar hosil bo'ladi
+@ M JAW
+
+? O'lat koloniyalari qanday ko'rinishga ega?
++ Kulrang, nozik, qovurilgan tuxumsimon
+- Yirik, qora, yaltiroq va qattiq shaklli
+- Qizil, shilimshiq va tikansimon shaklli
+- Yashil, quruq va tangachasimon shaklli
+- Sariq, yumshoq va ko'piksimon shaklli
+! Koloniyalar kulrang, nozik va ba'zan qovurilgan tuxum ko'rinishida bo'ladi
+@ M JAW
+
+? O'lat qo'zg'atuvchisi oksidaza sinamasida qanday natija beradi?
++ Manfiy, vabodan farqlaydi
+- Musbat, vabo kabi
+- Kuchli musbat, gonokokk kabi
+- Natija o'zgaruvchan, shtammga bog'liq
+- Sinama qo'llanmaydi
+! O'lat qo'zg'atuvchisi oksidaza-manfiy, bu uni vabo qo'zg'atuvchisidan farqlashga yordam beradi
+@ M JAW
+
+? O'lat qo'zg'atuvchisi shakarlarni qanday bijg'itadi?
++ Glyukozani kislota bilan, gazsiz bijg'itadi
+- Laktozani gaz bilan bijg'itadi, glyukozani emas
+- Saxarozani gaz bilan bijg'itadi, glyukozani emas
+- Glyukozani kislota va gaz bilan bijg'itadi
+- Hech qaysi shakarni bijg'itmaydi, o'smaydi
+! Mikrob glyukozani kislota hosil qilib bijg'itadi, gaz hosil qilmaydi; laktoza va saxarozani bijg'itmaydi
+@ M JAW
+
+? O'lat qo'zg'atuvchisi qanday kislorod sharoitida o'sadi?
++ Aerob va fakultativ anaerob
+- Qat'iy anaerob sharoitda o'sadi
+- Kislorodli muhitdagina o'sadi
+- Karbonat angidridli muhitdagina o'sadi
+- Vakuum sharoitidagina o'sadi
+! O'lat qo'zg'atuvchisi aerob va fakultativ anaerob sharoitda o'sadi
+@ M JAW
+
+? O'lat qo'zg'atuvchisi qanday morfologiyaga ega?
++ Gram-manfiy, sporasiz tayoqcha
+- Gram-musbat, sporali tayoqcha
+- Gram-manfiy, sporali kokk
+- Gram-musbat, sporasiz kokk
+- Gram-manfiy, spiral shakl
+! Yersinia pestis Gram-manfiy, sporasiz tayoqcha, 37 °C da kapsulali
+@ M JAW
+
+? Virulentlik genlari o'latda qayerda joylashgan?
++ Uchta yirik plazmidda
+- Xromosoma ichida joylashgan
+- Spora po'stida joylashgan
+- Xivchin tolasida joylashgan
+- Ribosoma ichida joylashgan
+! O'lat qo'zg'atuvchisining virulentligi uchta yirik plazmidda joylashgan genlar bilan bog'liq
+@ M JAW
+
+? Boyitilgan muhitlar o'latda nima uchun ishlatiladi?
++ O'sishni tezlashtirish uchun
+- Mikrobni o'ldirib tozalab qo'yish uchun
+- Sporaga aylantirib saqlab qo'yish uchun
+- Kapsulasini butunlay yo'qotib yuborish uchun
+- Boshqa turga aylantirib yuborish uchun
+! Mikrob o'sish omillarini talab qiladi, shuning uchun boyitilgan muhitlar o'sishni tezlashtiradi va kuzatuvni osonlashtiradi
+@ M JAW
+
+# 150
+
+? O'lat infeksiyasining asosiy manbai qaysi?
++ Kemiruvchilar va ularning burgalari
+- Qushlar va ularning pashshalari
+- Baliqlar va ularning suv o'tlari
+- Tuproq va havodagi chang zarrachalari
+- Sut va sut mahsulotlarining o'zi
+! O'latning tabiiy manbai kemiruvchilar; kasallik burgalar orqali tarqaladi
+@ M WHODW
+
+? Hayvonlar o'limi haqidagi xabarlar nima sifatida qabul qilinadi?
++ Epidemiologik ogohlantirish sifatida
+- Ahamiyatsiz ma'lumot sifatida
+- Tabiiy hodisa sifatida
+- Iqlim o'zgarishi belgisi sifatida
+- Mavsumiy odat sifatida
+! Kemiruvchilar va boshqa hayvonlar o'limi haqidagi xabarlar epidemiologik ogohlantirish sifatida qabul qilinadi
+@ M WHODW
+
+? O'lat burga ichagida qanday joyda biofilm hosil qiladi?
++ Proventrikulusda
+- Jigarda
+- Yurak qismida
+- Siydik pufagida
+- Miya ganglialarida
+! Mikrob burga oshqozonining proventrikulusida biofilm hosil qilishi mumkin
+@ M WHODW
+
+? Burga oshqozonida biofilm hosil bo'lishi nimaga olib keladi?
++ Burga ovqat qabul qila olmay, ko'p chaqadi
+- Burga ovqatni tezroq hazm qilib oladi
+- Burga umuman chaqmay qoladi va nobud bo'ladi
+- Burga tezda o'lib, mikrobni yo'qotib yuboradi
+- Burga zararsiz bo'lib, kasallik tarqatmaydi
+! Biofilm burganing ovqat qabul qilishini qiyinlashtiradi, shuning uchun burga odamni yoki hayvonni ko'proq chaqadi
+@ M WHODW
+
+? Burga chaqqanida mikrob qayerga tushadi?
++ Teriga, so'ng limfa tizimiga o'tadi
+- Ichakka, so'ng jigarga o'tadi
+- O'pkaga, so'ng bosh miyaga o'tadi
+- Siydik yo'liga, so'ng buyrakka o'tadi
+- Ko'zga, so'ng quloqqa o'tadi
+! Burga chaqqanida mikrob teriga tushadi va limfa tizimiga tarqaladi, birlamchi o'choq paydo bo'ladi
+@ M WHODW
+
+? Kasal hayvon jasadi bilan aloqa qilish nimaga olib kelishi mumkin?
++ Teri yoki shilliq qavat orqali infeksiyaga
+- Hech qanday xavf bo'lmasligiga olib keladi
+- Immunitetning kuchayishiga olib keladi
+- Terining quruqlashishiga olib keladi
+- Tashqi ko'rinishning o'zgarishiga olib keladi
+! Kasal hayvon jasadi yoki to'qimasi bilan to'g'ridan-to'g'ri aloqa teri yoki shilliq qavat orqali infeksiya manbai bo'lishi mumkin
+@ M WHODW
+
+? Havo tomchilari orqali o'lat qaysi shaklda yuqadi?
++ O'pka shaklida
+- Bubonik shaklda
+- Teri shaklida
+- Ichak shaklida
+- Ko'z shaklida
+! Havo tomchilari orqali yuqish odatda o'pka o'latida kuzatiladi
+@ M WHODW
+
+? O'pka o'latida kasal odam nima uchun xavfli?
++ Yo'tal va nafas bilan mikrob chiqaradi
+- Terisi orqali mikrobni chiqarmaydi, xolos
+- Siydik orqali mikrob chiqaradi, xolos
+- Ovqat hazm qilishi orqali tarqatadi
+- Qon bilan teriga tarqatib yuboradi
+! O'pka o'latida kasal odam yo'tal va nafas chiqarish orqali mikrobni havo tomchilariga o'tkazadi, shuning uchun boshqalar uchun juda xavfli
+@ M WHODW
+
+? Odamdan odamga o'lat qayerda tezroq yuqadi?
++ Yaqin aloqa va yopiq xonalarda
+- Ochiq maydonlarda, uzoq masofada
+- Dengiz sohilida, shamolda
+- Tog' cho'qqilarida, yolg'iz
+- Yolg'iz yashovchilarda, ajralgan holda
+! Odamdan odamga yuqish yaqin aloqa va yopiq xonalarda tezroq sodir bo'ladi
+@ M WHODW
+
+? Xom go'sht orqali o'lat yuqishi qanday baholanadi?
++ Kam uchraydi, lekin xavf hisoblanadi
+- Eng keng tarqalgan yo'l hisoblanadi
+- Mutlaqo mumkin emas
+- Bolalarda uchraydi
+- Qishda uchraydi
+! Kasal hayvon go'shtini xom yoki yetarli issiqlik ishlovisiz iste'mol qilish orqali yuqish kam uchraydi, ammo xavf hisoblanadi
+@ M WHODW
+
+# 151
+
+? Epidemiologik tekshiruvda o'latga oid qaysi namunalar olinadi?
++ Kemiruvchi organlari va burgalar
+- Tuproq namunalari va suv havzalari
+- Sut mahsulotlari va ularning qoldig'i
+- Mevalar va sabzavotlar namunalari
+- Paxta va gazlama bo'laklari namunalari
+! Epidemiologik tekshiruvda kemiruvchilar organlari va burgalar namunalari ham tekshiriladi, ular tabiiy o'chog'ni aniqlashga imkon beradi
+@ M WHODW
+
+? Namuna yig'ish paytida xodim qanday sharoitda ishlaydi?
++ To'liq himoyada, aerozolsiz sharoitda
+- Oddiy kiyimda, shoshilib va bemalol
+- Qo'lqopsiz, ochiq stolda va shoshilib
+- Niqobsiz, ochiq havoda va bemalol
+- Himoyasiz, tez va ehtiyotsiz tarzda
+! Namuna yig'ishda xodim to'liq himoya kiyimida bo'ladi, aerozol hosil qilmaydi, ishlar xavfsizlik shkafi yoki belgilangan xonada bajariladi
+@ M WHOLBM
+
+? Namuna olishda antibiotik haqida qaysi qoida to'g'ri?
++ Imkon bo'lsa antibiotikdan oldin olinadi
+- Doim antibiotik kursi tugagach olinadi
+- Doim bir hafta kutib olinadi
+- Antibiotik haqida hisobga olinmaydi
+- Faqat davo oxirida olinadi
+! Antibiotikdan oldin olish tashxis aniqligini oshiradi, ammo bemorning ahvoli og'ir bo'lsa namuna kechiktirilmaydi
+@ M
+
+? O'lat namunasini tashishda qaysi qadoqlash tizimi qo'llanadi?
++ Uch qatlamli qadoqlash tizimi
+- Bir qatlamli qog'oz qadoq
+- Ikki qatlamli polietilen paket
+- Ochiq shisha idish
+- Metall sim bilan o'ralgan idish
+! Namuna tashish uchun uch qatlamli qadoqlash tizimi qo'llanadi, idish sinsa ham mikrob tashqariga chiqmaydi
+@ WHOLBM M
+
+? Tashish paytida namuna qanday haroratda saqlanadi?
++ Sovutilgan, muzlatilmagan holda
+- Muzlatilgan holda, qattiq qotirib qo'yib
+- Qaynoq suvda, issiq holda saqlab turib
+- Quyoshda, quritilgan holda saqlab turib
+- Xona haroratida, bir hafta saqlab turib
+! Namuna sovutilgan sharoitda saqlanadi, ammo muzlatilmaydi, chunki muzlash ba'zi materiallarni buzadi
+@ M
+
+? O'lat surtmasi qaysi usullarda bo'yaladi?
++ Giemsa yoki Vayson usulida
+- Sil–Nilsen yoki Ojeshko usulida
+- Burri–Gins yoki Neyser usulida
+- Gram yoki Romanovskiy–Gimza usulida
+- Fonta–Tribondo yoki Klett usulida
+! Materialdan surtma tayyorlanib, Giemsa yoki Vayson usuli bilan bo'yaladi
+@ M JAW
+
+? Bo'yalgan o'lat surtmasida qanday ko'rinish o'latni ko'rsatadi?
++ Ikki qutbi bo'yalgan Gram-manfiy tayoqchalar
+- Zanjirsimon joylashgan Gram-musbat kokklar
+- Sporali yo'g'on tayoqchalar, Gram-musbat
+- Spiralsimon yupqa burilgan shakllar
+- Uzum shingilsimon Gram-musbat kokklar
+! Mikroskopda ikki qutbi bo'yalgan Gram-manfiy tayoqchalar ko'rinsa, o'lat ehtimoli oshadi
+@ M JAW
+
+? To'g'ridan-to'g'ri fluoressent antitela usuli nimani aniqlaydi?
++ F1 antigenini
+- Vi antigenini
+- O1 antigenini
+- H antigenini
+- K antigenini
+! Fluoressent antitelalar usuli F1 antigenini tez aniqlashga imkon beradi
+@ M JAW
+
+? Yo'llanma xatida nima ko'rsatiladi?
++ Vaqt, joy, manba va klinik belgilar
+- Xodimning shaxsiy va oilaviy ma'lumoti
+- Idishning rangi va ishlab chiqaruvchisi
+- Tashuvchining telefon raqami va manzili
+- Laboratoriya binosining rangi va qavati
+! Yo'llanma xatiga namuna olingan vaqt, joy, manba haqida ma'lumotlar va bemorning klinik belgilari yoziladi
+@ M
+
+? Namuna yig'ishda ishlatilgan asboblar bilan nima qilinadi?
++ Darhol zararsizlantiriladi
+- Ochiq stolda qoldiriladi
+- Quritib, qayta ishlatiladi
+- Oddiy suvda chayiladi
+- Oddiy chiqindiga tashlanadi
+! Yig'ish jarayonida ishlatilgan asboblar darhol zararsizlantiriladi
+@ M WHOLBM
+
+# 152
+
+? O'latning septik shaklida qanday belgilar kuzatilishi mumkin?
++ Qon ketishi, qon ivish buzilishi, nekroz
+- Yengil tomoq og'rig'i va tumov belgilari
+- Teri qichishishi va yengil toshma belgilari
+- Ich qotishi va qorin shishishi belgilari
+- Bosh aylanishi va ko'ngil aynishi belgilari
+! Septik shaklda qon ketishi, qon ivish buzilishi va barmoq hamda oyoq-qo'llarda nekroz belgilari kuzatilishi mumkin
+@ M JAW WHODW
+
+? Bubonik o'lat qaysi kasalliklar bilan adashtirilishi mumkin?
++ Tularemiya, kuydirgi, limfadenit
+- Gripp, qizamiq, suvchechak va tepki
+- Gepatit, tif, vabo va ichburug'
+- Qoqshol, bo'g'ma, ko'kyo'tal
+- Sil, zaxm, gonoreya va xlamidioz
+! Bubonik shaklni tularemiya, kuydirgi va stafilokokk yoki streptokokk sababli limfadenit bilan adashtirish mumkin
+@ M JAW WHODW
+
+? Differensial tashxisda bemordan nima haqida so'rash muhim?
++ Burga chaqishi, hayvon bilan aloqasi haqida
+- Yoqtirgan ovqati va sevimli rangi haqida
+- Kiyim-kechak o'lchami va rangi haqida
+- Ta'til rejalari va sayohat haqida
+- Sevimli sport turi va mashg'uloti haqida
+! Bemorning burga chaqishi yoki hayvon bilan aloqasi haqida so'rash muhim, anamnez to'liq bo'lmasa tashxis noto'g'ri yo'nalishi mumkin
+@ M WHODW
+
+? O'pka o'lati qaysi kasalliklardan farqlanadi?
++ Zotiljam va nafas yo'llari infeksiyalaridan
+- Qorin tifi va ichburug' kabi kasalliklardan
+- Zaxm va gonoreya kabi kasalliklardan
+- Qoqshol va botulizm kabi kasalliklardan
+- Brutsellyoz va leptospiroz kabi kasalliklardan
+! O'pka shaklini zotiljam va boshqa nafas yo'llari infeksiyalaridan farqlash kerak; epidemiologik vaziyat va balg'am o'zgarishlari yordam beradi
+@ M WHODW
+
+? Laboratoriya tashxisi bosqichlari qanday ketma-ketlikda?
++ Namuna olish, mikroskopiya, kultura, identifikatsiya
+- Identifikatsiya, namuna olish, mikroskopiya, kultura
+- Kultura, namuna olish, identifikatsiya, mikroskopiya
+- Mikroskopiya, identifikatsiya, kultura, namuna olish
+- Identifikatsiya, kultura, mikroskopiya, namuna olish
+! Laboratoriya tashxisi namunani to'g'ri olishdan boshlanadi, keyin mikroskopik va kultural tekshiruv, so'ng identifikatsiya o'tkaziladi
+@ M
+
+? O'lat kulturasi bilan ishlashda nima uchun qat'iy ehtiyot choralari ko'riladi?
++ Kultura juda xavfli hisoblanadi
+- Zararsiz bo'lgani uchun qat'iy talab yo'q
+- Tez nobud bo'lgani uchun qat'iy talab yo'q
+- Hayvonlargagina xavfli bo'lgani uchun
+- O'simliklargagina xavfli bo'lgani uchun
+! Y. pestis kulturasi juda xavfli, shu sababli biologik xavfsizlik qoidalariga qat'iy rioya qilinadi
+@ M WHOLBM
+
+? Natija noaniq bo'lsa, nima qilinadi?
++ Qayta tekshiruv tavsiya etiladi
+- Natija yakuniy deb qabul qilinadi
+- Bekor qilinib, arxivga topshiriladi
+- Tekshiruv butunlay to'xtatiladi
+- Natija yashirilib, aytilmaydi
+! Laboratoriya natijasi klinik ma'lumot bilan solishtiriladi; agar noaniq bo'lsa, qayta tekshiruv tavsiya etiladi
+@ M
+
+? Serologik tashxis nima uchun ko'pincha kasallikning keyingi bosqichida foydali?
++ Antitelalar keyinroq hosil bo'ladi
+- Antitelalar birinchi soatdayoq hosil bo'ladi
+- Odamda antitelalar umuman hosil bo'lmaydi
+- Tashuvchilarda antitelalar kuchli hosil bo'ladi
+- Hayvonlardagina antitelalar hosil bo'ladi
+! Antitelalar keyinroq hosil bo'ladi, shu sababli birinchi kunda manfiy serologik natija kasallikni istisno qilmaydi
+@ M JAW
+
+? Qaysi serologik natija tashxisni tasdiqlaydi?
++ Juft zardobda titrning oshishi
+- Bitta past titr natijasi, bir marta
+- Titr o'zgarmay turishi, ikki marta
+- Kamayib borgan titr, ikki marta
+- O'lchanmagan titr, hech qachon
+! Juft zardob namunalarida antitela titrining oshishi tashxisni tasdiqlaydi
+@ M JAW
+
+? Septik o'latda davolash va tekshiruv qanday olib boriladi?
++ Tomir ichi davolash va laboratoriya tekshiruvi bir vaqtda
+- Avval laboratoriya natijasi kutiladi, keyin davolanadi
+- Davolash kechiktiriladi
+- Kuzatiladi
+- Uyda dam olish tavsiya etiladi
+! Bunday holatda tezkor tomir ichi davolash va laboratoriya tekshiruvi bir vaqtda o'tkaziladi
+@ M WHODW
+
+# 153
+
+? O'latda davolash qachon boshlanishi kerak?
++ Shubha tug'ilishi bilanoq, empirik tarzda
+- Laboratoriya tasdig'idan keyin, bir necha kunda
+- Epidemiya tugagandan keyin
+- Bemor sog'ayganda
+- Kasallik og'irlashganda, kechroq
+! Davolash shubha tug'ilishi bilanoq boshlanishi kerak, laboratoriya tasdig'ini kutish kechikishga olib keladi
+@ M WHODW
+
+? O'latni davolashning asosi qaysi?
++ Antibiotiklar
+- Vitaminlar
+- Antigistaminlar
+- Fizioterapiya
+- Parhez
+! O'latni davolashning asosi antibiotiklardir
+@ M WHODW
+
+? O'latda birinchi tanlovdagi antibiotiklar qaysi guruhga kiradi?
++ Aminoglikozidlar (streptomitsin, gentamitsin)
+- Penitsillinlar (ampitsillin, amoksitsillin)
+- Makrolidlar (eritromitsin, azitromitsin)
+- Glikopeptidlar (vankomitsin, teykoplanin)
+- Nitroimidazollar (metronidazol, tinidazol)
+! Aminoglikozidlar, ayniqsa streptomitsin va gentamitsin, birinchi tanlov preparatlari hisoblanadi
+@ M WHODW JAW
+
+? O'latda muqobil dorilar qaysilar?
++ Doksisiklin, siprofloksatsin, levofloksatsin
+- Penitsillin, ampitsillin, oksasillin kabilar
+- Eritromitsin, azitromitsin, spiramitsin kabilar
+- Izoniazid, rifampitsin, pirazinamid kabilar
+- Metronidazol, tinidazol, ornidazol kabilar
+! Muqobil sifatida tetratsiklin guruhidan doksisiklin, ftorxinolonlardan siprofloksatsin va levofloksatsin qo'llanishi mumkin
+@ M WHODW JAW
+
+? Aminoglikozidlar bakteriyaga qanday ta'sir qiladi?
++ Ribosomada oqsil sintezini buzadi
+- Hujayra devori sintezini to'xtatadi
+- DNK replikatsiyasini to'xtatadi
+- Hujayra membranasini eritadi
+- Folat sintezini to'xtatadi
+! Aminoglikozidlar bakteriya ribosomasida oqsil sintezini buzib, mikrobni o'ldiradi
+@ M JAW
+
+? Belgilar yo'qolgandan keyin antibiotik bilan nima qilinadi?
++ To'liq kurs shifokor ko'rsatmasi bilan
+- Darhol to'xtatilib, qabul qilinmaydi
+- Dozasi ikki baravar oshirib yuboriladi
+- Bir hafta tanaffus qilib, qayta boshlanadi
+- Boshqa dori bilan almashtirib yuboriladi
+! Belgilar yo'qolgandan keyin ham antibiotik to'liq kurs davomida qabul qilinadi, aks holda qayta kasallanish xavfi ortadi
+@ M WHODW
+
+? Qo'llab-quvvatlovchi davolash nimalarni o'z ichiga oladi?
++ Suyuqlik, isitma, kislorod yordami
+- Qattiq parhez va uzoq piyoda sayr
+- Vitamin berish va issiq vanna qabul qilish
+- Massaj qilish va issiq kompress qo'yish
+- Uyqu va sovuq kompress qo'yib turish
+! Qo'llab-quvvatlovchi davolashga suyuqlik va elektrolit balansini tiklash, isitmani pasaytirish, kislorod bilan ta'minlash kiradi
+@ M WHODW
+
+? Septitsemik o'latda shok holatida nima qo'llanadi?
++ Vazopressorlar va qon bilan ta'minlash
+- Antikoagulyantlar va qon olish choralari
+- Tinchlantiruvchi dorilar va uzoq uyqu
+- Vitaminlar va parhez bilan ovqatlantirish
+- Sovuq muhit va uzoq tinch yotish
+! Shok holatida vazopressor dorilar va to'qimalarni qon bilan ta'minlash choralari qo'llanadi
+@ M WHODW
+
+? Bubonda limfa tuguni haqida qaysi gap to'g'ri?
++ Jarrohlik yo'li bilan yorish odatda tavsiya etilmaydi
+- Doim jarrohlik yo'li bilan yorish tavsiya etiladi
+- Isitish bilan tezda qo'zg'atiladi
+- Siqib yiringi chiqariladi
+- Doim kesib olib tashlanadi
+! Tugunni yorish bakteriyaning atrofga va qonga tarqalish xavfini oshirishi mumkin, shuning uchun odatda tavsiya etilmaydi
+@ M WHODW
+
+? O'latning profilaktikasi nimaga qaratilgan?
++ Kemiruvchi va burgalarni nazorat qilish
+- Vitamin qabul qilishni muntazam oshirish
+- Qo'l bo'yash tartibini yaxshilash
+- Yangi kiyim kiyish tartibini joriy etish
+- Uy bo'yash tartibini muntazam yangilash
+! O'lat profilaktikasi kemiruvchilar va burgalarni nazorat qilish, epidemiologik kuzatuv va bemorlarni izolyatsiya qilishga qaratiladi
+@ M WHODW
