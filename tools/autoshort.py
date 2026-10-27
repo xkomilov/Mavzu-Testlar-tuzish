@@ -17,10 +17,10 @@ while i<len(L):
             orig=c
             while len(c)>1.10*mx:
                 m=re.match(r'^(.*\S)\s*\([^()]*\)$',c)
-                if m and len(m.group(1))>=8: c=m.group(1); continue
+                if m and len(m.group(1))>=max(12,0.6*len(orig)): c=m.group(1); continue
                 if ',' in c:
                     c2=c.rsplit(',',1)[0].strip()
-                    if len(c2)>=8: c=c2; continue
+                    if len(c2)>=max(12,0.6*len(orig)): c=c2; continue
                 break
             if c!=orig and len(c)<=1.10*mx:
                 block[cidx[0]]='+ '+c; L[i+1:j]=block; changed+=1
