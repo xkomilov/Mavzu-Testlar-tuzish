@@ -1,0 +1,560 @@
+# 138
+
+? Sporali mikroblar tashqi omillarga sporasizlarga nisbatan qanday?
++ Ancha chidamli bo'ladi
+- Ancha sezgir bo'lib qoladi
+- Bir xil darajada chidamli
+- Butunlay chidamsiz bo'lib qoladi
+- Sovuqqa chidamli bo'ladi
+! Sporali mikroblar issiqlik va dezinfeksiyaga sporasiz mikroblarga nisbatan ancha chidamli
+@ M JAW
+
+? S. aureus va Enterococcus quruq yuzalarda qancha saqlanishi mumkin?
++ Haftalab, ba'zan oylab
+- Bir necha soniya xolos
+- Daqiqalar davomida xolos
+- Soatlar davomida xolos
+- Ikki-uch kun xolos
+! Sporasiz S. aureus va Enterococcus quruq yuzalarda haftalab, ba'zan oylab saqlanishi mumkin
+@ M JAW
+
+? Qaysi mikroblar qaynatish va oddiy dezinfeksiyaga qarshi tura oladi?
++ C. perfringens, B. cereus, C. difficile
+- S. aureus, E. coli va Klebsiella kabilar
+- Salmonella, Shigella va Vibrio kabilar
+- Neisseria, Haemophilus va Bordetella kabilar
+- Treponema, Borrelia va Leptospira kabilar
+! Spora hosil qiluvchi C. perfringens, B. cereus va C. difficile qaynatish va oddiy dezinfeksiyaga qarshi tura oladi
+@ M JAW
+
+? Sporalarni yo'q qilish uchun nima qo'llanadi?
++ Sporotsid vositalar va maxsus sterilizatsiya
+- Oddiy sovun bilan yuvish va quruq artish
+- Spirtli artish va havoda quritib qo'yish
+- Sovuq suv bilan chayish va shamollatish
+- Nam latta bilan artish va quyoshda quritish
+! Sporalarni yo'q qilish uchun kuchli sporotsid vositalar va maxsus sterilizatsiya usullari qo'llanadi
+@ M JAW CDCSTER
+
+? S. aureus ovqatga qanday tushishi mumkin?
++ Xodimlarning qo'li, burni va terisidan
+- Tuproqdan, o'simlik ildizlari orqali
+- Suvdan, quduq suvi orqali
+- Havodan, changli shamol orqali
+- Hasharot chaqishidan, pashsha orqali
+! Ovqat tayyorlovchi xodimlarning qo'li, burun va teri yuzasidagi stafilokokklar ovqatga o'tishi mumkin
+@ M JAW
+
+? Ovqat xonalarida stafilokokk ko'payishi uchun qaysi omil muhim?
++ Harorat nazorati (xona haroratida saqlash xavfli)
+- Yorug'lik nazorati (soyada saqlash xavfli)
+- Shovqin nazorati (jim holda saqlash xavfli)
+- Hid nazorati (hidli ovqatni saqlash xavfli)
+- Rang nazorati (rangsiz ovqatni saqlash xavfli)
+! Mikrob o'sish va toksin hosil qilish uchun qulay sharoitni xona haroratida saqlangan ovqatda topadi, shuning uchun harorat nazorati muhim
+@ M JAW WHODW
+
+? Kasalxonada S. aureus qayerda kolonizatsiya qiladi?
++ Teri, burun va yara yuzasida
+- Qon plazmasi va limfa tugunida
+- Jigar to'qimasi va o't pufagida
+- Buyrak kanalchalari va siydik pufagida
+- Miya pardalari va orqa miya suyuqligida
+! Kasalxonada S. aureus teri, burun va yara yuzasida kolonizatsiya qilib, keyin tanaga kirishi mumkin
+@ M JAW
+
+? Stafilokokk enterotoksini qusishni qanday chaqiradi?
++ Ichak nerv retseptorlariga ta'sir qilib, miyaga signal beradi
+- Oshqozon devorini eritib, qon ketishini chaqiradi
+- Jigar hujayralarini buzib, safro ajralishini oshiradi
+- Qon tomirlarini toraytirib, bosimni oshirib yuboradi
+- Buyrak hujayralarini zararlab, siydikni to'xtatib qo'yadi
+! Enterotoksin ichakdagi nerv retseptorlariga ta'sir qilib, miyaga signal yuboradi va qusish paydo bo'ladi
+@ M JAW
+
+? Enterotoksin superantigen sifatida qaysi hujayralarga ta'sir qiladi?
++ T-limfotsitlarni keng faollashtiradi
+- Eritrotsitlarni keng parchalaydi
+- Trombotsitlarni keng yo'q qiladi
+- Neytrofillarni keng ko'paytiradi
+- Gepatotsitlarni keng faollashtiradi
+! Enterotoksin superantigen sifatida T-limfotsitlarni keng faollashtiradi
+@ M JAW
+
+? Metitsillinga chidamli stafilokokklar bilan kurashda nima kerak?
++ Sanitariya va izolyatsiya choralari
+- Vitamin kursini qabul qilish choralari
+- Xonalarni shamollatib turish choralari
+- Bemorlarni tez-tez cho'miltirish choralari
+- Issiq ichimliklar ichib yurish choralari
+! Metitsillinga chidamli shtammlar bilan kurashish sanitariya va izolyatsiya choralarini talab qiladi
+@ M JAW WHOAMR
+
+# 139
+
+? Tayyor ovqatni uzoq vaqt xona haroratida qoldirmaslik nima uchun muhim?
++ Enterotoksin to'planib, qaynatish yo'q qilmaydi
+- Ovqat tarkibidagi toksinlar o'z-o'zidan yo'qoladi
+- Mikroblar xona haroratida tez nobud bo'ladi
+- Ovqat rangi o'zgarib, mazasi yaxshilanadi
+- Ovqatdagi barcha sporalar o'ladi
+! S. aureus enterotoksini va B. cereus sereulidi pishirish bilan yo'qolmaydi, shuning uchun ovqatni xona haroratida uzoq qoldirmaslik muhim
+@ M JAW WHODW
+
+? Xom va pishirilgan mahsulotlarni alohida saqlash nimani oldini oladi?
++ Kross-kontaminatsiyani
+- Mahsulotning tez sovishini
+- Qurib qolishini va mazasiz bo'lishini
+- Rangining o'zgarishini va xiralashishini
+- Hidining yo'qolishini va achishini
+! Xom va pishirilgan mahsulotlarni alohida saqlash va alohida asboblardan foydalanish kross-kontaminatsiyaning oldini oladi
+@ M WHODW
+
+? Ovqat tayyorlovchi xodimlar qachon qo'llarini sovun bilan yuvishlari kerak?
++ Hojatxona, xom go'shtdan keyin va ishdan oldin
+- Ish kuni oxirida, uyga ketishdan oldin yuvadi
+- Ovqat yeyishdan keyin, tushlik paytida yuvadi
+- Haftada bir marta, dam olish kuni yuvadi
+- Qo'li ko'zga ko'rinib ifloslangandagina yuvadi
+! Hojatxonadan keyin, xom go'shtga tegkandan keyin va ovqat tayyorlashdan oldin qo'llarni sovun bilan yuvish talab etiladi
+@ M WHODW
+
+? Yaralangan yoki yuqumli kasal xodim bilan nima qilinadi?
++ Ishdan vaqtincha chetlashtiriladi
+- Odatdagidek ishlashda davom ettiriladi
+- Niqob taqib ishlashda davom ettiriladi
+- Qo'lqop kiydirib ishlashda davom ettiriladi
+- Kechki smenaga o'tkazib ishlatiladi
+! Yaralangan yoki yuqumli kasal xodimlar stafilokokk tashuvchisi bo'lishi mumkin, shuning uchun vaqtincha chetlashtiriladi
+@ M WHODW
+
+? Oshxona yuzalari va asboblari qanday tozalanadi?
++ Har kuni tozalanib, dezinfeksiya qilinadi
+- Oyda bir marta tozalanib, artib qo'yiladi
+- Ko'rinib ifloslangandagina tozalanadi
+- Yilda bir marta tozalanib, artib qo'yiladi
+- Faqat nam latta bilan artib qo'yiladi
+! Oshxona yuzalari, taxtalar va asboblar har kuni tozalanishi va dezinfeksiya qilinishi kerak
+@ M WHODW
+
+? Kasalxona infeksiyalarining asosiy profilaktika vositasi qaysi?
++ Qo'l gigiyenasi
+- Bemorlarni ko'paytirish
+- Vitamin kursi
+- Xonalarni bo'yash
+- Kiyimni almashtirish
+! Kasalxona infeksiyalarining asosiy profilaktika vositasi qo'l gigiyenasi hisoblanadi
+@ M WHOLBM
+
+? Spirtli antiseptiklar qaysi mikroblarga zaif ta'sir qiladi?
++ C. difficile sporalariga
+- Stafilokokklarning vegetativ shakliga
+- Ichak tayoqchasining vegetativ shakliga
+- Salmonellalarning vegetativ shakliga
+- Pnevmokokklarning vegetativ shakliga
+! Spirtli antiseptiklar ko'pchilik vegetativ mikroblarga ta'sir qiladi, ammo C. difficile sporalariga zaif ta'sir qiladi
+@ M CDCSTER
+
+? Infeksiya manbai bo'lgan bemorlar bilan nima qilinadi?
++ Ajratilib, kontakt izolyatsiya choralari qo'llanadi
+- Umumiy palataga birga joylashtiriladi
+- Boshqa bemorlar bilan aralashtiriladi
+- Himoyasiz holda qoldiriladi
+- Boshqa bemorlarni parvarish qilishga jalb etiladi
+! Infeksiya manbai bo'lgan bemorlar boshqalardan ajratilib, kontakt izolyatsiya choralari qo'llanadi
+@ M WHOLBM
+
+? Qayta isitishda ovqat qanday qizdirilishi kerak?
++ To'liq qizdirilishi kerak
+- Yengil iliq holatgacha yetarli
+- Yuzasi isishi yetarli
+- Sovuq holda ham xavfsiz
+- Bir necha soniya isitish yetarli
+! Qayta isitishda ham ovqat to'liq qizdirilishi kerak
+@ M WHODW
+
+? Ovqatni yetarli pishirish qaysi mikroblarni yo'q qiladi?
++ Tirik mikroblarni, enterotoksinni emas
+- Tirik mikroblar va enterotoksinni birga
+- Toksinlarni yo'q qiladi, mikroblarni emas
+- Sporalarni yo'q qiladi, vegetativ shaklni emas
+- Hech qaysisiga ta'sir qilmaydi, foydasiz
+! Yetarli pishirish tirik mikroblarni yo'q qiladi, lekin S. aureus enterotoksini va B. cereus sereulidini yo'q qila olmaydi
+@ M JAW WHODW
+
+# 140
+
+? Shartli patogenlar haqiqiy patogenlardan nimasi bilan farq qiladi?
++ Qulay sharoitda zarar beradi
+- Sog'lom odamda ham doim kasallik beradi
+- Hayvonlarda kasallik chaqiradi
+- Qachon kasallik chaqirmaydi
+- Tuproqda yashaydi
+! Haqiqiy patogenlar sog'lom odamda ham kasallik beradi, shartli patogenlar esa faqat qulay sharoitda zarar beradi
+@ M JAW
+
+? Shartli patogenlarning kasallik chaqirish qobiliyati nimaga bog'liq?
++ Bemorning holatiga (immunitetiga)
+- Nomiga va tashqi ko'rinishiga qarab
+- Rangiga va koloniya shakliga qarab
+- O'lchamiga va hujayra soniga qarab
+- Hidiga va ko'payish tezligiga qarab
+! Ularning kasallik chaqirish qobiliyati turiga emas, balki bemorning holatiga bog'liq
+@ M JAW
+
+? Immuniteti susaygan bemorda oddiy ichak tayoqchasi nima keltirib chiqarishi mumkin?
++ Qon oqimi infeksiyasini
+- Doim yengil ich ketishni
+- Terining qichishishini
+- Tish og'rig'ini
+- Qanday kasallik keltirmaydi
+! Immunitet susaygan bemorda oddiy ichak tayoqchasi qon oqimi infeksiyasini keltirib chiqarishi mumkin
+@ M JAW
+
+? Normal mikroflora qaysi joylarda joylashgan?
++ Teri, og'iz, nafas yo'llari, ichak, jinsiy a'zolar
+- Qon, likvor, siydik va o't pufagi ichida joylashgan
+- Miya, yurak, jigar va buyrak to'qimasi ichida joylashgan
+- Ichak devori va teri ostidagi yog' qatlamida joylashgan
+- O'pka alveolalari va tomir devori ichida joylashgan
+! Teri, og'iz bo'shlig'i, nafas yo'llari, ichak va jinsiy a'zolar normal mikroflora bilan qoplangan
+@ M JAW
+
+? Ichakdagi normal mikroflora qanday vazifalarda ishtirok etadi?
++ Vitamin sintezi, hazm va patogenlarga qarshi raqobat
+- Toksin hosil qilish, qon ivishi va immunitet bostirish
+- Gaz hosil qilish va hid chiqarish
+- Suvni so'rish va tuz yig'ish
+- Patogenlarni oziqlantirish
+! Ichak mikroflorasi vitamin sintezi, ovqat hazm qilish va patogenlarga qarshi raqobat kabi vazifalarda ishtirok etadi
+@ M JAW
+
+? Teri yuzasida doimiy yashaydigan zararsiz stafilokokk qaysi?
++ Staphylococcus epidermidis
+- Staphylococcus aureus
+- Streptococcus pyogenes
+- Neisseria gonorrhoeae
+- Corynebacterium diphtheriae
+! Teri yuzasida S. epidermidis va boshqa koagulaza-manfiy stafilokokklar doimiy yashaydi
+@ M JAW
+
+? Koagulaza-manfiy stafilokokklar protez va kateterda qanday xavf tug'diradi?
++ Biofilm hosil qilib, infeksiya chaqiradi
+- Biofilmni eritib, protezni tozalab qo'yadi
+- Toksin ajratib, ichak devorini buzib yuboradi
+- Spora hosil qilib, tinch holda yotib qoladi
+- Antibiotikni parchalab, tezda nobud bo'ladi
+! Koagulaza-manfiy stafilokokklar protez yoki kateter yuzasida biofilm hosil qilib infeksiyaga sabab bo'lishi mumkin
+@ M JAW
+
+? Shartli patogenlar organizmga qachon kirishi mumkin?
++ Teri yoki shilliq qavat jarohatlanganda
+- Teri butun va sog'lom bo'lgan paytda
+- Sovuq mavsumda, nafas olish paytida
+- Uyqu paytida, tush ko'rayotganda
+- Ovqat yeyish paytida, ochlikda
+! Shartli patogenlar asosan teri yoki shilliq qavat jarohatlanganda, ko'pincha tibbiy manipulyatsiyalar paytida o'rnidan chiqib boshqa a'zolarga tarqaladi
+@ M JAW
+
+? Shartli patogenlarning patogenlik omillariga qaysilar kiradi?
++ Kapsula, adhezin, siderofor va fermentlar
+- Xivchinlar, pililar va boshqa harakat qismlari
+- Spora, endotoksin va boshqa toksin turlari
+- Plazmid, bakteriofag va boshqa genetik qismlar
+- Ribosoma, DNK va boshqa hujayra qismlari
+! Patogenlik omillari orasida kapsula, adhezinlar, siderofor va turli fermentlar bor
+@ M JAW
+
+? Shartli patogen tashxisida nimaga e'tibor beriladi?
++ Klinik kontekst bilan birga baholanadi
+- Mikroskopiya natijasiga qarab baholanadi
+- Koloniya rangiga qarab baholanadi
+- Inkubatsiya vaqtiga qarab baholanadi
+- Muhit tarkibiga qarab baholanadi
+! Shartli patogenlarni tashxislashda doim klinik kontekst bilan birga baholash kerak
+@ M JAW
+
+# 141
+
+? Klebsiella pneumoniae morfologiyasi qanday?
++ Gram-manfiy, harakatsiz, sporasiz, kapsulali tayoqcha
+- Gram-musbat, harakatchan, sporali, kapsulasiz tayoqcha
+- Gram-manfiy, harakatchan, sporali, kapsulasiz kokk
+- Gram-musbat, harakatsiz, sporasiz, kapsulali kokk
+- Gram-manfiy, harakatchan, sporasiz, spiralsimon
+! Klebsiellalar Gram-manfiy, harakatsiz va sporasiz tayoqchalar bo'lib, yirik polisaxarid kapsulaga ega
+@ M JAW
+
+? Klebsiella kapsulasi qanday vazifa bajaradi?
++ Fagotsitoz va quritilishdan himoya qiladi
+- Harakatchanlikni ta'minlab, tarqalishga yordam beradi
+- Spora hosil qilishga yordam berib, saqlaydi
+- Toksin ishlab chiqarib, to'qimani buzadi
+- Antibiotikni parchalab, chidamlilik beradi
+! Kapsula mikrobni fagotsitozdan hamda quritilishdan himoya qiladi
+@ M JAW
+
+? Klebsiella qon agarida qanday koloniya hosil qiladi?
++ Katta, shilliq, bo'rtiq koloniya
+- Mayda, quruq, tangachali koloniya
+- Qora, yaltiroq, qattiq koloniya
+- Rangsiz, shaffof, yassi koloniya
+- Yashil, kulrang, g'adir-budir koloniya
+! Qon agarida klebsiellalar katta, shilliq ko'rinishdagi, bo'rtiq koloniyalar hosil qiladi
+@ M JAW
+
+? MakKonki agarida Klebsiella koloniyalari qanday rang oladi?
++ Pushti (laktozani parchalaydi)
+- Rangsiz (laktozani parchalamaydi)
+- Qora (vodorod sulfid hosil qiladi)
+- Yashil (oksidaza hosil qiladi)
+- Sariq (manitni parchalaydi)
+! MakKonki agarida klebsiellalar laktozani parchalab, pushti rangli koloniyalar hosil qiladi
+@ M JAW
+
+? Klebsiella pneumoniae biokimyoviy xossalari qanday?
++ Laktoza (+), VP (+), urea (+), indol (–)
+- Laktoza (–), VP (–), urea (–), indol (+)
+- Laktoza (+), VP (–), urea (–), indol (+)
+- Laktoza (–), VP (+), urea (–), indol (+)
+- Laktoza (+), VP (–), urea (+), indol (+)
+! Klebsiella laktozani parchalab gaz hosil qiladi, sitratni o'zlashtiradi, urea parchalaydi, VP musbat, indol odatda manfiy
+@ M JAW
+
+? Klebsiella E. coli dan qaysi belgisi bilan farqlanadi?
++ Indol va metil-red manfiy, VP musbat
+- Indol va metil-red musbat, VP manfiy
+- Indol musbat, metil-red manfiy, VP musbat
+- Indol manfiy, metil-red musbat, VP manfiy
+- Sinamalarda bir xil natija beradi
+! E. coli odatda indol musbat va metil-red musbat, Klebsiellada esa indol va metil-red manfiy, VP musbat
+@ M JAW
+
+? Klebsiellalar tabiatda va odam organizmida qayerda uchraydi?
++ Suv, tuproq, o'simlik va ichak florasida
+- Qon va likvorda, hamma vaqt va doimiy
+- Jigar va buyrakda, hamma vaqt va doimiy
+- Teri ostidagi yog' qatlamida, doimiy
+- Tish emalida va tishning ildizida, doimiy
+! Klebsiellalar tabiatda suv, tuproq va o'simliklarda yashaydi, odam va hayvonlar ichagida normal flora sifatida uchraydi
+@ M JAW
+
+? Klebsiella oxytoca ko'proq qaysi bemorlarda infeksiya chaqiradi?
++ Antibiotik qabul qilgan bemorlarda
+- Antibiotik qabul qilmagan bolalarda
+- Sog'lom sportchilarda
+- Chaqaloqlarda
+- Homilador ayollarda
+! Klebsiella oxytoca ko'pincha antibiotik qabul qilgan bemorlarda infeksiya keltirib chiqaradi
+@ M JAW
+
+? Klebsiella qaysi kislorod sharoitida o'sadi?
++ Fakultativ anaerob, 37 °C da o'sadi
+- Qat'iy anaerob, 55 °C da yaxshi o'sadi
+- Qat'iy aerob, 22 °C da yaxshi o'sadi
+- Mikroaerofil, 4 °C da yaxshi o'sadi
+- Kapnofil, 42 °C da yaxshi o'sadi
+! Klebsiellalar fakultativ anaerob bo'lib, odatda 37 °C da yaxshi o'sadi
+@ M JAW
+
+? Klebsiella turlaridan qaysi biri kasalxona sharoitida uchrashi mumkin?
++ Klebsiella aerogenes
+- Klebsiella gonorrhoeae
+- Klebsiella cholerae
+- Klebsiella typhi
+- Klebsiella botulinum
+! Klebsiella aerogenes kabi turlar kasalxona sharoitida uchrashi mumkin
+@ M
+
+# 142
+
+? Klebsiella pnevmoniyasida qanday material tekshiriladi?
++ Balg'am yoki bronxoalveolyar yuvindi
+- Najas namunasi yoki rektal surtma
+- Siydik namunasi yoki uretra surtmasi
+- Likvor namunasi yoki qon zardobi
+- Teri qirindisi yoki soch tolasi
+! Pnevmoniyada balg'am yoki bronxoalveolyar yuvindi tekshiriladi
+@ M JAW
+
+? Qon madaniyati uchun nima nega bir necha namuna olinadi?
++ Bakteriemiya vaqti-vaqti bilan bo'lishi mumkin
+- Bakteriemiya doim bir xil darajada bo'ladi
+- Qon namunasi tez ivib qolishi mumkin
+- Qon hajmi kamayib ketishi mumkin
+- Bakteriya faqat bitta venada bo'lishi mumkin
+! Ko'p hollarda bir necha namuna olish tavsiya etiladi, chunki bakteriemiya vaqti-vaqti bilan bo'lishi mumkin
+@ M JAW
+
+? Siydik yo'llari infeksiyasida qanday namuna olinadi?
++ O'rta oqimdagi siydik
+- Birinchi porsiyadagi siydik
+- Oxirgi tomchi siydik
+- Sutkalik yig'ilgan siydik
+- Tungi siydik idishi
+! Siydik yo'llari infeksiyasida o'rta oqimdagi siydik namunasi olinadi, kateter orqali olingan siydik ham tekshiriladi
+@ M JAW
+
+? Namuna antibiotik bilan bog'liq holda qachon olinadi?
++ Antibiotik qabul qilishdan oldin
+- Antibiotik kursi oxirida
+- Antibiotik dozasi oshirilgach
+- Antibiotik tugatilgach, bir oy o'tib
+- Antibiotikdan mustaqil, istalgan paytda
+! Antibiotik ta'siri natijani soxtalashtirishi mumkin, shuning uchun namuna antibiotikdan oldin olinadi
+@ M JAW
+
+? Namunani tashishda qanday talab bor?
++ Tez yetkazish, sovutilgan holda
+- Bir necha kun saqlab, issiq holda
+- Ochiq idishda, qopqoqsiz holda
+- Muzlatib, bir hafta o'tgach yuborish
+- Quyoshda quritib, keyin yuborish
+! Material qisqa vaqtda yetkaziladi; uzoq saqlangan namunada mikroblar soni o'zgaradi, shuning uchun sovutilgan holda tashish tavsiya etiladi
+@ M JAW
+
+? Gram usulida Klebsiella qanday ko'rinadi?
++ Gram-manfiy tayoqcha, ko'pincha kapsulali
+- Gram-musbat kokk, zanjirsimon joylashgan
+- Gram-musbat tayoqcha, sporali shaklli
+- Gram-manfiy kokk, juft joylashgan
+- Gram-manfiy spiral, egri shaklli
+! Klebsiella Gram-manfiy tayoqcha bo'lib ko'rinadi va ko'pincha kapsula bilan o'ralgan bo'ladi
+@ M JAW
+
+? Balg'amda ko'p leykotsit va kam epiteliy hujayra nimani bildiradi?
++ Sifatli namuna ekanini
+- Sifatsiz namuna ekanini
+- Tupurik bilan ifloslanganini
+- Namuna steril ekanini
+- Namuna qadimiy ekanini
+! Ko'p leykotsit va kam epiteliy hujayra sifatli (pastki nafas yo'lidan olingan) namuna ekanini ko'rsatadi
+@ M JAW
+
+? Mikroskopik natija qanday ahamiyatga ega?
++ Dastlabki baho, mustaqil tashxis emas
+- Yakuniy tashxis, kulturadan ustun
+- Mustaqil tashxis, tasdiqlash shart emas
+- Antibiotik sezuvchanligini aniqlaydi
+- Serotipni aniqlaydi
+! Mikroskopik natija dastlabki baho uchun ishlatiladi va mustaqil tashxis bo'la olmaydi
+@ M JAW
+
+? Qon namunalari qanday idishlarda tashiladi?
++ Maxsus bakteriologik flakonlarda
+- Oddiy shisha idishlarda, tiqinsiz
+- Ochiq plastik stakanlarda, qopqoqsiz
+- Qog'oz paketlarda, quruq holda
+- Metall idishlarda, qopqoqsiz
+! Qon namunalari maxsus bakteriologik flakonlarda, tezroq yetkazilishi kerak
+@ M JAW
+
+? Namuna olingan idish qanday belgilanishi shart?
++ Raqam va bemor ma'lumoti bilan
+- Belgisiz, oddiy holda qoldiriladi
+- Rangi bo'yicha belgilanadi xolos
+- O'lchami bo'yicha belgilanadi xolos
+- Xodim ismi bo'yicha belgilanadi xolos
+! Namuna idishi raqamlangan va bemorning ma'lumotlari bilan belgilangan bo'lishi shart
+@ M
+
+# 143
+
+? Klebsiellalarni davolashda jarrohlik chorasi qachon qo'llanadi?
++ Yiring drenajlanadi, kateter olib tashlanadi
+- O'pka olib tashlanadi, bemorlarning hammasida
+- Siydik pufagi olib tashlanadi, hammasida
+- Taloq olib tashlanadi, bemorlarning hammasida
+- Jigar transplantatsiya qilinadi, hammasida
+! Yiringli o'choq drenajlanadi, infeksiyalangan kateter olib tashlanadi, aks holda manba saqlanib davolash samarasi kamayadi
+@ M JAW
+
+? Og'ir klebsiella infeksiyalarida umumiy yordam nimani o'z ichiga oladi?
++ Suyuqlik balansini tiklash, nafasni ta'minlash
+- To'liq och qoldirish va uzoq dam olish choralari
+- Sovuq vanna qabul qilish va shamollatish choralari
+- Tinchlantiruvchi dori ichish va uxlash choralari
+- Sutli parhezga o'tish va yurmaslik choralari
+! Og'ir holatlarda suyuqlik va elektrolit balansini tiklash, nafas yo'llarini ta'minlash, qon aylanishini nazorat qilish hayotiy ahamiyatga ega
+@ M JAW
+
+? Antibiotik tanlovi nimaga asoslanadi?
++ Sezuvchanlik tahliliga (antibiogramma)
+- Narxining arzonligiga qarab belgilanadi
+- Rangining chiroyliligiga qarab belgilanadi
+- Qadoqlanishining qulayligiga qarab belgilanadi
+- Bemor ismining boshlang'ich harfiga qarab
+! Antibiotik tanlovi bemorning holati va laboratoriya natijasi, ya'ni antibiotikka sezuvchanlik tahlili asosida amalga oshiriladi
+@ M JAW EUCAST
+
+? K. pneumoniae qaysi antibiotikka tabiiy chidamli?
++ Ampitsillinga
+- Meropenemga
+- Seftriaksonga
+- Gentamitsinga
+- Siprofloksatsinga
+! K. pneumoniae xromosomada kodlangan beta-laktamaza tufayli ampitsillinga tabiiy chidamli
+@ M JAW EUCAST
+
+? KSBL ishlab chiqaruvchi shtammlar qaysi dorilarga chidamli?
++ Uchinchi avlod sefalosporinlarga
+- Karbapenemlar guruhidagi dorilarga
+- Polimiksinlar guruhidagi dorilarga
+- Tigetsiklin guruhidagi dorilarga
+- Fosfomitsin guruhidagi dorilarga
+! KSBL (kengaytirilgan spektrli beta-laktamaza) hosil qiluvchi shtammlar uchinchi avlod sefalosporinlarga chidamli
+@ M JAW WHOAMR
+
+? KSBL shtammlarida ko'pincha tanlanadigan dori qaysi?
++ Karbapenem (meropenem)
+- Ampitsillin (aminopenitsillin)
+- Seftriakson (sefalosporin)
+- Penitsillin G (tabiiy penitsillin)
+- Eritromitsin (makrolid)
+! KSBL shtammlarida karbapenemlar, masalan meropenem, ko'pincha tanlanadigan dori hisoblanadi
+@ M JAW WHOAMR
+
+? Karbapenemlarga chidamli klebsiellalar qaysi fermentlarni hosil qiladi?
++ Karbapenemazalarni
+- Katalazalarni
+- Koagulazalarni
+- Ureazalarni
+- Gialuronidazalarni
+! Karbapenemlarga chidamli shtammlar karbapenemaza fermentlarini hosil qilib, ko'plab antibiotiklarni samarasiz qiladi
+@ M JAW WHOAMR
+
+? Karbapenemlarga chidam bo'lganda so'nggi chora sifatida nima qo'llanishi mumkin?
++ Kolistin yoki tigetsiklin
+- Penitsillin G yoki ampitsillin
+- Izoniazid yoki rifampitsin
+- Eritromitsin yoki azitromitsin
+- Flukonazol yoki nistatin
+! Karbapenemlarga chidamli holatlarda polimiksinlar (kolistin) yoki tigetsiklin so'nggi chora sifatida qo'llanishi mumkin
+@ M JAW WHOAMR
+
+? Aminoglikozid va ftorxinolonlar klebsiellada qanday qo'llanadi?
++ Antibiogramma natijasiga tayanib
+- Har doim tekshiruvsiz buyuriladi
+- Profilaktika sifatida buyuriladi
+- Bolalarga buyuriladi, kattalarga emas
+- Ichga qabul qilish uchun buyuriladi
+! Bu dorilar chidamlilik tez-tez uchrashi mumkinligi sababli faqat antibiogramma natijasiga tayanib buyuriladi
+@ M JAW EUCAST
+
+? Klebsiella infeksiyalarining profilaktikasida nima muhim?
++ Qo'l gigiyenasi, dezinfeksiya, izolyatsiya
+- Antibiotiklarni profilaktik ravishda ichish
+- Bemorlarni bir xonada zich joylashtirish
+- Asboblarni dezinfeksiyalamay qayta ishlatish
+- Sanitariya nazoratini butunlay bekor qilish
+! Klebsiella nosokomial infeksiya qo'zg'atuvchisi bo'lgani uchun qo'l gigiyenasi, asboblar dezinfeksiyasi va izolyatsiya muhim
+@ M WHOAMR
+
+? Antibiogramma nima?
++ Antibiotikka sezuvchanlik tahlili natijasi
+- Ishlab chiqarish texnologiyasi tavsifi bo'yicha
+- Narxi ro'yxati va tarifi tavsifi bo'yicha
+- Shakli va qadoqlanishi tavsifi bo'yicha
+- Saqlash va tashish qoidasi tavsifi bo'yicha
+! Antibiogramma — mikrobning antibiotiklarga sezuvchanligini aniqlash natijasi
+@ M
