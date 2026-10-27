@@ -1,0 +1,454 @@
+# 077
+? Allergenlar kelib chiqish manbasiga ko'ra qanday guruhlarga bo'linadi?
++ Infeksion va infeksion bo'lmagan allergenlar
+- Tez va sekin ta'sir qiluvchi allergenlar
+- Aktiv va passiv ta'sir qiluvchi allergenlar
+- Mahalliy va umumiy ta'sir qiluvchi allergenlar
+- Tabiiy va sun'iy hosil bo'luvchi allergenlar
+! Allergenlar kelib chiqish manbasiga ko'ra infeksion va infeksion bo'lmagan turlarga bo'linadi
+@ M JAW
+
+? Infeksion allergenlar qanday moddalar?
++ Mikroorganizmlar yoki ularning mahsuloti
+- Kasallik qo'zg'atmaydigan tabiiy moddalar
+- Sun'iy yo'l bilan olingan kimyoviy moddalar
+- Organizmning o'z to'qimalaridan hosil bo'lgan moddalar
+- Havodagi chang va gul changi zarralari
+! Infeksion allergenlar mikroorganizmlar yoki ularning mahsulotlari bo'lib, infeksiya jarayonida organizmga kiradi
+@ M JAW
+
+? Infeksion bo'lmagan allergenlar qanday moddalardan iborat?
++ Kasallik qo'zg'atmaydigan moddalardan
+- Bakteriya va viruslarning antigenlaridan
+- Zamburug' va parazitlarning oqsillaridan
+- Mikroblarning ekzotoksin va fermentlaridan
+- Infeksiya jarayonida ko'payadigan hujayralardan
+! Infeksion bo'lmagan allergenlar kasallik qo'zg'atmaydigan tabiiy yoki sun'iy moddalardan iborat
+@ M JAW
+
+? Infeksion allergenlar tarkibi qanday?
++ Oqsil yoki polisaxarid antigenlar
+- Mineral tuzlar va metall birikmalari
+- Yog' kislotalari va lipidlar
+- Sof suv va erigan gazlar aralashmasi
+- Organik bo'yoqlar va sun'iy polimerlar
+! Infeksion allergenlar bakteriya, virus, zamburug' va parazitlarning oqsil yoki polisaxarid tarkibidagi antigenlaridir
+@ M JAW
+
+? Stafilokokklarning enterotoksinlari immun tizimga qanday ta'sir qiladi?
++ T-limfotsitlarni keng faollashtiradi
+- T-limfotsitlarni butunlay o'ldirib yuboradi
+- B-limfotsitlar ishini to'xtatib qo'yadi
+- Eritrotsitlarni to'g'ridan-to'g'ri yo'q qiladi
+- Komplement tizimini bloklab, so'ndiradi
+! Stafilokokklarning enterotoksinlari superantigen sifatida T-limfotsitlarni keng miqyosda faollashtirishi va keng tarqalgan yallig'lanishga olib kelishi mumkin
+@ M JAW
+
+? Gelmint kabi parazitlar organizmda qaysi antitelolar ko'payishiga olib kelishi mumkin?
++ IgE antitelolari ko'payishiga
+- IgA antitelolari yo'qolishiga
+- IgM antitelolari yo'qolishiga
+- IgG antitelolari yo'qolishiga
+- IgD antitelolari ko'payishiga
+! Gelmint kabi parazitlar organizmda IgE antitelolarining ko'payishiga olib kelishi mumkin
+@ M JAW
+
+? Virus infeksiyalari allergiya rivojlanishiga qanday ta'sir qilishi mumkin?
++ Shilliq qavatni o'zgartirib, kirishni osonlashtiradi
+- Shilliq qavatni mustahkamlab, allergen kirishini to'sadi
+- Allergenlarni zararsizlantirib, yo'qotib yuboradi
+- Antitelo ishlab chiqarilishini butunlay to'xtatadi
+- Immun tizimni sezuvchanlikdan to'liq himoyalaydi
+! Virus infeksiyalari nafas yo'llari shilliq qavatini o'zgartirib, allergenlarning kirishini osonlashtirishi mumkin
+@ M JAW
+
+? Allergik kasalliklarni parazit infeksiyasidan nima uchun ajratish talab etiladi?
++ Parazit ham yuqori IgE bilan kechishi mumkin
+- Parazit allergiya belgilarini hech qachon bermaydi
+- Allergiya parazit chaqirmaydigan va zararsiz kasallik
+- IgE darajasi faqat vaksinadan keyin ko'tariladi
+- Ikkala holat bir xil va davosi ham bir xil
+! Gelmintlar IgE antitelolari ko'payishiga olib kelishi va yuqori IgE darajasi bilan ifodalanishi mumkin, shu sababli allergik kasalliklarni parazit infeksiyasidan ajratish talab etiladi
+@ M JAW
+
+? Belgilar joylashuvi allergiya haqida qanday ma'lumot beradi?
++ Allergenning kirish yo'li haqida muhim ma'lumot beradi
+- Allergenning rangi haqida muhim ma'lumot beradi
+- Allergenning narxi haqida muhim ma'lumot beradi
+- Allergenning ishlab chiqaruvchisi haqida ma'lumot beradi
+- Allergenning saqlash muddati haqida ma'lumot beradi
+! Allergenlar nafas, ovqat hazm qilish yoki teri orqali kirishi mumkin va belgilarning joylashuvi sabab haqida muhim ma'lumot beradi
+@ M JAW
+
+? Infeksion allergiya davolash rejasida nima uchun hisobga olinadi?
++ Kasallik belgilarini kuchaytirishi mumkin
+- Kasallikning o'zi bilan bog'liq belgilarni butunlay yo'qotadi
+- Kasallik qo'zg'atuvchisini bevosita zararsizlantiradi
+- Infeksiya jarayonini to'xtatib, immunitetni oshiradi
+- Antibiotiklar ta'sirini kuchaytirib, davoni qisqartiradi
+! Infeksion allergiya ko'pincha kasallikning o'zi bilan bog'liq belgilarni kuchaytiradi, shu sababli davolash rejasini tuzishda hisobga olinadi
+@ M JAW
+
+# 078
+? Gell va Kumbs tasnifiga ko'ra allergik reaksiyalar nechta tipga bo'linadi?
++ To'rt tipga
+- Ikki tipga
+- Uch tipga
+- Besh tipga
+- Olti tipga
+! Gell va Kumbs tasnifiga ko'ra allergik reaksiyalar to'rt tipga bo'linadi
+@ M JAW
+
+? Allergik reaksiyalarning I tipi nimaga bog'liq?
++ IgE antitelolariga
+- IgG va komplementga
+- Immun komplekslarga
+- T-limfotsitlarga
+- IgA va lizotsimga
+! I tip allergik reaksiyalar IgE antitelolari bilan bog'liq
+@ M JAW
+
+? II tip allergik reaksiyalar nima bilan bog'liq?
++ Hujayra yuzasidagi antigenga qarshi antitelolar bilan
+- IgE bilan bog'langan mast hujayralar bilan
+- Immun komplekslarning to'qimada to'planishi bilan
+- Sensibilizatsiyalangan T-limfotsitlar bilan
+- Gistamin ajralishi va bazofillar bilan
+! II tip hujayra yuzasidagi antigenga qarshi antitelolar bilan bog'liq
+@ M JAW
+
+? III tip allergik reaksiyalar nima bilan bog'liq?
++ Immun komplekslar bilan
+- IgE bilan bog'langan mast hujayralar bilan
+- Hujayra yuzasidagi antitelolar bilan
+- Sensibilizatsiyalangan T-limfotsitlar bilan
+- Faqat gistamin ajralishi bilan
+! III tip immun komplekslar bilan bog'liq
+@ M JAW
+
+? IV tip allergik reaksiyalar nima bilan bog'liq?
++ T-limfotsitlar bilan
+- IgE antitelolari bilan
+- Immun komplekslar bilan
+- Hujayra yuzasidagi antitelolar bilan
+- Komplement tizimi bilan
+! IV tip T-limfotsitlar bilan bog'liq
+@ M JAW
+
+? Darhol reaksiyalar odatda qaysi tipga kiradi?
++ I tipga
+- II tipga
+- III tipga
+- IV tipga
+- V tipga
+! Darhol reaksiyalar odatda I tipga, kechikkan reaksiyalar esa IV tipga kiradi
+@ M JAW
+
+? Kechikkan reaksiyalar odatda qaysi tipga kiradi?
++ IV tipga
+- I tipga
+- II tipga
+- III tipga
+- V tipga
+! Kechikkan reaksiyalar odatda IV tipga kiradi
+@ M JAW
+
+? Darhol reaksiya paytida qaysi hujayralar faollashadi?
++ Mast hujayralar va bazofillar
+- Eritrotsitlar va trombotsitlar guruhi
+- Plazmatik hujayralar va xotira B-hujayralar
+- Epiteliy hujayralari va fibroblastlar
+- Mushak hujayralari va nerv hujayralari
+! Darhol reaksiyalar allergen qayta kirganda IgE antitelolari bilan bog'langan mast hujayralar va bazofillarning faollashishi natijasida yuzaga chiqadi
+@ M JAW
+
+? Faollashgan mast hujayralardan qaysi mediatorlar ajraladi?
++ Gistamin va leykotrienlar
+- Insulin va glyukagon gormonlari
+- Gemoglobin va albumin oqsillari
+- Fibrinogen va trombin oqsillari
+- Adrenalin va kortizol gormonlari
+! Faollashgan hujayralardan gistamin, leykotrienlar va boshqa mediatorlar ajraladi
+@ M JAW
+
+? Gistamin va leykotrienlar tomirlarga qanday ta'sir qiladi?
++ Tomirlarni kengaytirib, o'tkazuvchanlikni oshiradi
+- Tomirlarni toraytirib, o'tkazuvchanlikni kamaytiradi
+- Tomirlarni berkitib, qon oqimini to'xtatadi
+- Tomir devorini qalinlashtirib, mustahkamlaydi
+- Tomir devorini o'zgartirmay, ta'sir qilmaydi
+! Mediatorlar qon tomirlarni kengaytiradi, o'tkazuvchanlikni oshiradi va silliq mushaklarni qisqartiradi
+@ M JAW
+
+# 079
+? Anafilaktik shok qanday xarakterlanadi?
++ Qon bosimining keskin pasayishi bilan
+- Qon bosimining keskin oshishi bilan
+- Tana haroratining doimiy pasayishi bilan
+- Yurak urishining sekinlashib, to'xtashi bilan
+- Ko'rish o'tkirligining oshishi bilan
+! Anafilaktik shok anafilaksiyaning eng og'ir ko'rinishi bo'lib, qon bosimining keskin pasayishi bilan xarakterlanadi
+@ M JAW
+
+? Anafilaksiya qaysi tip allergik reaksiyaga kiradi?
++ Darhol (I tip) reaksiyaga
+- Kechikkan (IV tip) reaksiyaga
+- Immun kompleksli (III tip) reaksiyaga
+- Sitotoksik (II tip) reaksiyaga
+- Aralash tipdagi reaksiyaga
+! Anafilaksiya darhol (I tip) allergik reaksiyaning eng xavfli turi hisoblanadi
+@ M JAW
+
+? Anafilaksiyaning asosiy mexanizmi nima?
++ Mast hujayralardan mediatorlar ajralishi
+- Immun komplekslarning to'qimada cho'kib qolishi
+- Sensibilizatsiyalangan T-hujayralarning faollashishi
+- Komplement yordamida eritrotsitlar parchalanishi
+- Antitelolar yetishmasligi tufayli himoya buzilishi
+! Anafilaksiyaning asosiy mexanizmi IgE bilan bog'langan mast hujayralar va bazofillardan mediatorlarning keskin ajralishidir
+@ M JAW
+
+? Anafilaksiyada qaysi mediatorlar ajraladi?
++ Gistamin, triptaza va leykotrienlar
+- Insulin, glyukagon va tiroksin
+- Albumin, globulin va fibrinogen
+- Pepsin, tripsin va lipaza
+- Kortizol, adrenalin va noradrenalin
+! Gistamin, triptaza va leykotrienlar tomirlarni kengaytiradi va o'tkazuvchanlikni oshiradi
+@ M JAW
+
+? Anafilaksiyaning birinchi kontakti odatda qanday o'tadi?
++ Belgisiz, sezuvchanlanish sifatida
+- Og'ir shok bilan, darhol boshlanib
+- Kuchli isitma bilan, bir necha kun davom etib
+- Nafas to'xtashi bilan, bir necha daqiqa
+- Qon bosimi oshishi bilan, bir soat davom etib
+! Birinchi kontakt odatda belgisiz o'tadi va sezuvchanlanish bosqichini tashkil qiladi
+@ M JAW
+
+? Anafilaksiyaning eng ko'p uchraydigan sabablari qaysilar?
++ Dori, oziq-ovqat va hasharot zahari
+- Quyosh nuri, sovuq havo va kuchli shamol
+- Tinch uyqu, yengil ovqat va yengil sayr
+- Mikroskop, termostat va avtoklav ta'siri
+- Distillangan suv, osh tuzi va shakar
+! Anafilaksiyaning eng ko'p uchraydigan sabablari dori vositalari (masalan, ayrim antibiotiklar), oziq-ovqat allergenlari va hasharot zahari
+@ M JAW
+
+? Anafilaksiyada birinchi tanlov dori qaysi?
++ Adrenalin (mushak ichiga)
+- Antigistamin dorilar (tabletka)
+- Glyukokortikoidlar (tabletka)
+- Antibiotik (mushak ichiga)
+- Vitamin C (tomir ichiga)
+! Anafilaksiyada birinchi tanlov dori adrenalin hisoblanadi va u mushak ichiga yuboriladi
+@ M WHOANA
+
+? Antigistamin va glyukokortikoidlar anafilaksiyada qanday rol o'ynaydi?
++ Yordamchi vosita, adrenalinning o'rnini bosmaydi
+- Asosiy vosita, adrenalin o'rnini to'liq bosadi
+- Birinchi tanlov, adrenalindan oldin beriladi
+- Qo'llanmaydi, chunki foydasiz hisoblanadi
+- Faqat bemor sog'lom bo'lganda beriladi
+! Antigistamin va glyukokortikoidlar yordamchi vosita sifatida berilishi mumkin, lekin ular adrenalinning o'rnini bosmaydi
+@ M WHOANA
+
+? Anafilaksiyaning oldini olishning asosiy usuli nima?
++ Ma'lum allergenlar bilan kontaktni to'liq cheklash
+- Allergenlar bilan muntazam kontaktni ko'paytirish
+- Barcha dori vositalarini umuman qabul qilmaslik
+- Antigistamin dorilarni oldindan muntazam ichish
+- Sovuq muhitda yashashga o'tib ketish
+! Anafilaksiyaning oldini olishning asosiy usuli ma'lum allergenlar bilan kontaktni to'liq cheklashdir
+@ M WHOANA
+
+? Anafilaksiyadan keyin qondagi qaysi ko'rsatkich mast hujayralar faollashganini ko'rsatadi?
++ Triptaza darajasi ko'tarilishi
+- Gemoglobin darajasi pasayishi
+- Glyukoza darajasi oshishi
+- Xolesterin darajasi pasayishi
+- Albumin darajasi ko'tarilishi
+! Anafilaksiyadan keyin qondagi triptaza darajasining ko'tarilishi mast hujayralarning faollashganini ko'rsatadi
+@ M JAW
+
+# 080
+? Asta-sekin yuzaga chiqadigan allergik reaksiyalar yana qanday ataladi?
++ Kechikkan giperduyuchanlik
+- Darhol giperduyuchanlik
+- Anafilaktik shok
+- Tug'ma giperduyuchanlik
+- Immun komplekslar kasalligi
+! Asta-sekin yuzaga chiqadigan allergik reaksiyalar kechikkan giperduyuchanlik deb ham ataladi
+@ M JAW
+
+? Kechikkan giperduyuchanlik qaysi tipga kiradi?
++ IV tipga
+- I tipga
+- II tipga
+- III tipga
+- V tipga
+! Kechikkan giperduyuchanlik IV tipga kiradi
+@ M JAW
+
+? Kechikkan reaksiyada yallig'lanish odatda necha soat davom etadi va eng yaqqol bo'ladi?
++ 48 dan 72 soatgacha
+- 1 dan 2 soatgacha davom etadi
+- 5 dan 10 daqiqagacha davom etadi
+- 5 dan 7 kungacha davom etadi
+- 30 dan 40 kungacha davom etadi
+! Yallig'lanish jarayoni odatda 48 dan 72 soatgacha davom etib, eng ko'p belgilar shu oraliqda kuzatiladi
+@ M JAW
+
+? Kechikkan reaksiyada yallig'lanish odatda necha soat davom etadi va eng yaqqol bo'ladi?
++ 48 dan 72 soatgacha
+- 1 dan 2 soatgacha
+- 5 dan 10 daqiqagacha
+- 5 dan 7 kungacha
+- 30 dan 40 kungacha
+! Yallig'lanish jarayoni odatda 48 dan 72 soatgacha davom etib, eng ko'p belgilar shu oraliqda kuzatiladi
+@ M JAW
+
+? Kechikkan reaksiya darhol reaksiyadan nima bilan farq qiladi?
++ Qondagi IgE antitelolariga bog'liq emas
+- Qondagi IgE antitelolariga to'liq bog'liq
+- Bir necha daqiqada yuzaga chiqadi
+- Mast hujayralarning gistamin ajratishiga bog'liq
+- Faqat anafilaksiya bilan kechadi
+! Kechikkan reaksiya qondagi IgE antitelolariga bog'liq emas, shu sababli uni faqat IgE tekshiruvi bilan aniqlab bo'lmaydi
+@ M JAW
+
+? Tuberkulin sinovi natijasi qachon baholanadi?
++ Bir necha kundan so'ng
+- Bir necha daqiqadan so'ng
+- Yuborilgan zahoti darhol
+- Bir necha oydan so'ng
+- Bir yildan so'ng
+! Teri ostiga mikobakteriya antigenining tozalangan preparati yuboriladi va natija bir necha kundan so'ng baholanadi
+@ M JAW
+
+? Sitokinlar makrofaglarga qanday ta'sir qiladi?
++ Makrofaglarni jalb qilib, allergenga yo'naltiradi
+- Makrofaglarni yo'q qilib, yallig'lanishni to'xtatadi
+- Makrofaglarni antitelo ishlab chiqarishga majbur qiladi
+- Makrofaglarni eritrotsitga aylantirib yuboradi
+- Makrofaglarni tomir ichida to'xtatib qo'yadi
+! Sitokinlar makrofaglarni jalb qiladi va ularni allergenni yo'q qilishga yo'naltiradi
+@ M JAW
+
+? Tuberkulin sinovi nimaning klassik namunasi hisoblanadi?
++ Kechikkan giperduyuchanlikning
+- Darhol giperduyuchanlikning
+- Anafilaktik shokning
+- Immun komplekslar reaksiyasining
+- Sitotoksik reaksiyaning
+! Tuberkulin sinovi kechikkan giperduyuchanlikning klassik namunasi hisoblanadi
+@ M JAW
+
+? Tuberkulin sinovi natijasi qachon baholanadi?
++ Bir necha kundan so'ng
+- Bir necha daqiqadan so'ng
+- Yuborilgan zahoti
+- Bir necha oydan so'ng
+- Bir yildan so'ng
+! Teri ostiga mikobakteriya antigenining tozalangan preparati yuboriladi va natija bir necha kundan so'ng baholanadi
+@ M JAW
+
+? Dori bilan bog'liq kechikkan reaksiyalar qachon paydo bo'ladi?
++ Dori qabul qilinganidan bir necha kun keyin
+- Dori qabul qilinganidan bir necha daqiqa keyin
+- Dori qabul qilinganidan bir necha soniya keyin
+- Dori qabul qilinishidan oldin boshlanib
+- Dori qabul qilinganidan bir necha yil o'tgach
+! Dori bilan bog'liq kechikkan reaksiyalar odatda dori qabul qilinganidan bir necha kun keyin paydo bo'ladi, shu sababli bemor belgilarni dori bilan bog'lamasligi mumkin
+@ M JAW
+
+# 081
+? Allergik kontakt dermatit qaysi tipga kiradi?
++ IV tipga
+- I tipga
+- II tipga
+- III tipga
+- V tipga
+! Allergik kontakt dermatit IV tipga kiradi va u sensibilizatsiyalangan T-limfotsitlar orqali yuzaga chiqadi
+@ M JAW
+
+? Kontakt dermatit qanday ikki turga bo'linadi?
++ Tirnash beruvchi va allergik
+- Tez va sekin ta'sir qiluvchi
+- Mahalliy va umumiy ta'sir qiluvchi
+- Infeksion va infeksion bo'lmagan
+- Tug'ma va orttirilgan ko'rinishdagi
+! Kontakt dermatit tirnash xususiyati beruvchi va allergik turlarga bo'linadi
+@ M JAW
+
+? Tirnash xususiyati beruvchi dermatit immunitetga qanday bog'liq?
++ Immunitet tizimi ishtirokisiz yuzaga keladi
+- Immunitet tizimi ishtirokida yuzaga keladi
+- IgE antitelolari ishtirokida yuzaga keladi
+- T-limfotsitlar sensibilizatsiyasi orqali yuzaga keladi
+- Faqat takroriy kontaktdan keyin yuzaga keladi
+! Tirnash xususiyati beruvchi dermatit immunitet tizimi ishtirokisiz yuzaga keladi
+@ M JAW
+
+? Tirnash xususiyati beruvchi dermatitni qanday moddalar chaqiradi?
++ Kuchli kislota, ishqor va detergent
+- Yumshoq o'simlik sharbati va suv
+- Distillangan suv va fiziologik eritma
+- Sof kislorod va azot gazlari aralashmasi
+- Yog'li krem va ko'z yoshi suyuqligi
+! Kuchli kislota, ishqor, erituvchi yoki detergent teri to'siqini zararlaydi va to'g'ridan-to'g'ri yallig'lanish keltirib chiqaradi
+@ M JAW
+
+? Tirnash beruvchi dermatit uchun sezuvchanlanish bosqichi kerakmi?
++ Kerak emas, birinchi kontaktdayoq paydo bo'ladi
+- Albatta kamida ikki marta kontakt talab etiladi
+- Bir yil davomida kontakt kerak bo'lib qoladi
+- Faqat bolalarda paydo bo'ladi, kattalarda emas
+- Tug'ilishdan oldin sezuvchanlanish talab qilinadi
+! Sezuvchanlanish bosqichi talab qilinmaydi, shu sababli tirnash xususiyati beruvchi dermatit birinchi kontaktdayoq paydo bo'lishi mumkin
+@ M JAW
+
+? Allergik kontakt dermatit qaysi tipga kiradi?
++ IV tipga
+- I tipga
+- II tipga
+- III tipga
+- V tipga
+! Allergik kontakt dermatit IV tipga kiradi va u sensibilizatsiyalangan T-limfotsitlar orqali yuzaga chiqadi
+@ M JAW
+
+? Allergik kontakt dermatitda allergen qanday ishlaydi?
++ Hapten sifatida teri oqsillari bilan birikadi
+- Antitelo sifatida teri oqsillarini parchalaydi
+- Komplement sifatida hujayrani teshadi
+- Fag sifatida teri bakteriyalarini yuqtiradi
+- Vitamin sifatida teri hujayralarini oziqlantiradi
+! Allergen teri orqali kirgach, odatda kichik molekulali hapten sifatida ishlaydi va teri oqsillari bilan birikadi
+@ M JAW
+
+? Allergik kontakt dermatitning takroriy kontaktdan keyingi yallig'lanishi necha soat davom etadi?
++ 48 dan 72 soatgacha
+- 1 dan 2 soatgacha
+- 5 dan 10 daqiqagacha
+- 5 dan 7 kungacha
+- 30 dan 40 kungacha
+! Keyingi kontaktda 48 dan 72 soatgacha davom etadigan yallig'lanish rivojlanadi
+@ M JAW
+
+? Allergik kontakt dermatitda takroriy kontaktdan keyin yallig'lanish necha soat davom etadi?
++ 48 dan 72 soatgacha
+- 1 dan 2 soatgacha davom etadi
+- 5 dan 10 daqiqagacha davom etadi
+- 5 dan 7 kungacha davom etadi
+- 30 dan 40 kungacha davom etadi
+! Keyingi kontaktda 48 dan 72 soatgacha davom etadigan yallig'lanish rivojlanadi
+@ M JAW
+
+? Allergik kontakt dermatit belgilari qayerda joylashadi?
++ Odatda kontakt bo'lgan hudud bilan chegaralangan
+- Butun tanada simmetrik va bir tekis tarqalgan
+- Yuz va bo'yinda doimo bir xil joylashgan
+- Ichki a'zolarda namoyon bo'lib turadigan
+- Oyoq panjalari va tizzada joylashgan
+! Allergik kontakt dermatitda ta'sir qilgan joy odatda kontakt bo'lgan hudud bilan chegaralangan bo'ladi
+@ M JAW

@@ -47,6 +47,7 @@ SOURCES = {
     "CLSI": "CLSI. M02 — Performance Standards for Antimicrobial Disk Susceptibility Tests",
     "WHOAMR": "WHO. Antimicrobial resistance — Fact sheet (WHO, yangilangan versiya)",
     "WHOIMM": "WHO. Immunization, vaccines and biologicals — umumiy ma'lumot (WHO)",
+    "WHOANA": "Cardona V. va boshq. World Allergy Organization Anaphylaxis Guidance (WAO Journal, 2020)",
     "LENS": "Lens on Leeuwenhoek (lensonleeuwenhoek.net) — Visibility",
 }
 
