@@ -1,0 +1,522 @@
+# 231
+
+? Oddiy usulda bo'yashda nechta bo'yoq ishlatiladi?
++ Bitta bo'yoq bilan bajariladi
+- Ikkita bo'yoq ketma-ket ishlatiladi
+- Uchta bo'yoq birgalikda ishlatiladi
+- To'rtta bo'yoq navbat bilan ishlatiladi
+- Bo'yoqsiz usulda bajariladi
+! Oddiy bo'yash bitta bo'yoq bilan bajariladigan tez va arzon usul
+@ M JAW
+
+? Oddiy usulda bo'yash nimani ko'rsatadi?
++ Mikroblar shakli va joylashishini
+- Gram-musbat yoki gram-manfiyligini
+- Kislotaga chidamliligini aniqlashni
+- Antibiotiklarga sezuvchanligini
+- Aniq turini to'liq aniqlashni
+! Oddiy bo'yash mikroblarning shakli, o'lchami va joylashishini ko'rsatadi, lekin ularni turlarga ajratmaydi
+@ M JAW
+
+? Oddiy bo'yash uchun eng ko'p ishlatiladigan bo'yoqlar qaysilar?
++ Metilen ko'ki va kristall binafsha
+- Sulfat kislota va xlorid kislota
+- Etil spirti va aseton
+- Distillangan suv va fiziologik eritma
+- Immersion moyi va kedr moyi
+! Metilen ko'ki va kristall binafsha oddiy bo'yash uchun eng ko'p ishlatiladigan bo'yoqlar; karbol fuksin ham qo'llanishi mumkin
+@ M JAW
+
+? Karbol fuksin oddiy bo'yashda qanday rang beradi?
++ Qizil-pushti rang beradi
+- Ko'k-yashil rang beradi
+- Sariq-jigarrang rang beradi
+- Qora-binafsha rang beradi
+- Rangsiz shaffof ko'rinadi
+! Karbol fuksin qizil-pushti rang beradi va kontrastni oshirish zarur bo'lganda ishlatiladi
+@ M
+
+? Bo'yoq tomizilgandan so'ng preparat qanday yuviladi?
++ Kuchsiz oqimdagi suv bilan
+- Qaynoq suv va sovun bilan
+- Konsentrlangan kislota bilan
+- Absolyut spirtda uzoq vaqt
+- Kuchli oqimdagi bosimli suv bilan
+! Preparat oqimi kuchsiz suv bilan yuviladi, chunki kuchli oqim surtmani yuvib yuborishi mumkin
+@ M
+
+? Kuchli suv oqimi bilan yuvish nimaga olib kelishi mumkin?
++ Surtmani yuvib yuborishi mumkin
+- Bo'yoqni qalinlashtirib qo'yishi mumkin
+- Mikroblar sonini ko'paytirishi mumkin
+- Oynani qizdirib yuborishi mumkin
+- Fiksatsiyani mustahkamlashi mumkin
+! Kuchli oqim mikroblarni oynadan ajratib yuboradi va preparat yaroqsiz bo'ladi
+@ M
+
+? Yuvilgan preparat qanday quritiladi?
++ Filtr qog'oz bilan bosib yoki havoda
+- Quruq mato bilan qattiq ishqalab
+- Alanga ustida uzoq qizdirib
+- Termostatda sutka davomida
+- Spirt bilan yoqib yuborib
+! Preparat filtr qog'oz bilan bosib yoki havoda quritiladi; ishqalash taqiqlanadi, chunki hujayralar oynadan ajraladi
+@ M
+
+? Bo'yalgan preparat qaysi ob'ektiv ostida kuzatiladi?
++ Immersion, ya'ni moyli ob'ektiv ostida
+- Quruq kichik kattalashtiruvchi ob'ektiv ostida
+- Stereomikroskopning past ob'ektivi ostida
+- Lupa yordamida yalang ko'z bilan
+- Elektron mikroskopning ob'ektivi ostida
+! Bo'yalgan preparat immersion (moyli) ob'ektiv ostida kuzatiladi, u mikroblarning kichik o'lchamini aniq ko'rsatadi
+@ M JAW
+
+? Kuzatishda ob'ektivlar qaysi tartibda ishlatiladi?
++ Avval kichik, so'ngra katta ob'ektiv
+- Avval moyli, so'ngra kichik ob'ektiv
+- Bir vaqtda barcha ob'ektivlar birga
+- Doimo moyli ob'ektivdan boshlanadi
+- Tartibsiz, istalgan ob'ektivdan boshlanadi
+! Kuzatish paytida avval kichik, so'ngra katta ob'ektiv ishlatiladi; moyli ob'ektivdan oldin preparat markazga qo'yiladi
+@ M
+
+? Oddiy bo'yashning asosiy cheklovi nima?
++ Gram-musbat va gram-manfiyni ajratmaydi
+- Mikroblar shaklini umuman ko'rsatmaydi
+- Juda qimmat va murakkab usul hisoblanadi
+- Bir necha soat vaqt talab qiladi
+- Maxsus laboratoriya jihozisiz bajarilmaydi
+! Oddiy bo'yash mikroblarni gram-musbat va gram-manfiyga ajratmaydi, shuning uchun differensial usul (Gram) talab etiladi
+@ M JAW
+
+? Surtma yetarli fiksatsiya qilinmasa nima bo'lishi mumkin?
++ Bo'yoq bilan birga yuvilib ketishi mumkin
+- Bo'yoqni ikki barobar tez qabul qiladi
+- Mikroblar sporaga aylanib qotib qoladi
+- Surtma rangsiz shaffof bo'lib qoladi
+- Preparat yanada mustahkam yopishadi
+! Yetarli fiksatsiya qilinmagan surtma bo'yoq bilan birga yuvilib ketishi mumkin
+@ M
+
+# 232
+
+? Gram-musbat bakteriyalar hujayra devori qanday tuzilgan?
++ Qalin peptidoglikan qatlamiga ega
+- Yupqa peptidoglikan va tashqi membranali
+- Peptidoglikansiz, faqat tashqi membranali
+- Hujayra devori mutlaqo bo'lmagan
+- Yupqa polisaxarid va oqsil qatlamli
+! Gram-musbat bakteriyalar devori qalin peptidoglikan qatlamiga ega, u bo'yoq-yod birikmasini ushlab turadi
+@ M JAW GRAM
+
+? Gram-manfiy bakteriyalar hujayra devori qanday tuzilgan?
++ Yupqa peptidoglikan va tashqi membrana
+- Qalin peptidoglikan va teixoy kislota
+- Qalin murein qatlam, tashqi membranasiz
+- Kapsula va spora qobig'i
+- Mikol kislotali mumsimon qatlam
+! Gram-manfiy bakteriyalar devorida yupqa peptidoglikan va tashqi lipid membrana bor; spirt tashqi qatlamni eritadi
+@ M JAW
+
+? Gram usulida birlamchi bo'yoq qaysi?
++ Kristall binafsha bo'yog'i
+- Safranin bo'yog'i
+- Karbol fuksin bo'yog'i
+- Malaxit yashili bo'yog'i
+- Sudan qora bo'yog'i
+! Birlamchi bo'yoq kristall binafsha bo'lib, barcha hujayralarni dastlab binafsha rangga bo'yaydi
+@ M JAW GRAM
+
+? Gram usulida yod eritmasining vazifasi nima?
++ Mordant, bo'yoqni mustahkamlaydi
+- Dekolorizator, bo'yoqni yuvib yuboradi
+- Qo'shimcha bo'yoq, hujayrani qizartiradi
+- Fiksator, hujayralarni o'ldiradi
+- Erituvchi, bo'yoqni suyultiradi
+! Yod mordant vazifasini bajaradi: kristall binafsha bilan murakkab birikma hosil qilib, uni hujayra ichida mustahkamlaydi
+@ M JAW
+
+? Gram usulida dekolorizator sifatida nima ishlatiladi?
++ Spirt yoki aseton-spirt aralashmasi
+- Distillangan suv yoki fiziologik eritma
+- Xlorid kislotali dezinfeksiya eritmasi
+- Immersion moyi yoki kedr moyi
+- Glitserin yoki o'simlik moyi aralashmasi
+! Dekolorizator sifatida spirt yoki aseton-spirt aralashmasi qo'llanadi
+@ M JAW
+
+? Qaysi bo'yoq gram-manfiy hujayralarni qizil-pushti qiladi?
++ Safranin bo'yog'i
+- Kristall binafsha bo'yog'i
+- Metilen ko'ki bo'yog'i
+- Malaxit yashili bo'yog'i
+- Giemsa bo'yog'i
+! Qo'shimcha bo'yoq safranin gram-manfiy hujayralarni qizil-pushti rangga bo'yaydi va ularni ko'rinadigan qiladi
+@ M JAW
+
+? Gram usulida gram-manfiy bakteriyalar qanday rangda ko'rinadi?
++ Qizil yoki pushti rangda
+- Binafsha rangda qoladi
+- Yashil rangda ko'rinadi
+- Sariq rangda ko'rinadi
+- Rangsiz holda ko'rinadi
+! Gram-manfiy bakteriyalar safranin ta'sirida qizil yoki pushti rangda ko'rinadi, gram-musbatlar esa binafsha qoladi
+@ M JAW
+
+? Gram usulining eng nozik bosqichi qaysi?
++ Dekolorizator bilan rangsizlantirish
+- Birlamchi bo'yoq bilan bo'yash
+- Suv bilan oxirgi yuvish
+- Oyna ustini quritish
+- Immersion moy tomizish
+! Dekolorizatsiya eng nozik bosqich: vaqt uzoq bo'lsa, gram-musbat hujayralar ham rangini yo'qotishi mumkin
+@ M JAW
+
+? Dekolorizatsiya juda uzoq davom etsa nima bo'ladi?
++ Gram-musbat hujayralar ham rangsizlanadi
+- Gram-manfiy hujayralar binafsha qoladi
+- Hujayralar qora rangga kiradi
+- Safranin barcha hujayralarni bo'yamaydi
+- Preparat oynadan batamom ko'chadi
+! Uzoq dekolorizatsiyada gram-musbat hujayralar ham rangini yo'qotadi va noto'g'ri gram-manfiy deb qayd etiladi
+@ M JAW
+
+? Dekolorizatsiya yetarli bo'lmasa nima yuz beradi?
++ Gram-manfiylar binafsha qolib, chalkashadi
+- Gram-musbatlar rangini butunlay yo'qotadi
+- Hujayralar rangsiz bo'lib qoladi
+- Safranin hujayralarni qoraytirib yuboradi
+- Preparat tezda shaffof bo'lib quriydi
+! Dekolorizatsiya yetarli bo'lmasa, gram-manfiy hujayralar binafsha qoladi va turi chalkashib ketadi
+@ M JAW
+
+? Gram bo'yash nazorati uchun odatda qaysi juft ishlatiladi?
++ Stafilokokk va ichak tayoqchasi
+- Ikkita stafilokokk shtammi
+- Ikkita ichak tayoqchasi shtammi
+- Mikoplazma va mikobakteriya
+- Spiroxeta va rikketsiya
+! Nazorat sifatida stafilokokk (gram-musbat) va ichak tayoqchasi (gram-manfiy) ishlatiladi
+@ M JAW
+
+? Qaysi mikroorganizmlar Gram usulida odatdagidek bo'yalmaydi?
++ Mikoplazmalar va mikobakteriyalar
+- Stafilokokklar va streptokokklar
+- Ichak tayoqchasi va salmonellalar
+- Pnevmokokklar va meningokokklar
+- Klebsiella va proteylar
+! Mikoplazmalar va mikobakteriyalar Gram usulida odatdagidek bo'yalmaydi, shuning uchun natija boshqa usullar bilan baholanadi
+@ M JAW
+
+# 233
+
+? Kislotaga chidamli bakteriyalar nima uchun bo'yoqni ushlab qoladi?
++ Devoridagi lipidlar bo'yoqni bog'laydi
+- Devorida teixoy kislota bo'lgani uchun
+- Devori yupqa va oson o'tkazuvchan bo'lgani uchun
+- Sporalari bo'yoqni ichiga yig'adi
+- Kapsulasi bo'yoqni yutib qoladi
+! Kislotaga chidamli bakteriyalarning hujayra devoridagi lipidlar (mikol kislotalar) bo'yoq molekulalarini bog'laydi
+@ M JAW WHOTB
+
+? Sil-Nilsen usulida birlamchi bo'yoq qaysi?
++ Karbol fuksin (fenol va fuksin)
+- Kristall binafsha va yod aralashmasi
+- Metilen ko'ki va eozin aralashmasi
+- Safranin va malaxit yashili aralashmasi
+- Giemsa va Romanovskiy aralashmasi
+! Karbol fuksin fenol va fuksin aralashmasidan iborat bo'lib, issiqlik ta'sirida hujayra devoriga yaxshi kiradi
+@ M JAW
+
+? Karbol fuksin bilan bo'yaganda nima uchun preparat qizdiriladi?
++ Bo'yoq hujayra ichiga chuqur singishi uchun
+- Bo'yoq tezda bug'lanib ketishi uchun
+- Mikroblar o'lib qotib qolishi uchun
+- Bo'yoq rangi o'zgarib ketishi uchun
+- Oyna kuyib shaffof bo'lishi uchun
+! Bug' ko'tarilguncha qizdirish bo'yoqning kislotaga chidamli hujayralar ichiga chuqur kirishini ta'minlaydi
+@ M JAW
+
+? Sil-Nilsen usulida rangsizlantiruvchi sifatida nima ishlatiladi?
++ Kislotali spirt (xlorid kislotali etil spirti)
+- Distillangan suv yoki tuzli eritma
+- Sirka efiri va suyultirilgan glitserin
+- Metilen ko'kining spirtli eritmasi
+- Immersion moyi va ksilol aralashmasi
+! Rangsizlantiruvchi sifatida xlorid kislota qo'shilgan etil spirti ishlatiladi; kislotaga chidamsiz hujayralar rangini yo'qotadi
+@ M JAW
+
+? Metilen ko'kining Sil-Nilsen usulidagi vazifasi nima?
++ Boshqa hujayralarni ko'k rangga bo'yaydi
+- Kislotaga chidamlilarni yashil rangga bo'yaydi
+- Hujayra devorini eritib yuboradi
+- Bo'yoqni hujayra ichiga singdiradi
+- Surtmani oynaga mahkam fiksatsiya qiladi
+! Metilen ko'ki kontrast bo'yoq bo'lib, qizil mikobakteriyalar ko'k fonda aniq ko'rinadi
+@ M JAW
+
+? Sil-Nilsen usulida musbat natija qanday ko'rinadi?
++ Qizil cho'zinchoq tayoqchalar, fon ko'k
+- Ko'k yumaloq kokklar, fon qizil
+- Binafsha zanjirsimon kokklar, fon rangsiz
+- Yashil sporali tayoqchalar, fon pushti
+- Sariq spiralsimon iplar, fon qizil
+! Kislotaga chidamli bakteriyalar yorqin qizil cho'zinchoq tayoqchalar, fon esa ko'k yoki och rangda ko'rinadi
+@ M JAW WHOTB
+
+? Rangsizlantirish juda uzoq davom etsa nima bo'ladi?
++ Mikobakteriyalar ham rangini yo'qotadi
+- Hujayralar qizil bo'lib qoladi
+- Fon qizil rangga bo'yaladi
+- Preparat bir tekis binafsha bo'ladi
+- Mikobakteriyalar to'q qora tusga kiradi
+! Ko'p rangsizlantirilsa mikobakteriyalar ham rangini yo'qotadi, kam rangsizlantirilsa hamma hujayralar qizil qoladi
+@ M JAW
+
+? Balg'am surtmasi qaerda tayyorlanadi?
++ Himoya shkafida, xavfsizlik qoidalari bilan
+- Ochiq stolda, qo'lqopsiz va niqobsiz
+- Umumiy yo'lakda, boshqa preparatlar yonida
+- Ovqatlanish xonasi yonidagi stolda
+- Hovlida, shamol esib turgan joyda
+! Sil qo'zg'atuvchisi yuqumli bo'lgani uchun balg'am bilan ishlash himoya shkafida, qat'iy xavfsizlik qoidalari bilan bajariladi
+@ M WHOLBM
+
+? Sil-Nilsen usulida manfiy natija qachon qayd etiladi?
++ Belgilangan miqdordagi maydon tekshirilgach
+- Birinchi maydonda hech narsa topilmaganda
+- Bitta surtmaning bir burchagi ko'rilganda
+- Preparat rangi o'zgarmay quriganda
+- Mikroskopsiz, faqat ko'z bilan qaralganda
+! Manfiy natija belgilangan miqdordagi ko'rish maydoni tekshirilgandan so'ng, standart protokol bo'yicha qayd etiladi
+@ M WHOTB
+
+? Har bir bo'yash seriyasiga nima qo'shiladi?
++ Musbat nazorat preparati qo'shiladi
+- Ikkita bo'sh predmet oynasi qo'yiladi
+- Qo'shimcha dezinfeksiya eritmasi tomiziladi
+- Yangi tayyorlangan immersion moy qo'yiladi
+- Muddati o'tgan bo'yoq aralashtiriladi
+! Musbat nazorat preparati kislotaga chidamli bakteriyalar saqlaydi va reaktivlar hamda bo'yash tartibining ishlashini tekshiradi
+@ M JAW
+
+? Mikobakteriyalar surtmada qanday yig'indi hosil qilishi mumkin?
++ Shnur yoki to'p shaklidagi yig'indilar
+- Kapsula bilan o'ralgan juft kokklar
+- Spirallar hosil qiluvchi uzun iplar
+- Zanjirsimon yirik streptokokk iplari
+- Shoxlangan zamburug' iplari
+! Hujayralar bir-biriga yopishib, shnur yoki to'p ko'rinishida bo'lishi mumkin; bu faqat qo'shimcha belgi, yagona dalil emas
+@ M
+
+# 234
+
+? Asosiy bo'yoqlar qanday zaryadga ega?
++ Musbat, manfiy hujayra qismlari bilan bog'lanadi
+- Neytral, hech bir qism bilan bog'lanmaydi
+- Zaryadsiz, yog'larda eriydigan bo'ladi
+- Manfiy, faqat hujayra devorini bo'yaydi
+- Manfiy, musbat qismlar bilan bog'lanadi
+! Asosiy bo'yoqlar musbat zaryadlangan bo'lib, manfiy zaryadlangan hujayra komponentlari bilan bog'lanadi
+@ M JAW
+
+? Murakkab (differensial) bo'yash qanday amalga oshiriladi?
++ Ikki yoki undan ortiq bo'yoq ishlatiladi
+- Bitta bo'yoq bilan oddiy bajariladi
+- Bo'yoqsiz, fazali kontrast usulida bajariladi
+- Elektr toki yordamida bo'yaladi
+- Bo'yoq o'rniga faqat qizdirish qo'llanadi
+! Differensial bo'yashda ikki yoki undan ortiq bo'yoq ishlatilib, hujayralar turli ranglarga bo'yaladi
+@ M JAW
+
+? Maxsus bo'yash usullari nimani ajratib ko'rsatish uchun qo'llanadi?
++ Kapsula, spora yoki ichki tuzilmalarni
+- Bakteriyalar sonini hisoblashni
+- Oziqa muhitini sterillashni
+- Antibiotiklar dozasini aniqlashni
+- Bemor qon guruhini aniqlashni
+! Maxsus bo'yash usullari hujayra devori, kapsula, spora yoki ichki tuzilmalarni ajratib ko'rsatadi
+@ M JAW
+
+? Ojeshko usulini qo'llashdan oldin nima qilish zarur?
++ Laboratoriya ko'rsatmasidagi tavsifni o'qib chiqish
+- Bo'yoqsiz usulda dastlabki tekshiruv o'tkazish
+- Preparatni uch sutka davomida qizdirish
+- Surtmani konsentrlangan kislotada saqlash
+- Natijani oldindan taxmin qilib yozib qo'yish
+! Materialda usulning maqsadi tasdiqlanmagan, shuning uchun uni qo'llashdan oldin laboratoriya ko'rsatmasidagi tavsif o'qiladi
+@ M
+
+? Bo'yoq eritmalari qanday idishda saqlanadi?
++ Filtrlangan va yorug'likdan himoyalangan idishda
+- Ochiq idishda, quyosh nuri tushadigan joyda
+- Muzlatgichda, muz bo'laklari orasida
+- Isitgich yonida, qopqog'i olingan idishda
+- Namlik yuqori bo'lgan hammom xonasida
+! Bo'yoq eritmalari filtrlangan va yorug'likdan himoyalangan idishda saqlanadi, chunki yorug'lik va havo ta'sirida o'zgaradi
+@ M
+
+? Bo'yoq eritmasi yorlig'ida nima ko'rsatiladi?
++ Tayyorlangan sana, tarkib va yaroqlilik muddati
+- Tayyorlovchining oilaviy ahvoli va yoshi
+- Idish sotib olingan do'kon va narxi
+- Laboratoriya joylashgan ko'cha raqami
+- Bo'yoq ishlatilgan bemor ismi va manzili
+! Har bir eritmaning tayyorlangan sanasi, tarkibi va yaroqlilik muddati yorliqda ko'rsatiladi
+@ M
+
+? Bo'yoq tayyorlashda nima uchun distillangan suv ishlatiladi?
++ Aralashmalar bo'yoq cho'kishiga olib kelmasligi uchun
+- Zaharlilikni kamaytirib, xavfsizlikni oshirish uchun
+- Bo'yoqni qizdirib yuborishining oldini olish uchun
+- Bo'yoqni tezroq bug'latib quritish uchun
+- Bo'yoq hidini butunlay yo'qotish uchun
+! Oddiy suvdagi aralashmalar bo'yoq cho'kishiga olib kelishi mumkin, shuning uchun distillangan suv ishlatiladi
+@ M
+
+? Bo'yash paytida yuvish suvi qanday bo'lishi tavsiya etiladi?
++ Xona haroratiga yaqin, mo'tadil oqimda
+- Qaynoq va kuchli oqimda
+- Muzdek sovuq va bosimli oqimda
+- Qaynatilgan va bug' ko'tarilgan holda
+- Sovitilgan spirt va kuchli bosimda
+! Yuvish mo'tadil bo'lishi kerak, kuchli oqim surtmani oynadan olib ketishi mumkin; suv xona haroratiga yaqin bo'lgani ma'qul
+@ M
+
+? Nima uchun preparatning ko'p maydoni ko'rib chiqiladi?
++ Mikroblar namunada notekis taqsimlangan bo'ladi
+- Mikroblar har doim bir tekis joylashgan bo'ladi
+- Ob'ektiv har safar sozlanishdan chiqib ketadi
+- Immersion moyi tez bug'lanib ketadi
+- Oyna tarkibi har bir maydonda farq qiladi
+! Mikroblar namunada notekis taqsimlanadi, shuning uchun natija bitta joydagi ko'rinishga asoslanmaydi
+@ M
+
+? Yangi partiya bo'yoq bilan nazorat preparati nima uchun qo'yiladi?
++ Bo'yoq sifatini tekshirish uchun
+- Bo'yoq narxini aniqlash uchun
+- Mikroskop quvvatini oshirish uchun
+- Oynani sterillash uchun
+- Immersion moyini tejash uchun
+! Har bir yangi partiya bilan nazorat preparati qo'yilib, reaktivlar sifati va bo'yash natijasi tekshiriladi
+@ M
+
+? Preparatda chang yoki bo'yoq cho'kmasi bo'lsa nima qilinadi?
++ Preparat qayta tayyorlanib, tekshiruv takrorlanadi
+- Natija ishonchli deb qabul qilinadi
+- Cho'kma mikroblar deb qayd etiladi
+- Chang bo'yoq sifatini oshirgan deb olinadi
+- Natija o'zgartirilmay jurnalga yoziladi
+! Chang, bo'yoq cho'kmasi yoki begona mikroblar bo'lsa natija ishonchli emas, preparat qayta tayyorlanadi
+@ M
+
+# 235
+
+? Mikroskopning umumiy kattalashtirishi qanday topiladi?
++ Ob'ektiv va okulyar ko'paytmasiga teng
+- Ob'ektiv va okulyar yig'indisiga teng
+- Ob'ektiv va okulyar ayirmasiga teng
+- Ob'ektivning o'z kattalashtirishiga teng
+- Okulyarning o'z kattalashtirishiga teng
+! Umumiy kattalashtirish ob'ektiv va okulyar kattalashtirishlarining ko'paytmasiga teng
+@ M JAW
+
+? 100 martalik ob'ektiv va 10 martalik okulyar umumiy necha marta kattalashtiradi?
++ 1000 marta
+- 110 marta
+- 90 marta
+- 10 000 marta
+- 100 marta
+! 100 × 10 = 1000 marta kattalashtirish hosil bo'ladi
+@ M JAW
+
+? Qaysi ob'ektiv immersion ob'ektiv deb ataladi?
++ 100 martalik ob'ektiv
+- 10 martalik ob'ektiv
+- 40 martalik ob'ektiv
+- 20 martalik ob'ektiv
+- 4 martalik ob'ektiv
+! Odatda 10, 40 va 100 martalik ob'ektivlar bo'ladi; 100 martalisi immersion ob'ektiv deyiladi
+@ M JAW
+
+? Okulyarning odatdagi kattalashtirishi necha marta?
++ 10 marta
+- 100 marta
+- 40 marta
+- 1000 marta
+- 50 marta
+! Odatda okulyar kattalashtirishi 10 marta bo'ladi, lekin ba'zi asboblarda boshqacha bo'lishi mumkin
+@ M JAW
+
+? Yorug'lik mikroskopining ajrata olish qobiliyati taxminan qancha?
++ Taxminan 0,2 mkm
+- Taxminan 20 mkm
+- Taxminan 0,2 mm
+- Taxminan 2 nm
+- Taxminan 0,02 mkm
+! Yorug'lik mikroskopining ajrata olish qobiliyati taxminan 0,2 mkm atrofida bo'ladi
+@ M JAW
+
+? Ajrata olish qobiliyati nimalarga bog'liq?
++ To'lqin uzunligi va ob'ektiv sonli diafragmasiga
+- Okulyar o'lchami va tubus uzunligiga
+- Stol o'lchami va tutqich og'irligiga
+- Moy rangi va yoritgich quvvatiga
+- Revolver teshiklari soni va shtativ shakliga
+! Ajrata olish yorug'lik to'lqin uzunligi va ob'ektivning sonli diafragmasiga bog'liq
+@ M JAW
+
+? Bo'sh kattalashtirish nima?
++ Ajratishsiz kattalashtirilgan xira tasvir
+- Ob'ektivsiz kuzatishda hosil bo'lgan tasvir
+- Yorug'lik o'chirilgandagi qora ko'rinish
+- Moysiz ishlaganda yuzaga keladigan holat
+- Bo'sh preparat oynasining kattalashgan ko'rinishi
+! Juda katta kattalashtirish ajrata olishni oshirmaydi, tasvirni xiralashtiradi va bo'sh kattalashtirish deyiladi
+@ M JAW
+
+? Immersion moyi nima uchun ishlatiladi?
++ Sinish ko'rsatkichini shishaga yaqinlashtiradi
+- Ob'ektivni sovitib, ishdan chiqishdan saqlaydi
+- Preparatni oynaga yopishtirib qotiradi
+- Yorug'likni kuchsizlantirib, ko'zni himoya qiladi
+- Bo'yoqni rangsizlantirib, kontrastni oshiradi
+! Immersion moyi yorug'likning sinish ko'rsatkichini shisha ko'rsatkichiga yaqin qilib, ajrata olishni oshiradi
+@ M JAW
+
+? Kyoler usulida nima sozlanadi?
++ Yoritish: kondensor va diafragma
+- Fokus: makrometrik va mikrometrik vint
+- Stol: qisqichlar va tutqich
+- Okulyar: ko'z masofasi va diopter
+- Revolver: ob'ektivlar tartibi
+! Kyoler usulida kondensor va diafragma shunday rostlanadiki, yorug'lik bir tekis tarqaladi va kontrast yaxshilanadi
+@ M JAW
+
+? Makrometrik vint nima uchun ishlatiladi?
++ Tez, dastlabki fokuslash uchun
+- Aniq, nozik fokuslash uchun
+- Yoritgich kuchini rostlash uchun
+- Ob'ektivlarni almashtirish uchun
+- Stolni yon tomonga siljitish uchun
+! Makrometrik vint tez, mikrometrik vint esa aniq fokuslash uchun ishlatiladi
+@ M JAW
+
+? Katta ob'ektivga o'tgandan keyin fokus qaysi vint bilan aniqlanadi?
++ Mikrometrik vint bilan aniqlanadi
+- Makrometrik vint bilan aniqlanadi
+- Kondensor vinti bilan aniqlanadi
+- Revolver tutqichi bilan aniqlanadi
+- Stol qisqichi bilan aniqlanadi
+! Katta ob'ektivga o'tgach, kerakli joy faqat mikrometrik vint bilan aniqlanadi
+@ M
+
+? Ishdan keyin mikroskop qanday saqlanadi?
++ Changdan himoyalovchi qopqoq ostida
+- Quyosh nuri tushadigan deraza oldida
+- Isitish moslamasi yonida, issiq joyda
+- Nam yerto'lada, moyli ob'ektiv bilan
+- Ochiq havoda, qopqoqsiz holda
+! Mikroskop ishdan keyin changdan himoyalangan qopqoq ostida, quruq joyda saqlanadi; namlik va harorat keskin o'zgarmasligi kerak
+@ M
