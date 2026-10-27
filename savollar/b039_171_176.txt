@@ -1,0 +1,551 @@
+# 171
+
+? Gazli gangrenaning eng ko'p uchraydigan qo'zg'atuvchisi qaysi?
++ Clostridium perfringens
+- Clostridium tetani
+- Clostridium botulinum
+- Clostridioides difficile
+- Bacillus anthracis
+! Gazli gangrena qo'zg'atuvchilari orasida C. perfringens eng ko'p uchraydigan turdir
+@ M JAW
+
+? C. perfringens morfologiyasi qanday?
++ Qisqa, yo'g'on Gram-musbat tayoqcha
+- Ingichka, uzun Gram-manfiy tayoqcha
+- Yumaloq, juft Gram-manfiy kokk
+- Spiralsimon, egri Gram-manfiy shakl
+- Uzum shingilsimon Gram-musbat kokk
+! C. perfringens Gram-musbat, qisqa va yo'g'on tayoqcha bo'lib, ko'pincha juft yoki yakka joylashadi
+@ M JAW
+
+? C. perfringens harakat va kapsula bo'yicha qanday?
++ Harakatsiz, kapsulali
+- Harakatchan, kapsulasiz
+- Harakatchan, kapsulali
+- Harakatsiz, kapsulasiz
+- Xivchinli, sporali
+! C. perfringens odatda harakatsiz va kapsulali bo'ladi, kapsula uni fagotsitozdan himoya qiladi
+@ M JAW
+
+? C. perfringens to'qimada spora hosil qilishi haqida qaysi gap to'g'ri?
++ To'qimada kamdan-kam spora hosil qiladi
+- To'qimada doimo spora hosil qiladi
+- To'qimada faqat spora holida yashaydi
+- To'qimada spora hosil qilmaydi, kokk bo'ladi
+- To'qimada faqat 4 °C da spora hosil qiladi
+! To'qimada u kamdan-kam spora hosil qiladi, bu uning sporasiz holatda tez ko'payishiga yordam beradi
+@ M JAW
+
+? Qaysi tur harakatchan bo'lishi mumkin?
++ C. septicum
+- C. perfringens
+- C. tetani emas, faqat C. difficile
+- C. anthracis
+- C. cholerae
+! Boshqa turlar, masalan C. septicum, harakatchan bo'lishi mumkin va bu ularni ajratishda foydali
+@ M JAW
+
+? Gazli gangrena qo'zg'atuvchilari kislorodga munosabati bo'yicha qanday?
++ Qat'iy anaerob
+- Qat'iy aerob
+- Fakultativ anaerob
+- Mikroaerofil
+- Kapnofil
+! Gazli gangrena qo'zg'atuvchilari obligat anaerob sharoitda o'sadi
+@ M JAW
+
+? C. perfringens qon agarida qanday gemoliz beradi?
++ Ikki qavatli gemoliz zonasi
+- Bir qavatli, faqat to'liq zona
+- Bir qavatli, faqat yashil zona
+- Gemolizsiz, o'zgarishsiz muhit
+- Qora cho'kmali, gemolizsiz zona
+! C. perfringens ikki qavatli gemoliz zonasini beradi — theta va alfa toksinlarning birgalikdagi ta'siri
+@ M JAW
+
+? C. perfringens sutda qanday bijg'ish beradi?
++ Tez, kuchli, "bo'ron" tipida
+- Sekin, kuchsiz va gazsiz holda
+- Tiniq qoladigan, gazsiz holda
+- Qizarib, achiydigan, gazsiz holda
+- Qorayib, qotadigan, gazsiz holda
+! C. perfringens sut muhitida tez va kuchli, gaz ajratuvchi "bo'ron" tipidagi bijg'ish keltirib chiqaradi
+@ M JAW
+
+? Alfa-toksin C. perfringens uchun qaysi ferment hisoblanadi?
++ Lesitinaza (fosfolipaza C)
+- Katalaza (peroksid parchalovchi)
+- Koagulaza (plazma ivituvchi)
+- Ureaza (mochevina parchalovchi)
+- Oksidaza (sitoxrom oksidlovchi)
+! Alfa-toksin lesitinaza bo'lib, qon tomirlari va hujayra membranalarini zararlaydi
+@ M JAW
+
+? Tuxum sarig'i agarida C. perfringens nimani hosil qiladi?
++ Lesitinaza tufayli loyqa zona
+- Gaz tufayli tiniq zona hosil qiladi
+- Ureaza tufayli qizil zona hosil qiladi
+- Indol tufayli pushti zona hosil qiladi
+- Katalaza tufayli ko'pik hosil qiladi
+! Lesitinaza faolligi tufayli tuxum sarig'i agarida opalestsent zona paydo bo'ladi
+@ M JAW
+
+# 172
+
+? Gazli gangrena asosan qanday jarohatlardan keyin rivojlanadi?
++ Chuqur, ifloslangan jarohatlardan
+- Yuzaki, toza tirnalishlardan so'ng
+- Steril, tozalangan kesikdan so'ng
+- Yengil qizarishdan, yaralanmasdan
+- Toza, yuzaki kuyishlardan so'ng
+! Asosiy yuqish yo'li chuqur jarohatlar: o'q yaralari, ezilishlar, urush jarohatlari tuproq bilan ifloslangan to'qimaga sporalarni kiritadi
+@ M JAW
+
+? Qaysi jarrohlik yaralarida gazli gangrena xavfi yuqori?
++ Ichak bilan bog'liq operatsiyadan keyin
+- Ko'z operatsiyasidan keyin
+- Tish ildizi jarrohligidan keyin
+- Quloq pardasi jarrohligidan keyin
+- Teri ustki qavati jarrohligidan keyin
+! Ichak tarkibi yaraga tushganda anaerob infeksiya rivojlanishi mumkin
+@ M JAW
+
+? Abortdan keyingi septik holatlarda gazli gangrenaning asosiy omili nima?
++ Ifloslangan asbob va steril bo'lmagan joy
+- Steril asbob va aseptik sharoit
+- Yangi asbob va toza sharoit
+- Antibiotik profilaktikasi, toza sharoit
+- Yuqori immunitet, toza sharoit
+! Abortdan keyingi septik holatlarda ifloslangan asboblar va steril bo'lmagan sharoit asosiy omil hisoblanadi
+@ M JAW
+
+? Qaysi holat to'qimada anaerob sharoit uchun qulay?
++ Qon ta'minoti buzilgan to'qima
+- Qon bilan yaxshi ta'minlangan to'qima
+- Kislorodga boy sog'lom to'qima
+- Yaxshi nafas olayotgan to'qima
+- Toza va nam sog'lom to'qima
+! Qon ta'minoti buzilgan to'qimalar (ezilish, kompartment sindromi, nekroz) kislorod darajasini kamaytirib, anaerob o'sish uchun sharoit yaratadi
+@ M JAW
+
+? Qaysi bemorlarda gazli gangrena ehtimoli ortadi?
++ Diabet va qon tomir kasalligi bor bemorlarda
+- Sog'lom yosh sportchilarda
+- Vitaminlarni muntazam qabul qiluvchilarda
+- Doimiy sayr qiluvchilarda
+- Yaxshi ovqatlanuvchi bolalarda
+! Qandli diabet, qon tomir kasalliklari va immuniteti susaygan bemorlarda infeksiya ehtimoli ortadi
+@ M JAW
+
+? Ichak o'smalari fonida o'z-o'zidan rivojlanadigan gazli gangrenada qaysi tur aniqlanadi?
++ C. septicum
+- C. tetani
+- C. botulinum
+- C. difficile
+- C. novyi emas, balki B. cereus
+! Ichak o'smalari bilan bog'liq holatlarda o'z-o'zidan rivojlanadigan gazli gangrenada C. septicum ko'pincha aniqlanadi
+@ M JAW
+
+? Tuproq bilan ifloslangan yarada nima sababdan xavf ortadi?
++ Kislorod kam bo'lib, sporalar unib chiqadi
+- Kislorod ko'p bo'lib, sporalar nobud bo'ladi
+- Yara tez quriydi, mikrob o'ladi
+- Yara tez bitib, toza qoladi
+- Immunitet kuchayib, mikrob o'ladi
+! Ifloslangan jarohatlarda kislorod kam bo'ladi va sporalar unib chiqishi uchun qulay muhit vujudga keladi
+@ M JAW
+
+? Gazli gangrena sporalari tashqi muhitda qayerda saqlanadi?
++ Tuproq va ichak tarkibida
+- Toza ichimlik suvi ichida
+- Quruq havo oqimi ichida
+- Sovuq muz qatlami ichida
+- Issiq qum qatlami ichida
+! Klostridiyalar tuproqda, hayvonlar va odam ichagida keng tarqalgan, jarohat orqali kiradi
+@ M JAW
+
+? Katta nekrozli to'qima nimaga olib keladi?
++ To'qimada kislorod kamayishiga
+- Kislorod ortishiga
+- Immunitet kuchayishiga
+- Antibiotik samarasi oshishiga
+- Yara tezroq bitishiga
+! Katta hajmdagi to'qima nekrozi to'qimada kislorod darajasini kamaytirib, anaerob o'sish uchun sharoit yaratadi
+@ M JAW
+
+? Gazli gangrena xavfi qachon yuqori?
++ Jarohat chuqur va ifloslangan bo'lsa
+- Jarohat yuzaki va toza bo'lsa
+- Jarohat steril bog'lam bilan yopilsa
+- Jarohat antiseptik bilan yuvilgan bo'lsa
+- Jarohat bo'lmasa
+! Jarohat chuqur va ifloslangan bo'lsa, xavf yuqori bo'ladi
+@ M JAW
+
+# 173
+
+? Krepitatsiya nima?
++ Teri ostida gaz shitirlashi
+- Teri ostida suyuqlik shishi
+- Teri qizarishi va sovuqligi
+- Teri qichishishi va toshmasi
+- Teri quruqligi va yorilishi
+! Mikroblar ko'paygan to'qimada gaz to'planib, teri ostida krepitatsiya, ya'ni shitirlash paydo bo'ladi
+@ M JAW
+
+? Gazli gangrenada tekshirish uchun eng ishonchli namuna qaysi?
++ Chuqur qatlamdan olingan to'qima
+- Yara yuzasidan olingan ajralma, tez
+- Yara atrofidagi teri qirindisi, tez
+- Burun shilliq qavatidan surtma, tez
+- Tomoqdan olingan surtma namunasi, tez
+! Eng ishonchli namuna — jarrohlik vaqtida chuqur qatlamdan olingan to'qima bo'lagi, chunki yuzaki ajralma tashqi flora bilan ifloslangan
+@ M JAW
+
+? Alfa-toksin qanday ta'sir qiladi?
++ Qon tomir va hujayra membranasini zararlaydi
+- Nerv-mushak o'tkazuvchanligini to'xtatadi
+- Ichak epiteliysida suv ajralishini oshiradi
+- Ribosomada oqsil sintezini to'xtatadi
+- Teri epidermisini ajratib yuboradi
+! Alfa-toksin (lesitinaza) qon tomirlari va hujayra membranalarini zararlab, infeksiyaning tez tarqalishiga yordam beradi
+@ M JAW
+
+? Namuna nima uchun kasallik boshlanishida erta olinadi?
++ Nekroz va toksin tez rivojlanadi
+- Nekroz va toksin sekin rivojlanadi
+- Antibiotik tezda tugaydi
+- Mikroblar tezda nobud bo'ladi
+- Namuna sifati o'zgarmaydi
+! Toksinlar ta'siri tez rivojlanuvchi nekrozni tushuntiradi, shu sababli namuna imkon qadar erta olinadi
+@ M JAW
+
+? Gaz namunasining diagnostik qiymati qanday?
++ Cheklangan
+- Eng yuqori
+- Yagona ishonchli
+- Majburiy asosiy
+- Doimo tasdiqlovchi
+! Gaz namunasi ba'zan olinadi, ammo uning diagnostik qiymati cheklangan
+@ M JAW
+
+? Gazli gangrenada qon ekish natijalari qanday?
++ Doim ham musbat bo'lavermaydi
+- Har doim musbat bo'ladi
+- Har doim manfiy bo'ladi
+- Sog'lomlarda musbat bo'ladi
+- Chaqaloqlarda musbat bo'ladi
+! Qon namunasi bakteriemiyani aniqlashga yordam beradi, ammo gazli gangrenada qon ekish natijalari har doim ijobiy bo'lavermaydi
+@ M JAW
+
+? Qonni olishdan oldin nima aniqlanishi kerak?
++ Antibiotik qo'llanganmi
+- Sevimli ovqati qanday
+- Kiyim rangi qanday
+- Ish joyi qayerda
+- Yashash joyi qayerda
+! Qonni olishdan oldin antibiotik qo'llanganmi yoki yo'qmi aniqlanishi kerak, chunki u ekish natijasiga ta'sir qiladi
+@ M JAW
+
+? Gazli gangrena qo'zg'atuvchilari qanday mikroblar?
++ Gram-musbat, sporali, anaerob tayoqchalar
+- Gram-manfiy, sporasiz, aerob kokklar
+- Gram-musbat, sporasiz, aerob kokklar
+- Gram-manfiy, sporali, aerob tayoqchalar
+- Gram-musbat, sporali, aerob spirallar
+! Qo'zg'atuvchilar Gram-musbat, spora hosil qiluvchi va qat'iy anaerob tayoqchalardir
+@ M JAW
+
+? Gazli gangrenaning klinik belgisi nima?
++ Yoqimsiz hid, rang o'zgarishi, krepitatsiya
+- Yoqimli hid, rang saqlanishi, quruq teri
+- Hidsizlik, rang saqlanishi, sovuq teri
+- Qichishish, toshma, shish
+- Yo'tal, burun bitishi, tomoq og'rig'i
+! To'qimalar rangi o'zgaradi, yoqimsiz hid paydo bo'ladi va krepitatsiya kuzatiladi
+@ M JAW
+
+? Qo'shimcha material sifatida nima tekshiriladi?
++ Qon va ekssudat
+- Siydik va najas
+- Tupurik va burun suyuqligi
+- Soch va tirnoq
+- Sut va ter
+! Qo'shimcha material sifatida qon va tanadagi boshqa suyuqliklar, masalan ekssudat, tekshiriladi
+@ M JAW
+
+# 174
+
+? Gazli gangrenada umumiy holat qanday o'zgaradi?
++ Harorat ko'tariladi, yurak urishi tezlashadi
+- Harorat pasayadi, yurak urishi sekinlashadi
+- Harorat o'zgarmaydi, bosim ko'tariladi
+- Teri qichishadi
+- Bosh aylanadi
+! Harorat ko'tarilishi, yurak urishining tezlashishi va tez kuchayuvchi toksemiya belgilari uchraydi
+@ M JAW
+
+? Tezkor tashxisda nima kutilmaydi?
++ Laboratoriya natijasi
+- Jarrohlik ko'rigi o'tkazilishi
+- Hamshiralik nazorati o'rnatilishi
+- Holat baholanishi o'tkazilishi
+- Shoshilinch yordam ko'rsatilishi
+! Shoshilinch jarrohlik ko'rigi zarur, laboratoriya natijasini kutish davolanishni kechiktirmasligi kerak
+@ M JAW
+
+? Gazli gangrena xavf omillariga qaysi biri kiradi?
++ Ochiq sinish, chuqur jarohat
+- Yuzaki tirnalish, qizarish
+- Yengil shamollash, yo'tal
+- Allergik toshma, qichishish
+- Tish og'rig'i, shishish
+! Gazli gangrena chuqur jarohatlar, ochiq sinishlar va jarrohlikdan keyin ko'proq rivojlanadi
+@ M JAW
+
+? Qaysi yaralar ayniqsa xavfli?
++ Tuproq, go'ng bilan ifloslangan
+- Toza, dezinfeksiya qilingan yaralar
+- Steril, yopib qo'yilgan yaralar
+- Quruq, yuzaki bo'lgan yaralar
+- Sovuq, yuzaki bo'lgan yaralar
+! Yer, go'ng va chirigan organik moddalar bilan ifloslangan yaralar ayniqsa xavfli
+@ M JAW
+
+? Tashxisning birinchi qadami nima?
++ Jarohat tarixini so'rash
+- Sevimli ovqatni so'rash
+- Kiyim rangini so'rash
+- Sport turini so'rash
+- Ta'til rejasini so'rash
+! Jarohat tarixini so'rash tashxisning birinchi qadamidir
+@ M JAW
+
+? Mikroskopiyada gazli gangrena qo'zg'atuvchisi qanday ko'rinadi?
++ Yirik Gram-musbat tayoqcha
+- Mayda Gram-manfiy kokk shakli
+- Uzum shingilsimon kokk shakli
+- Vergulsimon tayoqcha shakli
+- Spiralsimon yupqa shakl
+! Qo'zg'atuvchi yirik Gram-musbat tayoqchalar sifatida ko'rinadi, orasida spora hosil qilgan shakllar ham uchraydi
+@ M JAW
+
+? Gram surtmasi natijasi qancha vaqtda tayyor bo'ladi?
++ Bir necha daqiqada
+- Bir necha soatda
+- Bir necha kunda
+- Bir necha haftada
+- Bir necha oyda
+! Surtma natijasi bir necha daqiqada tayyor bo'ladi
+@ M JAW
+
+? Jarohatsiz gazli gangrena qachon kuzatilishi mumkin?
++ Ichki infeksiya, ichak shikastida
+- Teri jarohatsiz bo'lsa, hech qachon
+- Chaqaloqlarda, tug'ilgan zahoti
+- Sovuq urishida, faqat shunda
+- Hasharot chaqishida, faqat shunda
+! Ayrim hollarda jarohatsiz, ichki organ infeksiyasi yoki ichak devori shikastlanishi fonida ham kasallik yuzaga kelishi mumkin
+@ M JAW
+
+? Ishemiya nima uchun xavf omili?
++ Kislorod kelishini pasaytiradi
+- Kislorod kelishini oshirib yuboradi
+- Immunitetni kuchaytirib yuboradi
+- Nekrozni kamaytirib yuboradi
+- Antibiotik samarasini oshiradi
+! Qon aylanishi buzilgan to'qimalar (ishemiya) kasallikka moyillikni oshiradi
+@ M JAW
+
+? Shifokor bemor tarixini nima uchun to'liq o'rganadi?
++ Manba aniqlansa, davo o'zgaradi
+- Manba aniqlansa, davo kerak bo'lmaydi
+- Bemorni tezroq chiqarib yuborish uchun
+- Antibiotikni to'xtatib qo'yish uchun
+- Tashxisni yashirib qo'yish uchun
+! Ichki manba aniqlanganda davolash yo'nalishi ham o'zgaradi
+@ M JAW
+
+# 175
+
+? Gazli gangrenada asosiy davo qanday?
++ Jarrohlik debridman
+- Issiq kompress qo'yish
+- Vitamin kursi berish
+- Parhez qo'llash
+- Fizioterapiya o'tkazish
+! Davolashning asosi jarrohlik: nekrotik to'qimani to'liq olib tashlash, antibiotiklar bilan birga
+@ M JAW
+
+? Jarrohlik yarasi nima uchun ochiq qoldiriladi?
++ Kuzatish va bosimni kamaytirish uchun
+- Yopiq saqlab, ichini yashirish uchun
+- Suyuqlik to'plab, quritmaslik uchun
+- Mikrob ko'paytirib, o'stirish uchun
+- Bemorni cho'miltirib turish uchun
+! Jarrohlik yarasi keyinchalik ochiq qoldirilib kuzatiladi, bosim kamayadi va qon aylanishi qisman tiklanadi
+@ M JAW
+
+? Qaysi hollarda amputatsiya zarur bo'ladi?
++ Og'ir hollarda, jamoa qaroriga ko'ra
+- Hamma bemorlarda, majburiy tarzda
+- Hech qachon amputatsiya qilinmaydi
+- Bolalarda, faqat shu yoshda
+- Bemor xohlagan har qanday paytda
+! Ayrim og'ir hollarda ekstremitetni amputatsiya qilish zarur bo'ladi, qaror umumiy holat va zararlanish darajasiga qarab qabul qilinadi
+@ M JAW
+
+? Gazli gangrenada asosiy antibiotik qaysi?
++ Penitsillin G, yuqori doza
+- Gentamitsin sulfat, yuqori doza
+- Streptomitsin sulfat, yuqori doza
+- Izoniazid tabletka, yuqori doza
+- Flukonazol kapsula, yuqori doza
+! Yuqori dozadagi penitsillin G asosiy vosita, u ko'pchilik klostridiyalarga ta'sir qiladi
+@ M JAW
+
+? Klindamitsin qanday maqsadda qo'shiladi?
++ Toksin hosil bo'lishini kamaytirish uchun
+- Hujayra devori sintezini to'xtatish uchun
+- DNK replikatsiyasini to'xtatib qo'yish uchun
+- Qon ivishini kuchaytirib yuborish uchun
+- Antitela hosil bo'lishini oshirish uchun
+! Klindamitsin oqsil sintezini bostirib, toksin hosil bo'lishini kamaytiradi
+@ M JAW
+
+? Metronidazol qanday mikroblarga samarali?
++ Anaerob mikroblarga
+- Aerob kokklarga qarshi
+- Zamburug'larga qarshi
+- Viruslarga qarshi
+- Gelmintlarga qarshi
+! Metronidazol anaerob mikroblarga qarshi samarali dori
+@ M JAW
+
+? Aralash infeksiya ehtimoli yuqori bo'lganda nima qo'llanadi?
++ Keng spektrli kombinatsiya
+- Bitta tor spektrli antibiotik
+- Vitaminlar bilan davolash
+- Parhez bilan davolash
+- Issiq kompress bilan davolash
+! Aralash infeksiya ehtimoli yuqori bo'lganda keng spektrli antibiotiklar kombinatsiyasi qo'llanishi mumkin
+@ M JAW
+
+? Ot zardobi (antitoksin) tarixan nima uchun qo'llangan?
++ Gazli gangrenaga qarshi davo uchun
+- Qoqsholga qarshi emlash uchun
+- Sil kasalligiga qarshi davo uchun
+- Vaboga qarshi emlash uchun
+- Zaxmga qarshi davo uchun
+! Tarixan gazli gangrenaga qarshi ko'p valentli ot zardobi (antitoksin) qo'llanilgan, hozir allergiya xavfi sababli ehtiyotkorlik bilan
+@ M JAW
+
+? Giperbarik oksigenatsiya nima?
++ Bosim ostida kislorodli davo
+- Sovuq havo bilan davolash
+- Quyosh nuri bilan davolash
+- Tinchlik bilan davolash
+- Parhez bilan davolash
+! Giperbarik oksigenatsiya — yuqori bosim ostida kislorod bilan davolash usuli
+@ M JAW
+
+? Antibiotik ta'siri nima orqali baholanadi?
++ Klinik kuzatuv orqali
+- Bemor kayfiyati orqali
+- Ob-havo orqali
+- Dori narxi orqali
+- Xona harorati orqali
+! Antibiotik ta'siri klinik kuzatuv orqali baholanadi
+@ M JAW
+
+# 176
+
+? Botulizm qo'zg'atuvchisi sporalari qayerda joylashadi?
++ Hujayra uchiga yaqin (subterminal)
+- Hujayra o'rtasida, markazda joylashgan
+- Hujayradan tashqarida joylashgan
+- Hujayra devori ichida joylashgan
+- Xivchin uchida joylashgan
+! Spora odatda hujayraning uchiga yaqin, ya'ni subterminal holatda joylashadi
+@ M JAW
+
+? Botulizm sporalari qanday chidamlilikka ega?
++ Issiqlik va kimyoga chidamli
+- Issiqlikka sezgir, 50 °C da o'ladi
+- Kimyoviy moddalarga juda sezgir
+- Quritilganda darhol nobud bo'ladi
+- Qaynatishda darhol nobud bo'ladi
+! Sporalar issiqlik va kimyoviy ta'sirlarga juda chidamli, oddiy qaynatish bilan to'liq yo'q qilinmaydi
+@ M JAW
+
+? Botulizm qo'zg'atuvchisi harakatchanligi qanday?
++ Peritrik xivchinlar bilan harakatchan
+- Harakatsiz
+- Sovuqda harakatchan
+- Spora holida harakatchan
+- Bir qutbli xivchin bilan, kapsulali
+! Aksariyat shtammlar peritrik flagellalar yordamida harakatlanadi
+@ M JAW
+
+? Botulizm qo'zg'atuvchisi kislorodga munosabati bo'yicha qanday?
++ Qat'iy anaerob
+- Qat'iy aerob
+- Fakultativ anaerob
+- Mikroaerofil
+- Kapnofil
+! Botulizm qo'zg'atuvchisi qat'iy anaerob sharoitda o'sadi; kislorodning oz miqdori ham o'sishni to'xtatishi mumkin
+@ M JAW
+
+? Botulizm kulturasi qayerda o'stiriladi?
++ Anaerostatda yoki anaerob muhitda
+- Oddiy termostatda, ochiq idishda
+- Quruq havoda, ochiq idishda
+- Sovutgichda, ochiq idishda
+- Quyosh nurida, ochiq idishda
+! Kultivatsiya anaerostatda yoki anaerob muhitda olib boriladi
+@ M JAW
+
+? Qon agarida botulizm koloniyalari qanday ko'rinadi?
++ Yassi, notekis chetli koloniya
+- Qavariq, silliq va kichik koloniya
+- Qora, yaltiroq va qattiq koloniya
+- Qizil, shilimshiq va hidli koloniya
+- Yashil, quruq va tikanli koloniya
+! Qon agarida koloniyalar yassi, notekis chetli va ko'pincha tarqalgan ko'rinishda bo'ladi
+@ M JAW
+
+? Anaerob sharoitni saqlashga qaysi muhit yordam beradi?
++ Pishirilgan go'sht muhiti
+- Oddiy go'sht-peptonli agar
+- Endo agari
+- Manitli tuzli agar
+- Sabouraud agari
+! Pishirilgan go'sht muhiti kabi boy muhitlar anaerob sharoitni saqlashga yordam beradi
+@ M JAW
+
+? Botulizm qo'zg'atuvchisi shakarlarga munosabati qanday?
++ Shtammga qarab turlicha
+- Hech qaysi shtamm bijg'itmaydi
+- Laktozani hamma shtamm bijg'itadi
+- Gaz hosil qilish umuman yo'q
+- Saxarozanigina bijg'itadi
+! Ko'pchilik shtammlar glyukoza, maltoza va boshqa uglevodlarni bijg'itib, gaz va kislota hosil qiladi
+@ M JAW
+
+? Sporalar chidamliligi qaysi amaliyotda alohida ahamiyatga ega?
++ Konservalash amaliyotida
+- Sut sog'ish amaliyotida
+- Non pishirish amaliyotida
+- Suv ichish amaliyotida
+- Sut qaynatish amaliyotida
+! Sporalarning issiqlikka chidamliligi konservalash amaliyotida alohida ahamiyatga ega
+@ M JAW
+
+? Harakatchan hujayralar mikroskopda qanday ajratiladi?
++ Sezilarli oson ajratiladi
+- Juda qiyin ajratiladi
+- Umuman ajratib bo'lmaydi
+- Elektron mikroskopda ajratiladi
+- Bo'yoqsiz ajratib bo'lmaydi
+! Harakatchan hujayralar mikroskopda sezilarli darajada oson ajratiladi
+@ M JAW
