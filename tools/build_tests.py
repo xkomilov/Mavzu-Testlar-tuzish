@@ -55,6 +55,7 @@ SOURCES = {
     "WHOPERT": "WHO. Pertussis vaccines: WHO position paper, August 2015 (Wkly Epidemiol Rec 2015;90:433-58)",
     "CDCPINK": "CDC. Epidemiology and Prevention of Vaccine-Preventable Diseases (Pink Book), 14th ed. (2021)",
     "WHOTB": "WHO. Global tuberculosis report; WHO Consolidated Guidelines on Tuberculosis (Module 3: Diagnosis, 2021)",
+    "CDCMUR": "CDC. Murine Typhus — Clinical Overview (Rickettsial Diseases, CDC)",
     "LENS": "Lens on Leeuwenhoek (lensonleeuwenhoek.net) — Visibility",
 }
 
