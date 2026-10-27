@@ -1,0 +1,272 @@
+# 023
+? Tashqi muhit omillari qaysi uch guruhga bo'linadi?
++ Fizikaviy, kimyoviy va biologik omillar
+- Termik, mexanik va akustik omillar
+- Genetik, serologik va morfologik omillar
+- Aerob, anaerob va fakultativ omillar
+- Tibbiy, sanitar va veterinar omillar
+! Tashqi muhit omillari odatda fizikaviy, kimyoviy va biologik omillarga bo'linadi
+@ M BROCK
+
+? Fizikaviy omillarga qaysi birlik kiradi?
++ Harorat, namlik, bosim, nurlanish va elektr toki
+- Dezinfeksiyalovchi, antiseptik, antibiotik, tuz va kislota-ishqor
+- Antagonizm, raqobat, bakteriofaglar ta'siri va simbioz
+- Oqsil, DNK, ribosoma, membrana va kapsula tuzilmalari
+- Agar, pepton, bulyon, zardob va jelatin muhitlari
+! Fizikaviy omillarga harorat, namlik, bosim, nurlanish va elektr toki kiradi
+@ M BROCK
+
+? Yuqori harorat mikrob oqsillariga qanday ta'sir qiladi?
++ Oqsillarni denaturatsiyaga uchratadi
+- Oqsillar sintezini keskin tezlashtiradi
+- Oqsillarni sporaga aylantirib saqlaydi
+- Oqsillarni kapsula bilan o'rab oladi
+- Oqsillarni plazmidaga aylantirib yuboradi
+! Yuqori harorat oqsillarni denaturatsiyaga uchratadi, shu sababli fizikaviy omillar sterilizatsiya usullarining asosini tashkil etadi
+@ M BROCK
+
+? Ultrabinafsha nur mikrob hujayrasining qaysi tarkibiy qismiga zarar yetkazadi?
++ DNKga
+- Peptidoglikan qavatiga
+- 70S ribosomalarga
+- Flagellin xivchinga
+- Kapsula polisaxaridiga
+! Ultrabinafsha nur mikrob DNKsiga zarar yetkazadi
+@ M BROCK
+
+? Sterilizatsiya rejimi mikrobning qaysi shakliga qarab tanlanadi?
++ Eng chidamli shakliga, ya'ni sporaga
+- Eng tez nobud bo'ladigan vegetativ hujayraga
+- Eng kichik o'lchamli virus zarrachasiga
+- Eng sekin ko'payadigan bakteriya hujayrasiga
+- Namuna rangiga mos keladigan shaklga
+! Vegetativ hujayralar odatda tez nobud bo'ladi, sporalar esa juda chidamli, shuning uchun sterilizatsiya rejimi eng chidamli shaklga qarab tanlanadi
+@ M BROCK
+
+? Namlik va harorat birgalikda ta'sir qilganda mikrobning nobud bo'lishi qanday o'zgaradi?
++ Nobud bo'lish tezlashadi
+- Nobud bo'lish sekinlashadi
+- Mikrob sporaga aylanib, chidamliligi oshadi
+- Ikki omil bir-birining ta'sirini bekor qiladi
+- Mikrob ko'payib, soni tezda ortadi
+! Tashqi omillar ko'pincha birgalikda ta'sir qiladi; namlik va harorat birga ishlaganda mikrobning nobud bo'lishi tezlashadi
+@ M
+
+? Vegetativ hujayralar va sporalar tashqi omillarga qanday chidamlilik ko'rsatadi?
++ Vegetativ hujayralar tez nobud bo'ladi, sporalar juda chidamli
+- Sporalar tez nobud bo'ladi, vegetativ hujayralar juda chidamli
+- Ikkala shakl ham bir xil tezlikda nobud bo'lib ketadi
+- Ikkala shakl ham har qanday omilda nobud bo'lmaydi
+- Vegetativ hujayralar faqat sovuqda nobud bo'ladi
+! Mikrobning chidamliligi turi, yoshi va spora hosil qilish qobiliyatiga bog'liq: vegetativ hujayralar odatda tez nobud bo'ladi, sporalar juda chidamli
+@ M BROCK
+
+? Tashqi omil ta'sirida har bir vaqt birligida tirik hujayralarning qanday qismi nobud bo'ladi?
++ Ma'lum ulushi, ya'ni logarifmik qonuniyat bo'yicha
+- Hujayralarning hammasi bir vaqtning o'zida
+- Doimiy bir xil son, ya'ni chiziqli qonuniyat bo'yicha
+- Faqat eng yosh hujayralar nobud bo'ladi
+- Birorta ham hujayra nobud bo'lmaydi
+! Tashqi omillar ta'siri odatda logarifmik qonuniyatga bo'ysunadi: har bir vaqt birligida tirik hujayralarning ma'lum ulushi nobud bo'ladi
+@ M BROCK
+
+? Namuna ochiq holatda uzoq qolsa, nima yuz beradi?
++ Undagi mikroblar tarkibi o'zgaradi
+- Mikroblar tarkibi doimiy saqlanib qoladi
+- Namunada faqat patogenlar ko'payadi
+- Namuna o'z-o'zidan sterillanadi
+- Namuna rangi va hidi o'zgarmaydi
+! Namuna qancha uzoq ochiq holatda qolsa, undagi mikroblar tarkibi shuncha o'zgaradi, shu sababli u tez laboratoriyaga yetkaziladi
+@ M
+
+? XIX asrda oziq moddalar va sharoitning mikroblar hayotiga ta'sirini tajribalarda ko'rsatgan, sterilizatsiya va pasterizatsiya asoschilari kimlar?
++ Lui Paster va Robert Kox
+- Antoni van Levenguk va Aleksandr Fleming
+- Dmitriy Ivanovskiy va Karl Voz
+- Hans Kristian Gram va Julius Petri
+- Ferdinand Kon va Karl Linney
+! XIX asrda Lui Paster va Robert Kox tashqi omillarning mikroblar hayotiga ta'sirini tajribalarda ko'rsatgan; ishlari sterilizatsiya va pasterizatsiya tamoyillari asosini yaratgan
+@ M
+
+# 024
+? Har bir mikrob uchun belgilanadigan uchta kardinal harorat qaysilar?
++ Minimal, optimal va maksimal
+- Minimal, kritik va letal
+- Optimal, o'rtacha va yakuniy
+- Minimal, o'rtacha va yuqori
+- Boshlang'ich, oraliq va tugallovchi
+! Har bir mikrob uchun minimal, optimal va maksimal harorat belgilanadi
+@ M BROCK
+
+? Mikrob uchun optimal harorat nima?
++ O'sish eng tez boradigan harorat
+- Undan past bo'lganda o'sish to'xtaydigan harorat
+- Undan yuqori bo'lganda mikrob nobud bo'ladigan harorat
+- Sporalar eng ko'p hosil bo'ladigan harorat
+- Muhit sterillanadigan harorat
+! Optimal harorat — o'sish eng tez boradigan qiymat; minimal haroratdan past bo'lganda o'sish to'xtaydi, maksimaldan yuqori bo'lganda mikrob nobud bo'ladi
+@ M BROCK
+
+? Psixrofillar qanday mikroblar?
++ Sovuqqa moslashgan mikroblar
+- Issiqqa moslashgan mikroblar
+- Tana haroratiga mos mikroblar
+- Kislotali muhitga moslashgan mikroblar
+- Tuzli muhitga moslashgan mikroblar
+! Psixrofillar sovuqqa moslashgan mikroblar bo'lib, minimal harorati 0 °C dan past bo'lishi mumkin
+@ M BROCK
+
+? Ko'pchilik patogen mikroblar qaysi harorat guruhiga kiradi?
++ Mezofillar guruhiga
+- Psixrofillar guruhiga
+- Termofillar guruhiga
+- Galofillar guruhiga
+- Atsidofillar guruhiga
+! Mezofillar eng keng tarqalgan guruh bo'lib, ko'pchilik patogen va sanitar ahamiyatga ega mikroblar shu guruhga kiradi
+@ M BROCK
+
+? Termofil mikroblarning optimal harorati odatda qancha?
++ 50–65 °C atrofida
+- 5–10 °C atrofida
+- 15–20 °C atrofida
+- 30–37 °C atrofida
+- 80–85 °C atrofida
+! Termofillar yuqori haroratda rivojlanadi, ularning optimal harorati 50–65 °C atrofida bo'ladi
+@ M BROCK
+
+? Odam patogenlari laboratoriyada odatda qaysi haroratda o'stiriladi?
++ 37 °C da
+- 4 °C da
+- 22 °C da
+- 56 °C da
+- 75 °C da
+! Odam patogenlari odatda 37 °C da o'stiriladi, tabiiy muhit mikroblari esa 20–30 °C da tekshiriladi
+@ M JAW
+
+? Mezofil patogenlar 60 °C dan yuqori haroratda qanday bo'ladi?
++ Ko'p hollarda tez nobud bo'ladi
+- Ko'payishi keskin tezlashadi
+- Sporaga aylanib, tirik qoladi
+- Hech qanday o'zgarishsiz yashayveradi
+- Sovuqqa chidamli bo'lib qoladi
+! Mezofil patogenlar ko'p hollarda 60 °C dan yuqori haroratda tez nobud bo'ladi, shuning uchun pasterizatsiya va qaynatish bilan zararsizlantiriladi
+@ M
+
+? Mikroblar issiqlik shok oqsillarini nima uchun sintez qiladi?
++ Hujayrani issiqlikdan qisqa muddat himoya qilish uchun
+- Hujayrani sovuqdan uzoq muddat himoya qilish uchun
+- Hujayra devorini yo'q qilish uchun
+- Xivchinlar sonini ko'paytirish uchun
+- Antibiotiklar sintezini boshlash uchun
+! Issiqlik oqsillarni denaturatsiya qiladi, shunga javoban mikroblar issiqlik shok oqsillarini sintez qilib, hujayrani qisqa muddat himoya qiladi
+@ M BROCK
+
+? Ba'zi psixrofil mikroblar sovuqda membranani suyuq holda qanday saqlaydi?
++ To'yinmagan yog' kislotalari miqdorini oshirib
+- To'yinmagan yog' kislotalari miqdorini kamaytirib
+- Kapsula qalinligini kamaytirib
+- Spora po'stini qalinlashtirib
+- Xivchinlar sonini ko'paytirib
+! Ba'zi psixrofillar membranadagi to'yinmagan yog' kislotalari miqdorini oshirib, sovuqda ham membrana suyuqligini saqlaydi
+@ M BROCK
+
+? Termostat harorati laboratoriyada qanday nazorat qilinadi?
++ Har kuni yozib boriladi va og'ishlar aniqlanadi
+- Faqat yangi termostat o'rnatilganda o'lchanadi
+- Yilda bir marta tekshirib qo'yiladi
+- Qayd etilmaydi, ko'rsatkichga ishonib ishlanadi
+- Natija noto'g'ri chiqqandagina o'lchanadi
+! Termostatdagi harorat har kuni yozib boriladi; harorat chegaradan chiqsa, natija noto'g'ri bo'lishi mumkin va tekshiruv qayta o'tkaziladi
+@ M
+
+# 025
+? Quritishga eng chidamli mikrob shakli qaysi?
++ Spora
+- Vegetativ hujayra
+- Kapsulali hujayra
+- Xivchinli hujayra
+- Plazmidali hujayra
+! Quritishga eng chidamli shakl spora bo'lib, u quritish natijasida ham yillab tirik qolishi mumkin
+@ M JAW
+
+? Quritishga nisbatan sezgir patogenlar qaysi javobda keltirilgan?
++ Gonokokk, meningokokk, vabo vibrioni va qorin tifi qo'zg'atuvchisi
+- Kuydirgi, qoqshol, botulizm va gazli gangrena qo'zg'atuvchilari
+- Sil mikobakteriyasi, oltin stafilokokk, bo'g'ma tayoqchasi va kuydirgi sporasi
+- Mog'or va achitqi zamburug'lari hamda aktinomitsetlar sporalari
+- Bakteriofaglar, bakteriya sporalari va sodda hayvonlar kistalari
+! Quritishga sezgir patogenlar sifatida gonokokk, meningokokk, vabo vibrioni va qorin tifi qo'zg'atuvchisi ko'rsatilgan
+@ M
+
+? Liofilizatsiya qanday amalga oshiriladi?
++ Kultura muzlatilib, vakuumda suvi sublimatsiya qilinadi
+- Kultura qaynatilib, bug'lantirib quritiladi
+- Kultura 180 °C da quruq issiqlikda quritiladi
+- Kultura spirt bilan suvsizlantirilib, fiksatsiya qilinadi
+- Kultura filtrdan o'tkazilib, suyultirib quritiladi
+! Liofilizatsiyada kultura avval muzlatiladi, so'ng vakuumda suv sublimatsiya orqali chiqarib yuboriladi; natijada kultura uzoq saqlanadi
+@ M
+
+? Ultrabinafsha nurlanish qaysi to'lqin uzunligida eng samarali?
++ 260–300 nm
+- 400–500 nm
+- 600–700 nm
+- 800–900 nm
+- 1000–1200 nm
+! Ultrabinafsha nurlanish 260–300 nm to'lqin uzunligida eng samarali hisoblanadi (DNK yutilishi ~260 nm da maksimal)
+@ M BROCK
+
+? Ultrabinafsha nurlar mikrob DNKsida asosan nimani hosil qiladi?
++ Pirimidin dimerlarini
+- Purin dimerlarini
+- Peptid bog'larini
+- Disulfid ko'priklarini
+- Lipid peroksidlarini
+! Ionlashtirmaydigan ultrabinafsha nurlar asosan DNKda pirimidin dimerlarini hosil qiladi
+@ M BROCK
+
+? Ultrabinafsha nur qayerda yaxshi ishlaydi?
++ Sirtda va havoda
+- Suyuqlik ichida
+- Shisha orqali o'tib
+- Qalin oziq-ovqat bo'lagi ichida
+- Metall idish devori orqali
+! Ultrabinafsha nur sirtda va havoda yaxshi ishlaydi, lekin chuqur qatlamlarga o'tmaydi, shisha yoki suyuqlik ichidagi mikroblarni yo'q qilmaydi
+@ M BROCK
+
+? Quyidagilardan qaysi biri ionlashtiruvchi nurlarga kiradi?
++ Gamma va rentgen nurlari
+- Ultrabinafsha va quyosh nuri
+- Infraqizil nur va radio to'lqinlar
+- Ko'rinadigan yorug'lik va lazer
+- Mikroto'lqin va ultratovush
+! Ionlashtiruvchi nurlarga gamma va rentgen nurlari kiradi; ular mikrob DNKsini zararlab nobud qiladi
+@ M BROCK
+
+? Avtoklavda bosimning vazifasi nima?
++ Haroratni ko'taruvchi vosita bo'lib xizmat qiladi
+- Mikroblarni mexanik ezib, yoriladi
+- Bug'ni sovitib, suvga aylantiradi
+- Muhitni qotirib, zichlashtiradi
+- Mikroblarni zarur moddalar bilan oziqlantiradi
+! Avtoklavda yuqori bosim ostidagi bug' yuqori haroratni ta'minlab, sporalarni ham yo'q qiladi; bosim haroratni ko'taruvchi vosita sifatida ishlaydi
+@ M CDCSTER
+
+? Filtrlash usuli qaysi eritmalarni sterilizatsiya qilishda qo'llanadi?
++ Termolabil eritmalarni
+- Issiqqa chidamli moylarni
+- Qattiq metall asboblarni
+- Shisha idishlarni
+- Bog'lov materiallarini
+! Filtrlash termolabil, ya'ni issiqlikda buziladigan eritmalarni sterilizatsiya qilishda ishlatiladi; filtr kichik viruslarni to'liq ushlamasligi mumkin
+@ M CDCSTER
+
+? Quritish shkafida (Paster pechi) harorat materialga ko'ra qanchagacha ko'tarilishi mumkin?
++ 180–200 °C gacha
+- 60–80 °C gacha
+- 100–110 °C gacha
+- 121–134 °C gacha
+- 250–300 °C gacha
+! Materialga ko'ra quritish shkafida harorat 180–200 °C gacha ko'tarilishi mumkin
+@ M

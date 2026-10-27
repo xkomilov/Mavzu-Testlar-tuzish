@@ -42,6 +42,7 @@ SOURCES = {
     "SCHAEF": "Schaeffer A.B., Fulton M. (Science, 1933)",
     "BURRI": "Burri R. (1909) — tush usuli bilan kapsulani aniqlash",
     "NEUF": "Neufeld F. (1902) — kapsula shishish (Quellung) reaksiyasi",
+    "WHODW": "WHO. Guidelines for drinking-water quality, 4-nashr, 1-ilova bilan (2017)",
     "LENS": "Lens on Leeuwenhoek (lensonleeuwenhoek.net) — Visibility",
 }
 

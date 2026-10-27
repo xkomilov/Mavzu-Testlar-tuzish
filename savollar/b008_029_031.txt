@@ -1,0 +1,272 @@
+# 029
+? Havo mikroorganizmlar uchun qanday muhit hisoblanadi?
++ Vaqtinchalik tashish vositasi
+- Doimiy yashash va ko'payish joyi
+- Eng boy oziq manbai bo'lgan muhit
+- Tuproqdan ko'ra ozuqaga boy muhit
+- Ko'payish uchun qulay nam muhit
+! Havo ozuqa moddalariga kambag'al, shu sababli u mikroblarning doimiy yashash joyi emas, balki vaqtinchalik tashish vositasi
+@ M JAW
+
+? Havodagi mikroblar qaysi manbalardan keladi?
++ Tuproq, suv yuzasi, odam nafas yo'llari va hayvonlardan
+- Quyosh nuri va shamol energiyasining o'zidan hosil bo'ladi
+- Yer osti suvlari va chuqur burg'ulash quduqlaridan
+- Yulduzlar va kosmik changlardan, doimiy ravishda
+- Metall va shisha buyumlar ichidan, doimiy ravishda
+! Havodagi mikroblar tuproqdan, suv yuzasidan, odamlarning nafas yo'llaridan va hayvonlardan kelib chiqadi
+@ M JAW
+
+? Kasalxona xonalari havosida asosan qaysi mikroblar uchraydi?
++ Oltinsimon stafilokokk va gemolitik streptokokklar
+- Salmonella va shigella tayoqchalari hamda vibrionlar
+- Vabo vibrioni va brutsella tayoqchalari hamda yersiniyalar
+- Qoqshol va botulizm tayoqchalari hamda kuydirgi sporalari
+- Treponema va leptospira spiroxetalari hamda borreliyalar
+! Kasalxona havosida asosan oltinsimon stafilokokk va gemolitik streptokokklar uchraydi, ayniqsa operatsiya xonalari va tug'ruq zallarida
+@ M JAW
+
+? Havodagi umumiy mikroblar soni (UMS) qanday birlikda ifodalanadi?
++ 1 m³ havodagi koloniyalar soni
+- 1 ml havodagi tirik hujayralar soni
+- 1 litr suvdagi koloniyalar soni
+- 1 g tuproqdagi koloniyalar soni
+- 1 sm² yuzadagi sporalar soni
+! Havodagi umumiy mikroblar soni 1 m³ havodagi koloniyalar hisobida ifodalanadi
+@ M
+
+? Sedimentatsion (Kox) usulida havo namunasi qanday olinadi?
++ Agarli Petri idishi xonada ma'lum vaqt ochiq qoldiriladi
+- Apparat yordamida oziqa muhitiga ma'lum hajmda so'riladi
+- Suyuq muhit orqali pufakchalar shaklida o'tkaziladi
+- Havo filtri qaynatilib, yuvindisi tekshiriladi
+- Xona devori sterilmas tampon bilan surtib olinadi
+! Sedimentatsion (Kox) usulida oziqa agari quyilgan Petri idishi xonaning bir necha nuqtasida ma'lum vaqt ochiq qoldiriladi
+@ M
+
+? Sedimentatsion usulda 1 m³ havodagi mikroblar miqdori qaysi formula bilan hisoblanadi?
++ Omelyanskiy formulasi
+- Henderson–Hasselbalch formulasi
+- Michaelis–Menten formulasi
+- Arrenius tenglamasi
+- Kauffmann–White formulasi
+! Koloniyalar soni, idish yuzasi va ochiq turgan vaqt asosida mikroblar miqdori Omelyanskiy formulasi bo'yicha hisoblanadi
+@ M
+
+? Aspiratsion usulda namuna olish hajmi nima uchun standart bo'lishi kerak?
++ Natijalarni solishtirish mumkin bo'lishi uchun
+- Apparat tez buzilib, ishlamay qolmasligi uchun
+- Oziqa muhiti tezroq qotib qolishi uchun
+- Koloniyalar rangli bo'lib o'sishi ta'minlanishi uchun
+- Xona havosi namligi oshib ketishi uchun
+! Aspiratsion usulda namuna olish hajmi standart bo'lishi kerak, aks holda natijalarni solishtirish mumkin bo'lmaydi
+@ M
+
+? Havodagi mikroblarning hayotchanligi namlikka qanday bog'liq?
++ Quruq havoda tez nobud bo'ladi, nam havoda uzoqroq saqlanadi
+- Nam havoda tez nobud bo'ladi, quruq havoda uzoqroq saqlanadi
+- Namlikka bog'liq emas, doimo bir xil saqlanadi
+- Faqat to'liq to'yingan bug'da tirik qoladi
+- Quruq havoda tez ko'payadi, nam havoda to'xtaydi
+! Quruq havoda mikroblar tez nobud bo'ladi, nam havoda esa hayotchanligi uzoqroq saqlanadi
+@ M JAW
+
+? Havo mikroflorasini nazorat qilish va kamaytirish uchun qaysi choralar birga qo'llanadi?
++ Ventilyatsiya, ultrabinafsha nur va dezinfeksiya
+- Xonani qorong'i qilib, derazalarni yopib qo'yish
+- Xona haroratini 40 °C gacha ko'tarib turish
+- Namlikni 100 % gacha oshirib yuborish
+- Chang yig'ilishi uchun gilam yoyib qo'yish
+! Havo nazorati ventilyatsiya, ultrabinafsha nurlanish va dezinfeksiya bilan birgalikda olib boriladi
+@ M
+
+? Havo mikroflorasini baholashda me'yorlar qayerdan olinadi?
++ Mamlakat qonun hujjatlari va sanitariya qoidalaridan
+- Mikroskop ishlab chiqaruvchisining ko'rsatmasidan
+- Laborantning shaxsiy fikri va tajribasidan
+- Reagent qadog'idagi yozuvdan
+- Termostat pasportidagi ko'rsatkichdan
+! Me'yorlar mamlakat qonun hujjatlari va sanitariya qoidalariga bog'liq; ularning aniq raqamlari mavzu materialida berilmagan
+@ M
+
+# 030
+? Materialga ko'ra 1 ml toza suvda taxminan nechta mikrob bo'lishi mumkin?
++ 100–200 dona
+- 1–2 dona
+- 10 000–20 000 dona
+- 1 000 000 dona
+- Bitta ham bo'lmaydi
+! Materialga ko'ra 1 ml toza suvda 100–200 dona mikrob bo'lishi mumkin
+@ M
+
+? Materialga ko'ra 1 ml ifloslangan suvda mikroblar soni qancha bo'lishi mumkin?
++ 100 000 dan 300 000 gacha
+- 10 000 dan 20 000 gacha
+- 200 000 dan 300 000 gacha
+- 1 000 dan 2 000 gacha
+- 5 000 dan 6 000 gacha
+! Materialga ko'ra ifloslangan suvda 1 ml da 100 000 dan 300 000 gacha va undan ko'p mikrob bo'lishi mumkin
+@ M
+
+? Koli-titr nima?
++ Suvda ichak tayoqchasi topiladigan eng kam hajm
+- 1 litr suvdagi ichak tayoqchalari soni (ta)
+- 1 ml suvdagi umumiy mikroblar soni (ta)
+- Suvda ichak tayoqchasi topiladigan eng katta hajm
+- 100 ml suvdagi o'sgan koloniyalar soni (ta)
+! Koli-titr — suvda ichak tayoqchasi (E. coli) topiladigan eng kam hajm (ml hisobida)
+@ M
+
+? Koli-titr 10 ml bo'lsa, koli-indeks (1 litr suvdagi ichak tayoqchalari soni) qancha bo'ladi?
++ 100
+- 10
+- 1000
+- 10 000
+- 0,1
+! Koli-indeks = 1000 ml / koli-titr = 1000 / 10 = 100
+@ M
+
+? Materialga ko'ra tindirish jarayonida mikroorganizmlarning taxminan necha foizi cho'kadi?
++ 75 %
+- 10 %
+- 30 %
+- 50 %
+- 99 %
+! Materialga ko'ra suvni maxsus idishlarda tindirishda mikroorganizmlarning taxminan 75 % cho'kadi
+@ M
+
+? Tindirishni tezlashtirish uchun suvga qaysi koagulyant qo'shiladi?
++ Ohak
+- Osh tuzi
+- Soda
+- Shakar
+- Sirka kislotasi
+! Tindirish tezlashishi uchun suvga koagulyant, masalan ohak, qo'shiladi
+@ M
+
+? Tozalangan suv odatda qanday usul bilan dezinfeksiya qilinadi?
++ Xlorlash orqali
+- Qaynatib, keyin muzlatish orqali
+- Spirt qo'shish orqali
+- Kraxmal bilan aralashtirish orqali
+- Quritib, kukunga aylantirish orqali
+! Tozalangan suv xlorlanib dezinfeksiya qilinadi va sanitar tekshiruvdan o'tgach, aholiga yetkaziladi
+@ M
+
+? JSST ko'rsatmalariga ko'ra ichimlik suvining 100 ml namunasida E. coli qanday bo'lishi kerak?
++ Aniqlanmasligi kerak
+- 10 donagacha bo'lishi mumkin
+- 50 donagacha bo'lishi mumkin
+- Kamida 1 dona bo'lishi kerak
+- 100 dona atrofida bo'lishi kerak
+! JSST ichimlik suvi sifati bo'yicha ko'rsatmalarida E. coli 100 ml namunada aniqlanmasligi lozim
+@ WHODW
+
+? Suv namunasi qanday olinadi va tashiladi?
++ Steril idishga olinib, tez laboratoriyaga yetkaziladi
+- Oddiy idishga olinib, bir necha kundan so'ng yetkaziladi
+- Ochiq idishda, issiq joyda saqlanib yetkaziladi
+- Qattiq muzda uzoq muddat muzlatib yetkaziladi
+- Sterillanmagan idishga, og'zi ochiq holda olinadi
+! Suv namunasi steril idishga olinadi va tez laboratoriyaga yetkaziladi, chunki uzoq saqlansa mikroblar soni o'zgaradi
+@ M
+
+? Artezian quduqlari va buloq suvlarida bakteriyalar qanday uchraydi?
++ Deyarli uchramaydi, suv tozaroq hisoblanadi
+- Million miqdorda uchraydi, suv ifloslangan hisoblanadi
+- Ochiq hovuz suvidan ko'proq bo'ladi
+- Ichak tayoqchalari ko'p uchraydi
+- Faqat patogen bakteriyalar uchraydi
+! Yer osti suvlari, masalan artezian quduqlari va buloq suvlari, odatda tozaroq hisoblanadi va bakteriyalar deyarli uchramaydi
+@ M
+
+# 031
+? Havo, suv va tuproqdan qaysi biri bakteriyalarga eng boy muhit hisoblanadi?
++ Tuproq
+- Havo
+- Artezian suvi
+- Muzlik suvi
+- Distillangan suv
+! Tuproq havo va suvga nisbatan bakteriyalarga boyroq muhit hisoblanadi
+@ M BROCK
+
+? Mikroblarning eng ko'p qismi tuproqning qaysi qatlamida joylashadi?
++ Yuqori qatlamida
+- Eng chuqur qatlamida
+- Bir metr chuqurlikda
+- Tosh qatlami ustida
+- Yer osti suvi qatlamida
+! Mikroblarning eng ko'p qismi tuproqning yuqori qatlamida joylashadi, chuqurlashgan sari kislorod va oziq moddalar kamayishi tufayli mikroblar kamayadi
+@ M BROCK
+
+? Tuproqning avtoxton mikroflorasiga qaysi mikroblar kiradi?
++ Mikobakteriyalar, psevdomonadlar, sporali va azot biriktiruvchilar
+- Salmonella, shigella, vabo vibrioni va brutsella bakteriyalari
+- Stafilokokk, streptokokk, pnevmokokk va gemofil tayoqchalar
+- Ichak tayoqchasi, klebsiella, proteus va enterobakter turlari
+- Meningokokk, gonokokk, ko'kyo'tal va bo'g'ma tayoqchalari
+! Tuproqning avtoxton mikroflorasi mikobakteriyalar, psevdomonadlar, sporali va azot biriktiruvchi bakteriyalardan iborat
+@ M
+
+? Tuproqda ichak bakteriyalarining topilishi nimani bildiradi?
++ Yaqinda ifloslanganini
+- Tuproq unumdorligi yuqoriligini
+- Muhit toza va steril ekanini
+- Azot to'planganini
+- Namlik yetishmasligi borligini
+! Alloxton ichak bakteriyalari tuproqda ko'paymaydi, shu sababli ularning topilishi yaqinda ifloslanish belgisi sifatida baholanadi
+@ M
+
+? Perfringens-titr tuproqdagi qanday ifloslanish belgisi hisoblanadi?
++ Eski fekal ifloslanish
+- Yangi fekal ifloslanish
+- Radioaktiv ifloslanish
+- Kimyoviy ifloslanish
+- Havo orqali ifloslanish
+! Perfringens sporalari uzoq saqlanganligi sababli, ular eski fekal ifloslanish belgisi sifatida xizmat qiladi
+@ M
+
+? Tuproqda koli-titr qanday ifloslanishni ko'rsatadi?
++ Yangi ifloslanishni
+- Eski ifloslanishni
+- Ifloslanish yo'qligini
+- Faqat kimyoviy ifloslanishni
+- Tuproq namligini
+! Koli-titr tuproqdagi ichak tayoqchasi bo'yicha hisoblanadi va yangi ifloslanishni ko'rsatadi, perfringens-titr esa eski ifloslanishni
+@ M
+
+? Perfringens-titr qaysi mikrob sporalari miqdori bilan baholanadi?
++ Clostridium perfringens
+- Bacillus anthracis
+- Clostridium tetani
+- Bacillus subtilis
+- Clostridium botulinum
+! Perfringens-titr tuproqdagi Clostridium perfringens sporalari miqdori bilan baholanadi
+@ M
+
+? Tuproq namunasi qanday olinadi?
++ Yuzaning turli nuqtalaridan olib, bitta namunaga birlashtiriladi
+- Bitta nuqtadan, eng chuqur qatlamdan olib, alohida saqlanadi
+- Faqat quruq joydan, bir qoshiq miqdorda olib, aralashtirilmaydi
+- Sterilmas idishda, ochiq holda bir hafta saqlanadi
+- Yog'ingarchilikdan so'ng suv bosgan joydan olib, tekshirilmaydi
+! Tuproq namunasi yuzaning turli nuqtalaridan olinib bir namunaga birlashtiriladi, chuqurligi va joyi yo'llanma xatga yoziladi
+@ M
+
+? Tuproq mikroflorasi qaysi zonada eng faol bo'ladi?
++ O'simlik ildizi atrofida
+- Qum tepaligi yuzasidagi quruq qatlamda
+- Tosh qatlami ichidagi yoriqlar bo'ylab
+- Yer osti suv sathi yaqinida
+- Shag'alli ariq tubidagi qatlamda
+! Tuproq mikroflorasi o'simlik ildizi atrofida (rizosferada) eng faol bo'ladi, chunki ildiz ajratmalari mikroblar uchun oziq manbai bo'ladi
+@ M BROCK
+
+? Oltingugurt tuzlarini qaytaruvchi tuproq mikroblari qanday sharoitda faol bo'ladi?
++ Anaerob sharoitda
+- Kislorodga boy aerob sharoitda
+- Ultrabinafsha nur ostida
+- Quruq qurg'oqchil sharoitda
+- 100 °C li qaynoq muhitda
+! Oltingugurt tuzlarini qaytaruvchi mikroblar anaerob sharoitda faol bo'ladi
+@ M BROCK
