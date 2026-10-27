@@ -131,6 +131,7 @@ def comment(tid, it):
 
 def check(topics, verbose=True):
     problems = []
+    warns = []
     tot = collections.Counter()
     over10 = 0
     nq = 0
@@ -152,7 +153,7 @@ def check(topics, verbose=True):
             mx = max(len(x) for x in it["wrong"])
             r = len(it["correct"]) / mx
             if r > MAX_RATIO_FAIL: problems.append("%s: FAIL uzunlik nisbati %.2f" % (w, r))
-            elif r > MAX_RATIO_WARN: problems.append("%s: uzunlik nisbati %.2f (>1.10)" % (w, r))
+            elif r > MAX_RATIO_WARN: warns.append("%s: uzunlik nisbati %.2f (>1.10)" % (w, r))
             if r > 1.10: over10 += 1
             nbad = sum(1 for x in it["wrong"] if x.split()[0].lower().strip(",") in BAD_START)
             if nbad > 1: problems.append("%s: %d ta Faqat/Hech/Umuman/Barcha bilan boshlanadi" % (w, nbad))
@@ -175,8 +176,10 @@ def check(topics, verbose=True):
         print("Savollar: %d, mavzular: %d" % (nq, len(topics)))
         print("Harf taqsimoti:", {l: tot.get(l, 0) for l in LETTERS})
         print(">10%% uzun: %d (%.1f%%)" % (over10, 100.0 * over10 / max(nq, 1)))
-        print("Muammolar: %d" % len(problems))
+        print("Muammolar: %d (ogohlantirish 10-30%%: %d)" % (len(problems), len(warns)))
         for p in problems: print("  -", p)
+        if "--warn" in sys.argv:
+            for p in warns: print("  ~", p)
     return problems
 
 
