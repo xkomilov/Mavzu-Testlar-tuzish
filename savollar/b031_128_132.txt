@@ -1,0 +1,459 @@
+# 128
+
+? Gemokultura usulida qaysi material ekiladi?
++ Bemor qoni
+- Bemor siydigi
+- Bemor najasi
+- Bemor balg'ami
+- Bemor tupurigi
+! Gemokultura qon madaniyatidir: bemor qoni steril sharoitda olinib, bulyonli muhitga ekiladi
+@ M JAW
+
+? Qon qaysi sharoitda olinadi?
++ Teri dezinfeksiyasidan so'ng, steril sharoitda
+- Teri tozalanmay, oddiy sharoitda, qo'lqopsiz
+- Qon quyish xonasida, tiqinsiz idishga
+- Uy sharoitida, oldin ishlatilgan ignada
+- Dezinfeksiyasiz, eski shprits bilan olinadi
+! Qon namunasi teri dezinfeksiya qilingandan keyin, steril sharoitda olinadi
+@ M JAW
+
+? Qon hajmi gemokulturada nima uchun muhim?
++ Hajm aniqlash ehtimolini belgilaydi
+- Hajm bulyonning rangini belgilaydi
+- Hajm inkubator haroratini belgilaydi
+- Hajm bemorning yoshini belgilaydi
+- Hajm tashish yo'lini belgilaydi
+! Qon hajmi bakteriyalarni aniqlash ehtimolini belgilaydi: hajm yetarli bo'lmasa, kam bakteriya tekshiruvdan chetda qolishi mumkin
+@ M JAW
+
+? Gemokultura uchun qon qachon olinadi?
++ Antibiotik boshlanishidan oldin
+- Antibiotik kursining oxirida
+- Antibiotik dozasi oshirilgandan keyin
+- Antibiotik to'xtatilgandan bir oy o'tgach
+- Antibiotikdan mustaqil, istalgan paytda
+! Antibiotiklar natijani buzishi mumkin, shu sababli qon imkon qadar antibiotik boshlanishidan oldin olinadi
+@ M JAW
+
+? Antibiotiklarni neytrallovchi maxsus idishlar qanday vazifani bajaradi?
++ Dori qoldig'ini bog'lab, o'sishga imkon beradi
+- Dori ta'sirini kuchaytirib, o'sishni to'xtatadi
+- Qonni ivitib, laxta hosil qilib qo'yadi
+- Bakteriyalarni o'ldirib, muhitni steril qiladi
+- Qonni quritib, kukun holiga keltirib beradi
+! Bunday idishlar dori qoldiqlarini bog'lab, bakteriyalar o'sishiga to'sqinlikni kamaytiradi va natija aniqligini oshiradi
+@ M JAW
+
+? Antibiotik qabul qilgan bemorda manfiy gemokultura nimani bildiradi?
++ Kasallik yo'qligini kafolatlamaydi
+- Kasallik yo'qligini to'liq tasdiqlaydi
+- Bemorning sog'lom ekanini ko'rsatadi
+- Infeksiya o'tib ketganini bildiradi
+- Antibiotik samarali ekanini isbotlaydi
+! Antibiotik qabul qilingan bemorlarda manfiy natija kasallikning yo'qligini kafolatlamaydi
+@ M JAW
+
+? Qon bulyoni odatda qanday haroratda inkubatsiya qilinadi?
++ 37 °C da
+- 4 °C da
+- 22 °C da
+- 56 °C da
+- 100 °C da
+! Qon bulyoni odatda 37 °C da inkubatsiya qilinib, bir necha kun davomida kuzatiladi
+@ M JAW
+
+? Bulyonda o'sish belgisi sifatida nima paydo bo'ladi?
++ Loyqalik yoki gaz
+- Rangsizlanish yoki kristall
+- Qotish yoki quruqlik
+- Qizarish yoki nurlanish
+- Hid yo'qolishi yoki shaffoflik
+! Bulyonda loyqalik yoki gaz paydo bo'lishi o'sishning belgisi hisoblanadi
+@ M JAW
+
+? Avtomatlashtirilgan gemokultura tizimlari qanday vazifani bajaradi?
++ Idishlarni kuzatib, o'sishni avtomatik aniqlaydi
+- Bakteriyalarni o'ldirib, muhitni steril qiladi
+- Bemorning qon bosimini o'lchab, yozib boradi
+- Qonni sentrifugalab, plazmani ajratib beradi
+- Antibiotiklarni avtomatik ravishda yuborib turadi
+! Avtomatlashtirilgan tizimlar bulyon idishlarini doimiy kuzatib, o'sish belgilarini avtomatik aniqlaydi, natijani tezlashtiradi
+@ M JAW
+
+? Qon idishi nima uchun yorliqlanadi?
++ Natijani to'g'ri talqin qilish uchun
+- Idish rangini aniqlab, tasniflash uchun
+- Idishni yo'qotmaslik va tashlab yuborish uchun
+- Xodimning shaxsiy ma'lumotini saqlash uchun
+- Idishni ko'paytirib, qayta ishlatish uchun
+! Yorliqda bemor ma'lumotlari va olingan vaqt qayd etiladi, bu natijani to'g'ri talqin qilish uchun zarur
+@ M
+
+# 129
+
+? Vidal reaksiyasi nima?
++ Qorin tifi va paratif uchun aglyutinatsiya
+- Zaxm uchun komplementni bog'lash reaksiyasi
+- Sil uchun teri ichi tuberkulin sinamasi
+- Bo'g'ma uchun toksin neytrallash sinamasi
+- Brutsellyoz uchun teri-allergik sinama
+! Vidal reaksiyasi qorin tifi va paratiflar serologik tashxisida qo'llanadigan aglyutinatsiya reaksiyasi
+@ M JAW
+
+? Vidal reaksiyasi uchun qon qachon olinadi?
++ Birinchi haftada va bir necha haftadan keyin
+- Sog'ayganidan bir yil o'tgandan keyin bir marta
+- Kasallik boshlanishidan oldin sog'lom holatda
+- Ixtiyoriy kunda va faqat bir marta olinadi
+- Antibiotik kursi tugagandan keyin bir marta
+! Birinchi zardob kasallikning birinchi haftasida, ikkinchisi bir necha haftadan keyin olinadi; bu antitelalar dinamikasini ko'rsatadi
+@ M JAW
+
+? Juft zardoblarda qanday titr o'zgarishi infeksiyaning haqiqiy belgisi?
++ Titrning kamida to'rt marta oshishi
+- Titrning kamida ikki marta oshishi
+- Titrning o'zgarmasdan qolishi
+- Titrning kamayishi
+- Titrning kamida yarim marta oshishi
+! Juft zardoblarda titrning kamida to'rt marta oshishi infeksiyaning haqiqiy belgisi hisoblanadi
+@ M JAW WHODW
+
+? Bitta yuqori titr nima uchun tashxis uchun yetarli emas?
++ Emlash yoki sog'lom antitelalar bo'lishi mumkin
+- Hech qachon laboratoriyada aniq o'lchanmaydi
+- Hamma vaqt past qiymatda bo'lib qoladi
+- Hayvonlar zardobida aniqlanadi, odamda emas
+- Tezda yo'qolib ketadi va o'lchab bo'lmaydi
+! Bitta yuqori titr oldingi emlash yoki sog'lom holatdagi antitanachalar bilan izohlanishi mumkin
+@ M JAW
+
+? Titrni aniqlash uchun zardob qanday ishlanadi?
++ Ketma-ket suyultirilib, antigen qo'shiladi
+- Qaynatilib, bir marta antigen qo'shiladi
+- Muzlatilib, har biriga antibiotik qo'shiladi
+- Quritilib, har biriga bo'yoq qo'shiladi
+- Sentrifugalanib, har biriga ferment qo'shiladi
+! Titrni aniqlash uchun zardob ketma-ket suyultirilib, har biriga antigen qo'shiladi; aglyutinatsiya ko'rinadigan eng katta suyultirish titr
+@ M JAW
+
+? Titr nima?
++ Aglyutinatsiya ko'rinadigan eng katta suyultirish
+- Aglyutinatsiya ko'rinadigan eng kichik suyultirish
+- Zardobning umumiy hajmi
+- Antigenning umumiy og'irligi
+- Reaksiya o'tkaziladigan vaqt
+! Titr — zardobning aglyutinatsiya hali ko'rinadigan eng katta suyultirishi
+@ M JAW
+
+? Vidal reaksiyasida nazorat nima uchun qo'yiladi?
++ Reaksiya to'g'riligini tekshirish uchun
+- Zardobni sterillab, saqlab qo'yish uchun
+- Reaksiyani tezlashtirib, vaqtni tejash uchun
+- Antigenni ko'paytirib, sarfini kamaytirish uchun
+- Bemorni aniqlab, ma'lumotini yozish uchun
+! Musbat va manfiy nazorat reaksiyaning to'g'riligini tekshiradi
+@ M JAW
+
+? Vi-antitelalarni aniqlash qaysi maqsadda foydali?
++ Tashuvchilikni aniqlashda
+- Qon guruhini aniqlashda
+- Zaxmni aniqlashda
+- Allergiyani aniqlashda
+- Gelmintlarni aniqlashda
+! Vi-antitelalar ayrim tashuvchilarda yuqori darajada uchraydi, shuning uchun tashuvchilikni aniqlashda foydali bo'lishi mumkin
+@ M JAW
+
+? Tashxisiy titr chegarasi nimaga bog'liq?
++ Mahalliy vaziyat, emlash va standartga
+- Bemorning yoshi va jinsiga, boshqa omillarsiz
+- Laborantning kayfiyati va ish vaqtiga qarab
+- Zardobning rangi va hidiga qarab
+- Inkubatsiya vaqti va idish shakliga qarab
+! Tashxisiy titr chegarasi mahalliy vaziyat, emlash darajasi va laboratoriya standartlariga qarab farq qiladi
+@ M JAW
+
+? Zardob olishda qon qanday saqlanadi?
++ Zardob ajratilib, sovutilgan holda saqlanadi
+- Zardob qaynatilib, issiq holda saqlanadi
+- Zardob quritilib, quruq holda saqlanadi
+- Zardob ochiq idishda, xona haroratida
+- Zardob formalinda, muzlatilgan holda
+! Qon steril olinadi, zardob ajratilib sovutilgan holda saqlanadi
+@ M JAW
+
+# 130
+
+? Koprokultura usulida qaysi material tekshiriladi?
++ Axlat (najas) namunasi
+- Qon namunasi, tomirdan olingan
+- Siydik namunasi, o'rta oqimdan
+- Balg'am namunasi, ertalabki
+- Likvor namunasi, bel punksiyasidan
+! Koprokultura axlat (najas) kulturasi bo'lib, ichak infeksiyalarini va tashuvchilikni aniqlashda qo'llanadi
+@ M JAW
+
+? Bir necha kun oralig'ida bir necha namuna olish nima uchun foydali?
++ Bakteriya vaqtincha kam bo'lsa, natija ishonchli bo'ladi
+- Natija doim manfiy chiqadi, namuna ko'payib ketadi
+- Namuna avtomatik ravishda steril holga keladi va saqlanadi
+- Bakteriyalar tezda nobud bo'lib, ko'rinmay qoladi
+- Bemorning yoshi va jinsi aniq bo'lib qoladi
+! Bitta manfiy namuna bakteriyalar vaqtincha kam ekanini bildirishi mumkin; bir necha namuna natijani ishonchli qiladi
+@ M JAW
+
+? Axlatda salmonellalar kam bo'lsa, qanday muhitga solinadi?
++ Boyituvchi muhitga
+- Quruq muhitga
+- Qon agariga
+- Shokoladli agarga
+- Sabouraud agariga
+! Axlatda salmonellalar kam bo'lsa, namuna boyituvchi muhitga solinadi
+@ M JAW
+
+? Salmonella uchun eng ko'p qo'llanadigan boyituvchi muhitlar qaysilar?
++ Selenit va Muller–Kauffmann bulyonlari
+- Manitli tuzli bulyon va Beyrd–Parker bulyoni
+- Safroli bulyon va tioglikolli bulyon
+- Peptonli suv va Kitt–Tarotstsi bulyoni
+- Sabouraud bulyoni va Chapek bulyoni
+! Selenit bulyoni va Muller–Kauffmann tetrationat bulyoni eng ko'p qo'llanadigan boyituvchi muhitlar
+@ M JAW
+
+? Boyituvchi muhitda namuna qancha vaqt inkubatsiya qilinadi?
++ 37 °C da 18–24 soat
+- 22 °C da 1–2 soat
+- 4 °C da 5–7 kun
+- 56 °C da 30 daqiqa
+- 42 °C da 3 kun
+! Boyituvchi muhitda namuna 18–24 soat 37 °C da inkubatsiya qilinib, so'ng selektiv qattiq muhitga ekiladi
+@ M JAW
+
+? Boyituvchi muhitlar qanday vazifani bajaradi?
++ Ichak florasini cheklab, salmonella ulushini oshiradi
+- Barcha bakteriyalarni teng ko'paytirib, aralashtiradi
+- Salmonellalarni darhol o'ldirib, tozalab qo'yadi
+- Najasni rangsizlantirib, shaffof holga keltiradi
+- Najasni steril holga keltirib, saqlab beradi
+! Boyituvchi muhitlar ichak mikroflorasi ko'payishini cheklaydi va salmonellalarning nisbiy ulushini oshiradi
+@ M JAW
+
+? Selektiv qattiq muhitlarga qaysilar kiradi?
++ Ploskirev agari, bismut-sulfit agari, XLD agari
+- Qon agari, shokoladli agar, Tayer–Martin agari
+- Manitli tuzli agar, Beyrd–Parker agari, SDA
+- Levenshteyn–Yensen, Finn, Petragnani muhiti
+- Kitt–Tarotstsi muhiti, tioglikolli muhit, Vilson–Bler
+! Ploskirev agari, bismut-sulfit agari va XLD agari salmonellalar uchun selektiv qattiq muhitlardir
+@ M JAW
+
+? Salmonellalar biokimyoviy sinovlarda qanday natija beradi?
++ Lizin dekarboksilaza musbat, mochevina manfiy
+- Lizin dekarboksilaza manfiy, mochevina musbat
+- Lizin dekarboksilaza musbat, mochevina musbat
+- Lizin dekarboksilaza manfiy, mochevina manfiy
+- Lizin dekarboksilaza musbat, indol musbat
+! Salmonellalar uchun lizin dekarboksilaza musbat, mochevina sinovi manfiy bo'ladi
+@ M JAW
+
+? Ekilgan selektiv muhitlar qancha vaqt inkubatsiya qilinadi?
++ 37 °C da 18–24 soat
+- 22 °C da 1–2 soat
+- 4 °C da 5–7 kun
+- 56 °C da 30 daqiqa
+- 42 °C da 3 kun
+! Ekilgan muhitlar 37 °C da 18–24 soat inkubatsiya qilinadi, so'ng koloniyalar ko'rinishi va rangi baholanadi
+@ M JAW
+
+? Biokimyoviy tasdiqlangan koloniyalar keyingi bosqichda nima bilan tekshiriladi?
++ O va H zardoblar bilan aglyutinatsiyada
+- Optoxin disklari bilan zonani o'lchashda
+- Gram bo'yog'i bilan mikroskopiya qilishda
+- Tuberkulin bilan teri sinamasi qo'yishda
+- Koagulaza plazmasi bilan ivitish sinamasida
+! Biokimyoviy tasdiqlangan koloniyalar polivalent O va H zardoblar bilan aglyutinatsiya orqali seratiplanadi
+@ M JAW
+
+# 131
+
+? Shigellalarning asosiy morfologik xususiyati qaysi?
++ Harakatsizlik, xivchinlari yo'q
+- Harakatchanlik, peritrix xivchinlari
+- Spora hosil qilishi, kapsulasi
+- Spiralsimon shakli, egri tuzilishi
+- Koksimon shakli, zanjirsimon joylashishi
+! Shigellalar harakatsiz, sporasiz va kapsulasiz Gram-manfiy tayoqchalar, shu belgi bilan salmonellalardan farqlanadi
+@ M JAW
+
+? Shigellalar Gram usulida qanday bo'yaladi?
++ Qizil rangga bo'yaladi
+- Binafsha rangga bo'yaladi
+- Ko'k rangga bo'yaladi
+- Umuman bo'yalmaydi
+- Yashil rangga bo'yaladi
+! Shigellalarning hujayra devori Gram-manfiy, shu sababli ular Gram usulida qizil (pushti) rangga bo'yaladi
+@ M JAW
+
+? Shigella seratiplarini aniqlashda qaysi antigen ishlatiladi?
++ O-antigen (lipopolisaxarid)
+- H-antigen (xivchin oqsili)
+- Vi-antigen (kapsula qobig'i)
+- K-antigen (qobiq polisaxaridi)
+- F-antigen (pili oqsili)
+! Lipopolisaxarid qismi O-antigenni hosil qiladi va seratiplarni aniqlashda ishlatiladi
+@ M JAW
+
+? Shigellalar laktoza bijg'ishi bo'yicha qanday?
++ Laktozani bijg'itmaydi, rangsiz koloniya hosil qiladi
+- Laktozani tez bijg'itadi, qizil koloniya hosil qiladi
+- Laktozani bijg'itib, qora koloniya hosil qiladi
+- Laktozani bijg'itib, yashil koloniya hosil qiladi
+- Laktozani bijg'itib, sariq koloniya hosil qiladi
+! Shigellalar laktozani bijg'itmaydi, shu sababli selektiv muhitlarda rangsiz koloniyalar beradi
+@ M JAW
+
+? Qaysi shigella turi laktozani kechroq bijg'itadi?
++ S. sonnei
+- S. dysenteriae
+- S. flexneri
+- S. boydii
+- S. typhi
+! S. sonnei laktozani kechroq (ko'pincha bir kundan keyin) bijg'itadi
+@ M JAW
+
+? Shigellalar glyukozani qanday bijg'itadi?
++ Kislota hosil qiladi, gaz hosil qilmaydi
+- Kislota va ko'p miqdorda gaz hosil qiladi
+- Gaz hosil qiladi, kislota hosil qilmaydi
+- Spirt va ko'mir kislotasi hosil qiladi
+- Bijg'itmaydi, glyukozani o'zlashtirmaydi
+! Shigellalar glyukozani bijg'itadi, odatda gaz hosil qilmaydi (salmonellalar ko'pincha gaz hosil qiladi)
+@ M JAW
+
+? Shigellalar lizin dekarboksilaza sinovida qanday natija beradi?
++ Manfiy
+- Musbat
+- Zaif musbat
+- O'zgaruvchan
+- Sinov qo'llanmaydi
+! Shigellalar lizin dekarboksilaza manfiy, mochevinani parchalamaydi va sitratni ishlatmaydi
+@ M JAW
+
+? Mannitni bijg'itish bo'yicha qaysi tur odatda bijg'itmaydi?
++ Shigella dysenteriae
+- Shigella flexneri
+- Shigella sonnei
+- Shigella boydii
+- Salmonella enterica
+! S. flexneri mannitni ko'pincha bijg'itadi, S. dysenteriae esa odatda bijg'itmaydi
+@ M JAW
+
+? Shigellalar qanday kultural sharoitda o'sadi?
++ Fakultativ anaerob, 37 °C, 18–24 soat
+- Qat'iy anaerob, 55 °C, 3–5 kun davomida
+- Qat'iy aerob, 22 °C, 7–10 kun davomida
+- Mikroaerofil, 4 °C, 10 kun davomida
+- Kapnofil, 42 °C, 30 daqiqa davomida
+! Shigellalar fakultativ anaerob bo'lib, 37 °C da 18–24 soat ichida kichik, silliq koloniyalar hosil qiladi
+@ M JAW
+
+? Shigella uchun selektiv ajratish muhitlari qaysilar?
++ Ploskirev, Endo va MakKonki agarlari
+- Qon, shokoladli va Tayer–Martin agarlari
+- Manitli tuzli, Beyrd–Parker agarlari
+- Sabouraud, Chapek va kartoshka agarlari
+- Kitt–Tarotstsi va tioglikolli muhit
+! Shigellalarni ajratishda Ploskirev, Endo va MakKonki kabi selektiv muhitlar qo'llanadi
+@ M JAW
+
+# 132
+
+? Shigelloz bilan qanday zararlanish yuz beradi?
++ Ifloslangan ovqat, suv yoki qo'l orqali
+- Hasharot chaqishi orqali, ayniqsa yozda
+- Havo-chang orqali, ayniqsa uyda
+- Jinsiy aloqa orqali, ayniqsa yoshlarda
+- Qon quyish orqali, ayniqsa kasalxonada
+! Infeksiya shigellalar bilan ifloslangan oziq-ovqat, suv yoki qo'l orqali og'izga tushganda boshlanadi
+@ M JAW WHODW
+
+? Shigellalar kasallik chaqirishi uchun qancha miqdor kerak?
++ Juda kam miqdor ham yetarli bo'ladi
+- Juda ko'p miqdor, millionlab hujayra kerak
+- Doimo yuz millionlab hujayra kerak bo'ladi
+- Toksin shaklida bo'lsagina yetarli bo'ladi
+- Spora shaklida bo'lsagina yetarli bo'ladi
+! Shigellalar juda kam miqdorda ham kasallik chaqirishi mumkin, oshqozon to'siqlaridan o'tib yo'g'on ichakka yetadi
+@ M JAW WHODW
+
+? Shigellalar ichak epiteliysiga qanday kiradi?
++ M hujayralar orqali, so'ng bazolateral qismdan
+- Epiteliyning yuqori qismidan, sporalari bilan
+- Qon tomirlari orqali, makrofaglar bilan
+- Jigar orqali, o't yo'llari bilan
+- Limfa tugunlari orqali, toksini bilan
+! Shigellalar avval M hujayralar orqali o'tadi, so'ng epiteliy hujayralarining bazolateral qismidan kirib, ichida ko'payadi
+@ M JAW
+
+? Shigellalar qo'shni hujayralarga qanday tarqaladi?
++ Aktin asosidagi harakat mexanizmi orqali
+- Xivchinlari yordamida, peritrix tarzda
+- Sporalari yordamida, tashqi muhitda
+- Kapsula hosil qilib, qon ichida
+- Toksin ajratib, tashqi sirt bo'ylab
+! Hujayra ichida shigellalar aktin bilan bog'liq harakat mexanizmi orqali qo'shni hujayralarga tarqaladi
+@ M JAW
+
+? Shigelloz bilan axlat qanday bo'ladi?
++ Qon va shilimshiq aralash
+- Suvsimon, guruch suvi ko'rinishida
+- Yog'li, ko'pikli va hidsiz
+- Oq rangli, loy ko'rinishida
+- Qora rangli, qotgan ko'rinishda
+! Ichak shilliq qavatidagi yaralar qon va shilimshiq aralash axlatning sababi, bu shigelloz tashxisida diagnostik belgi
+@ M JAW
+
+? Tenezm nima?
++ Axlatga bo'lgan og'riqli chaqiruv
+- Siydik ushlay olmaslik hodisasi
+- Qorin devori mushaklari titrashi
+- Ich qotishi va qorin shishishi
+- Bosh aylanishi va ko'ngil aynishi
+! Tenezm — axlat chiqarishga yolg'on chaqiruv va og'riq bilan kechadigan holat, shigelloz yallig'lanishi kuchli bo'lganda kuzatiladi
+@ M JAW
+
+? Shiga toksinini qaysi tur ishlab chiqaradi?
++ Shigella dysenteriae 1-tur
+- Shigella sonnei turi, yengil kasallik beradi
+- Shigella flexneri turi, keng tarqalgan
+- Shigella boydii turi, kam uchraydi
+- Salmonella Typhi turi, qorin tifi beradi
+! Shiga toksinini Shigella dysenteriae 1 turi ishlab chiqaradi
+@ M JAW
+
+? Shiga toksinning ta'sir mexanizmi qanday?
++ Ichak epiteliysida oqsil sintezini to'xtatadi
+- Nerv-mushak o'tkazuvchanligini to'xtatadi
+- Adenilatsiklazani faollashtiradi
+- Eritrotsit membranasida teshik hosil qiladi
+- Qon ivishini to'xtatib, qon ketishini oshiradi
+! Shiga toksin ichak epiteliysida oqsil sintezini to'xtatib, hujayralarni nobud qiladi
+@ M JAW
+
+? Shiga toksin qonga o'tsa, qaysi asorat rivojlanishi mumkin?
++ Gemolitik-uremik sindrom
+- Vaterxauzen–Fridrixsen sindromi
+- Toksik shok sindromi
+- Reyter sindromi
+- Gilen–Barre sindromi
+! Shiga toksin qonga o'tgach buyrak va boshqa a'zolarni zararlaydi, ayrim bemorlarda gemolitik-uremik sindrom rivojlanadi
+@ M JAW
+
+? Shigellalar epiteliy ichida ko'payganda ichak devorida nima hosil bo'ladi?
++ Yaralar va kuchli yallig'lanish
+- Qattiq toshlar va qalinlashish
+- Kistalar va yog' to'planishi
+- Yengil qizarish va yallig'lanishsiz holat
+- Mikrob sporalaridan iborat qatlam
+! Shigellalar ichak hujayralarini nobud qilib kuchli yallig'lanish va yaralar hosil qiladi
+@ M JAW

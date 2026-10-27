@@ -1,0 +1,459 @@
+# 123
+
+? Esherixiozni tashxislashning asosiy usuli qaysi?
++ Bakteriologik usul (najas ekmasi)
+- Teri-allergik usul (sinama)
+- Gistologik usul (biopsiya)
+- Rentgenologik usul (tasvir)
+- Elektrokardiografik usul (yozuv)
+! Esherixiozni tashxislashning asosiy yo'li bakteriologik usul: najas namunasi oziqa muhitiga ekilib, koloniyalar o'rganiladi
+@ M JAW WHODW
+
+? Ichak tayoqchasini ajratish uchun qaysi muhitlar qo'llanadi?
++ MakKonki agari, Endo agari va Levin muhiti
+- Sabouraud agari, Chapek muhiti va kartoshka agari
+- Levenshteyn–Yensen, Finn va Petragnani muhitlari
+- Kitt–Tarotstsi, Vilson–Bler va tioglikolli muhit
+- Manitli tuzli agar, Beyrd–Parker va qon agari
+! Ichak tayoqchasini ajratishda MakKonki agari, Endo agari va Levin muhiti kabi selektiv-differensial muhitlar qo'llanadi
+@ M JAW
+
+? Laktozani bijg'itadigan koloniyalar selektiv-differensial muhitda qanday ajralib turadi?
++ Rangi bilan, boshqa koloniyalardan farq qiladi
+- Hidi bilan, boshqa koloniyalardan farq qiladi
+- O'lchami bilan, boshqa koloniyalardan farq qiladi
+- Harakatchanligi bilan, boshqa koloniyalardan farq qiladi
+- Sporalari bilan, boshqa koloniyalardan farq qiladi
+! Differensial muhitlarda laktozani bijg'itadigan koloniyalar rangi bilan boshqalardan ajralib turadi
+@ M JAW
+
+? Ichak tayoqchasini boshqa enterobakteriyalardan farqlashga qaysi sinovlar yordam beradi?
++ Indol, metil-qizil va sitrat sinovlari
+- Koagulaza, katalaza va manit sinovlari
+- Optoxin, safro va bacitracin sinovlari
+- Oksidaza, nitrat va gippurat sinovlari
+- Ureaza, jelatina va kazein sinovlari
+! Indol hosil qilish, metil-qizil sinovi va sitratni ishlatmaslik ichak tayoqchasini boshqa enterobakteriyalardan farqlaydi
+@ M JAW
+
+? Ichakdan tashqari esherixioz infeksiyalarida siydik yo'llari infeksiyasi uchun qanday namuna olinadi?
++ O'rta oqimdagi siydik
+- Birinchi porsiyadagi siydik
+- Kechki ovqatdan keyingi siydik
+- Bir kun yig'ilgan siydik
+- Sutka davomidagi aralash siydik
+! Siydik yo'llari infeksiyasida o'rta oqimdagi siydik tekshiriladi, qon infeksiyasida qon, meningitda likvor olinadi
+@ M JAW
+
+? Najas namunasi nima uchun bir necha soat ichida laboratoriyaga yetkaziladi?
++ Tirik mikroblar kamayadi, begona flora ko'payadi
+- Mikroblar soni oshib, aniqlik yaxshilanib ketadi
+- Najas toza suvga aylanib, tahlil qilib bo'lmaydi
+- Toksinlar to'liq zararsizlanib, tekshirish keraksiz bo'ladi
+- Patogenlar sporaga aylanib, ko'rinmay qoladi
+! Uzoq saqlashda tirik patogenlar kamayadi, boshqa bakteriyalar esa ko'payib natijani buzadi
+@ M JAW
+
+? Tez yetkazish imkoni bo'lmasa, najas namunasi qanday saqlanadi?
++ Transport muhitida, sovuq sharoitda saqlanadi
+- Quruq idishda, issiq sharoitda saqlab turiladi
+- Oddiy suvda, xona haroratida saqlab turiladi
+- Formalinda, muzlatilgan holda saqlab turiladi
+- Spirtda, quyoshli joyda saqlab turiladi
+! Tez yetkazish imkoni bo'lmaganda namuna maxsus transport muhitida sovuq sharoitda saqlanadi
+@ M JAW
+
+? Ichak tayoqchasining tipik biokimyoviy belgilari qaysilar?
++ Laktozani bijg'itadi, gaz hosil qiladi, indol musbat
+- Laktozani bijg'itmaydi, gaz hosil qilmaydi, indol manfiy
+- Laktozani bijg'itadi, gaz hosil qilmaydi, indol manfiy
+- Laktozani bijg'itmaydi, gaz hosil qiladi, indol musbat
+- Laktozani bijg'itadi, vodorod sulfid hosil qiladi, indol manfiy
+! Odatda E. coli laktozani bijg'itadi, gaz hosil qiladi va indol musbat bo'ladi
+@ M JAW
+
+? Noaniq biokimyoviy natija bo'lsa nima qilinadi?
++ Sinov takrorlanadi va qo'shimcha muhitlar qo'llanadi
+- Natija o'z holicha yakuniy deb qabul qilinadi
+- Namuna tashlab yuborilib, tekshiruv to'xtatiladi
+- Bemorga tashxis taxminiy qo'yilib, davo boshlanadi
+- Natija arxivga topshirilib, javob berilmaydi
+! Noaniq natija bo'lsa sinov takrorlanadi va qo'shimcha muhitlar qo'llanadi, bu xatolarni kamaytiradi
+@ M
+
+? Serologik identifikatsiya ichak tayoqchasini nimaga ajratish uchun qo'llanadi?
++ Antigen tuzilishiga qarab shtammlarga
+- Koloniya rangiga qarab turlarga
+- Muhitning hidiga qarab guruhlarga
+- Koloniya o'lchamiga qarab sinflarga
+- Harorat talabiga qarab guruhlarga
+! Shtammni ajratish uchun o'ziga xos antigenlar bilan aglyutinatsiya sinovlari o'tkaziladi, bu serologik identifikatsiya
+@ M JAW
+
+# 124
+
+? Serologik reaksiya nimaga asoslangan?
++ Antigen va antitana o'rtasidagi bog'lanishga
+- Bakteriya va bakteriofag o'rtasidagi bog'lanishga
+- Mikrob va antibiotik o'rtasidagi bog'lanishga
+- Bo'yoq va hujayra devori o'rtasidagi bog'lanishga
+- Ferment va substrat o'rtasidagi bog'lanishga
+! Serologik reaksiya antigen va antitana o'rtasidagi o'ziga xos bog'lanishga asoslanadi
+@ M JAW
+
+? Antitanachalar darajasi nima bilan ifodalanadi?
++ Titr bilan, ya'ni eng katta suyultirish
+- Rang bilan, ya'ni eritma tusi
+- Hid bilan, ya'ni qo'lansa yoki yoqimli
+- Hajm bilan, ya'ni suyuqlik miqdori
+- Harorat bilan, ya'ni qizish darajasi
+! Titr zardobning aglyutinatsiya hali ko'rinadigan eng katta suyultirishini bildiradi
+@ M JAW
+
+? Juft zardoblar qanday olinadi?
++ Kasallik boshida va bir necha haftadan keyin
+- Sog'ayganda va bir necha oy oldinroq
+- Ikkalasi ham bir kunda, bir tomirdan olinadi
+- Bir yil oldin va kasallik boshlanganda
+- Ikkalasi ham sog'ayganda, tez orada olinadi
+! Juft zardoblarning birinchisi kasallikning dastlabki kunlarida, ikkinchisi bir necha haftadan keyin olinadi
+@ M JAW
+
+? Titrning necha marta oshishi infeksiya haqida ishonchli dalil hisoblanadi?
++ Kamida to'rt marta
+- Kamida ikki marta
+- Kamida o'n marta
+- Kamida yarim marta
+- Kamida bir yarim marta
+! Juft zardoblarda titrning kamida to'rt marta oshishi faol immun javobni, ya'ni infeksiyani ko'rsatadi
+@ M JAW WHODW
+
+? Aglyutinatsiya reaksiyasi (RA) qanday amalga oshiriladi?
++ Ma'lum antigenli suspenziya zardob bilan aralashtiriladi
+- Ma'lum antibiotikli eritma zardob bilan aralashtiriladi
+- Ma'lum bo'yoqli eritma zardob bilan aralashtiriladi
+- Ma'lum fermentli eritma zardob bilan aralashtiriladi
+- Ma'lum toksinli eritma zardob bilan aralashtiriladi
+! RA da ma'lum antigenli bakteriya suspenziyasi zardob bilan aralashtiriladi; mos antitana bo'lsa, ko'rinadigan cho'kma hosil bo'ladi
+@ M JAW
+
+? Aglyutinatsiya reaksiyasini qayerda o'tkazish mumkin?
++ Shisha plastinkada yoki probirkada
+- Elektron mikroskop ostida, vakuum kamerasida
+- Tirik hayvon organizmida, qon tomirida
+- Avtoklav ichida, bosim ostida
+- To'qima kulturasi idishida, CO2 muhitida
+! RA shisha plastinkada (tez natija) yoki probirkada (titr aniqlash uchun) o'tkaziladi
+@ M JAW
+
+? Serologik reaksiyada nazorat nima uchun qo'yiladi?
++ Natijaning to'g'riligini tasdiqlash uchun
+- Natijani tezlashtirib, vaqtni tejash uchun
+- Reagent sarfini kamaytirib, tejash uchun
+- Zardobni sterillab, saqlash uchun
+- Bemor ismini tasdiqlab, yozish uchun
+! Musbat va manfiy nazorat reaksiya natijasining to'g'riligini tasdiqlaydi
+@ M JAW
+
+? Lateks-aglyutinatsiya usulida nima polistirol zarrachalarga biriktiriladi?
++ Antigen yoki antitana
+- Bo'yoq yoki indikator
+- Antibiotik yoki sulfanilamid
+- DNK yoki RNK
+- Vitamin yoki mineral tuz
+! Lateks-aglyutinatsiyada antigen yoki antitana polistirol zarrachalarga biriktirilib, zardob bilan ko'rinadigan agregat hosil qiladi
+@ M JAW
+
+? ELISA nimaga asoslangan?
++ Ferment belgili antitana yordamida rang hosil qilishga
+- Antibiotik ta'sirida koloniya o'sishini to'xtatishga
+- Bakteriya xivchinlarini mikroskopda ko'rishga
+- Haroratga sezgir fag yordamida erishga
+- Komplement bog'lanishidan gemoliz hosil qilishga
+! ELISA (fermentga bog'liq immunosorbent test) antigen-antitana bog'lanishini ferment yordamida rangli reaksiya bilan aniqlaydi
+@ M JAW
+
+? Yuqori titr har doim faol infeksiyani bildiradimi?
++ Yo'q, titr klinika bilan birga talqin qilinadi
+- Ha, har doim faol infeksiyani bildiradi
+- Ha, lekin bu faqat bolalarda kuzatiladi
+- Yo'q, chunki titr hech qachon o'lchanmaydi
+- Yo'q, chunki titr sog'lom odamda bo'ladi
+! Yuqori titr odatda faol infeksiyani ko'rsatadi, ammo baholash laboratoriya standarti, yosh va klinikaga bog'liq, shuning uchun kontekstda talqin qilinadi
+@ M
+
+# 125
+
+? Salmonellalar morfologik jihatdan qanday?
++ Gram-manfiy, sporasiz tayoqchalar
+- Gram-musbat, sporali tayoqchalar
+- Gram-manfiy, sporali kokklar
+- Gram-musbat, sporasiz kokklar
+- Gram-manfiy, spiralsimon shakllar
+! Salmonellalar tayoqchasimon, Gram-manfiy, spora hosil qilmaydigan fakultativ anaerob bakteriyalar
+@ M JAW
+
+? Ko'pchilik salmonellalar qanday harakatlanadi?
++ Peritrix xivchinlar yordamida
+- Qutbiy bitta xivchin yordamida
+- Sirpanib, xivchinsiz
+- Kipriklar yordamida
+- Harakatlanmaydi
+! Ko'pchilik salmonellalar peritrixial flagellalar yordamida harakatlanadi
+@ M JAW
+
+? Qaysi salmonella seratiplari harakatsiz?
++ Salmonella Gallinarum va Pullorum
+- Salmonella Typhi va Paratyphi A
+- Salmonella Enteritidis va Typhimurium
+- Salmonella Dublin va Choleraesuis
+- Salmonella Newport va Heidelberg
+! Salmonella Gallinarum va Pullorum harakatsiz seratiplardir
+@ M JAW
+
+? Vi antigen qaysi turda uchraydi?
++ Salmonella Typhi (qorin tifi qo'zg'atuvchisi)
+- Salmonella Pullorum (tovuq tifi qo'zg'atuvchisi)
+- Salmonella Enteritidis (gastroenterit qo'zg'atuvchisi)
+- Salmonella Typhimurium (gastroenterit qo'zg'atuvchisi)
+- Salmonella Gallinarum (tovuq tifi qo'zg'atuvchisi)
+! Vi antigen (qobiq) Salmonella Typhi da uchraydi va uni ajratishda ishlatiladi
+@ M JAW
+
+? Salmonellalarni ajratish uchun qaysi selektiv muhitlar qo'llanadi?
++ Ploskirev agari, Endo agari, bismut-sulfit agari
+- Qon agari, shokoladli agar, Tayer–Martin agari
+- Manitli tuzli agar, Beyrd–Parker agari, SDA
+- Levenshteyn–Yensen, Finn, Petragnani muhiti
+- Kitt–Tarotstsi muhiti, tioglikolli muhit, Vilson–Bler
+! Salmonellalarni ajratishda Ploskirev, Endo va bismut-sulfit agari kabi selektiv muhitlar ishlatiladi
+@ M JAW
+
+? Bismut-sulfit agarida salmonella koloniyalari nima uchun qorayadi?
++ Vodorod sulfid hosil qilgani uchun
+- Indol hosil qilib, bo'yagani uchun
+- Ureaza hosil qilib, bo'yagani uchun
+- Laktozani bijg'itib, bo'yagani uchun
+- Gaz hosil qilib, ko'pirgani uchun
+! Bismut-sulfit agarida salmonella koloniyalari vodorod sulfid hosil qilgani uchun markazi qorayadi
+@ M JAW
+
+? Ploskirev agarida ko'pchilik salmonellalar qanday koloniya beradi?
++ Rangsiz koloniya (laktoza bijg'itmaydi)
+- Qizil koloniya (laktozani bijg'itadi)
+- Qora koloniya (indol hosil qiladi)
+- Yashil koloniya (oksidaza hosil qiladi)
+- Sariq koloniya (manitni bijg'itadi)
+! Ko'pchilik salmonellalar laktozani bijg'itmagani uchun Ploskirev agarida rangsiz koloniya beradi
+@ M JAW
+
+? Salmonella koloniyalari 37 °C da qancha vaqtda yaxshi ko'rinadi?
++ 18–24 soat ichida
+- 1–2 soat ichida
+- 3–4 kun ichida
+- 10–14 kun ichida
+- 1–2 oy ichida
+! Salmonellalar odatda 37 °C da 18–24 soat ichida yaxshi ko'rinadigan koloniyalar hosil qiladi
+@ M JAW
+
+? H-antigen salmonellalarda nimaga bog'liq?
++ Xivchinlar, ya'ni harakatchanlik
+- Kapsula, ya'ni himoya qobig'i
+- Hujayra devori lipopolisaxaridi, ya'ni O-antigen
+- Pililar, ya'ni yopishish tuzilmalari
+- Sporalar, ya'ni tinim shakllari
+! H-antigen xivchinlar bilan bog'liq, shuning uchun harakatchanlik serologik tavsifda muhim
+@ M JAW
+
+? Seratiplarni aniqlash (seratiplash) nima uchun muhim?
++ Epidemiologiya va oziq-ovqat nazorati uchun
+- Bemor ismini aniqlash va yozish uchun
+- Laboratoriya jihozini tekshirish va sozlash uchun
+- Qon guruhini aniqlash va yozish uchun
+- Bemorning yoshini aniqlash va yozish uchun
+! Ayrim seratiplar odam uchun, boshqalari hayvonlar uchun xavfli, shuning uchun seratiplash manba va nazorat uchun muhim
+@ M JAW
+
+# 126
+
+? Salmonellalar asosan qaysi yo'l bilan yuqadi?
++ Fekal-oral yo'l
+- Havo-tomchi yo'li
+- Transmissiv yo'l
+- Jinsiy yo'l
+- Parenteral yo'l
+! Salmonellalar asosan fekal-oral yo'l bilan yuqadi: ifloslangan oziq-ovqat, suv va sirtlar orqali
+@ M JAW WHODW
+
+? Salmonella gastroenteritida qaysi mahsulotlar muhim rol o'ynaydi?
++ Xom go'sht, tuxum va sut mahsulotlari
+- Pishgan non, quruq mevalar va yong'oq
+- Konservalangan sabzavot va qand
+- Qaynatilgan suv va issiq choy
+- Tuz, shakar va o'simlik moyi
+! Gastroenteritda yetarli issiqlik ishlovi berilmagan go'sht, tuxum va sut mahsulotlari muhim rol o'ynaydi
+@ M JAW WHODW
+
+? Qorin tifi asosan qanday yuqadi?
++ Odamdan odamga, suv va oziq-ovqat orqali
+- Hayvondan odamga, kemiruvchi chaqishi orqali
+- Hasharot chaqishi orqali, sichqonlardan
+- Havo-chang orqali, tuproqdan olinadi
+- Jarohat orqali, tuproqdan olinadi
+! Qorin tifi odamlar orasida ifloslangan suv va oziq-ovqat orqali yuqadi, sog'lom tashuvchilar muhim rol o'ynashi mumkin
+@ M JAW WHODW
+
+? Sog'lom tashuvchilar epidemiologiyada nima uchun muhim?
++ Belgisiz bo'lib, bakteriyani chiqarib yuradi
+- Belgili bo'lib, bakteriyani chiqarmaydi
+- Belgisiz bo'lib, bakteriyani chiqarmaydi
+- Sovuq mavsumda ko'proq kasallik tarqatadi
+- Hayvonlarga kasallik yuqtirib turadi
+! Sog'lom tashuvchilar belgisiz bo'lib bakteriyani tashqi muhitga chiqarib yuradi, shu sababli nazorat muhim
+@ M JAW
+
+? Salmonellalar oshqozon kislotasiga qanday munosabatda bo'ladi?
++ Chidamli, ko'plari ichakka yetib boradi
+- Darhol nobud bo'ladi, ichakka yetmaydi
+- Kislotada ko'payib, spora hosil qiladi
+- Kislotani zararsizlantirib, ichakka o'tadi
+- Kislota ta'sirida toksinini yo'qotadi
+! Salmonellalar kislotaga chidamlilik ko'rsatadi, shu sababli ko'p bakteriya ichakka yetib boradi
+@ M JAW
+
+? Salmonellalar ichakda qaysi to'qimaga o'tadi?
++ Ingichka ichakning Peyer bo'laklariga (M hujayralar orqali)
+- Yo'g'on ichakning shilliq ostiga (qadahsimon hujayralar orqali)
+- Oshqozon bezlariga (parietal hujayralar orqali)
+- Jigar sinusoidlariga (Kupfer hujayralari orqali)
+- Taloq pulpasiga (retikulyar tolalar orqali)
+! Salmonellalar ingichka ichakning limfoid to'qimasi — Peyer bo'laklariga M hujayralar orqali kirib, makrofaglar bilan to'qnashadi
+@ M JAW
+
+? Salmonellalarning epiteliyga kirishida qaysi tizim muhim rol o'ynaydi?
++ 3-tip sekretsiya tizimi (SPI-1 orollari)
+- 4-tip sekretsiya tizimi (konyugatsiya)
+- Pili va kapsula tizimi (adgeziya)
+- Spora hosil qilish tizimi (tinim)
+- Xivchin harakat tizimi (chemotaksis)
+! 3-tip sekretsiya tizimi (SPI-1 orollari) salmonellalarning epiteliyga kirishida muhim rol o'ynaydi
+@ M JAW
+
+? Qorin tifida salmonellalar makrofaglar ichida qanday holatda bo'ladi?
++ Tirik qolib ko'payadi, immun tizimdan yashirinadi
+- Darhol hazm bo'lib, nobud bo'ladi
+- Spora hosil qilib, tinch holatda yotadi
+- Makrofagga umuman kirmaydi
+- Makrofagni darhol parchalab, tashqariga chiqadi
+! Salmonellalar makrofaglar ichida tirik qolib ko'payishi mumkin, bu ularni immun tizimdan yashiradi va kasallikni uzaytiradi
+@ M JAW
+
+? Salmonellalar qonga qanday tarqaladi?
++ Limfa tizimi orqali qon oqimiga
+- Teri orqali, jarohatdan so'ng qonga
+- Nafas yo'llari orqali, o'pka alveolalariga
+- Siydik yo'llari orqali, buyrakka
+- Quloq pardasi orqali, miyaga
+! Makrofaglarda ko'paygan salmonellalar limfa tizimi orqali qonga o'tadi va bakteriyemiya rivojlanadi
+@ M JAW
+
+? Bakteriyemiyadan keyin salmonellalar qaysi a'zolarga yetib boradi?
++ Jigar, taloq va suyak iligiga
+- Miya, ko'z va quloqqa
+- Yurak, o'pka va qalqonsimon bezga
+- Teri, soch va tirnoqqa
+- Tish, til va tomoqqa
+! Qonda aylangan salmonellalar jigar, taloq va suyak iligi kabi a'zolarga yetib boradi, bu kasallik uzayishiga sabab bo'lishi mumkin
+@ M JAW
+
+# 127
+
+? Salmonellyozda sog'ayganidan keyin tashuvchilikni aniqlash uchun nima tekshiriladi?
++ Axlat namunalari bir necha marta tekshiriladi
+- Qon namunasi bir marta tekshirib ko'riladi
+- Siydik namunasi bir marta tekshirib ko'riladi
+- Balg'am namunasi bir marta tekshirib ko'riladi
+- Tupurik namunasi bir marta tekshirib ko'riladi
+! Tashuvchilikni aniqlash uchun sog'aygandan keyin axlat namunalari bir necha marta tekshiriladi
+@ M JAW
+
+? Qorin tifida kasallikning boshida qaysi namuna eng ishonchli?
++ Qon namunasi
+- Axlat namunasi
+- Siydik namunasi
+- Balg'am namunasi
+- Tupurik namunasi
+! Qorin tifining boshida qonda bakteriyalar ko'p bo'ladi, shuning uchun qon eng ishonchli material
+@ M JAW
+
+? Qon madaniyati uchun namuna qanday olinadi?
++ Steril texnikada, darhol muhitga ekiladi
+- Oddiy usulda olinib, bir kun saqlab ekiladi
+- Sovutib, bir hafta o'tgandan keyin ekiladi
+- Quritib, kukun holiga keltirib ekiladi
+- Qaynatib, sovitib olingandan so'ng ekiladi
+! Qon steril texnika bilan olinib, darhol maxsus bulyonli idishlardagi ozuqa muhitiga ekiladi
+@ M JAW
+
+? Antibiotik ishlatilgan bemorlarda qon madaniyati natijasi qanday bo'lishi mumkin?
++ Salbiy bo'lishi mumkin
+- Doim musbat bo'ladi
+- Doim ikkala natija bo'ladi
+- Natija avtomatik tez chiqadi
+- Natija o'zgarmaydi
+! Antibiotik ishlatilgan bemorlarda qon madaniyati natijasi salbiy bo'lishi mumkin, bu tekshiruvni qiyinlashtiradi
+@ M JAW
+
+? Safro va duodenal namuna qaysi maqsadda tekshiriladi?
++ Tashuvchilikni aniqlash uchun
+- Qonning ivishini aniqlash uchun
+- Jigar fermentlarini o'lchash uchun
+- Qand miqdorini aniqlash uchun
+- Nafas yo'llarini tekshirish uchun
+! Safro tekshiruvi tashuvchilikni aniqlashda qo'llanadi, chunki bakteriyalar o't pufagida saqlanishi mumkin
+@ M JAW
+
+? Duodenal zond yordamida namuna olish qanday amalga oshiriladi?
++ Shifokor ko'rsatmasi va bemor roziligi bilan
+- Laborant tomonidan mustaqil, rozilik talab qilinmasdan
+- Uy sharoitida, bemorning o'zi tomonidan
+- Ovqat vaqtida, ixtiyoriy tarzda
+- Tungi payt, xonadonda xamshira tomonidan
+! Duodenal namuna olish invaziv bo'lgani uchun faqat shifokor ko'rsatmasi va bemor roziligi bilan bajariladi
+@ M
+
+? Safro namunasini o'stirish uchun qaysi muhit qo'llanadi?
++ Safroli bulyon
+- Qon agari
+- Shokoladli agar
+- Manitli tuzli agar
+- Sabouraud agari
+! Safroli bulyon safro ta'siriga chidamli bakteriyalarni o'stirishga moslashgan muhit
+@ M JAW
+
+? Siydik namunasi salmonellalarning qaysi shakllarida tekshiriladi?
++ Ayrim, ayniqsa uzoq davom etgan shakllarda
+- Barcha shakllarda, kasallik boshlanganida
+- Siydik steril bo'lgani uchun tekshirilmaydi
+- Chaqaloqlarda, tug'ilgan zahoti tekshiriladi
+- Sog'lom odamlarda, profilaktik tekshiriladi
+! Siydik ayrim shakllarda, ayniqsa uzoq davom etadigan infeksiyalarda tekshiriladi; o'rta oqimdagi siydik olinadi
+@ M JAW
+
+? Salmonella gastroenteritida ichak infeksiyasi uchun qaysi namuna asosiy?
++ Axlat (najas)
+- Siydik
+- Qon zardobi
+- Balg'am
+- Orqa miya suyuqligi
+! Salmonella gastroenteritida asosiy material axlat bo'lib, selektiv muhitlarga ekiladi
+@ M JAW
+
+? Bemor sog'ayganidan keyin tashuvchilik tekshiruvi nima uchun zarur?
++ Tashuvchilik yo'qolganini tasdiqlash uchun
+- Antibiotik dozasini oshirib yuborish uchun
+- Bemorning qon guruhini aniqlab olish uchun
+- Muhit tarkibini o'zgartirib ko'rish uchun
+- Namuna rangini aniqlab olish uchun
+! Takroriy tekshiruv kasallik tugaganini va tashuvchilik yo'qolganini tasdiqlaydi hamda jamoaga qaytish xavfsizligini baholaydi
+@ M JAW
