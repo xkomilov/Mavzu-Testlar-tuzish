@@ -1,0 +1,459 @@
+# 215
+
+? Epidemik toshmali tif qo'zg'atuvchisi qaysi tur?
++ Rickettsia prowazekii
+- Rickettsia typhi
+- Rickettsia rickettsii
+- Orientia tsutsugamushi
+- Coxiella burnetii
+! Epidemik toshmali tif qo'zg'atuvchisi — Rickettsia prowazekii, odamga xos patogen
+@ M JAW CDCPINK
+
+? R. prowazekii morfologiyasi qanday?
++ Kichik kokkobasil, yakka yoki juft
+- Yirik sporali tayoqcha, zanjirli
+- Spiral shaklli, harakatchan
+- Uzum shingilsimon kokk
+- Shoxlangan ipsimon shakl
+! R. prowazekii kichik, cho'zinchoq yoki sharsimon kokkobasil bo'lib, yakka yoki juft-juft joylashadi
+@ M JAW
+
+? Mikroskopda R. prowazekii qaysi usulda aniqlanadi?
++ Gimenez usulida
+- Gram usulida
+- Ziel–Nilsen usulida
+- Burri–Gins usulida
+- Neyser usulida
+! Mikroskopda qo'zg'atuvchini aniqlash uchun Gimenez usuli keng qo'llanadi; mikroblar qizil rangda bo'yaladi
+@ M JAW
+
+? R. prowazekii mikroblari Gimenez usulida qanday rangda?
++ Qizil rangda
+- Ko'k rangda
+- Yashil rangda
+- Sariq rangda
+- Qora rangda
+! Gimenez usulida mikroblar qizil rangda bo'yalib, hujayra sitoplazmasida yaxshi ko'rinadi
+@ M JAW
+
+? Qo'zg'atuvchi hujayra ichida qaysi hujayralarni zararlaydi?
++ Endoteliy hujayralarini
+- Eritrotsit hujayralarini
+- Neytrofil hujayralarini
+- Neyron hujayralarini
+- Gepatotsit hujayralarini
+! Qo'zg'atuvchi hujayra ichida ko'payib, endoteliy hujayralarining sitoplazmasini to'ldiradi
+@ M JAW CDCPINK
+
+? R. prowazekii sun'iy oziq muhitida nima uchun o'smaydi?
++ Hujayra ichida yashaydi
+- Juda tez ko'payib ketadi
+- Spora hosil qilib turadi
+- Kapsula hosil qilib turadi
+- Oddiy muhitda ham o'sadi
+! R. prowazekii sun'iy oziq muhitda o'smaydi, chunki hujayra ichida yashashga moslashgan
+@ M JAW
+
+? Klassik usulda R. prowazekii qayerda o'stiriladi?
++ Tuxum sariq xaltasida
+- Oddiy agar muhitida
+- Qon agari muhitida
+- Suyuq bulyon muhitida
+- Sabouraud agarida
+! Klassik usulda qo'zg'atuvchi urug'langan tovuq tuxumining sariq xaltasiga yuboriladi
+@ M JAW
+
+? Zamonaviy hujayra kulturasi misoli qaysi?
++ Maymun buyragi hujayralari
+- Qon agari muhiti
+- Oddiy go'sht bulyoni
+- Endo agari muhiti
+- Tuxumli Yensen muhiti
+! Zamonaviy hujayra kulturalarida, masalan maymun buyragi hujayralarida, qo'zg'atuvchi ko'payishi mumkin
+@ M JAW
+
+? R. prowazekii nima uchun odamga xos patogen deyiladi?
++ Asosan odamda kasallik chaqiradi
+- Hayvonlarda kasallik chaqiradi
+- O'simliklarda kasallik chaqiradi
+- Qaysi organizmda kasallik chaqirmaydi
+- Hasharotlarda kasallik chaqiradi
+! Epidemik toshmali tif qo'zg'atuvchisi odamga xos patogen sifatida alohida o'rganiladi
+@ M JAW
+
+? Rikketsioz qo'zg'atuvchisi qaysi guruhga kiradi?
++ Majburiy hujayra ichi bakteriyalar
+- Majburiy hujayra tashqarisi bakteriyalar
+- Sporali tayoqchalar
+- Zamburug'lar
+- Viruslar
+! Rikketsiyalar — Gram-manfiy majburiy hujayra ichi bakteriyalar
+@ M JAW
+
+# 216
+
+? Epidemik toshmali tif asosan nima orqali yuqadi?
++ Bitlar orqali
+- Kanalar orqali
+- Burgalar orqali
+- Chivinlar orqali
+- Pashshalar orqali
+! Epidemik toshmali tif asosan bitlar orqali yuqadi
+@ M JAW WHODW CDCPINK
+
+? Qo'zg'atuvchi odamga bit orqali qanday kiradi?
++ Bit najasi teri jarohatiga tushib
+- Bit tupurigi orqali, tishlaganda
+- Bit tuxumi orqali yutilib
+- Bit oyog'i orqali kirib
+- Bit qanoti orqali kirib
+! Bit najasi odamning teri jarohatiga yoki tirnalgan joyiga tushadi va qo'zg'atuvchi organizmga kiradi
+@ M JAW
+
+? Qo'zg'atuvchi bit ichida qayerda ko'payadi?
++ Bit ichagida
+- Bit tuxumida
+- Bit tupurigida
+- Bit oyog'ida
+- Bit boshida
+! Qo'zg'atuvchi bit ichagida ko'payadi va keyinchalik boshqa odamni chaqqanda tarqaladi
+@ M JAW
+
+? Quritilgan bit najasi nimaga olib kelishi mumkin?
++ Chang bilan nafas orqali yuqishga
+- Qon orqali yuqishga
+- Ovqat orqali yuqishga
+- Suv orqali yuqishga
+- Jinsiy yo'l orqali yuqishga
+! Quritilgan bit najasi chang bilan birga nafas yo'llari orqali ham kirishi mumkin
+@ M JAW
+
+? Asosiy tashuvchi bit qaysi?
++ Tana biti (P. h. corporis)
+- Bosh biti (P. capitis)
+- Qov biti (P. pubis)
+- Yumshoq kana (Ornithodoros)
+- Burga (Xenopsylla)
+! Epidemik toshmali tifning asosiy tashuvchisi tana biti — Pediculus humanus corporis
+@ M JAW WHODW
+
+? Tana biti qayerda yashaydi?
++ Odam tanasi, kiyimida
+- Tuproq ostida, ninada
+- Suv havzalarida, suvda
+- Daraxtlarda, shoxda
+- Hayvon terisida, junda
+! Bu bit faqat odam tanasida va kiyimlarida yashaydi, shu sababli kasallik odamdan odamga o'tadi
+@ M JAW
+
+? Bitlar qanday sharoitda tez ko'payadi?
++ Zich, yuvinish kam aholida
+- Toza, yuvinadigan aholida
+- Sovuq tog' havosida
+- Quruq cho'lda, yolg'iz
+- Dengiz sohilida, yolg'iz
+! Bitlar zich joylashgan, yuvinish imkoniyati kam aholi orasida tez ko'payadi: urush, ko'chish va qashshoqlik davrida
+@ M JAW WHODW
+
+? Yuqtirilgan bitga infeksiya qanday ta'sir qilishi mumkin?
++ Bit ham nobud bo'lishi mumkin
+- Bit mustahkamlanadi
+- Bit tezroq ko'payadi
+- Bit kasallikdan himoyalanadi
+- Bit qanot chiqaradi
+! Yuqtirilgan bit qo'zg'atuvchini ko'paytirib tarqatadi, ammo o'zi ham infeksiyadan nobud bo'lishi mumkin
+@ M JAW
+
+? Epidemik toshmali tif yovvoyi tabiatda qaysi hayvonlarda uchrashi qayd etilgan?
++ Uchar sincaplarda
+- Qushlar ichida
+- Baliqlar ichida
+- Qurbaqalar ichida
+- Ilonlar ichida
+! Uchar sincaplar orasida uchrashi kasallikning sylvatik (yovvoyi) tsiklini tushuntiradi
+@ M JAW CDCPINK
+
+? Kiyimlarni yuvish va bit najasini tozalash nimaga yordam beradi?
++ Yuqishning oldini olishga
+- Immunitet yo'qotishga
+- Bitlarni ko'paytirishga
+- Kasallikni kuchaytirishga
+- Toksin hosil qilishga
+! Kiyimlarni yuvish va bit najasini tozalash yuqishning oldini olishda muhim ahamiyatga ega
+@ M JAW WHODW
+
+# 217
+
+? Epidemik toshmali tifda eng asosiy tekshiruv materiali qaysi?
++ Qon
+- Najas
+- Siydik
+- Balg'am
+- Tupurik
+! Rikketsioz tashxisida qon va uning zardobi asosiy tekshiruv materiali
+@ M JAW CDCPINK
+
+? Bemor vafot etganda qaysi to'qimalar olinadi?
++ Miya, o'pka to'qimasi
+- Soch, tirnoq bo'lagi
+- Teri, yog' bo'lagi
+- Suyak, tish bo'lagi
+- Jun, tuyoq bo'lagi
+! Vafot etgan bemorda o'lim sababini aniqlash uchun ichki a'zolar, ayniqsa miya va o'pka to'qimalari olinadi
+@ M JAW
+
+? Teri toshmasi biopsiyasi qanday usul?
++ Yordam beradi, kam qo'llanadi
+- Eng keng qo'llanadigan usul
+- Majburiy yagona usul
+- Foydasiz, ahamiyatsiz usul
+- Bolalarda qo'llanadigan usul
+! Teri toshmasidan biopsiya olish tashxisga yordam beradi, lekin bu usul kam qo'llaniladi
+@ M JAW CDCPINK
+
+? Namuna olishda antibiotik haqida qaysi qoida?
++ Antibiotikdan oldin ishonchli
+- Antibiotikdan keyin ishonchli
+- Antibiotik hisobga olinmaydi
+- Doza oshirilgach ishonchli
+- Tugagandan oy keyin ishonchli
+! Antibiotik boshlanishidan oldin olingan namuna qo'zg'atuvchini aniqlashda ancha ishonchli natija beradi
+@ M JAW
+
+? Qon namunasi qanday naychaga olinadi?
++ Antikoagulyantli naycha
+- Quruq oddiy naycha
+- Ochiq plastik stakan
+- Qog'oz xalta
+- Formalinli idish
+! Qon namunasi antikoagulyant saqlovchi steril naychaga olinadi va sovuq sharoitda saqlanadi
+@ M JAW
+
+? Namunaga nima yozib qo'yiladi?
++ Ism, olingan vaqt, material turi
+- Sevimli ovqat, kiyim rangi
+- Sport turi, hobbi
+- Ish haqi, lavozim
+- Uy manzili, telefon
+! Har bir namunada bemorning ismi, olingan vaqt va material turi yozib qo'yiladi
+@ M JAW
+
+? Mikroskopik tekshiruv qaysi usulda amalga oshiriladi?
++ Gimenez usulida bo'yash
+- Gram usulida bo'yash
+- Ziel–Nilsen usulida bo'yash
+- Burri usulida bo'yash
+- Romanovskiy usulida bo'yash
+! Mikroskopik tekshiruv qon yoki to'qima surtmasini Gimenez usulida bo'yash orqali amalga oshiriladi
+@ M JAW
+
+? Mikroskopik usulning cheklovi nima?
++ Qo'zg'atuvchi kam bo'lsa aniqlash qiyin
+- Qo'zg'atuvchi juda ko'p bo'lib ketadi
+- Bo'yoq mavjud emas
+- Mikroskop yo'q
+- Natija bir necha hafta kutiladi
+! Qo'zg'atuvchi miqdori kam bo'lganda uni mikroskopda aniqlash qiyinlashadi, shuning uchun boshqa tekshiruvlar bilan birga qo'llanadi
+@ M JAW
+
+? Namuna qanday saqlanadi?
++ Sovuq sharoitda, tekshiruvgacha
+- Issiq joyda, bir hafta
+- Quyoshda, quritilgan
+- Muzlatilgan, qayta eritilgan
+- Ochiq qoldirilgan
+! Qon namunasi tekshiruvgacha sovuq sharoitda saqlanadi
+@ M JAW
+
+? Aseptika qoidalari nima uchun saqlanadi?
++ Begona mikroblar natijani buzmasligi uchun
+- Namunani ko'paytirish uchun
+- Namuna rangini o'zgartirish uchun
+- Namuna hajmini oshirish uchun
+- Antibiotikni kuchaytirish uchun
+! Aseptika qoidalari qat'iy saqlanishi kerak, aks holda begona mikroblar natijani buzishi mumkin
+@ M JAW
+
+# 218
+
+? Epidemik toshmali tifda toshma qaysi joylarda kam uchraydi?
++ Yuz, kaft va tovonda
+- Tana va qorinda
+- Qo'l va oyoqda
+- Orqa va elkada
+- Bo'yin va ko'krakda
+! Toshmaning xarakterli jihati — u yuz, kaft va tovon sohasida kam uchraydi
+@ M JAW CDCPINK
+
+? Toshma bo'lmasa, tashxis haqida nima deyiladi?
++ Tashxisni inkor etmaydi
+- Kasallik butunlay rad etiladi
+- Bolalarda kasallik qolib ketadi
+- Kattalarda kasallik qolib ketadi
+- Har doim tashxis qo'yilmaydi
+! Bu belgi kasallikni boshqa toshmali kasalliklardan farqlashga yordam beradi, ammo uning yo'qligi tashxisni inkor etmaydi
+@ M JAW
+
+? Epidemiologik anamnezda qaysi davr so'raladi?
++ So'nggi bir oy
+- So'nggi bir kun
+- So'nggi bir yil
+- So'nggi o'n yil
+- Butun hayot
+! Epidemiologik anamnez bemorning so'nggi bir oy ichidagi harakatlari, yashash sharoiti va bitlar bilan aloqasini aniqlaydi
+@ M JAW
+
+? Qaysi sharoitda xavf yuqori?
++ Zich yashash, yuvinish imkoni kam
+- Toza yashash, yuvinish imkoni keng
+- Yolg'iz yashash, toza uyda
+- Tog'li yashash, toza havoda
+- Dengiz bo'yida yashash
+! Aholi zich yashaydigan, yuvinish imkoniyati kam muhitda va ko'chirilgan kishilar orasida xavf yuqori
+@ M JAW
+
+? Bit bilan uchrashish tashxisda nima beradi?
++ Gumonni kuchaytiradi
+- Tashxisni rad etadi
+- Narsa o'zgarmaydi
+- Davolashni to'xtatadi
+- Immunitetni oshiradi
+! Bit bilan uchrashgan bo'lsa, bu shifokorga gumonni kuchaytiradi va laboratoriya tekshiruvini tezlashtiradi
+@ M JAW
+
+? Epidemik toshmali tifdan qaysi kasalliklar farqlanadi?
++ Qorin tifi, leptospiroz, meningokokk
+- Qizamiq, suvchechak, tepki
+- Bo'g'ma, ko'kyo'tal, qizilcha
+- Sil, zaxm, gonoreya
+- Qoqshol, botulizm, kuydirgi
+! Differensial tashxisda tif, boshqa rikketsiozlar, leptospiroz va meningokokk infeksiyasi hisobga olinadi
+@ M JAW
+
+? Qorin tifida isitma qanday ko'tariladi?
++ Odatda sekinroq
+- Odatda juda tez
+- Odatda isitma bo'lmaydi
+- Odatda past bo'ladi
+- Odatda tezda tushadi
+! Tif kasalligida isitma odatda sekinroq ko'tariladi va toshma boshqacha ko'rinishga ega bo'ladi
+@ M JAW
+
+? Klinik ko'rinish tashxisda qanday rol o'ynaydi?
++ Laboratoriya tasdig'i zarur
+- Klinik ko'rinish yetarli
+- Laboratoriya kerak emas
+- Rentgen yetarli
+- Anamnez yetarli
+! Isitma va toshma ko'p infeksiyada uchraydi, shu sababli klinik ko'rinish yetarli emas, laboratoriya tasdig'i zarur
+@ M JAW
+
+? Toshmaning xarakterli joylashuvi nimaga yordam beradi?
++ Boshqa toshmalardan farqlashga
+- Bemorni uyga yuborishga
+- Antibiotikni to'xtatishga
+- Vaksina tanlashga
+- Davolashni kechiktirishga
+! Toshma yuz, kaft va tovonda kam uchraydi — bu belgi boshqa toshmali kasalliklardan farqlashga yordam beradi
+@ M JAW
+
+? Ko'chirilgan kishilar orasida nima uchun xavf yuqori?
++ Zich joylashuv, yuvinish kam
+- Ochiq havo, toza suv
+- Izolyatsiya, steril sharoit
+- Yaxshi ovqatlanish
+- Yuqori immunitet
+! Ko'chirilgan va zich joylashgan, yuvinish imkoni kam odamlar orasida bitlar tez ko'payadi va kasallik xavfi yuqori
+@ M JAW
+
+# 219
+
+? Epidemik toshmali tifni davolashda asosiy dori guruhi qaysi?
++ Tetratsiklinlar (doksitsiklin)
+- Penitsillinlar (ampitsillin)
+- Aminoglikozidlar (gentamitsin)
+- Makrolidlar (eritromitsin)
+- Sulfanilamidlar (kotrimoksazol)
+! Rikketsiozda asosiy dori tetratsiklin guruhi, ayniqsa doksitsiklin
+@ M JAW CDCPINK WHODW
+
+? Dori dozasi nimaga bog'liq?
++ Yosh, vazn, homiladorlik
+- Soch rangi va uzunligi
+- Kiyim rangi va o'lchami
+- Ish joyi va lavozimi
+- Sevimli ovqati va ichimligi
+! Dori dozasi shifokor tomonidan belgilanadi, chunki bu bemorning yoshi, vazni va homiladorligiga bog'liq
+@ M JAW
+
+? Og'ir holatda bemor qayerda davolanadi?
++ Kasalxonada, nazoratda
+- Uyda, nazoratsiz holda
+- Sanatoriyda, nazoratsiz
+- Maktabda, nazoratsiz
+- Ish joyida, nazoratsiz
+! Bemor og'ir holatda bo'lsa, u kasalxonada, nazorat ostida davolanadi
+@ M JAW
+
+? Parvarishda qaysi ko'rsatkichlar o'lchanadi?
++ Harorat, bosim, nafas
+- Soch uzunligi, rangi
+- Bo'y uzunligi, vazni
+- Poyabzal o'lchami, turi
+- Tirnoq rangi, shakli
+! Parvarish davomida harorat, qon bosimi va nafas olish muntazam o'lchab boriladi
+@ M JAW
+
+? Bemorga nima beriladi?
++ Yetarli suyuqlik, ovqat
+- Cheklangan suyuqlik va ovqat
+- Hech narsa berilmaydi, och
+- Sovuq muz bo'lagi, xolos
+- Quruq non bo'lagi, xolos
+! Bemorga yetarli suyuqlik berilishi va ovqatlanish holati nazorat qilinishi kerak
+@ M JAW
+
+? Yotoq rejimi va gigiyena nimani oldini oladi?
++ Ikkilamchi infeksiyalarni
+- Birlamchi infeksiyani
+- Antibiotik samarasini
+- Immunitetni
+- Toshmani
+! Yotoq rejimi va gigiyena sharoiti ikkilamchi infeksiyalarning oldini olishga xizmat qiladi
+@ M JAW
+
+? Og'ir kechishda qon tomirlar zararlanishi nimaga olib keladi?
++ Qon ketish va shokka
+- Tezda sog'ayishga
+- Immunitet oshishiga
+- Isitma pasayishiga
+- Ishtaha oshishiga
+! Og'ir kechishda qon tomirlar zararlanib, qon ketish va shok holati rivojlanishi mumkin
+@ M JAW
+
+? Markaziy nerv tizimi zararlanganda nima kuzatiladi?
++ Ongning buzilishi
+- Ko'rish yaxshilanishi
+- Eshitish yaxshilanishi
+- Ishtaha oshishi
+- Uyqu yaxshilanishi
+! Markaziy nerv tizimi zararlanganda ongning buzilishi va tutqanoq kuzatilishi mumkin
+@ M JAW
+
+? Buyrak va yurak buzilganda nima zarur?
++ Intensiv terapiya
+- Dam olish rejimi
+- Parhez jadvali
+- Massaj muolajasi
+- Piyoda sayr qilish
+! Buyrak va yurak faoliyatining buzilishi bo'lsa, maxsus intensiv terapiya zarur
+@ M JAW
+
+? Epidemik toshmali tif profilaktikasining asosi nima?
++ Bitlarga qarshi kurash
+- Kemiruvchilarga qarshi kurash
+- Kanalarga qarshi kurash
+- Chivinlarga qarshi kurash
+- Pashshalarga qarshi kurash
+! Epidemik toshmali tif profilaktikasining asosi bitlarga qarshi kurash: dezinseksiya, gigiyena, kiyimlarni yuqori haroratda ishlash
+@ M JAW WHODW
