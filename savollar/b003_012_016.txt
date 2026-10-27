@@ -1,0 +1,454 @@
+# 012
+? Bakteriya bo'linishida septum shakllanishini hujayra o'rtasida halqa hosil qilib boshqaradigan oqsil qaysi?
++ FtsZ
+- RecA
+- DnaA
+- FliC
+- OmpA
+! FtsZ oqsili hujayra o'rtasida halqa hosil qilib, ikkiga bo'linishdagi septum shakllanishini boshqaradi
+@ M BROCK
+
+? Kurtaklanish yo'li bilan ko'payish qaysi mikroorganizmlarda uchraydi?
++ Achitqilarda
+- Stafilokokklarda
+- Spiroxetalarda
+- Viruslarda
+- Mikoplazmalarda
+! Kurtaklanish ayrim zamburug'larda, masalan achitqilarda uchraydi: ona hujayrada kurtak hosil bo'lib o'sadi va ajraladi
+@ M BROCK
+
+? Fragmentatsiya yo'li bilan ko'payishda nima yuz beradi?
++ Ipsimon tuzilma bo'laklarga bo'linadi, har bir bo'lak yangi organizm bo'lib o'sadi
+- Hujayra o'rtasida septum hosil bo'lib, ikkita teng qiz hujayra paydo bo'ladi
+- Ona hujayrada o'simta paydo bo'lib, asta-sekin ona hujayradan ajraladi
+- Ikki hujayra qo'shilib, yangi genetik kombinatsiyali hujayra hosil qiladi
+- Hujayra ichida spora hosil bo'lib, ona hujayra parchalangach ajraladi
+! Fragmentatsiyada miseliy kabi ipsimon tuzilma bo'laklarga bo'linadi va har bir bo'lak yangi organizm sifatida o'sadi
+@ M BROCK
+
+? Bakteriyalarda endospora asosan nima hisoblanadi?
++ Chidamlilik shakli, ko'payish vositasi emas
+- Asosiy ko'payish vositasi, bitta hujayra ko'p spora beradi
+- Jinsiy ko'payish organi, sporalar qo'shilib zigota hosil qiladi
+- Harakat organellasi, hujayrani muhitda siljitadi
+- Zaxira oziq moddalar to'planadigan maxsus idish
+! Bakteriyalarda endospora ko'payish vositasi emas, balki qurg'oqchilik, yuqori harorat va kimyoviy ta'sirlarga chidamli shakldir
+@ M JAW
+
+? Lag fazada mikroblar bilan nima yuz beradi?
++ Yangi muhitga moslashib, fermentlar va ribosomalar sintez qiladi, soni deyarli ortmaydi
+- Eng tez va bir xil sur'atda bo'linib, soni eksponensial ortib boradi
+- Yangi hujayralar hosil bo'lish tezligi o'lim tezligiga tenglashib, soni barqarorlashadi
+- Nobud bo'lish tezligi ko'payishdan oshib, populyatsiya soni kamayib boradi
+- Oziq moddalar tugab, ko'pchilik hujayralar sporaga aylanib, tinch holatga o'tadi
+! Lag fazada mikroblar yangi muhitga moslashadi, fermentlar va ribosomalarni sintez qiladi, lekin hujayralar soni sezilarli ortmaydi
+@ M BROCK
+
+? Qaysi fazada hujayralar eng tez va bir xil sur'atda bo'linadi?
++ Logarifmik faza
+- Lag-faza
+- Turg'unlik fazasi
+- O'lim fazasi
+- Sporulyatsiya fazasi
+! Logarifmik fazada hujayralar eng tez va bir xil sur'atda bo'linadi, o'sish eksponensial bo'ladi; fiziologik jihatdan eng faol faza shu
+@ M BROCK
+
+? Turg'unlik fazasida qanday jarayon kuzatiladi?
++ Yangi hujayralar hosil bo'lish tezligi o'lim tezligiga tenglashadi
+- Yangi muhitga moslashib, ribosomalar sintez qiladi, soni ortmaydi
+- Eksponensial sur'atda, bir xil tezlikda bo'linib, soni ikki baravar ortadi
+- Nobud bo'lish ko'payishdan ancha tez kechib, soni kamayadi
+- Bo'linish to'xtab, hujayralar faqat hajmi kattalashib boradi
+! Turg'unlik fazasida oziq moddalar kamayadi, zaharli mahsulotlar to'planadi va hujayra hosil bo'lish hamda nobud bo'lish tezligi tenglashadi
+@ M BROCK
+
+? Boshlang'ich 500 ta hujayra ideal sharoitda 4 avlod bo'lindi. N = N0 · 2^n formulasi bo'yicha oxirgi soni qancha?
++ 8000
+- 2000
+- 4000
+- 16 000
+- 80 000
+! N = 500 · 2⁴ = 500 · 16 = 8000
+@ M BROCK
+
+? Avlod vaqti 20 daqiqa. Boshlang'ich 10 hujayra ideal logarifmik o'sishda 2 soatdan keyin nechta bo'ladi?
++ 640
+- 60
+- 120
+- 1280
+- 6400
+! 2 soat = 120 daqiqa = 6 avlod; N = 10 · 2⁶ = 640
+@ M BROCK
+
+? Ikkiga bo'linish natijasida hosil bo'lgan qiz hujayralar genetik jihatdan qanday bo'ladi?
++ Ona hujayra bilan bir xil bo'ladi
+- Ona hujayradan keskin farq qiladi
+- Yarmi ona, yarmi boshqa hujayra genomiga ega bo'ladi
+- Bittasi xromosoma, ikkinchisi faqat plazmida oladi
+- Xromosomalar soni ikki baravar kamayadi
+! Ikkiga bo'linish har bir avlodda genetik jihatdan bir xil hujayralar hosil qiladi, shu sababli populyatsiya tez o'sadi
+@ M BROCK
+
+# 013
+? Oziqa muhitlari konsistensiyasiga ko'ra qanday guruhlarga bo'linadi?
++ Suyuq, yarim suyuq va qattiq
+- Selektiv, differensial va universal
+- Tibbiy, sanitar va ilmiy
+- Sintetik, yarim sintetik va tabiiy
+- Aerob, anaerob va mikroaerofil
+! Konsistensiyasiga ko'ra muhitlar suyuq, yarim suyuq va qattiq bo'ladi; qattiq muhitlar odatda agar qo'shib tayyorlanadi
+@ M JAW
+
+? Agar nima?
++ Dengiz yosunidan olinadigan, qizdirilganda eriydigan, sovitilganda qotadigan uglevod
+- Hayvon suyagidan olinadigan, mikroblar oson parchalaydigan, qizdirilganda eriydigan oqsil
+- Sut shakaridan olinadigan, suvda eriydigan, sovitilganda qotmaydigan disaxarid
+- Mog'or zamburug'laridan olinadigan, qizdirilganda qotadigan, sovitilganda eriydigan lipid
+- Bakteriyalar ishlab chiqaradigan, qizdirilganda qotadigan, sovitilganda eriydigan ferment
+! Agar dengiz yosunidan olinadigan polisaxarid bo'lib, mikroblar odatda uni parchalay olmaydi; qizdirilganda eriydi, sovitilganda qotadi
+@ M JAW
+
+? Talabchan mikroblarni o'stirish uchun oziqa muhitiga nima qo'shiladi?
++ Qon, zardob yoki o'sish omillari
+- Bo'yoq va fiksator moddalar
+- Antibiotik va dezinfeksiyalovchi moddalar
+- Kristall binafsha va yod eritmasi
+- Mineral kislotalar va ishqorlar
+! Boyitilgan muhitlarga qon, zardob yoki o'sish omillari qo'shiladi, bu talabchan mikroblarni o'stirishga imkon beradi
+@ M JAW
+
+? Selektiv muhitda begona mikroflora qanday to'xtatiladi?
++ Tanlangan antibiotik yoki kimyoviy modda yordamida
+- Muhitni qaynatib, begona bakteriyalarni o'ldirish bilan
+- Qo'shilgan eritrositlar yordamida o'sishni to'sish bilan
+- pH ni doimo 7,0 da saqlash yo'li bilan
+- Agar konsentratsiyasini 10 % gacha oshirish orqali
+! Selektiv muhitlarda tanlangan antibiotik yoki kimyoviy modda begona mikroflorani to'xtatadi
+@ M JAW
+
+? Differensial muhitlarda turli turlar nimasi bilan farqlanadi?
++ Koloniya rangi yoki gaz hosil qilishi bilan
+- Hujayra devoridagi peptidoglikan qalinligi bilan
+- Xivchinlarining soni va joylashuvi bilan
+- Sporalarining issiqlikka chidamliligi bilan
+- Kapsula polisaxaridining kimyoviy tarkibi bilan
+! Differensial muhitlarda turli turlar koloniya rangi yoki gaz hosil qilishi bilan farqlanadi
+@ M JAW
+
+? Oziqa muhitiga qo'yiladigan talablarga qaysi javob mos keladi?
++ Steril bo'lishi va pH i o'rganilayotgan mikrob uchun qulay bo'lishi
+- Tarkibida o'sishni tezlashtiruvchi tirik mikroorganizmlar bo'lishi
+- pH qiymati har doim 2,0 atrofida bo'lishi
+- Tarkibida energiya manbai bo'lmasligi, faqat suvdan iborat bo'lishi
+- Saqlash muddati va sifat nazorati belgilanmasligi
+! Muhit zarur elementlarni yetarli saqlashi, pH i mikrob uchun qulay va steril bo'lishi, saqlash muddati hamda sifat nazorati belgilanishi kerak
+@ M JAW
+
+? Qon kabi termolabil komponentlar muhitga qachon qo'shiladi?
++ Sterilizatsiyadan so'ng, muhit sovigach
+- Sterilizatsiyadan oldin, avtoklavga solishdan avval
+- Muhit qaynab turgan paytda, 100 °C da
+- Quruq aralma bilan birga, suv qo'shishdan oldin
+- Inkubatsiyadan keyin, o'sish boshlanganda
+! Qon va ayrim vitaminlar yuqori haroratda buziladi, shuning uchun ular sterilizatsiyadan so'ng alohida qo'shiladi
+@ M JAW
+
+? Oziqa muhiti sterilligi qanday nazorat qilinadi?
++ Partiyadan namuna olinib termostatda inkubatsiya qilinadi, o'sish bo'lmasligi kerak
+- Partiyadan namuna olinib Gram usulida bo'yaladi, bakteriyalar ko'rinmasligi kerak
+- Muhit rangiga qarab, tashqi ko'rinishini baholab xulosa chiqariladi
+- Muhitga antibiotik tomizib, o'sish zonasi o'lchanadi
+- Muhit qaynatilib, hidiga qarab sifati aniqlanadi
+! Har bir partiyadan namuna olinib termostatda inkubatsiya qilinadi; o'sish bo'lsa partiya yaroqsiz deb topilib yo'q qilinadi
+@ M JAW
+
+? Quyidagi holatlardan qaysi birida oziqa muhitini ishlatmaslik kerak?
++ Muddati o'tgan, bulutlangan yoki cho'kma hosil qilgan bo'lsa
+- Idishga tayyorlangan sana va yaroqlilik muddati yozib qo'yilgan bo'lsa
+- Sovitgichda, qorong'i va quruq joyda saqlangan, sifati buzilmagan bo'lsa
+- Nazorat shtammi bilan sinalib, kutilgan o'sish kuzatilgan bo'lsa
+- Steril nazorat idishida hech qanday o'sish kuzatilmagan bo'lsa
+! Yaroqlilik muddati o'tgan, tashqi ko'rinishi (bulutlanish, cho'kma, rang) o'zgargan yoki qotish sifati buzilgan muhit ishlatilmaydi
+@ M JAW
+
+? Sintetik muhitning afzalligi nimada?
++ Tarkibi aniq miqdorda ma'lum, o'sish talablarini o'rganishga qulay
+- Arzon va tayyorlash oson, kundalik tekshiruvda eng keng qo'llanadigan muhit
+- Tarkibida qon bo'lgani uchun talabchan mikroblar yaxshi o'sadi
+- Tarkibi noma'lum ekstraktlardan iborat, shuning uchun universal hisoblanadi
+- Faqat selektiv maqsadda qo'llanadi, boshqa maqsadlarga yaramaydi
+! Sintetik muhitlarda barcha komponentlar aniq miqdorda ma'lum, lekin tayyorlash qimmat va murakkab bo'lgani uchun kundalik tekshiruvda kam qo'llanadi
+@ M JAW
+
+# 014
+? pH shkalasida 7 qiymati nimani bildiradi?
++ Neytral muhitni
+- Kuchsiz nordon muhitni
+- Kuchsiz ishqoriy muhitni
+- Kuchli nordon muhitni
+- Kuchli ishqoriy muhitni
+! pH 0 dan 14 gacha o'lchanadi: 7 neytral, 7 dan past nordon, 7 dan yuqori ishqoriy muhitga mos keladi
+@ M JAW
+
+? Ko'pgina patogen bakteriyalar taxminan qaysi pH oralig'ida yaxshi o'sadi?
++ 7,2 dan 7,6 gacha
+- 2,0 dan 3,0 gacha
+- 4,0 dan 4,5 gacha
+- 5,0 dan 5,5 gacha
+- 9,5 dan 10,5 gacha
+! Ko'pgina patogen bakteriyalar neytral yoki biroz ishqoriy muhitda, taxminan pH 7,2–7,6 da yaxshi o'sadi
+@ M JAW
+
+? Quyidagi mikroorganizmlardan qaysi biri ishqoriyroq muhitni afzal ko'radi?
++ Vibrionlar
+- Sut kislotali bakteriyalar
+- Achitqi zamburug'lari
+- Mog'or zamburug'lari
+- Atsidofil bakteriyalar
+! Vibrionlar ishqoriyroq muhitni afzal ko'radi, sut kislotali bakteriyalar esa nordon sharoitga moslashgan
+@ M JAW
+
+? Elektrokimyoviy usulda pH nima yordamida o'lchanadi?
++ pH-metr va shisha elektrod yordamida
+- Lakmus qog'ozi va rangli shkala yordamida
+- Refraktometr va prizma yordamida
+- Termometr va areometr yordamida
+- Spektrofotometr va kyuveta yordamida
+! Elektrokimyoviy usulda pH pH-metr va shisha elektrod yordamida o'lchanadi; u aniq va takrorlanuvchan natija beradi
+@ M JAW
+
+? Quyidagi moddalardan qaysi biri pH indikatori sifatida ishlatiladi?
++ Fenol qizili
+- Safranin
+- Malaxit yashili
+- Fuksin
+- Lyugol eritmasi
+! Fenol qizili va bromtimol ko'ki kabi bo'yoqlar pH indikatorlari sifatida keng ishlatiladi
+@ M JAW
+
+? Nordon muhitning pH ini oshirish (neytrallash) uchun qaysi modda ishlatiladi?
++ Natriy gidroksid
+- Xlorid kislota
+- Sirka kislota
+- Sulfat kislota
+- Limon kislotasi
+! Nordon muhitni neytrallash uchun natriy gidroksid ishlatiladi
+@ M JAW
+
+? pH ni sozlash qanday bajarilishi kerak?
++ Kichik qismlarda qo'shib, har safar qayta o'lchab
+- Bir yo'la katta miqdorda kuchli kislota yoki ishqor qo'shib
+- Muhit qaynab turganida eritmani tez quyib
+- Qayta o'lchamasdan, hisob-kitob bo'yicha bir marta qo'shib
+- Muhit sovitilguncha pH ni umuman o'lchamasdan
+! pH kichik qismlarda sozlanadi va har safar qayta o'lchanadi, chunki kuchli o'zgarishlar oziq moddalarni buzishi mumkin
+@ M JAW
+
+? pH-metr nima bilan kalibrlanadi?
++ Standart bufer eritmalari bilan
+- Distillangan suv va tuz bilan
+- Osh tuzi eritmasi bilan
+- Oziqa muhitining o'zi bilan
+- Lakmus qog'ozi va shkala bilan
+! pH o'lchagich vaqti-vaqti bilan standart bufer eritmalari bilan kalibrlanadi
+@ M JAW
+
+? Shisha elektrod ishlatilgandan so'ng qanday parvarishlanadi?
++ Distillangan suvda yuvilib, maxsus eritmada saqlanadi
+- Distillangan suvda yuvilib, quruq va havoda saqlanadi
+- Etanol bilan artilib, quruq qutida saqlanadi
+- Qaynoq suvda sterillanib, kislotada saqlanadi
+- Kuchli kislotaga botirilib, quruq holda saqlanadi
+! Elektrod distillangan suv bilan yuviladi va tegishli eritmada saqlanadi; quriganda javobi sekinlashadi yoki noto'g'ri bo'ladi
+@ M JAW
+
+? Glukozani bijg'itadigan bakteriyalar muhit pH iga qanday ta'sir qiladi?
++ Muhitni nordonlashtiradi
+- Muhitni ishqoriylashtiradi
+- pH ni umuman o'zgartirmaydi
+- Muhitni darhol neytrallaydi
+- Faqat haroratni oshirib ta'sir qiladi
+! Glukozani bijg'itadigan bakteriyalar muhitni nordonlashtiradi, oqsillarni parchalovchi turlar esa ishqoriylashtirishi mumkin
+@ M JAW
+
+# 015
+? Chizma usulining maqsadi nima?
++ Yuzada alohida koloniyalar hosil qilish
+- Muhit ichida koloniyalar hosil qilib, ularni sanash
+- Suyuq muhitda loyqalanishni baholash
+- Namunani muhitga to'liq aralashtirish
+- Harakatchanlikni yarim suyuq muhitda aniqlash
+! Chizma usulida namuna qattiq muhit yuzasiga ketma-ket chiziqlar bilan tarqatiladi va alohida koloniyalar hosil bo'ladi
+@ M JAW
+
+? Chizma usulida har bir chiziqdan keyin ekish halqasi nima qilinadi?
++ Olovda qizdirilib sovitiladi
+- Namunaga botirilib olinadi
+- Spirt bilan artilib, olovdan o'tkazilmaydi
+- Distillangan suvda yuviladi
+- Quritish shkafida uzoq ushlab turiladi
+! Chizma usulida har bir chiziqdan keyin halqa olovda qizdirilib sovitiladi
+@ M JAW
+
+? Quyish usuli qaysi maqsad uchun qulay?
++ Mikroblar sonini aniqlash uchun
+- Sof kulturani chizib ajratish uchun
+- Gram bo'yash uchun surtma tayyorlash uchun
+- Antibiotik diskini joylashtirish uchun
+- Harakatchanlikni ko'rish uchun
+! Quyish usulida koloniyalar sanaladi va ma'lum hajmdagi namunadagi mikroblar miqdori hisoblanadi
+@ M JAW
+
+? Quyish usulida namuna qanday agar muhitiga qo'shiladi?
++ Eritilgan va hali qotmagan muhitga
+- Qotgan va muzlatilgan muhitga
+- Qaynab turgan 100 °C li muhitga
+- Quritilgan kukun holidagi muhitga
+- Sterillanmagan xom muhitga
+! Quyish usulida namuna eritilgan va hali qotmagan agar muhitiga qo'shilib, Petri idishida aralashtiriladi
+@ M JAW
+
+? Surtish usulida namuna muhit yuzasiga nima bilan tarqatiladi?
++ Steril shpatel yoki shisha tayoqcha bilan
+- Ekish ilgagi bilan ketma-ket chiziqlar chizib
+- Pipetka bilan muhit qalinligiga yuborib
+- Igna bilan muhit ichiga sanchib
+- Qaychi bilan namuna bo'laklarini qo'yib
+! Surtish usulida namuna steril shpatel yoki shisha tayoqcha bilan muhit yuzasiga tekis tarqatiladi
+@ M JAW
+
+? Ekilgan idishlar nima uchun inkubatorga qopqog'i pastga qaratib qo'yiladi?
++ Kondensat tomchilari koloniyalarga tushmasligi uchun
+- Muhit tezroq qurib, koloniyalar mayda qolishi uchun
+- Mikroblar kislorodsiz sharoitda o'sishi uchun
+- Muhit tezroq qotib, yorilib ketmasligi uchun
+- Yorug'lik muhitga tushib, o'sishni to'xtatmasligi uchun
+! Qopqog'i pastga qaratilgan idishda kondensat suvi koloniyalarga tushmaydi
+@ M JAW
+
+? Ekilgan idish yorlig'ida nimalar yoziladi?
++ Namuna raqami, sana, ekish usuli va namuna turi
+- Bemorning uy manzili, lavozimi va telefon raqami
+- Antibiotik nomi, dozasi va qo'llash muddati
+- Muhit narxi, ishlab chiqaruvchi nomi va soliq raqami
+- Mikroskop markasi va obyektiv kattalashtirishi
+! Yorliqda namuna raqami, sana, ekish usuli va namuna turi yoziladi; yorliqsiz natijani keyinroq bog'lash imkonsiz bo'ladi
+@ M JAW
+
+? Qon va likvor kabi steril namunalar odatda qanday ekiladi?
++ Ko'pincha muhitga to'g'ridan-to'g'ri ekiladi
+- Najas kabi, suyultirilib so'ng ekiladi
+- Qaynatilib, sovitilgach ekiladi
+- Spirt bilan dezinfeksiya qilingandan so'ng ekiladi
+- Quritilib, kukun holiga keltirilib ekiladi
+! Qon va likvor kabi steril namunalar ko'pincha muhitga to'g'ridan-to'g'ri ekiladi, najas yoki yara ajralmalari esa avval suyultiriladi
+@ M JAW
+
+? Ekish qanday sharoitda bajariladi?
++ Steril sharoitda, bioxavfsizlik shkafida yoki alanga yonida
+- Ochiq xonada, kuchli havo oqimi ostida, asboblarni qizdirmasdan
+- Oddiy ish stolida, asboblarni sterillamasdan, qopqoqni ochiq qoldirib
+- Quyosh nuri tushib turgan deraza yonida, qo'lni yuvmasdan
+- Sovutgich ichida, +4 °C haroratda, muhit qopqog'ini ochiq qoldirib
+! Ekish har doim steril sharoitda, bioxavfsizlik shkafi yoki alanga yonida bajariladi
+@ M JAW
+
+? Har bir ekishdan keyin ekish asboblari nima qilinadi?
++ Sterillanadi (alangada qizdiriladi)
+- Keyingi namunaga o'tkazilib ishlatiladi
+- Oddiy suv bilan chayiladi
+- Xona haroratida quritiladi
+- Spirtga botirilib, olovsiz qoldiriladi
+! Har bir ekishdan keyin asboblar sterillanadi, chunki begona mikroblarning kirishi natijani noto'g'ri qilishi mumkin
+@ M JAW
+
+# 016
+? Yuzada parda hosil qiluvchi mikroblar ko'pincha qanday bo'ladi?
++ Aerob yoki fakultativ anaerob
+- Majburiy anaerob
+- Aerotolerant anaerob
+- Kislorodni umuman talab qilmaydigan
+- Kislorodga mutlaqo chidamsiz
+! Yuzada parda hosil qiluvchi mikroblar ko'pincha aerob yoki fakultativ anaerob bo'ladi
+@ M JAW
+
+? Yarim suyuq muhit nima uchun yumshoq tuzilishga ega?
++ Agarning past konsentratsiyasi tufayli
+- Agar umuman qo'shilmagani tufayli
+- Gelatin ko'p qo'shilgani tufayli
+- Qon qo'shilgani tufayli
+- pH ning kuchli nordon bo'lgani tufayli
+! Yarim suyuq muhit tarkibida agarning past konsentratsiyasi bo'lgani uchun qattiq emas, yumshoq tuzilishga ega
+@ M JAW
+
+? Yarim suyuq muhitda o'sish ekish chizig'idan tashqarida kuzatilsa, bu nimani bildiradi?
++ Bakteriyaning harakatchanligini
+- Bakteriyaning kapsula hosil qilishini
+- Muhitning sterillanmaganini
+- Bakteriyaning gram-manfiy ekanini
+- Bakteriyaning sporali ekanini
+! Yarim suyuq muhitda ekish chizig'idan tashqarida o'sish harakatchanlikning belgisi hisoblanadi
+@ M JAW
+
+? Majburiy aerob mikroblar yarim suyuq muhitning qaysi qismida o'sadi?
++ Yuzaga yaqin qismida
+- Eng chuqur qismida
+- Muhit tubida
+- O'rta qismida
+- Butun hajm bo'ylab bir xil
+! Aerob mikroblar muhitning yuzaga yaqin qismida, anaerob mikroblar esa chuqur qismida o'sadi
+@ M JAW
+
+? Fakultativ anaerob mikroblar yarim suyuq muhitda qanday o'sadi?
++ Muhitning butun bo'yida o'sa oladi
+- Yuza qatlamda parda hosil qilib o'sadi
+- Tubida zich cho'kma shaklida o'sadi
+- O'rta qatlamda tor halqa shaklida o'sadi
+- Ekish chizig'i atrofida, kislorodsiz o'sadi
+! Fakultativ anaerob mikroblar kislorod bor yoki yo'qligiga moslasha oladi va muhitning butun bo'yida o'sishi mumkin
+@ M JAW
+
+? Suyuq muhitdagi loyqalanish darajasi qanday baholanadi?
++ Standart shkala yoki spektrofotometr yordamida
+- Mikroskopda Gram bo'yash orqali
+- Muhit pH ini o'lchash orqali
+- Termometr bilan haroratni o'lchash orqali
+- Koloniyalarni Petri idishida sanash orqali
+! Loyqalanish darajasi standart shkala yoki spektrofotometr yordamida baholanadi; nazorat idishi bilan solishtirish natijani ishonchli qiladi
+@ M JAW
+
+? Quyidagi muhitlardan qaysi biri suyuq oziqa muhiti?
++ Pepton suvi
+- Qonli agar
+- Endo agari
+- Levin agari
+- Zardobli qotgan muhit
+! Pepton suvi va bulyon suyuq oziqa muhitlariga misol bo'ladi
+@ M JAW
+
+? Qon oqimidan olingan namunalar dastlabki bosqichda qanday muhitga ekiladi?
++ Suyuq muhitga
+- Yarim suyuq agarga, ekish chizig'i bo'yicha
+- Qonli agarga, to'g'ridan-to'g'ri chizib
+- Qattiq selektiv muhitga, faqat yuzaga
+- Quruq kukun muhitga, suv qo'shmasdan
+! Qon oqimidan olingan namunalarni dastlabki bosqichda suyuq muhitga ekish mikroblarni aniqlashning muhim usuli hisoblanadi
+@ M JAW
+
+? Suyuq muhit nima uchun ishlatiladi?
++ Antigen tayyorlash, toksin olish va katta hajmda kultura olish uchun
+- Koloniyalarni alohida sanash va sof kultura ajratish uchun
+- Bakteriyalarni bo'yamasdan fiksatsiya qilib saqlash uchun
+- Sporalarni issiqlik bilan yo'q qilib, sterillik tekshirish uchun
+- Harakatsizlikni ekish chizig'i bo'ylab aniqlash uchun
+! Suyuq muhit mikrobni ko'paytirib, katta hajmda kultura olish imkonini beradi; u antigen tayyorlash va toksin olishda ishlatiladi
+@ M JAW
+
+? Yarim suyuq muhitda agar konsentratsiyasi haddan ortiq yuqori bo'lsa nima yuz beradi?
++ Harakatchan bakteriyaning ham tarqalishi qiyinlashadi
+- Harakatsiz bakteriyalar ham tarqalib ketadi
+- Muhit suyuqlashib, ekish chizig'i yo'qolib ketadi
+- Muhitning pH i keskin nordon bo'lib qoladi
+- Bakteriyalar ko'payishi tezlashib, muhit loyqalanadi
+! Agar agar konsentratsiyasi haddan ortiq yuqori bo'lsa, harakatchan bakteriya ham tarqalishi qiyinlashadi, shu sababli agar miqdori standartga mos bo'lishi kerak
+@ M JAW

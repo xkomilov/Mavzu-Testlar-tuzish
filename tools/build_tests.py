@@ -35,6 +35,13 @@ SOURCES = {
     "PETRI": "Petri R.J. (Zentralbl Bakteriol, 1887)",
     "KOCH": "Koch R. (Mitt Kaiserl Gesundheitsamte, 1881)",
     "DOBELL": "Dobell C. Antony van Leeuwenhoek and his 'Little Animals' (1932)",
+    "CDCSTER": "CDC. Guideline for Disinfection and Sterilization in Healthcare Facilities (2008)",
+    "PARKER": "Parker C.T. va boshq. International Code of Nomenclature of Prokaryotes (IJSEM, 2019)",
+    "LINN": "Linnaeus C. Species Plantarum (1753)",
+    "KAUFF": "Grimont P.A.D., Weill F.-X. Antigenic formulae of the Salmonella serovars, 9-nashr (WHO CC, 2007)",
+    "SCHAEF": "Schaeffer A.B., Fulton M. (Science, 1933)",
+    "BURRI": "Burri R. (1909) — tush usuli bilan kapsulani aniqlash",
+    "NEUF": "Neufeld F. (1902) — kapsula shishish (Quellung) reaksiyasi",
     "LENS": "Lens on Leeuwenhoek (lensonleeuwenhoek.net) — Visibility",
 }
 
