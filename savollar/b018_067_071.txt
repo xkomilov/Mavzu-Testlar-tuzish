@@ -1,0 +1,454 @@
+# 067
+? Gemagglyutinatsiya reaksiyasi qaysi hujayralarning birlashishiga asoslangan?
++ Eritrotsitlarning birlashishiga
+- Leykotsitlarning birlashishiga
+- Trombotsitlarning birlashishiga
+- Bakteriya hujayralarining birlashishiga
+- Plazmatik hujayralarning birlashishiga
+! Gemagglyutinatsiya reaksiyasi eritrotsitlarning biriktirish yoki yopishish xususiyatiga asoslangan serologik usul
+@ M JAW
+
+? Gemagglyutinatsiya reaksiyasi asosan nimani aniqlash uchun qo'llanadi?
++ Viruslarni va ularga qarshi antitelolarni
+- Bakteriyalarning antibiotikka sezuvchanligini
+- Oziqa muhitining pH ko'rsatkichini
+- Suvdagi ichak tayoqchasi miqdorini
+- Havodagi umumiy mikroblar sonini
+! U viruslarni aniqlash va ularga qarshi antitelolarni baholash uchun keng qo'llanadi
+@ M JAW
+
+? Gemagglyutinatsiyada musbat natijada eritrotsitlar probirka tubida qanday ko'rinadi?
++ Parda kabi tekis qatlam hosil qiladi
+- Aniq nuqta shaklida cho'kadi
+- Qizil rangli suyuqlik hosil qiladi
+- Probirka yuzasida pufakchalar beradi
+- Qora cho'kma shaklida to'planadi
+! Musbat natijada eritrotsitlar tubida parda kabi qatlam paydo bo'ladi, manfiy natijada esa ular nuqta shaklida cho'kadi
+@ M JAW
+
+? Gemagglyutinatsiyada manfiy natijada eritrotsitlar qanday cho'kadi?
++ Nuqta shaklida cho'kadi
+- Tekis parda shaklida cho'kadi
+- Halqa shaklida cho'kadi
+- Cho'kmaydi, yuzada qoladi
+- Qora cho'kma shaklida cho'kadi
+! Manfiy natijada eritrotsitlar probirka tubiga nuqta shaklida cho'kadi
+@ M JAW
+
+? Klassik gemagglyutinatsiyalovchi virusga qaysi misol keltiriladi?
++ Gripp virusi
+- Qoqshol tayoqchasi
+- Kuydirgi tayoqchasi
+- Vabo vibrioni
+- Oltinsimon stafilokokk
+! Gripp virusi eritrotsitlarni agglyutinatsiyalaydigan klassik misol hisoblanadi
+@ M JAW
+
+? Gripp virusi eritrotsitlarning qaysi retseptorlariga bog'lanadi?
++ Sialik kislotali retseptorlarga
+- Gemoglobin molekulasi retseptorlariga
+- Albumin oqsili retseptorlariga
+- Lipid qavati retseptorlariga
+- Kollagen tolalari retseptorlariga
+! Gripp virusi yuzasidagi oqsil eritrotsitlarning sialik kislotali retseptorlariga bog'lanadi
+@ M JAW
+
+? Gemagglyutinatsiya ingibitsiyasi reaksiyasi nimaga asoslangan?
++ Antitelo virusning birikishini to'sadi
+- Antitelo eritrotsitlarni parchalab yuboradi
+- Komplement eritrotsit membranasini teshadi
+- Virus eritrotsit ichida ko'payib ketadi
+- Eritrotsit virusni yutib, parchalab yuboradi
+! Gemagglyutinatsiya ingibitsiyasi antitelolarning virusni eritrotsitlarga birikishini to'sishiga asoslangan
+@ M JAW
+
+? Zardobda tegishli antitelo bo'lsa, ingibitsiya reaksiyasida nima kuzatiladi?
++ Agglyutinatsiya kuzatilmaydi
+- Agglyutinatsiya kuchayadi
+- Eritrotsitlar gemolizga uchraydi
+- Probirka suyuqligi qotadi
+- Virus miqdori ikki baravar oshadi
+! Agar bemor zardobida tegishli antitelo bo'lsa, agglyutinatsiya kuzatilmaydi; shu tarzda antitelo borligi bilvosita aniqlanadi
+@ M JAW
+
+? Virus titrini taxminiy aniqlash uchun suyultirish qanday bajariladi?
++ Ketma-ket
+- Bir marta
+- Bir vaqtda hammasi
+- Suyultirmasdan
+- Tasodifiy tartibda
+! Virus titrini aniqlash uchun suyultirish ketma-ket bajariladi
+@ M JAW
+
+? Gemagglyutinatsiya titri nima bilan belgilanadi?
++ Reaksiya kuzatiladigan eng yuqori suyultirish bilan
+- Reaksiya kuzatiladigan eng past suyultirish bilan
+- Probirkalarning umumiy soni bilan
+- Eritrotsitlar rangi bilan
+- Inkubatsiya muddati bilan
+! Titr qiymati reaksiyaning eng yuqori suyultirishdagi natijasi bilan belgilanadi
+@ M JAW
+
+# 068
+? Presipitatsiya reaksiyasi nimaga asoslangan?
++ Eriydigan antigen antitelo bilan cho'kma hosil qiladi
+- Zarraga biriktirilgan antigen antitelo bilan yopishadi
+- Komplement biriktirilib, eritrotsit gemolizi yuz beradi
+- Virus eritrotsit yuzasiga birikib, to'r hosil qiladi
+- Bakteriya fag ta'sirida erib, lizisga uchraydi
+! Presipitatsiya reaksiyasi eriydigan antigen va unga xos antitelo o'rtasida erimaydigan kompleks hosil bo'lishiga asoslangan
+@ M JAW
+
+? "Presipitatsiya" so'zi nimani anglatadi?
++ Cho'kma hosil qilishni bildiradi
+- Yopishib qolish jarayonini bildiradi
+- Erib ketish jarayonini bildiradi
+- Bo'yalib qolish jarayonini bildiradi
+- Ko'payib ketish jarayonini bildiradi
+! Presipitatsiya so'zi cho'kma hosil bo'lishini anglatadi
+@ M JAW
+
+? Presipitatsiyada antigen odatda qanday modda bo'ladi?
++ Eriydigan oqsil yoki polisaxarid
+- Yaxlit bakteriya hujayrasi
+- Eritrotsit yuzasidagi zarra
+- Fag zarrachasi
+- Suvda erimaydigan metall zarrasi
+! Presipitatsiyada antigen odatda eriydigan oqsil yoki polisaxarid bo'ladi
+@ M JAW
+
+? Antigen juda ko'p yoki juda oz bo'lsa, cho'kma kam hosil bo'lishi nima deb ataladi?
++ Zona hodisasi
+- Affinlik hodisasi
+- Mimikriya hodisasi
+- Lizogeniya hodisasi
+- Kemotaksis hodisasi
+! Antigen juda ko'p yoki juda oz bo'lsa, cho'kma kam hosil bo'ladi; bu holat zona hodisasi deb ataladi
+@ M JAW
+
+? Xalqa presipitatsiya reaksiyasida probirkaga avval nima solinadi?
++ Antitelo
+- Antigen
+- Komplement
+- Eritrotsit suspenziyasi
+- Fag suspenziyasi
+! Xalqa usulida ingichka probirkaga avval antitelo solinadi, so'ng ehtiyotkorlik bilan ustiga antigen qatlami qo'shiladi
+@ M JAW
+
+? Xalqa presipitatsiya reaksiyasida halqa qayerda hosil bo'ladi?
++ Ikki suyuqlik orasidagi chegarada
+- Tubida, cho'kma qatlami ostida
+- Yuzasida, pufakcha ichida
+- Devorida, quruq qatlam ichida
+- Og'zida, qopqoq ostida
+! Ikki suyuqlik orasidagi chegarada bir necha daqiqa ichida halqa ko'rinishida cho'kma paydo bo'ladi
+@ M JAW
+
+? Antigen qatlami probirkaga nima uchun sekin va devor bo'ylab qo'shiladi?
++ Qatlamlar aralashib ketmasligi uchun
+- Antigen tezroq erishi uchun
+- Probirka qizib ketmasligi uchun
+- Antitelo tezroq parchalanishi uchun
+- Halqa rangli bo'lishi uchun
+! Qatlamlar aralashib ketmasligi uchun antigen sekin va devor bo'ylab qo'shiladi; aralashsa, halqa noaniq bo'ladi yoki hosil bo'lmaydi
+@ M JAW
+
+? Presipitatsiya reaksiyasi qaysi sharoitda o'tkaziladi?
++ Standart sharoitda, fiziologik eritmada
+- Distillangan suvda, har qanday haroratda
+- Kislotali muhitda, qaynatilgan holda
+- Spirtli muhitda, muzlatilgan holda
+- Ishqoriy muhitda, quritilgan holda
+! Reaksiya tezligi harorat, tuz miqdori va pH ga bog'liq, shu sababli tajriba standart sharoitda, fiziologik eritmada o'tkaziladi
+@ M JAW
+
+? Xalqa usulining afzalligi nimada?
++ Oddiy jihozlar bilan tez bajariladi
+- Murakkab jihozlar talab qiladi
+- Faqat bir hafta davomida bajariladi
+- Natijani elektron mikroskop bilan o'qish kerak
+- Maxsus radioaktiv nishon talab etadi
+! Xalqa usuli oddiy jihozlar bilan bajarilgani uchun laboratoriyada tez qo'llanadi, dala sharoitida va o'quv mashg'ulotlarida keng ishlatiladi
+@ M JAW
+
+? Presipitatsiya natijasining kuchi nimalarga bog'liq?
++ Antigen va antitelo sifati hamda miqdoriga
+- Probirka rangi, shakli va hajmiga
+- Xodimning yoshi va ish tajribasiga
+- Xona devori rangi va yoritilishiga
+- Reaktiv narxi va ishlab chiqaruvchisiga
+! Antigen va antitelo sifati va konsentratsiyasi reaksiya kuchiga ta'sir qiladi
+@ M JAW
+
+# 069
+? Geldagi presipitatsiya reaksiyasi qaysi jarayonga asoslangan?
++ Molekulalarning agar gelida diffuziyasiga
+- Antigenning suyuq muhitda tez cho'kishiga
+- Komplementning gelda biriktirilishiga
+- Eritrotsitlarning gelda yopishib qolishiga
+- Bakteriyalarning gelda ko'payib ketishiga
+! Geldagi presipitatsiya antigen va antitelo molekulalarining agar gelida diffuziyasiga asoslangan
+@ M JAW
+
+? Presipitatsiya chizig'i qayerda hosil bo'ladi?
++ Optimal nisbat hosil bo'lgan joyda
+- Gel yuzasida, havo bilan chegarada
+- Idish tubida, gel qatlami ostida
+- Quduq ichida, uning ikki tomonida
+- Gel chetida, idish devori yonida
+! Diffuziya paytida antigen va antitelo optimal nisbat hosil bo'lgan joyda cho'kma ko'rinadi; bu joy presipitatsiya chizig'i deyiladi
+@ M JAW
+
+? Yirik molekulalar gelda qanday tarqaladi?
++ Sekinroq tarqaladi
+- Tezroq tarqaladi
+- Tarqalmaydi
+- Faqat yuzada tarqaladi
+- Tezlik molekula hajmiga bog'liq emas
+! Diffuziya tezligi molekula hajmiga bog'liq; yirik molekulalar sekinroq tarqaladi
+@ M JAW
+
+? Ikki yo'nalishli diffuziya usuli boshqa qanday nom bilan ham ma'lum?
++ Uxterloni usuli
+- Mancini usuli
+- Gram usuli
+- Koch usuli
+- Kauffmann usuli
+! Ikki yo'nalishli diffuziya usuli Uxterloni usuli nomi bilan ham ma'lum
+@ M JAW
+
+? Ikki yo'nalishli diffuziyada antigen va antitelo qayerga solinadi?
++ Gelda ochilgan alohida quduqlarga
+- Bitta quduqqa aralashtirilgan holda
+- Gel yuzasiga quritilgan holda
+- Probirka tubiga qatlam qilib
+- Petri idishining qopqog'iga tomizib
+! Ikki yo'nalishli diffuziyada agar gelida ikki yoki undan ortiq quduq ochiladi: bir quduqqa antigen, boshqasiga antitelo solinadi
+@ M JAW
+
+? Ikki chiziq qo'shilib, bitta egri chiziq hosil qilsa, bu nimani bildiradi?
++ Antigenlar identik ekanini
+- Antigenlar mutlaqo boshqa ekanini
+- Antigenlar qisman identik ekanini
+- Antitelo yo'qligini
+- Reaksiya noto'g'ri bo'lganini
+! Ikki chiziq qo'shilib, bitta egri chiziq hosil qilsa, bu antigenlar identik ekanini bildiradi
+@ M JAW
+
+? Chiziqlar qisman qo'shilib, kichik o'simta hosil qilsa, bu nimani bildiradi?
++ Qisman identiklikni
+- To'liq identiklikni
+- Mutlaqo farqli antigenni
+- Antitelo ortiqchaligini
+- Reaksiya bo'lmaganini
+! Chiziq qisman qo'shilib kichik o'simta hosil qilsa, bu qisman identiklik; antigenlar umumiy determinantga ega, ammo to'liq bir xil emas
+@ M JAW
+
+? Chiziqlar bir-birini kesib o'tsa, bu nimani bildiradi?
++ Antigenlar mutlaqo boshqa ekanini
+- Antigenlar identik ekanini
+- Antigenlar qisman identik ekanini
+- Antitelo yetishmasligini
+- Gel qurib qolganini
+! Chiziqlar bir-birini kesib o'tsa, antigenlar mutlaqo boshqa ekani aniqlanadi
+@ M JAW
+
+? Radial diffuziya usulida antitelo qayerga aralashtiriladi?
++ Gelga
+- Antigen quduqqa
+- Probirka suyuqligiga
+- Eritrotsit suspenziyasiga
+- Komplement eritmasiga
+! Radial diffuziyada antitelo gelga aralashtiriladi, antigen esa gelda ochilgan quduqqa solinadi
+@ M JAW
+
+? Radial diffuziyada antigen atrofida qanday cho'kma hosil bo'ladi?
++ Halqa shaklidagi cho'kma
+- Nuqta shaklidagi cho'kma
+- Chiziqsiz parda
+- Qora cho'kma
+- Gaz pufakchasi
+! Radial diffuziyada antigen gel ichiga tarqalib, atrofida halqa shaklidagi cho'kma hosil qiladi
+@ M JAW
+
+# 070
+? Komplement bog'lanish reaksiyasi ko'pincha qaysi olimlar nomi bilan bog'lanadi?
++ Bordet va Gengou
+- Paster va Kox
+- Jenner va Fleming
+- Mechnikov va Erlix
+- Gram va Petri
+! Komplement bog'lanish reaksiyasi ko'pincha Bordet va Gengou nomi bilan bog'lanadi
+@ M JAW
+
+? Komplement tizimi nimadan iborat?
++ Ketma-ket faollashadigan oqsillar zanjiridan
+- Ketma-ket ko'payadigan hujayralar zanjiridan
+- Mineral tuzlar aralashmasidan
+- Lipid va uglevodlar to'plamidan
+- Vitamin va gormonlar majmuasidan
+! Komplement tizimi ketma-ket faollashadigan oqsillar zanjiridan iborat
+@ M JAW
+
+? Faollashgan komplement hujayra membranasiga qanday ta'sir qiladi?
++ Membranani teshib, hujayra parchalanishiga olib keladi
+- Membranani qalinlashtirib, hujayrani himoya qiladi
+- Membranani bo'yab, rangini o'zgartiradi
+- Membranani bog'lab, harakatini tezlashtiradi
+- Membrana ichiga oziq moddalarni tashiydi
+! Faollashgan komplement hujayra membranasini teshib, uning parchalanishiga olib kelishi mumkin
+@ M JAW
+
+? Komplement bog'lanish reaksiyasi nechta tizimdan iborat?
++ Ikki tizimdan: test va indikator
+- Bitta tizimdan: faqat test tizimi
+- Uch tizimdan: test, indikator, nazorat
+- To'rt tizimdan: antigen, antitelo, komplement, bo'yoq
+- Besh tizimdan: har bir qismi alohida
+! Komplement bog'lanish reaksiyasi ikki tizimdan iborat: test tizimi va indikator tizim
+@ M JAW
+
+? Test tizimida nimalar bo'ladi?
++ Antigen, zardob va komplement
+- Qo'y eritrotsitlari va gemolitik zardob
+- Bakteriya kulturasi va antibiotik disk
+- Fiziologik eritma va indikator bo'yoq
+- Oziqa muhiti va steril probirka
+! Test tizimida tekshirilayotgan antigen, zardob va komplement bo'ladi
+@ M JAW
+
+? Indikator tizim nimalardan tashkil topadi?
++ Qo'y eritrotsitlari va gemolitik zardobdan
+- Tekshiriladigan antigen va bemor zardobidan
+- Bakteriya kulturasi va antiserumdan iborat
+- Komplement eritmasi va fiziologik eritmadan
+- Oziqa muhiti va bo'yoq eritmasidan
+! Indikator tizim qo'y eritrotsitlari va ularga qarshi gemolitik zardobdan tashkil topadi
+@ M JAW
+
+? Komplement bog'lanish reaksiyasida musbat natija qanday ko'rinadi?
++ Gemoliz bo'lmaydi
+- Gemoliz to'liq bo'ladi
+- Probirka tubida gaz hosil bo'ladi
+- Suyuqlik qizil bo'lib qoladi
+- Cho'kma qora rangga o'tadi
+! Gemoliz bo'lmasligi musbat natija; chunki test tizimida antigen-antitelo kompleksi komplementni sarflab qo'ygan bo'ladi
+@ M JAW
+
+? Komplement bog'lanish reaksiyasida manfiy natija qanday ko'rinadi?
++ Gemoliz sodir bo'ladi
+- Gemoliz bo'lmaydi
+- Eritrotsitlar tubida halqa hosil bo'ladi
+- Probirka tiniq va rangsiz bo'lib qoladi
+- Gaz pufakchalari yig'iladi
+! Gemoliz sodir bo'lishi manfiy natija, chunki komplement sarflanmagan va indikator eritrotsitlarni parchalagan
+@ M JAW
+
+? Test zardobida antigen va antitelo bor bo'lsa, komplement bilan nima yuz beradi?
++ Kompleksga biriktirilib, sarflanadi
+- Ko'payib, miqdori keskin ortadi
+- Eritrotsitlarni to'liq zararlaydi
+- Bakteriyaga aylanib, ko'payadi
+- Zardobdan chiqib, bug'lanib ketadi
+! Agar test zardobida tegishli antitelo va antigen bo'lsa, ular kompleks hosil qiladi va komplementni o'ziga biriktiradi
+@ M JAW
+
+? Komplement bog'lanish reaksiyasi boshqa serologik usullardan qanday farq qiladi?
++ Yo'nalishi teskari: gemolizsizlik musbat natija
+- Yo'nalishi bir xil: gemoliz musbat natija
+- Natijasi doim rangli halqa bilan namoyon
+- Ushbu usul gelda o'tkaziladigan reaksiya
+- Ushbu usul bakteriya uchun qo'llanadigan reaksiya
+! Gemoliz bo'lmasligi musbat natija deb baholanadi; bu yo'nalish boshqa serologik usullarga nisbatan teskari
+@ M JAW
+
+# 071
+? Biopreparat nima?
++ Tirik organizm mahsulotidan tayyorlangan vosita
+- Kimyoviy sintez bilan olingan sintetik vosita
+- Mineral tuzlardan tayyorlangan anorganik vosita
+- O'simlik ekstraktidan olingan dorivor vosita
+- Gaz aralashmasidan olingan nafas vositasi
+! Biopreparat tirik yoki o'lik mikroorganizm, ularning komponentlari yoki hayvon va odam organizmi mahsulotlaridan tayyorlangan vosita
+@ M JAW
+
+? Immunoprofilaktikaning maqsadi nima?
++ Kasallikning oldini olish
+- Kasallikni davolash
+- Kasallikni tashxislash
+- Kasallik manbasini topish
+- Namuna olish
+! Immunoprofilaktikada kasallikning oldini olish maqsad qilinadi
+@ M JAW
+
+? Immunoterapiyaning maqsadi nima?
++ Davolash va og'ir kechishni kamaytirish
+- Kasallikning oldini olish va ogohlantirish
+- Mikrobni oziqa muhitida o'stirib ko'rish
+- Namunani laboratoriyaga tez yetkazish
+- Oziqa muhitini tayyorlab sterillash
+! Immunoterapiyada kasallikni davolash yoki uning og'ir kechishini kamaytirish nazarda tutiladi
+@ M JAW
+
+? Faol biopreparat qanday ta'sir qiladi?
++ O'z immun tizimini ishga tushiradi
+- Organizmga tayyor antitelo kiritib beradi
+- Mikrobni bevosita o'ldirib yuboradi
+- Qon bosimini oshirib turadi
+- Toksinni hujayradan chiqarib yuboradi
+! Faol preparat organizmning o'z immun tizimini ishga tushiradi, passiv preparat esa tayyor antitelo beradi
+@ M JAW
+
+? Vaksina nima?
++ Antigen kiritib, unga nisbatan immunitet hosil qiladigan preparat
+- Tayyor antitelo saqlovchi, passiv immunitet beruvchi preparat
+- Mikroblarni o'ldiruvchi kimyoviy dori
+- Qon plazmasidan ajratilgan oqsil
+- Allergik reaksiyani to'xtatuvchi vosita
+! Vaksina organizmga antigen kiritib, unga nisbatan immunitet hosil qiladigan preparat
+@ M JAW
+
+? Vaksina bilan hosil bo'lgan immunitet nima uchun uzoqroq saqlanadi?
++ Xotira hujayralari tufayli
+- Tayyor antitelo kiritilgani
+- Mikrob organizmda qolgani
+- Preparat zaharli bo'lgani
+- Harorat pasayib ketgani
+! Vaksina ta'sirida hosil bo'lgan immunitet ko'pincha uzoqroq saqlanadi, bu xotira hujayralarining shakllanishi bilan bog'liq
+@ M JAW
+
+? Zardob qanday immunitet beradi?
++ Passiv immunitet
+- Faol immunitet
+- Irsiy immunitet
+- Tabiiy faol immunitet
+- Xotira bilan immunitet
+! Zardob boshqa organizmda hosil bo'lgan tayyor antitelolarni o'z ichiga oladi va passiv immunitet beradi
+@ M JAW
+
+? Zardobning asosiy afzalligi nima?
++ Dastlabki bosqichda tez ta'sir ko'rsatishi
+- Uzoq muddatli xotira hosil qilishi
+- Hech qanday yon ta'sir bermasligi
+- Organizm o'zi antitelo ishlab chiqarishi
+- Arzonligi va saqlash qulayligi
+! Zardob kasallikning dastlabki bosqichida tez ta'sir ko'rsatadi, shu sababli shoshilinch holatlarda qadrli
+@ M JAW
+
+? Immunoglobulin qayerdan ajratib olinadi?
++ Odam plazmasidan
+- Hayvon suyagidan
+- O'simlik ildizidan
+- Tuproq mikroblaridan
+- Dengiz suvidan
+! Immunoglobulin odam plazmasidan ajratilgan antitelolar preparati hisoblanadi
+@ M JAW
+
+? Immunoglobulinning zardobga nisbatan afzalligi nima?
++ Yot oqsil ta'sirini kamaytirib, xavfsizroq
+- Faol immunitet hosil qilib, uzoq saqlanadi
+- Vaksinaning o'rnini to'liq bosib, almashtiradi
+- Antitelo saqlamaydi, lekin xavfsiz
+- Mikrobni bevosita o'ldirib yuboradi
+! Immunoglobulinning afzalligi shundaki, u yot oqsil ta'sirini kamaytiradi va xavfsizroq deb baholanadi
+@ M JAW
