@@ -1,0 +1,42 @@
+TITLE: 7. Mikroblarning nafas olishi, nafas olish turlari.
+## Kirish
+Nafas olish (biologik oksidlanish) — mikrob hujayrasi oziqa moddalarni oksidlab, hayot faoliyati uchun zarur energiyani oladigan jarayon. Bu jarayonda elektronlar donor moddadan (masalan, qand) akseptorga uzatiladi, ajralgan energiya esa ATF shaklida to'planadi. Elektron akseptorning turiga qarab nafas olish aerob, anaerob yoki bijg'ish shaklida kechadi [1]. Mikroblarning kislorodga munosabatini bilish ularni to'g'ri o'stirish, tashxis qo'yish va dezinfeksiya rejalashtirish uchun zarur.
+## Nafas olishning asosiy turlari
+Energiya olish yo'llari quyidagicha tasniflanadi:
+- aerob nafas olish — oxirgi elektron akseptor molekulyar kislorod;
+- anaerob nafas olish — akseptor kislorod emas, balki noorganik yoki organik modda (nitrat, sulfat, fumarat);
+- bijg'ish — tashqi elektron akseptor ishtirok etmaydi, elektronlar organik oraliq mahsulotga uzatiladi.
+Aerob nafas olishda elektronlar sitoplazmatik membranadagi tashuvchilar zanjiri (elektronlar transporti) orqali kislorodga o'tadi. Prokariotlarda bu zanjir mitoxondriyada emas, aynan hujayra membranasida joylashgan. Zanjir ishlaganda membrana bo'ylab protonlar gradienti hosil bo'ladi va ATF-sintaza yordamida ATF sintezlanadi [3]. Anaerob nafas olishda ham shunday zanjir ishlaydi, lekin oxirgi akseptor boshqa moddadir; bu usulda energiya ajralishi kamroq bo'lishi mumkin [3].
+Bijg'ishda ATF asosan substrat darajasidagi fosforlanish orqali olinadi va bir molekula glukozadan sof 2 molekula ATF hosil bo'ladi, shu sababli bijg'ish aerob nafasga qaraganda ancha kam energiya beradi [1]. Bijg'ish mahsulotlari bakteriya turiga bog'liq: streptokokklar va laktobakteriyalar sut kislotasi, ichak tayoqchasi aralash kislotalar (sirka, chumoli, qahrabo kislotalari) va etanol, klostridiyalar esa moy kislotasi, sirka kislotasi va gazlar hosil qiladi. Shu mahsulotlarni aniqlash biokimyoviy identifikatsiyaning asosiy qismidir.
+Qandlarni oksidlash yoki bijg'itish xususiyatini aniqlash uchun oksidlanish–bijg'ish (Xyu–Leyfson) testi o'tkaziladi: bir xil ikkita probirkadan biri vazelin moyi bilan yopiladi. Agar kislota faqat ochiq probirkada hosil bo'lsa, mikrob qandni oksidlaydi (masalan, Pseudomonas), ikkala probirkada hosil bo'lsa — bijg'itadi (ichak bakteriyalari) [1]. Bu test fakultativ anaeroblarni qat'iy aeroblardan ajratishga yordam beradi.
+## Kislorodga munosabatiga ko'ra guruhlar
+Mikroblar kislorodga talabiga ko'ra quyidagi guruhlarga bo'linadi [1]:
+- majburiy (obligat) aeroblar o'sishi uchun kislorod zarur: sil mikobakteriyasi, Pseudomonas aeruginosa, Bordetella pertussis, Brucella;
+- majburiy (obligat) anaeroblar kislorodsiz muhitda o'sadi, kislorod ularga zararli: Clostridium, Bacteroides, Fusobacterium;
+- fakultativ anaeroblar kislorod bor yoki yo'q sharoitda o'sa oladi, kislorod borida nafas oladi, yo'q bo'lsa bijg'itadi: ichak bakteriyalari, stafilokokklar, vibrionlar;
+- mikroaerofillar kislorodning kam miqdorini (taxminan 5 foiz) talab qiladi: Campylobacter, Helicobacter;
+- aerotolerant anaeroblar bijg'itadi, ammo kislorod borligiga chidaydi: streptokokklar, laktobakteriyalar;
+- kapnofillar uchun karbonat angidridning ko'proq miqdori (5–10 foiz) zarur: neysseriyalar, Haemophilus, Brucella abortus.
+Bu guruhlarni suyuq muhitda o'sish xarakteriga qarab farqlash mumkin: aeroblar muhit yuzasida pardacha hosil qiladi, anaeroblar probirka tubida o'sadi, fakultativ anaeroblar esa muhitni bir tekis loyqalantiradi.
+## Kislorod nima uchun anaeroblarga zararli
+Kislorod hujayra ichida qisman qaytarilib, reaktiv kislorod shakllarini — superoksid anionini va vodorod peroksidni hosil qiladi. Bu birikmalar oqsillar, DNK va lipidlarni shikastlaydi [2]. Aeroblar va fakultativ anaeroblar bu zaharlardan superoksiddismutaza, katalaza va peroksidaza fermentlari bilan himoyalanadi. Majburiy anaeroblarda bu fermentlar yo'q yoki yetarli emas, shuning uchun kislorod ularni nobud qiladi; aynan oksidlovchi shikastlanishga zaif bo'lish majburiy anaerobiozning asosida yotadi [2]. Katalaza fermenti vodorod peroksidni suv va kislorodga parchalaydi. Laboratoriyada katalaza testi (3 foizli vodorod peroksid tomizilganda gaz pufakchalari hosil bo'lishi) stafilokokklarni (musbat) streptokokklardan (manfiy) ajratadi [1].
+## Laboratoriyada kislorodga munosabatni hisobga olish
+Aerob va fakultativ anaerob bakteriyalar oddiy termostatda o'stiriladi. Kapnofil mikroblar uchun karbonat angidridi ko'paytirilgan termostat yoki shamli idish (candle jar) qo'llanadi [4]. Anaerob bakteriyalarni o'stirish uchun kislorodni yo'qotadigan usullar qo'llanadi:
+- fizikaviy — havoni so'rib olib, inert gaz bilan almashtirish; muhitni qaynatib havosini chiqarish va yuzasini vazelin moyi qatlami bilan yopish;
+- kimyoviy — muhitga qaytaruvchi moddalar (tioglikolat, askorbin kislotasi) qo'shish; anaerostatda kislorodni bog'laydigan gaz hosil qiluvchi paketlar qo'llash;
+- biologik — aerob bakteriyalar yoki to'qima bo'laklari (Kitt–Tarozzi muhitidagi jigar bo'laklari) bilan kislorodni so'ndirish.
+Tioglikolatli muhit kislorod gradienti hosil qiladi: yuza qismida aeroblar, pastki qismida anaeroblar o'sadi. Muhitga qo'shiladigan rezazurin indikatori kislorod borligida pushti rang beradi va muhit sifatini ko'rsatadi [4]. Anaeroblarni o'stirish usullari alohida mavzuda to'liq ko'rib chiqiladi.
+## Amaliy ahamiyati
+Kislorodga munosabat infeksiyaning klinik ko'rinishiga ham ta'sir qiladi: anaerob infeksiyalar (gazli gangrena, qoqshol) to'qimalarda kislorod yetishmaydigan chuqur jarohatlarda rivojlanadi. Shu sababli bunday jarohatlardan olingan materialni tezda, havo bilan kamroq tegishtirib laboratoriyaga yetkazish zarur. Bu bilim namuna olish, tashish va ekish usulini belgilaydi [1].
+Nafas olish turi davolashga ham ta'sir qiladi. Aminoglikozidlar bakteriya hujayrasiga kirishi uchun kislorodga bog'liq energiya kerak, shuning uchun ular majburiy anaeroblarga ta'sir qilmaydi. Metronidazol esa aksincha, faqat anaerob sharoitda faollashadi va anaerob infeksiyalarda qo'llanadi [1]. Zararsizlantirishda ham farq bor: Clostridium kabi sporali anaeroblarning vegetativ hujayralari havoda tez nobud bo'ladi, ammo ularning sporalari kislorodga ham, quruqlikka ham chidamli bo'lgani uchun materialni zararsizlantirishda bug' bilan sterilizatsiya qo'llanadi.
+Namuna olishda quyidagi qoidalarga amal qilinadi:
+- anaerob infeksiya gumon qilinsa, material shpris yoki maxsus transport muhitida havosiz tashiladi;
+- materialni imkon qadar tez, odatda bir necha soat ichida ekish kerak;
+- surtmalar tekshiruvdan oldin Gram usulida bo'yalib, mikroskopiyada tipik bakteriyalar ko'riladi.
+## Xulosa
+Mikroblar energiyani aerob va anaerob nafas olish yoki bijg'ish orqali oladi. Kislorodga munosabatiga ko'ra ular majburiy aerob, majburiy anaerob, fakultativ anaerob, mikroaerofil, aerotolerant va kapnofil guruhlarga bo'linadi. Majburiy anaeroblarning kislorodga sezgirligi himoya fermentlari yetishmasligi bilan bog'liq. Laboratoriyada har bir guruh uchun mos o'stirish sharoiti tanlanadi: aeroblar va fakultativ anaeroblar uchun oddiy termostat, kapnofillar uchun karbonat angidridi ko'paytirilgan muhit, anaeroblar uchun kislorodsiz idish yoki qaytarilgan oziqa muhit. Kislorodga munosabat identifikatsiyada ham, davo tanlashda ham, namuna tashishda ham hisobga olinadi. Shu sababli bu tushunchalarni aniq bilish bakteriologik tekshiruv natijasining ishonchliligini ta'minlaydi.
+## Foydalanilgan adabiyotlar
+[1] Riedel S, Hobden JA, Miller S, Morse SA, Mietzner TA, Detrick B, Mitchell TG, Sakanari JA, Hotez P, Mejia R. Jawetz, Melnick & Adelberg's Medical Microbiology. 28th ed. New York: McGraw-Hill Education; 2019. ISBN 978-1-260-01202-6.
+[2] Imlay JA. Pathways of oxidative damage. Annual Review of Microbiology. 2003;57:395–418. DOI: 10.1146/annurev.micro.57.030502.090938
+[3] Kracke F, Vassilev I, Krömer JO. Microbial electron transport and energy conservation – the foundation for optimizing bioelectrochemical systems. Frontiers in Microbiology. 2015;6:575. DOI: 10.3389/fmicb.2015.00575
+[4] Vandepitte J, Engbaek K, Rohner P, Piot P, Heuck CC, et al. Basic laboratory procedures in clinical bacteriology. 2nd ed. Geneva: World Health Organization; 2003. ISBN 92-4-154545-3. https://iris.who.int/handle/10665/42696

@@ -1,0 +1,173 @@
+1. Mikrobiologiya fanining maqsad va vazifasi, ahamiyati.
+2. Mikrobiologiya fanining rivojlanish tarixi, assosiy davrlari, o'z xissasini qo'shgan olimlar yutuqari.
+3. Mikroorganizmlar tasnifi.
+4. Bakteriyalar morfologiyasi
+5. Bakteriyalarning hujayraviy tuzilishi,spora, kapsula, hivchin.
+6. Mikrob hujayrasida bo'ladigan fiziologik jarayonlar, mikroblarning kimyoviy tarkibi
+7. Mikroblarning nafas olishi, nafas olish turlari.
+8. Oziqa muhitlarning tasnifi.
+9. Oziqa muhitlarga qo'yiladigan talablar.
+10. Oziqa muhitining vodorod ion konsentrasiyasi (pH) nianiqlash.
+11. Oziqa muhitlarga ekish usullari.
+12. Mikroblarning suyuq va yarim suyuq muhitlarida o'sishi.
+13. Mikroblarni zich oziqa muhitida o'sishi. Koloniyaga xarakteristika.
+14. Sof kulturani ajratib olish usullari.
+15. Mikroblarning biokimyoviy xossasini aniqlash.
+16. Mikroblarning saxarolitik xossasini o'rganish.
+17. Mikroblarning proteolitik xossasini o'rganish.
+18. Mikroblarning gemolitik xossasini aniqlash
+19. Tashqi muhit omillarining turlari va ularni mikroorganizmlarga ta'siri.
+20. Fizikaviy omillarining turlari, haroratning turlari, haroratga chidamliligiga ko'ra mikroblar necha xilga bo'linadi.
+21. Kimyoviy omillarning mikroorganizmlarga ta'siri.
+22. Biologik omillarning mikroorganizmlarga ta'siri.
+23. Mikroorganizmlarni tabiatda tarqalishi.
+24. Havo mikroflorasi, mikroblarning sanitar ko'rsatkichi.
+25. Suv mikroflorasi, mikroblarning sanitar ko'rsatkichi.
+26. Tuproq mikroflorasi, mikroblarning sanitar ko'rsatkichi.
+27. Odam organizmining mikroflorasi.
+28. Antibiotiklar tasnifi va ularning tasir etish mexanizmi.
+29. Disbakterioz va antibiotiklarni zaxarli ta'sirini
+30. Mikroblarning antibiotikka sezuvchanligini diffuz (disklar) usulida aniqlash.
+31. Mikroblarning antibiotikka sezuvchanligini seriyalab suyultirish usulida aniqlash.
+32. Kimyoprofilaktika va kimyoterapiya, organizmni antibiotikka sezuvchanligini aniqlash.
+33. Infektsion jarayonlarning o'ziga xos xususiyatlari.
+34. Patogen mikroblarini xarakteristika.
+35. Infektsiya manbai.
+36. Infeksiyaning yuqish yo'llari.
+37. Infektsiyalarni organizmga kirishi(kirish darvozalari).
+38. Infektsion jarayonning rivojlanish dinamikasi.
+39. Infektsion kasallikning aholi orasida tarqalish formalari.
+40. Immunitet tushunchasi. Immunitet turlari.
+41. Aktiv va passiv immunitet.
+42. Immunitet omillari. Nospetsifik va spetsifik omillari.
+43. Fagotsitoz mexanizmi, I.I.Mechnikov nazariyasi.
+44. Spetsifik ortirilgan immunetet, organizmning immun sistemasi.
+45. Organizmning himoya qiluvchi gumoral omillari, antigen xossalari. Mikrob antegeni (O, N, K, Vi —antigenlar).
+46. Antitelolar (immunoglobulinlar), ularning fizik, kimyoviy xossalari va strukturalari.
+47. Immunitet reaktsiyalar va ularning ahamiyati. Amaliyotda qo'llanilishi.
+48. Agglyutinatsiya reaksiyasi, taxminiy agglutinatsiya reaksiyasi.
+49. Kengaytirilgan hajm agglyutinatsiya reaksiyasi.
+50. Gemagglyutinatsiya reaksiyasi.
+51. Presipitatsiya reaksiyasi. Xalqa presipitatsiya reaksiyasi.
+52. Geldagi yoki agardagi presipitatsiya reksiyasi.
+53. Komplement gog'lanish reaksiyasi.
+54. Vaktsinalar, ularning tasnifi.
+55. Zardoblar, zardoblarning tasnifi,
+56. Allergiya va allergen tushunchasi.
+57. Stafilokokklarning morfologiyasi va biologik xossalari.
+58. Stafilokokklar keltirib chiqaradigan kasalliklari, etiologiyasi.
+59. Stafilokokk kasalliklarining immunitet. Umumiy maxsus profilaktikasi, davosi.
+60. Stafilokokk kasalliklarida tekshirish materiali va tekshirish usullari.
+61. Streptokokklarning morfologiyasi va biologik xossalari.
+62. Streptokokklar keltirib chiqaradigan kasalliklari, etiologiyasi.
+63. Streptokokk kasalliklarida tekshirish materiali va tekshirish usullari.
+64. Stafilokokk kasalliklarida tekshirish bosqichlari.
+65. Pnevmokokklarning morfologiyasi va biologik xossalari.
+66. Pnevmokokklar keltirib chiqaradigan kasalliklari, etiologiyasi.
+67. Pnevmokokk kasalliklarining immuniteti. Umumiy va maxsus profilaktikasi, davosi.
+68. Pnevmokokk kasalliklarida tekshirish materiali va tekshirish usullari.
+69. Pnevmokokk kasalliklarida tekshirish bosqichlari.
+70. Meningokokklarning morfologiyasi va biologik xossalari.
+71. Meningokokklar keltirib chiqaradigan kasalliklari, etiologiyasi.
+72. Meningokokk kasalliklarining immuniteti. Umumiy va maxsus profilaktikasi.
+73. Meningokokk kasalliklarida tekshirish materiali va tekshirish usullari.
+74. Meningokokk kasalliklarida tekshirish bosqichlari.
+75. Meningokokk kasalliklarida tekshirish materialini qabul qilish qoidalari.
+76. Esherixiyalarning morfologik, kultural, fermentativ, antigenlik xossalari, chidamliligi.
+77. Esherixiyalar keltirib chiqaradigan kasalliklari, etiologiyasi.
+78. Esherixioz kasalliklarining immuniteti. Umumiy maxsus profilaktikasi, davosi.
+79. Esherixioz kasalliklarida tekshirish materiali va tekshirish usullari.
+80. Esherixioz kasalliklarida tekshirish bosqichlari.
+81. Salmonellalarning morfologik, kultural, fermentativ, antigenlik xossalari, chidamliligi.
+82. Salmonellalar keltirib chiqaradigan kasalliklari, etiologiyasi.
+83. Salmonella kasalliklarida tekshirish, gemokultura usuli.
+84. Salmonella kasalliklarida tekshirish, serologik (Vidal reaksiyasi) usuli.
+85. Salmonella kasalliklarida tekshirish, kooprokultura usuli.
+86. Shigellalarning morfologik, kultural, fermentativ, antigenlik xossalari, chidamliligi.
+87. Shigellalar keltirib chiqaradigan kasalliklari, etiologiyasi.
+88. Dizenteriya (ichburug') kasalliklarida tekshirish materiali, tekshirish usullari va bosqichlari.
+89. Vabo qo'zg'atuvchisining morfologik, kultural, fementativ, toksigenlik va antigenlik xossalari.
+90. Vabo kasalligida infeksiya manbai, tarqalish yo'llari, patogenezi.
+91. O'ta xavfli laboratoriyalarda ishlash qoidasi.
+92. Vabo kasalligida tekshirish materiali, tekshirish usullari.
+93. Vabo kasalligining tashxisi, davosi va profilaktikasi.
+94. Bruzellyoz qo'zg'atuvchining oilasi, avlodi va turlari, qo'zg'atuvchisining morfologik, kultural, fementativ, toksigenlik va antigenlik xossalari.
+95. Brusellyoz kasalligida infeksiya manbai, tarqalish yo'llari, patogenezi.
+96. Brusellyoz kasalligida tekshirish materiali, tekshirish usullari, bosqichlari.
+97. Kuydirgi qo'zg'atuvchisining morfologik, kultural, fementativ, toksigenlik va antigenlik xossalari.
+98. Kuydirgi kasalligida infeksiya manbai, tarqalish yo'llari, patogenezi.
+99. Kuydirgi kasalligida tekshirish materiali, tekshirish usullari, bosqichlari.
+100. Patogen anaeroblarga umumiy xarakteristika.
+101. Qoqshol qo'zg'atuvchisining morfologik, kultural, fementativ, toksigenlik va antigenlik xossalari.
+102. Qoqshol kasalligida infeksiya manbai, tarqalish yo'llari, patogenez, tashxisi.
+103. Gazli gangrena qo'zg'atuvchisining turlari, morfologik, kultural, fementativ, toksigenlik va antigenlik xossalari.
+104. Gazli gangrena kasalligida infeksiya manbai, tarqalish yo'llari, patogenezi.
+105. Gazli gangrena kasalligida tekshirish materiali, tekshirish usullari, tashxisi.
+106. Botulizm qo'zg'atuvchisining morfologik, kultural, fementativ, toksigenlik va antigenlik xossalari.
+107. Botulizm kasalligida infeksiya manbai, tarqalish yo'llari, patogenezi.
+108. Botulizm kasalligida tekshirish materiali, tekshirish usullari, tashxisi.
+109. Bo'g'ma qo'zg'atuvchisining biovarlari, morfologik, kultural, fementativ, toksigenlik va antigenlik xossalari.
+110. Bo'g'ma kasalligida infeksiya manbai, tarqalish yo'llari, patogenezi.
+111. Bo'g'ma kasalligida tekshirish materiali, tekshirish usullari, tashxisi.
+112. Ko'kyo'tal qo'zg'atuvchisining morfologik, kultural, fementativ, toksigenlik va antigenlik xossalari.
+113. Ko'kyo'tal kasalligida infeksiya manbai, tarqalish yo'llari, patogenezi.
+114. Ko'kyo'tal kasalligida tekshirish materiali, tekshirish usullari, tashxisi.
+115. Sil qo'zg'atuvchisining morfologik, kultural, fementativ, toksigenlik va antigenlik xossalari.
+116. Sil kasalligida infeksiya manbai, tarqalish yo'llari, patogenezi.
+117. Sil kasalligida tekshirish materiali, tekshirish usullari' tashxisi.
+118. Bakteriologik laboratoriya tuzilishi va jihozlanishi, qo'yiladigan talablar.
+119. Bakteriologik laboratoriyada ishlash qoidasi.
+120. Bakteriologik laboratoriyasida tekshirish materiali va tekshirish usullari.
+121. Zich oziqa muhitida o'sgan mikrob kulturasidan surtma preparat tayyorlash.
+122. Suyuq oziqa muhitida o'sgan mikrob kulturasidan surtma preparat tayyorlash.
+123. Tayyorlangan preparatni quritish va fiksatsiya qilish.
+124. Tayyorlangan preparatni oddiy usulda bo'yash,
+125. Gram usulida bo'yash.
+126. Sil-Nilsen usulida bo'yash.
+127. Ojeshko usulida bo'yash.
+128. Mikroskop tuzilishi va u bilan ishlash.
+129. Dezinfeksiya, dezinfeksiyalovchi eritmalarni tayyorlash.
+130. Zararli materiallarni zararsizlantirish, fizikaviy usul.
+131. Zararli materiallarni zararsizlantirish, kimyoviy usul.
+132. Laboratoriya idishlarini sterilizatsiyaga tayyorlash.
+133. Sterilizatsiya, uning turlari.
+134. Bosim ostida sterilizatsiya, qo'llaniladigan asbobda ishlash.
+135. Bug' oqimi yordamida sterilizatsiya, qo'llaniladigan asbobda ishlash.
+136. Quruq harorat yordamida sterilizatsiya, qo'llaniladigan asbobda ishlash.
+137. Nurlar yordamida sterilizatsiya, qo'llaniladigan asbobda ishlash.
+138. Alanga yordamida sterilizatsiya.
+139. Qaynatish yordamida sterilizatsiya.
+140. Sterilizatsya to'liq bo'lganligini nazorat qilish.
+141. Anaerob mikroblarni o'stirish usullari, fizikaviy kimyoviy, biologik usul.
+142. Taxminiy agglyutinatsiya reaksiyasi
+143. Kehgaytirilgan xajm agglyutinatsiya reaksiyasi.
+144. Xalqa presipitatsiya reaksiyasi.
+145. Geldagi yoki agardagi presipitatsiya reaksiyasi.
+146. Komplement bog'lanish reaksiyasi.
+147. Suv mikroflorasi, ochiq suv xavzalaridan namuna olish,yo'llanma xatini to'ldirish.
+148. Suv mikroflorasi, yopiq suv xavzalaridan namuna olish,yo'llanma xatini to'ldirish.
+149. Suvdagi mikroblarning umumoy sonini aniqlash.
+150. Suvdagi koli-titr, koli-indeksni bijg'itish usulida aniqlash.
+151. Suvdagi koli-titr, koli-indeksni membrane filtr usulida aniqlash.
+152. Havo mikroflorasi, aspiratsion usulida havodan namuna olish,yo'llanma xatini to'ldirish.
+153. Havo mikroflorasi, sedimentatsion usulida havodan namuna olish,yo'llanma xatini to'ldirish.
+154. Havodagi mikroblarning umumiy sonini aniqlash.
+155. Havodagi patogen mikroblarni aniqlash.
+156. Tuproqdan namuna olish, yo'llanma xatini to'ldirish.
+157. Tuproqdagi mikroblarning umumiy sonini aniqlash.
+158. Tuproqdagi koli-titrni aniqlash.
+159. Sut va sut mahsulotlarini sanitar-bakteriologik tekshirish, namuna olish, yo'llanma xatini to'ldirish.
+160. Sut va sut mahsulotlaridagi mikroblarning umumiy sonini aniqlash.
+161. Sut va sut mahsulotlaridagi koli-titr, koli-indeksni aniqlash.
+162. Go'sht va kolbasa mahsulotlarini sanitar-bakteriologik tekshirish, namuna olish, yo'llanma xatini to'ldirish.
+163. Go'shtdagi mikroblarning umumiy sonini aniqlash.
+164. Go'shtdagi koli-titr, koli-indeksni aniqlash.
+165. Goshtdagi salmonellalarni aniqlash.
+166. Go'shtdagi proteylarni aniqlash.
+167. Qo'ldan surtma olish, yo'llanma xatini to'ldirish.
+168. Buyumlardan namuna olish, yo'llanma xatini to'ldirish.
+169. Olingan surtmalarni ichak bakteriyalariga tekshirish.
+170. Olingan surtmalarni stafilokokklarga tekshirish.
+171. Olingan surtmalarni mikroblarning umumiy soniga tekshirish..
+172. Konservalarni sanitar-bakteriologik tekshirish.
+173. Jarrohlik boglov materiallarini sanitar – bakteriologik tekshirish, namuna olish, yo'llanma xatini to'ldirish.

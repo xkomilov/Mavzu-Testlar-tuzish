@@ -1,0 +1,45 @@
+TITLE: 156. Tuproqdan namuna olish, yo'llanma xatini to'ldirish.
+## Kirish
+Tuproq mikroorganizmlar uchun eng boy tabiiy muhit bo'lib, undan salmonella, shigella, patogen klostridiyalar, kuydirgi qo'zg'atuvchisi kabi kasallik qo'zg'atuvchilari tarqalishida ma'lum rol o'ynaydi [1]. Shu sababli tuproqni sanitariya-mikrobiologik tekshirish yangi qurilayotgan turar joylar, kasalxonalar, sanatoriylar, bolalar lagerlari, maktabgacha va maktab binolari tuprog'iga baho berish, aholi punktlarini suv bilan ta'minlash, kanalizatsiya va chiqindilarni tozalash masalalarini hal qilish, biologik chiqindilar bilan ifloslanganda tabiiy tozalanish jarayonini kuzatish hamda tuproq orqali tarqaluvchi yuqumli kasalliklarni epidemiologik tekshirish maqsadida o'tkaziladi [1]. Natijaning to'g'riligi namunani to'g'ri olishga bog'liq; mazkur mavzuda namuna olish usuli va yo'llanma xatini to'ldirish tartibi ko'rib chiqiladi.
+## Normativ asos
+Yangi sanitariya qoidalari (SanQvaN № 0112-26) tuproqning sanitariya-epidemiologik holati va epidemik xavf darajasi patogen va sanitariya-ko'rsatkich mikroorganizmlar (shu jumladan patogen enterobakteriyalar va enteroviruslar), geogelmint tuxumlari hamda lichinkalarining mavjudligi, miqdori va hayotiyligi bo'yicha baholanishini belgilaydi [2]. Sanitariya-bakteriologik ko'rsatkichlar ro'yxatiga termofil bakteriyalar (indeks), ichak tayoqchasi guruhi bakteriyalari (titr, g), Clostridium perfringens (titr, g) kiradi; patogen mikroorganizmlar (shu jumladan salmonella) namunada aniqlanmasligi kerak [2]. Eslatma: kutubxonadagi qaror matni 0183-05, 0191-05, 0212-06 va 0272-09 sonli eski qoidalarning kuchini yo'qotganini ko'rsatadi [2].
+## Namuna olish maydonchasi
+Aliyev va Muxamedov bo'yicha namuna qo'yilgan maqsadga ko'ra tekshirilayotgan uchastkaning ma'lum kvadratlaridan (5 × 5 m dan kam bo'lmagan) "konvert" usulida olinadi: 4 ta namuna diagonal bo'yicha va 1 tasi markazdan [1]. SanQvaN № 0112-26 ga ko'ra [2]:
+- har 15 gektargacha maydon uchun kamida bitta namuna olish uchastkasi tashkil etiladi;
+- uchastka relyef, tuproq qoplami, yerdan foydalanish turi va ifloslanish manbalari hisobga olib tanlanadi;
+- har bir uchastkada 5 × 5 m maydon doirasidan "konvert" yoki diagonal usulda namuna olinadi;
+- teng hajmdagi 5–10 ta nuqtaviy namuna birlashtirilib bitta aralash (kompozit) namuna hosil qilinadi; ifloslanish notekis bo'lsa, nuqtaviy namunalar soni 20 tagacha oshirilishi mumkin.
+## Chuqurlik va hajm
+Aliyev bo'yicha namunalar 20–30 sm chuqurlikdan 200 g dan olinadi, tuproqning bakteriologik ifloslanishini aniqlash uchun esa 20 sm chuqurlikdan [1]. SanQvaN № 0112-26 bo'yicha aholi punktlari hududlari va bolalar o'yin maydonchalarida yuzaki ta'sirni baholash uchun 0–10 sm qatlamdan, qishloq xo'jaligi yerlarida haydalma qatlamdan (0–25 sm) olinadi [2]. Bu ikki manba orasidagi farq hisobotda qayd etilgan: joriy qoidalar bo'yicha aholi punktlarida 0–10 sm chuqurlik, o'quv qo'llanmasida esa 20–30 sm ko'rsatilgan.
+## Idish, saqlash va tashish
+- Mikrobiologik va parazitologik tekshiruvlar uchun namuna steril idishlarga olinadi [2];
+- Aliyev bo'yicha namunalar maxsus steril idishlarda laboratoriyaga jo'natiladi; zarurat bo'lsa 24 soatgacha muzlatgichda saqlashga ruxsat etiladi [1];
+- har bir tahlil qilinadigan namunadan zaxira namuna ajratiladi (miqdori, sharoiti va muddati sinov usuli talablariga muvofiq) [2];
+- saqlash muddati, harorati va konservatsiyalash tartibi o'tkaziladigan tekshiruv xususiyatiga qarab belgilanadi; tashish jarayonida namuna tarkibi o'zgarmasligi kerak [2].
+## Tekshiruv davriyligi va ustuvor ob'ektlar
+SanQvaN № 0112-26 bo'yicha tuproq tekshiruvi birinchi navbatda maktabgacha va umumiy o'rta ta'lim tashkilotlari, tibbiyot tashkilotlari, turar joy va rekreatsiya hududlari, ichimlik suvi manbalari va ularning sanitariya muhofaza zonalarida, shuningdek qishloq xo'jaligi yerlarida o'tkaziladi; tekshiruv yiliga ikki marta — bahor va kuz fasllarida o'tkaziladi [2].
+## Namunani tekshirishga tayyorlash
+Beshta nuqtadan olingan namunalar maxsus idishda aralashtiriladi, undan 10–30 g tortib olinib, steril vodoprovod suvi bilan 1 : 10 nisbatda suspenziya tayyorlanadi (10 g tuproq + 100 ml suv); asosiy suspenziyadan maqsadga ko'ra 10-2, 10-3, 10-4, 10-5 va hokazo suyultirmalar tayyorlanadi [1]. Tuproqni sanitariya-mikrobiologik baholashda UMS, SKB koli-titri va perfringens-titri aniqlanadi [1].
+## Ko'rsatkichlarni yerdan foydalanish turiga qarab qo'llash
+SanQvaN № 0112-26 ning 2-ilovasida "+" belgisi ko'rsatkichni aniqlash majburiy ekanini, "±" faqat ifloslanishning aniq manbai bo'lganda majburiyligini, "−" aniqlash talab etilmasligini bildiradi [2]. Aholi punktlari, tabiatni muhofaza qilish va rekreatsiya, sanoat-transport, qishloq xo'jaligi hamda suv fondi yerlarida ichak tayoqchasi guruhi bakteriyalari majburiy ko'rsatkich; Clostridium perfringens aholi punktlari, rekreatsiya, qishloq xo'jaligi va suv fondi yerlarida majburiy, o'rmon fondida talab etilmaydi; termofil bakteriyalar ko'pchilik yer turlarida faqat ifloslanish manbai bo'lganda aniqlanadi [2]. Tuproqdagi kolifaglar miqdori virusli fekal ifloslanish ko'rsatkichi sifatida baholanadi [2].
+## Amaliy ketma-ketlik
+Quyidagi tartib manbalardagi talablarning umumlashtirilishi (muallif izohi):
+- uchastka belgilanadi, ifloslanish manbasi va relyef qayd etiladi;
+- 5 × 5 m maydon kvadratining burchaklaridan va markazidan o'simlik qoplami olib tashlanib, steril belkurak yoki burg'i bilan belgilangan chuqurlikdan namuna olinadi (qurol olovda kuydirib sterillanadi);
+- nuqtaviy namunalar steril idishda aralashtirilib, kompozit namuna hosil qilinadi;
+- idish belgilanib, yo'llanma xati bilan birga laboratoriyaga yuboriladi; zarur bo'lsa muzlatgichda 24 soatgacha saqlanadi [1].
+Natijalarni baholash 157 va 158-mavzularda, ya'ni UMS va koli-titr bo'yicha, ko'rib chiqiladi.
+## Yo'llanma xatini to'ldirish
+Yo'llanma xati (muallif izohi; maydonlar yuqoridagi talablardan va amaliyotdan umumlashtirilgan):
+- yuboruvchi tashkilot va namuna olgan mutaxassis (F.I.Sh., lavozim);
+- namuna olingan joy: manzil, uchastka turi (bolalar maydonchasi, bog'cha hududi, turar joy, sanitariya muhofaza zonasi, qishloq xo'jaligi yeri), maydoni, ifloslanish manbasi;
+- nuqtalar soni va joylashuvi (konvert sxemasi), olish chuqurligi, aralash namuna massasi;
+- olingan sana, vaqt, ob-havo; idish raqami, saqlash sharoiti;
+- tekshiruv maqsadi (reja, epidemiologik ko'rsatma, shikoyat) va so'ralgan ko'rsatkichlar: UMS, koli-titr, perfringens-titr, patogen enterobakteriyalar, termofillar.
+## Xavfsizlik va xatolar
+Namuna olishda qo'lqop kiyiladi, qurollar flamblanadi, namuna olingan har bir nuqtadan keyin asbob almashtiriladi yoki sterillanadi, namuna idishi tashqi tomondan dezinfeksiya qilinadi (muallif izohi). Xatolar: bir nuqtadan olish, steril bo'lmagan idish, ifloslanish manbasini hisobga olmaslik, chuqurlikni noto'g'ri tanlash [2].
+## Xulosa
+Tuproq namunasi 5 × 5 m maydonchadan "konvert" yoki diagonal usulda, 5–10 nuqtadan teng hajmda olinib, steril idishga solinadi. Chuqurlik joriy qoidalarda aholi punktlari uchun 0–10 sm, qishloq xo'jaligi uchun 0–25 sm (Aliyev bo'yicha 20–30 sm). Yo'llanma xatiga joy, uchastka turi, nuqtalar, chuqurlik, sana va so'ralgan ko'rsatkichlar yoziladi.
+## Foydalanilgan adabiyotlar
+[1] Aliyev ShR, Muxamedov IM. Mikrobiologiyadan laboratoriya mashg'ulotlariga doir qo'llanma. Toshkent: Ibn Sino nomidagi nashriyot-matbaa birlashmasi; 2013 (kirill yozuvida). Xayrullo Komilov kutubxonasi, id 2355: https://xayrullokomilov.uz/kutubxona/2355
+[2] SanQvaN № 0112-26. Tuproqning sanitariya-gigiyenik holatini baholash hamda tuproqdagi ekzogen zararli moddalarning ruxsat etilgan maksimal va taxminiy konsentratsiyalariga doir sanitariya qoidalari, normalari va gigiyena normativlari (SEOJSQ qo'mitasining 2026-yil 17-iyuldagi 391-son qarori bilan tasdiqlangan; Adliya vazirligida 2026-yil 21-iyulda 409-son bilan hisobga olingan). Xayrullo Komilov kutubxonasi, id 2702: https://xayrullokomilov.uz/kutubxona/2702

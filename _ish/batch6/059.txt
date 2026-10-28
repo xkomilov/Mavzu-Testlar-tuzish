@@ -1,0 +1,45 @@
+TITLE: 59. Stafilokokk kasalliklarining immunitet. Umumiy maxsus profilaktikasi, davosi.
+## Kirish
+Stafilokokk infeksiyalari keng tarqalgan va ko'pincha qaytalanishga moyil. Shu sababli ularga qarshi immunitet xususiyatlarini, umumiy va maxsus profilaktika choralarini hamda davolash prinsiplarini bilish bakteriologik laboratoriya xodimi uchun muhim, chunki laborant epidemiologik nazorat va davolash taktikasini aniqlashga ma'lumot beradi [1]. Mavzuda stafilokokk kasalliklarida immunitet, profilaktika va davo bo'yicha o'quv adabiyotidagi ma'lumotlar keltiriladi.
+## Immunitet
+Odam organizmida stafilokokkka qarshi tabiiy himoya mavjud bo'lib, u fagotsitoz va antitelalar hisobiga ta'minlanadi. Mexanik omillar organizmga tushgan qo'zg'atuvchining tarqalib ketishiga qarshilik ko'rsatib, yallig'lanish jarayonini cheklaydi; hosil bo'lgan o'chog'ida stafilokokklar fagotsitozga uchraydi [1]. Kasallik jarayonida antitoksin hosil bo'ladi va u immunitetning umumiy majmuasida muhim omil hisoblanadi. Biroq ortirilgan immunitet mustahkam emas, shuning uchun kasallik qaytalanishi kuzatiladi [1]. Stafilokokk kasalliklarida allergiyaning kuchayishi ham ahamiyatga ega, bu qaytalanishga yordam beradi [1].
+## Umumiy profilaktika
+Umumiy profilaktika sanitariya-gigiyena sharoitlarini yaxshilash, bemorlar va bakteriya tashuvchilarni aniqlashni faollashtirish, kasalxona muassasalarida ish tartibini yaxshilashdan iborat [1].
+Kasalxona ichidagi infeksiyalar profilaktikasi bo'yicha O'zbekiston SanPiN № 0342-17 da quyidagilar belgilangan [2]:
+- jarrohlik statsionarlarida (bo'limlarida) yara yuzasi bilan tegib turadigan bog'lov materiali va tibbiy buyumlar steril bo'lishi kerak;
+- jarrohlik bo'limlarida xodimlar patogen stafilokokk tashuvchiligiga yilda 2 marta tekshiriladi; tug'ruq majmuasida (bo'limida) esa epidemiologik ko'rsatmaga ko'ra;
+- surunkali yallig'lanish kasalliklarini (burun-halqum, teri, kariyesli tishlar) o'z vaqtida aniqlash va davolash maqsadida xodimlar davriy tibbiy ko'rikdan o'tadi;
+- metitsillin (oksatsillin)ga chidamli stafilokokklarga alohida e'tibor beriladi va maqsadli davolash, profilaktika hamda epidemiyaga qarshi tadbirlar o'tkaziladi;
+- epidemik avj o'ligan paytda bemorlar, tibbiyot xodimlari va atrof-muhit obyektlaridan ajratilgan mikroorganizmlar tur ichida tiplanadi [2].
+Laboratoriya xodimi bu talablarni bajarishda bemor, xodim va atrof-muhitdan namuna olish, ajratilgan stafilokokk kulturalarini fagotiplash va antibiotiklarga sezuvchanligini aniqlash orqali ishtirok etadi [3].
+## Jarrohlik statsionarlarida profilaktika choralari
+SanPiN № 0342-17 jarrohlik profilidagi statsionarlar uchun qo'shimcha talablarni belgilaydi [2]:
+- yallig'lanish va yiringli jarayonlari bor, o'zini yomon his qilayotgan yoki harorati ko'tarilgan tibbiyot xodimi ishga qo'yilmaydi;
+- yiringli-septik infeksiyasi yoki operatsiyadan keyingi asoratlari bor bemorlar «toza» bemorlardan alohida yotqiziladi;
+- rejali operatsiyadan oldin tekshiruv ambulator sharoitda o'tkaziladi, chunki statsionarda ortiqcha o'tkazilgan har bir kun gospital infeksiya qo'shilish xavfini oshiradi;
+- bemor bilan har bir muloqotdan oldin va keyin, qo'lqopni yechgandan keyin hamda qon, biologik suyuqlik va ifloslangan buyum bilan kontaktdan so'ng qo'llarning gigiyenik ishlovi o'tkaziladi;
+- qon va ajratmalar sachrashi bilan bog'liq muolajalarda niqob va ko'z himoya vositalari qo'llanadi;
+- jarrohlik statsionarlari (bo'limlari) yilda bir marta jadval bo'yicha rejali yuvish uchun yopiladi [2].
+200 dan ortiq o'rinli jarrohlik statsionarlarida gospital infeksiyalar etiologiyasini, operatsiyadan keyingi asoratlarni, ajratilgan kulturalar antibiotiksezuvchanligini o'rganish va atrof-muhit ob'ektlarini doimiy bakteriologik nazorat qilish uchun bakteriologik laboratoriya tashkil etiladi; unda steril material sifati va havo holati oyiga bir marta tekshiriladi. O'zining laboratoriyasi bo'lmagan yoki 200 o'rindan kam statsionarlarda bu ishlar attestatsiyadan o'tgan boshqa laboratoriyalarda shartnoma asosida bajariladi [2]. Demak, stafilokokk profilaktikasida bakteriologik laborantning roli bevosita bo'ladi.
+## Immunoprofilaktika va immunoterapiya tushunchalari
+Immunoprofilaktika — yuqumli kasalliklarni oldini olish maqsadida immun preparatlarni (vaksina, zardob) qo'llash usullari; immunoterapiya — davolash maqsadida immun preparatlarni (antitelo, interferon, sitokinlar va boshqalar) qo'llash usullaridir [3]. Stafilokokk uchun bu quyidagicha: anatoksin va autovaksina aktiv ta'sirli preparatlar, immunoglobulin va zardob esa passiv ta'sirli preparatlardir. Immunomodulyatorlar va eubiotiklar (normal mikrofloradan olingan tirik mikroblar kulturalari) ham yordamchi sifatida qo'llanadi [3].
+## Maxsus profilaktika
+Stafilokokkka qarshi maxsus profilaktika sifatida stafilokokk anatoksini va stafilokokkka qarshi immunoglobulin yuboriladi [1]. Anatoksinlar bakterial ekzotoksinlardan formalin ta'sirida tayyorlangan molekulyar vaksinalar bo'lib, stafilokokk toksin keltirib chiqaradigan kasalliklarda ham qo'llanishi qayd etilgan [3]. Emlashga qarshi ko'rsatmalar: harorat ko'tarilganda, o'tkir yuqumli kasalliklarda, allergiyada va homiladorlikning ikkinchi yarmida emlanmaydi [1].
+## Davolash
+Stafilokokk infeksiyalarini davolash uchun quyidagilar qo'llanadi [1]:
+- bakteriyalarga qarshi dorilar (antibiotiklar);
+- polivalent stafilokokk bakteriofagi;
+- stafilokokkka qarshi zardob va immunoglobulinlar;
+- surunkali kechishda — autovaksina.
+Autovaksina bemordan ajratilgan shtammdan tayyorlanadi, faqat shu bemorga ishlatiladi, sxema bo'yicha kam dozada ko'p marta yuboriladi va organizmning himoya kuchini oshiradi [1]. Aliyev va Muxamedov keltirgan tartibda o'ldirilgan stafilokokk autovaksinasi quyidagicha tayyorlanadi: ajratilgan shtamm qiyalatilgan agarga ekiladi, tozaligi surtma bilan tekshiriladi, mikrob hujayralari suspenziyasi izotonik eritma bilan yuvilib tayyorlanadi, 70–80 °C da bir soat suv hammomida qizdiriladi, sterilligi tekshiriladi va optik standart bilan 1 ml da 1 mlrd ga yetkaziladi [3].
+## Antibiotiklarga sezuvchanlikni aniqlash va davolash
+Antibiotik tanlash uchun ajratilgan kulturaning sezuvchanligi aniqlanadi. Diffuz (disk) usulida Myuller–Xinton agariga kultura suspenziyasi gazon bilan ekiladi, antibiotik disklari qo'yiladi va inkubatsiyadan keyin to'xtash zonasi diametri o'lchanadi [4]. Stafilokokk shtammlarining ko'pchiligi penitsillinni parchalagani uchun tanlov sezuvchanlik natijasiga qarab amalga oshiriladi [1]. Metitsillin-chidamli shtammlar alohida nazoratni talab qiladi [2]. Davolash tanlovi shifokorning vazifasi, laborant esa aniq va tez natija berishi kerak. Natijani rasmiylashtirishda ajratilgan stafilokokk turi, uning antibiotiklarga sezuvchanligi va kerak bo'lsa fagotipi yoziladi; shu ma'lumotlar bo'lsa, shifokor mos preparatni tanlay oladi va tarqalish yo'lini tahlil qilish mumkin bo'ladi.
+## Laboratoriya xodimining roli
+Profilaktika va davolashda laboratoriya xodimi bir necha vazifani bajaradi: tashuvchilikni aniqlash uchun xodimlardan burun va tomoq surtmalarini tekshiradi, atrof-muhit obyektlaridan (qo'l, buyum, havo) ekmalar o'tkazadi, ajratilgan kulturalarni identifikatsiya qilib, fagotipini va antibiotiksezuvchanligini aniqlaydi, natijani vaqtida shifokorga va gospital epidemiologga yetkazadi. Bu ishlarning aniqligi infeksiya manbaini topishga va keyingi tadbirlarni to'g'ri rejalashtirishga yordam beradi (muallif izohi, hujjatlardagi talablardan kelib chiqqan xulosa).
+## Xulosa
+Stafilokokk infeksiyasida tabiiy himoya fagotsitoz va antitelalar bilan ta'minlanadi, ortirilgan immunitet mustahkam emas va kasallik qaytalanadi. Umumiy profilaktika sanitariya-gigiyena tartibi, bemor va tashuvchilarni aniqlash, kasalxona ish tartibini yaxshilashga asoslangan. Maxsus profilaktikada stafilokokk anatoksini va immunoglobulin, davolashda antibiotiklar, polivalent bakteriofag, zardob, immunoglobulin va surunkali shakllarda autovaksina qo'llanadi.
+## Foydalanilgan adabiyotlar
+[1] G'anixo'jayeva A, Nazarova H. Mikrobiologiya: tibbiyot kollejlari va bilim yurtlari o'quvchilari uchun darslik. Toshkent: Abu Ali ibn Sino nomidagi tibbiyot nashriyoti; 2002 (kirill yozuvida). Xayrullo Komilov kutubxonasi, id 2323: https://xayrullokomilov.uz/kutubxona/2323
+[2] SanPiN RUz № 0342-17. Ichki kasalxona infeksiyalari profilaktikasi (SanPiN № 0304-12 o'rniga) (rus tilida). O'zbekiston Respublikasi Bosh davlat sanitariya shifokori tomonidan tasdiqlangan. Xayrullo Komilov kutubxonasi, id 2729: https://xayrullokomilov.uz/kutubxona/2729
+[3] Aliyev ShR, Muxamedov IM. Mikrobiologiyadan laboratoriya mashg'ulotlariga doir qo'llanma. Toshkent: Ibn Sino nomidagi nashriyot-matbaa birlashmasi; 2013 (kirill yozuvida). Xayrullo Komilov kutubxonasi, id 2355: https://xayrullokomilov.uz/kutubxona/2355
+[4] EUCAST. Antimikrob preparatlarga sezuvchanlikni aniqlash. Disk-diffuziya usuli, 6.0 versiya (2017-yil yanvar) (rus tiliga tarjima). Yevropa antimikrob sezuvchanlikni aniqlash qo'mitasi (ESCMID). Xayrullo Komilov kutubxonasi, id 1990: https://xayrullokomilov.uz/kutubxona/1990

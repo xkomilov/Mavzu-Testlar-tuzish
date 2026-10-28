@@ -1,0 +1,39 @@
+TITLE: 68. Pnevmokokk kasalliklarida tekshirish materiali va tekshirish usullari.
+## Kirish
+Pnevmokokk infeksiyasini laboratoriyada tashxislash material turi, uni olish usuli va saqlash muddatiga qat'iy bog'liq: pnevmokokk tashqi muhitda tez nobud bo'ladi va avtolizga uchraydi, shuning uchun materialni to'g'ri olish va tezda tekshirish zarur [1][2]. Mavzuda G'anixo'jayeva darsligi, Aliyev va Muxamedov qo'llanmasi hamda MR 4.2.0114-16 asosida tekshirish materiallari va usullari bayon etiladi.
+## Tekshirish materiallari
+G'anixo'jayeva darsligida quyidagilar ko'rsatilgan [1]:
+- balg'am (zotiljamda);
+- yaradan ajralayotgan suyuqlik (ko'z shox pardasining yugurik yarasida);
+- tomoqning yuqori qismidan shilliq (anginada);
+- quloq ajratmasi (otitda);
+- yiring (abssessda);
+- plevra punktati (plevritda);
+- qon (sepsisga shubha qilinganda).
+Aliyev va Muxamedov qo'llanmasida balg'am, yiring, plevra suyuqligi va boshqalar keltirilgan [3]. MR da zotiljamga shubha qilinganda nafas yo'llari materiali (balg'am va induksiyalangan balg'am, trakheal aspirat, bronxoskopiya namunalari), plevra suyuqligi, venoz qon, likvor, siydik va autopsiya materiali tekshirilishi, nafas yo'li materiali bo'lmaganda esa og'iz-halqum va burun-halqum surtmalari qabul qilinishi belgilangan [2].
+## Materialni olish qoidalari
+Materialni terapiyadan oldin, ya'ni antibiotiklar boshlanmasdan, muolajaga murojaat qilingan kuni olish kerak; kasalxonaga yotqizilganlarda — qabul qilingandan keyin (ikkinchi sutkadan kechiktirmasdan), antibiotikdan oldin [2].
+- Balg'am: ertalab och qoringa yoki ovqatdan kamida 2 soat o'tgach; bemor tishini yuvib, qaynatilgan suv bilan og'zini chayqaydi, chuqur nafas olib, kuch bilan nafas chiqarib yo'talganda balg'am (so'lak emas!) steril idishga yig'iladi; hajmi kattalarda kamida 3 ml, bolalarda ~1 ml. Mikroskopiya va bakteriologik tekshirish uchun namuna xona haroratida (20–25 °C) 2 soatgacha, muzlatgichda (2–8 °C) 24 soatgacha saqlanadi [2]. G'anixo'jayeva darsligida balg'am steril idishga yig'ilishi ko'rsatilgan [1].
+- Induksiyalangan balg'am: salbutamol ingalyatori berilgach, 15 daqiqa 5 % steril NaCl eritmasi (5 ml) bilan nebulayzer orqali kislorod beriladi, ko'krak qafasi chertiladi; hajmi kamida 3 ml [2].
+- Og'iz-halqum surtmasi: balg'am olish imkoni bo'lmaganda (bolalar, kasallikning boshlanishi); mikroskopiya o'tkazilmaydi; transport muhitida (Eymis tipidagi) xona haroratida 48 soatgacha saqlanadi, muzlatgich va termostatda saqlash mumkin emas [2].
+- Plevra suyuqligi: teri 70 % spirt va 1–2 % yod bilan tozalanib, aseptika sharoitida aspiratsiya qilinadi; laboratoriyaga 10–15 ml yuboriladi; steril idishda 2 soatgacha (xona harorati) yoki 24 soatgacha (2–8 °C), qon ekish muhitida 24 soatgacha (20–25 °C) saqlanadi [2].
+- Venoz qon: bir vaqtning o'zida ikki tomirdan ikkita namuna; kattalarda flakonga 10–30 ml, bolalarda 0,5–3,0 ml; antibiotik olayotgan bemorlarda 48 soat ichida 6 ta namuna olinadi. Terini 70 % spirt va 1–2 % yod bilan 30 soniya ishlov beriladi [2]. G'anixo'jayeva va Aliyev bilak venasidan 5–10 ml qon olinishini ko'rsatadi [1][3].
+- Siydik (immunoxromatografik test uchun) — faqat kattalarda va antibiotik terapiyasidan oldin [2].
+## Mikroskopik usul
+Mikroskopiya soddaligi va tezligi bilan afzal. Balg'amning yiringli bo'lakchasidan surtma tayyorlanib, quritilib, fiksatsiya qilinadi va Gram, shuningdek Gins usulida bo'yaladi. Surtmada Gram-musbat, juft-juft joylashgan, sham alangasiga o'xshash kapsulali diplokokklar topilsa, pnevmokokkka shubha qilinadi [1][3]. Likvor surtmasida lantsetsimon diplokokklar rangsiz kapsula ichida ko'riladi. Burun-halqum va og'iz-halqum surtmalarining bakterioskopiyasi informativ emasligi uchun o'tkazilmaydi [2]. Modifikatsiya sifatida Neyfeld usuli (kapsulaning bo'rtishi) qo'llanadi: tekshiriladigan materialga I, II, III tur antipnevmokokk zardobi va Lyoffler ko'ki qo'shilib, 2 daqiqadan keyin osma tomchi immersion mikroskopda ko'riladi; kapsulalarning keskin kattalashishi musbat natija. Burri–Gins usulida tush bilan aralashtirilgan surtmada rangsiz kapsulalar fonida bakteriyalar fuksin bilan to'q qizil bo'yaladi [2].
+## Bakteriologik va biologik usul
+Material qonli va zardobli agarga ekiladi; qolgan tampon shakarli bul'onga solinadi. Ekmalar 37 °C da termostatda 18–20 soat saqlanadi [3]. Pnevmokokk ko'pincha boshqa flora fonida o'smaydi, shuning uchun oq sichqonlarni qorin bo'shlig'iga yuborish bilan biologik sinama qo'yiladi (3–5 ml balg'am steril bul'on bilan aralashtirilib, 0,5 ml yuboriladi); 6–8 soatdan keyin qorin bo'shlig'i ekssudatida pnevmokokk topiladi [1][3]. MR ma'lumotiga ko'ra bakteriologik usul natijasi 48–72 soatdan keyin aniqlanadi; qon tekshiruvida antibiotiklar ko'p qo'llanilgan bo'lsa, ajratish darajasi past [2].
+## Tezkor va molekulyar usullar
+- Latex-agglyutinatsiya: kapsula polisaxarid antigenlarini poli-valent zardob bilan aniqlaydi; qon zardobi va likvordan foydalaniladi; tez va oddiy, lekin qimmat [2].
+- Immunoxromatografik tezkor test: siydikda pnevmokokk C-polisaxaridini aniqlaydi; faqat kattalar uchun, 15 daqiqada natija; sezgirligi 86–90 %, maxsusligi 71–97 % [2].
+- PCR: ply, lytA, psaA, cpsA genlari; psaA, ply va lytA faqat steril lokuslar (qon, plevra suyuqligi, likvor) uchun tavsiya etiladi [2].
+## Laboratoriya xavfsizligi va sharoitlari
+MR bo'yicha pnevmokokk tekshiruvi III–IV patogenlik (xavflilik) guruhidagi mikroorganizmlar bilan ishlashga ruxsat etilgan bakteriologik laboratoriyalarda bajariladi; mikroskopiya va ekish 2-sinf biologik xavfsizlik shkafida o'tkaziladi, o'stirish uchun termostat (35–45 ± 1 °C) va CO2-inkubator yoki anaerostat (37 ± 1 °C, CO2 3–7 %) kerak [2]. Xodimlar umumiy mikrobiologik ishlash qoidalariga rioya qiladi, dezinfeksiyalovchi vositalar yo'riqnomadagi konsentratsiya va ekspozitsiyada ishlatiladi [2].
+## Natijani sharhlash
+Pnevmokokk nafas yo'llarida normal tashuvchilik holida ham bo'lgani uchun nosteril materialda (balg'am, surtma) topilishi doimo kasallikni isbotlamaydi: MR da bolalar populyatsiyasida pnevmokokk va yashil streptokokklar tashuvchiligi yuqoriligi sababli bakterioskopiya va latex-agglyutinatsiya natijalarini ehtiyotkorlik bilan baholash lozimligi qayd etilgan; bundan tashqari, bakterioskopiya, latex va immunoxromatografik testning musbat natijasi dastlabki, manfiy natijasi esa infeksiyani istisno qilmaydi [2]. Burun-halqum yoki og'iz-halqum surtmasida PCR bilan miqdoriy aniqlanganda klinik ahamiyatga ega deb DNK > 10^5 genom-ekvivalent/ml topilishi hisoblanadi [2]. Shu sababli laborant natijani kasallikning klinik ko'rinishi va material turi bilan birga baholaydi.
+## Xulosa
+Pnevmokokk infeksiyasida tekshirish materiali kasallik shakliga qarab olinadi: balg'am, plevra suyuqligi, quloq va ko'z ajratmasi, yiring, qon, likvor, siydik. Materialni antibiotikdan oldin, steril sharoitda olish va tezda yetkazish natija ishonchliligini belgilaydi. Asosiy usullar — mikroskopik (Gram, Gins, Neyfeld), bakteriologik, biologik, hamda tezkor (latex, immunoxromatografiya) va molekulyar (PCR).
+## Foydalanilgan adabiyotlar
+[1] G'anixo'jayeva A, Nazarova H. Mikrobiologiya: tibbiyot kollejlari va bilim yurtlari o'quvchilari uchun darslik. Toshkent: Abu Ali ibn Sino nomidagi tibbiyot nashriyoti; 2002 (kirill yozuvida). Xayrullo Komilov kutubxonasi, id 2323: https://xayrullokomilov.uz/kutubxona/2323
+[2] MR 4.2.0114—16. Jamoat pnevmoniyasining pnevmokokk etiologiyasini laboratoriya diagnostikasi: uslubiy tavsiyalar (rus tilida). Moskva: Rospotrebnadzor; 2017. 64 b. (Rossiya Federatsiyasi hujjati; O'zbekistonda rasmiy qo'llanilishi tasdiqlanmagan.) Xayrullo Komilov kutubxonasi, id 2089: https://xayrullokomilov.uz/kutubxona/2089
+[3] Aliyev ShR, Muxamedov IM. Mikrobiologiyadan laboratoriya mashg'ulotlariga doir qo'llanma. Toshkent: Ibn Sino nomidagi nashriyot-matbaa birlashmasi; 2013 (kirill yozuvida). Xayrullo Komilov kutubxonasi, id 2355: https://xayrullokomilov.uz/kutubxona/2355

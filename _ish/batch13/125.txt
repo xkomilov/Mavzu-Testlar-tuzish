@@ -1,0 +1,44 @@
+TITLE: 125. Gram usulida bo'yash.
+## Kirish
+Gram usuli — mikroblarni differensiyalashda eng keng tarqalgan murakkab bo'yash usullaridan biri bo'lib, bakteriyalarni Gram-musbat va Gram-manfiyga ajratadi [1][2]. Murakkab usulda bir nechta bo'yoq ketma-ket qo'llanadi: ular kimyoviy tarkibi, rangi, ishlov beruvchi va differensiyalovchi moddalari bilan farqlanadi [2]. Bakteriyalarning bo'yoqlarga nisbatan bu xossasi tinktorial xossa deyiladi, Gram bo'yog'i esa muhim differensial-diagnostik ahamiyatga ega va mikrobiologiyada keng qo'llanadi [2]. Quyida usulning reaktivlari, bosqichlari, natijani baholash, nazariy asosi va xatolari bayon etiladi.
+## Reaktivlar
+Gram usulida quyidagilar ishlatiladi: genetsian binafshaning karbol-spirtli eritmasi (G'anixo'jayeva bo'yicha Sinevskiy genetsian binafsha bo'yog'i), Lyugol eritmasi, 96° li etil spirti (rangsizlantiruvchi), suvli fuksin yoki Pfeyffer fuksini (qo'shimcha bo'yoq) [1][2]. Bo'yoq filtr qog'ozi orqali beriladi, shunda bo'yoq cho'kmasi preparatda qolmaydi [1][2].
+## Ish tartibi
+Aliyev–Muxamedov bo'yicha [2]:
+1. Fiksatsiyalangan surtmaga genetsian binafshaning karbol-spirtli eritmasi filtr qog'ozi ustidan tomiziladi; 1–2 daqiqa bo'yaladi, so'ng qog'oz olinadi (yuvilmaydi), bo'yoq to'kiladi.
+2. Yuvmasdan Lyugol eritmasi quyilib, 1–2 daqiqa ushlab turiladi.
+3. 20–30 soniya davomida etil spirti tomiziladi va surtma rangsizlantiriladi.
+4. Preparat suv bilan yuviladi.
+5. Surtma suvli fuksin eritmasi bilan 1–2 daqiqa qo'shimcha bo'yaladi, quritiladi va mikroskopda ko'riladi.
+G'anixo'jayeva bo'yicha [1]: genetsian binafsha shimdirilgan filtr qog'ozi qo'yilib, 1–2 daqiqa ushlanadi va olib tashlanadi; preparat yuvilmasdan Lyugol tomiziladi va qorayguncha (1 daqiqa) ushlanadi, so'ng bo'yoq to'kiladi; yuvilmasdan 96° li etil spirti bo'yoq ketguncha (30–60 soniya) ushlanadi yoki preparat 1–2 soniya stakandagi spirtga tushiriladi; suv bilan yuviladi; Pfeyffer fuksini bilan 3 daqiqa bo'yaladi, suv bilan yuviladi va quritiladi; immersion tizimda ko'riladi. Ikki manbada bo'yash vaqtlari, qo'shimcha bo'yoq va rangsizlantirish davomiyligi biroz farq qiladi; amalda laboratoriyada qabul qilingan standart ish yo'riqnomasiga rioya qilinadi (muallif izohi).
+## Natijani baholash
+Gram-musbat bakteriyalar to'q binafsha, Gram-manfiylar qizil rangga bo'yaladi [2]. Gram-musbatlarga stafilokokk, streptokokk, difteriya korinebakteriyasi, sil mikobakteriyasi va boshqalar; Gram-manfiylarga gonokokk, meningokokk, ichak tayoqchasi va boshqalar kiradi [2]. Mikobakteriyalar tarkibida 60 % gacha yog' va mum bo'lgani uchun Gram usulida bo'yalmaydi va maxsus usullar qo'llanadi [2] — shuning uchun sil qo'zg'atuvchisi Gram-musbat deyilsa-da, uni aniqlash uchun Gram emas, Tsil–Nilsen usuli ishlatiladi.
+## Nazariy asos
+G'anixo'jayeva darsligida Gram-musbat bakteriyalarning hujayra devori RNK magniy tuzini saqlaydi, ular yod va genetsian binafsha bilan spirt ta'sirida parchalanmaydigan birikma hosil qiladi va binafsha rangda qoladi; Gram-manfiylarda bu tuzlar bo'lmagani sababli birikma ushlanmaydi, spirt bo'yoqni yuvib ketadi va qo'shimcha fuksin bilan qizil rangga kiradi [1]. Aliyev esa hujayra devori tuzilishiga ko'ra qalin devorli (asosan Gram-musbat) va yupqa devorli (barcha Gram-manfiy) bakteriyalarni ajratadi [2]. Hozirgi mikrobiologiyada Gram reaksiyasining asosi peptidoglikan qatlamining qalinligi va tuzilishi bilan izohlanadi (muallif izohi, umumiy bilim: darslikdagi RNK-magniy talqini eskirgan).
+## Misollar: Gram bo'yog'ida ko'rinadigan qo'zg'atuvchilar
+Quyidagi misollar kasalliklar bo'yicha avvalgi mavzularda ko'rilgan morfologik ma'lumotlarga asoslanadi:
+- kuydirgi qo'zg'atuvchisi — yirik, uchlari to'g'ri kesilgan Gram-musbat tayoqcha, qisqa zanjir yoki juft bo'lib joylashadi [3];
+- qoqshol qo'zg'atuvchisi — Gram-musbat, uchida sporasi bor «nog'ora tayoqchasi»; botulizm qo'zg'atuvchisi — subterminal sporali «tennis raketkasi» shakldagi Gram-musbat tayoqcha (eski kulturalar Gram-manfiy bo'lishi mumkin) [1];
+- bo'g'ma qo'zg'atuvchisi — Gram-musbat, uchlarida volyutin donachalari bor, «X» yoki «V» shaklida joylashgan polimorf tayoqcha; Gram usuli volyutin donachalarini ko'rsatmaydi, shu sababli Neysser usuli qo'llanadi [1][2][3];
+- ko'kyo'tal qo'zg'atuvchisi — mayda Gram-manfiy ovoid tayoqcha (kokkobakteriya), surtmada bir tekis joylashadi [3];
+- stafilokokk (uzum shingili), streptokokk (zanjir) — Gram-musbat; gonokokk, meningokokk, ichak tayoqchasi — Gram-manfiy [2].
+Gram bo'yog'i ma'lumotni qo'shimcha usullar bilan to'ldirish zarurligini ham ko'rsatadi: masalan, Gram-musbat sporali tayoqchalar topilganda spora bo'yash (Ojeshko), kislotaga chidamlilik uchun Tsil–Nilsen usuli qo'llanadi [1][2].
+
+## Xatolar va ularning sabablari
+- Spirtni ortiqcha ushlash: Gram-musbat bakteriyalar binafsha rangini yo'qotadi va fuksin bilan qizil bo'yaladi (Gram-manfiyga o'xshab) [2].
+- Spirtni kam ushlash: bo'yoq yaxshi ketmaydi, Gram-manfiy bakteriyalar binafsha rangda qoladi [2].
+- Surtmani o'ta qalin tayyorlash: bo'yash sifatiga putur yetkazadi [2].
+- Ayrim turlar Gram usulida yaxshi bo'yalmaydi yoki o'zgarib turadi: bu ularning yoshiga, o'stirish sharoitiga va hujayra devori tuzilishini o'zgartiruvchi omillarga bog'liq (eski kulturalar Gram-musbat bo'lsa ham Gram-manfiy bo'lib qolishi mumkin) [2][1]. Masalan, anaerob klostridiylarning eski kulturalari Gram bo'yog'ini yo'qotadi [1].
+- Gram usulida bo'yash patogen materiallardan tayyorlangan surtmalarda fiksatsiyadan keyin bajariladi; kuydirgi materiali spirt va vodorod peroksidda fiksatsiya qilinadi [3].
+## Xavfsizlik va sifat nazorati
+Bo'yash ishi maxsus jihozlangan stolda olib boriladi, bo'yoq eritmalari idishlarda nomi va tayyorlangan sanasi bilan saqlanadi, ishlatilgan preparatlar dezinfeksiyalovchi eritmaga solinadi (muallif izohi). Sifat nazorati sifatida ma'lum Gram-musbat va Gram-manfiy kulturalardan nazorat surtmasi tayyorlab turish tavsiya etiladi (muallif izohi). KPI mezonlarida laborantning Gram usulida bo'yash va rangli qatorni qo'yish majburiyati alohida ko'rsatilgan [4].
+## Natijani rasmiylashtirish
+Aliyev qo'llanmasida laboratoriya topshiriqlari sifatida bo'g'ma shubhasi bo'lgan odamlarning burun-halqumidan steril tampon bilan surtma olish, Gram va Neysser usullarida bo'yash, mikroskopda difteroidlarni topish va bo'yash natijalari asosida dastlabki javobni berish ko'rsatilgan; bakterioskopik tashxisni tasdiqlash uchun keyingi tekshiruv yo'nalishi belgilanadi [2]. Shunga ko'ra Gram bo'yog'ining natijasi quyidagicha yoziladi: hujayra shakli, o'lchami, joylashishi (yakka, juft, zanjir, to'da), Gram munosabati (musbat yoki manfiy), qo'shimcha tuzilmalar (spora, kapsula) va aralash flora borligi (muallif izohi). Preparat bo'yicha xulosa bakteriologik tashxis emas, taxminiy javobdir, uni identifikatsiya bosqichlari tasdiqlaydi [2].
+
+## Xulosa
+Gram usulida fiksatsiyalangan surtma genetsian binafsha, Lyugol, spirt va fuksin (Pfeyffer) bilan ketma-ket ishlanadi; Gram-musbat bakteriyalar binafsha, Gram-manfiylar qizil rangda ko'rinadi. Natija spirt bilan ishlov vaqtiga, surtma qalinligiga va kultura yoshiga bog'liq. Gram usuli differensial-diagnostik ahamiyatga ega va barcha bakteriologik laboratoriyalarda qo'llanadi.
+## Foydalanilgan adabiyotlar
+[1] G'anixo'jayeva A, Nazarova H. Mikrobiologiya: tibbiyot kollejlari va bilim yurtlari o'quvchilari uchun darslik. Toshkent: Abu Ali ibn Sino nomidagi tibbiyot nashriyoti; 2002 (kirill yozuvida). Xayrullo Komilov kutubxonasi, id 2323: https://xayrullokomilov.uz/kutubxona/2323
+[2] Aliyev ShR, Muxamedov IM. Mikrobiologiyadan laboratoriya mashg'ulotlariga doir qo'llanma. Toshkent: Ibn Sino nomidagi nashriyot-matbaa birlashmasi; 2013 (kirill yozuvida). Xayrullo Komilov kutubxonasi, id 2355: https://xayrullokomilov.uz/kutubxona/2355
+[3] O'zbekiston Respublikasi Sog'liqni saqlash vazirining 2015-yil 1-maydagi 177-sonli buyrug'i ilovalari: Bakteriologik, virusologik va o'ta xavfli yuqumli kasalliklar laboratoriyalarida o'tkaziladigan laboratoriya tekshiruvlari bo'yicha uslubiy ko'rsatmalar (kirill yozuvida). Xayrullo Komilov kutubxonasi, id 491: https://xayrullokomilov.uz/kutubxona/491
+[4] Sanitariya-epidemiologik osoyishtalik va jamoat salomatligi qo'mitasi hududiy boshqarmasi Bakteriologiya laboratoriyasi xodimlari faoliyat samaradorligini baholash (KPI) mezonlari (kirill yozuvida). Xayrullo Komilov kutubxonasi, id 2639: https://xayrullokomilov.uz/kutubxona/2639

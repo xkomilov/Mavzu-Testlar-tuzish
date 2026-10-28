@@ -1,0 +1,43 @@
+TITLE: 146. Komplement bog'lanish reaksiyasi.
+## Kirish
+Komplementni bog'lash reaksiyasi (KBR) murakkab serologik reaksiyalar jumlasiga kiradi: unda antigen, antitelo va komplementdan tashqari natijani ko'rsatib beruvchi gemolitik tizim ham ishtirok etadi [1]. KBR yuqori sezgirligi tufayli viruslar, rikketsiyalar va bakteriyalar chaqiradigan kasalliklar diagnostikasida keng qo'llanadi va ko'pincha bemorlardan ajratilgan viruslarni aniqlash va turini belgilashda ishlatiladi [1]. Mazkur mavzuda reaksiyaning tamoyili (53-mavzu) takrorlanmasdan, uni laboratoriyada bajarishning amaliy rejasi — tayyorgarlik, ish kunlari bo'yicha ketma-ketlik, hisob-kitob, nazorat va xatolarni bartaraf etish — bayon etiladi.
+## Tamoyil (qisqacha)
+Birinchi faza — antigen, antitelo va komplementning birikishi; ikkinchi faza — gemolitik tizim (qo'y eritrotsitlari + ularga qarshi gemolitik zardob), indikator vazifasini bajaradi [1]. Bemor zardobida antigenga mos antitelo bo'lsa, hosil bo'lgan komplekslar komplementni bog'laydi, gemoliz bo'lmaydi (KBR musbat); antitelo bo'lmasa komplement erkin qoladi va gemolizga olib keladi (KBR manfiy) [1].
+## KBR ning boshqa serologik reaksiyalar bilan taqqoslanishi
+Hamma serologik reaksiyalar ikki fazada boradi: birinchisi maxsus (antigen determinantlari bilan antitelo faol markazlarining birikishi), ikkinchisi maxsus emas (reaksiya turiga qarab cho'kmaga tushish yoki antigenning erishi) [1]. Agglyutinatsiyada korpuskulyar antigen (agglyutinogen) izotonik muhitda antitelolar bilan yopishib cho'kmaga tushadi; presipitatsiyada eruvchan antigen mayda cho'kma (presipitat) hosil qiladi; KBR esa ko'zga ko'rinmaydigan birinchi fazani gemolitik indikator tizim orqali ko'rsatadi [1]. KBR da natija «teskari»: gemolizning yo'qligi musbat reaksiyani bildiradi, shu sababli nazorat probirkalari mazmuni alohida ahamiyatga ega (muallif izohi).
+## Tayyorgarlik bosqichi (1-kun yoki oldindan)
+1. Gemolitik zardob. Qo'y eritrotsitlari bilan quyonni bir necha marta immunizatsiya qilib olinadi; 56 °C da suv hammomida inaktivatsiya qilinadi (bu haroratda zardobdagi komplement faolligini yo'qotadi) [1]. Gemolitik zardobning titri aniqlanadi; KBR uchun titrdan 3 baravar yuqori konsentratsiya ishchi doza sifatida olinadi [1].
+2. Qo'y eritrotsitlari. Fibrinsizlantirilgan qondan olinib, izotonik eritmada sentrifuga bilan tiniq bo'lguncha yuviladi va 3 % suspenziya tayyorlanadi [1].
+3. Komplement. Dengiz cho'chqasining yangi qon zardobi (24–48 soat ichida) yoki ampuladagi quruq komplement; ishlatishdan oldin 1:10 suyultiriladi va titrlanadi [1].
+4. Antigen. Ishlab chiqarishda tayyorlangan o'ldirilgan bakteriyalar emulsiyasi, ekstraktlar yoki kimyoviy ajratilgan fraksiyalar; antigen komplement ishtirokida titrlanadi [1].
+5. Tekshiriladigan va nazorat zardoblari 56 °C da 30 daqiqa qizdirilib, o'z komplementi inaktivatsiya qilinadi [1].
+Eslatma: gemolitik tizim, komplement, antigen va zardoblarning ishchi dozalarini aniqlash alohida tajribalarda amalga oshiriladi va ular asosiy tajribaning to'g'riligini belgilaydi [1].
+## Komplementni titrlash (hisob-kitob misoli)
+Komplement 1:10 suyultiriladi va 10 ta probirkaga o'sib boruvchi hajmda (0,05 dan 0,45 ml gacha) solinadi, izotonik eritma bilan hajm 1 ml ga yetkaziladi; 37 °C da 30 daqiqa oldindan saqlangan gemolitik tizimdan 1 ml qo'shiladi; 30 daqiqa 37 °C da inkubatsiya; gemoliz boshlanadigan eng kam miqdor titr; oxirgi probirka (komplementsiz) nazorat [1]. Ishchi doza antigenning antikomplementar ta'sirini hisobga olib, titrdan 20–30 % ortiq olinadi; masalan, titr 0,15 ml bo'lsa, ishchi doza 0,2 ml [1]. Antigen titri komplement ishtirokida aniqlanadi; komplement titri antigen bilan 30 % ga kamaysa, antigen yaroqsiz [1].
+## Asosiy tajriba: ish rejasi
+- Birinchi faza: 7 probirkada ingredientlar qo'shiladi (tekshiriladigan zardob 1:5 — 0,2 ml, antigen 0,2 ml, komplementning ishchi dozasi 0,2 ml va nazoratlar) va 37 °C da 30 daqiqa (issiq usul) yoki 0–4 °C da 18–20 soat (sovuq usul, sezgirligi yuqoriroq) saqlanadi [1].
+- Ikkinchi faza: har probirkaga 0,4 ml dan gemolitik tizim qo'shiladi, chayqatiladi, 37 °C da 20–30 daqiqa saqlanadi [1].
+- O'qish: gemoliz bor-yo'qligi bo'yicha.
+Nazorat probirkalari: musbat va manfiy zardoblar (2–3); zardob va antigenning antikomplementar xossasi (4–5); komplement va gemolitik tizim sifati (6–7) [1].
+## Natijani baholash jadvali
+Natija to'rt belgi bilan: (++++) — gemoliz yo'q (suyuqlik tiniq, eritrotsitlar cho'kmada); (+++) — gemoliz taxminan 25 %; (++) — 50 % ga yaqin; (+) — kuchsiz; (−) — to'liq gemoliz (suyuqlik qizil) [1]. Musbat reaksiya gemoliz bo'lmagan yoki ikki va undan ortiq belgili bo'lgan holat sifatida talqin qilinadi (muallif izohi; belgilash masshtabi 053-mavzudagi tavsifga muvofiq).
+## Tipik muammolar va yechimlar
+- 4-probirkada gemoliz yo'q: zardob antikomplementar xususiyatga ega, natija hisobga olinmaydi [1].
+- 7-probirkada gemoliz: gemolitik tizim sifatsiz yoki ifloslangan, tajriba qaytariladi [1] (muallif izohi).
+- Zardoblar 56 °C da qizdirilmagan: ularning o'z komplementi natijani buzadi [1].
+- Komplement 24–48 soatdan eski: faolligi pasayadi, yangi zardob olinadi [1] (muallif izohi).
+- Reaksiyani juft zardoblar bilan qo'yish: titr dinamikada baholanadi (muallif izohi, serologik tashxis printsipi [1]).
+Natijani yozishda har bir probirka uchun gemoliz darajasi belgisi, nazorat probirkalari natijasi, ishchi dozalar (komplement, gemolitik tizim, antigen), reagent partiyalari va ishni bajargan xodim qayd etiladi; zardobning titri kerak bo'lsa 1:5 dan boshlab ketma-ket suyultirishlar bilan aniqlanadi (muallif izohi). Antikomplementar ta'sir aniqlansa, boshqa serologik usullarga (masalan, agglyutinatsiya yoki IFT) o'tiladi (muallif izohi).
+## Ish kuni bo'yicha namunaviy jadval
+Quyidagi jadval amaliy mashg'ulot uchun muallif tomonidan tuzilgan reja (muallif izohi); vaqtlar manbadagi rejimlarga mos [1]:
+- 1-kun, ertalab: eritrotsitlarni yuvish, 3 % suspenziya tayyorlash; gemolitik zardobni suyultirish; zardoblarni 56 °C da 30 daqiqa inaktivatsiya qilish.
+- 1-kun, kunduzi: komplementni (1:10) titrlash, antigenni titrlash, ishchi dozalarni hisoblash.
+- 1-kun, kechqurun: asosiy tajribaning birinchi fazasi (sovuq usulda — muzlatgichda 0–4 °C, 18–20 soat) yoki issiq usulda 37 °C da 30 daqiqa.
+- 2-kun: gemolitik tizim qo'shilib, 37 °C da 20–30 daqiqa; o'qish va jurnalga yozish.
+## Xavfsizlik va hujjatlar
+Zardob va antigen bilan ishlaganda qo'lqop, nok bilan pipetkalash, ishlatilgan probirkalar va suyuqliklarni dezinfeksiyalovchi eritmaga solish talab etiladi [2]. Ishchi doza hisoblari, partiya raqamlari va nazorat natijalari jurnalga yoziladi (muallif izohi).
+## Xulosa
+KBR amaliyotda uch bosqichda bajariladi: ingredientlarni tayyorlash va titrlash, asosiy tajriba (birinchi va ikkinchi faza) hamda natijani nazoratlar bilan baholash. Gemoliz bo'lmasa reaksiya musbat; nazorat probirkalari mos kelmasa tajriba qaytariladi.
+## Foydalanilgan adabiyotlar
+[1] Aliyev ShR, Muxamedov IM. Mikrobiologiyadan laboratoriya mashg'ulotlariga doir qo'llanma. Toshkent: Ibn Sino nomidagi nashriyot-matbaa birlashmasi; 2013 (kirill yozuvida). Xayrullo Komilov kutubxonasi, id 2355: https://xayrullokomilov.uz/kutubxona/2355
+[2] SP 1.3.2322-08. III–IV patogenlik (xavflilik) guruhi mikroorganizmlari va parazitar kasallik qo'zg'atuvchilari bilan ishlash xavfsizligi: sanitariya-epidemiologik qoidalar (rus tilida). Rossiya Federatsiyasi Bosh davlat sanitariya shifokorining 2008-yil 28-yanvardagi 4-son qarori bilan tasdiqlangan (Rossiya Federatsiyasi hujjati; O'zbekistonda rasmiy qo'llanilishi tasdiqlanmagan). Xayrullo Komilov kutubxonasi, id 605: https://xayrullokomilov.uz/kutubxona/605

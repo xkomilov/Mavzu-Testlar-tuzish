@@ -1,0 +1,42 @@
+TITLE: 77. Esherixiyalar keltirib chiqaradigan kasalliklari, etiologiyasi.
+## Kirish
+Esherixiyalar keltirib chiqaradigan kasalliklar esherixiozlar deb ataladi [1]. Ichak tayoqchasi normal mikroflora vakili bo'lsa-da, uning ayrim serogruppalari odamda ichak infeksiyalarini, siydik-tanosil yo'llari yallig'lanishini, bakteriemiya va meningitni chaqiradi; organizm qarshiligi pasayganda esa shartli patogen sifatida boshqa a'zolarda ham kasallik qo'zg'atadi [1][2]. Mavzuda esherixiozlarning etiologik turlari, infeksiya manbai, yuqish yo'llari, patogenezi va asosiy klinik shakllari yoritiladi.
+## Infeksiya manbai va yuqish yo'llari
+Infeksiya manbai — kasal odam. Ichak tayoqchasi organizmga tashqi muhitdan tushadi; organizmdagi mavjud ichak tayoqchasi boshqa a'zolarga ham o'tib kasallik chaqirishi mumkin [1]. Yuqish yo'llari: maishiy-oilaviy yo'l — iflos qo'l, idish-tovoq, o'yinchoq, oziq-ovqat; mexanik yo'l — pashsha va suvaraklar orqali [1]. Ichak tayoqchasi oziq-ovqatlarda ko'payishi ham mumkin; bunday ifloslangan oziq-ovqat iste'mol qilinganda ovqatdan zaharlanish kasalliklari yuzaga keladi [1].
+## Patogenez
+Ichak tayoqchasi og'iz orqali organizmga tushsa, bolalar va kattalarda ichak kasalliklarini chaqiradi. Ayrim O-guruhdagi ichak tayoqchalari organizmda kasallik chaqiradi va enteropatogen ichak tayoqchalari (EPIT) deyiladi [1]. G'anixo'jayeva darsligida enteropatogen ichak tayoqchalari uch guruhga bo'linadi [1]:
+- I guruh — bolalarda koliyenterit chaqiradigan turlar (O111, O26, O55, O86 va boshqalar);
+- II guruh — ichburug'ga xos kasalliklarni chaqiradigan turlar (O25, O124, O143, O144 va boshqa serogruppalar);
+- III guruh — vaboga o'xshash kasalliklarni chaqiradigan turlar (O1, O5, O6, O78 va boshqa serogruppalar).
+Koliyenterit nihoyatda yuqumli bo'lib, bolalar muassasalarida epidemik tus olishi mumkin; chaqaloqlarda kasallik ingichka ichak shikastlanishi bilan o'tadi [1].
+## Zamonaviy tasnif: ichak kasalliklarini chaqiruvchi patovarlar
+Aliyev va Muxamedov qo'llanmasida E. coli patovarlari quyidagicha ta'riflangan [2]:
+- Enterotoksigen (ETEK) — odamda vabosimon diareya va toksikoinfeksiya chaqiradi; termolabil va termostabil enterotoksin ishlab chiqaradi, toksin sintezini mo'tadil fag boshqaradi;
+- Enteropatogen (EPEK) — asosan bolalarda diareya chaqiradi; barcha serovarlar plazmid tutadi, bu plazmidlar ichak mikroburmalarining epiteliy hujayralariga birikishi (adgeziya) uchun maxsus oqsil tuzilmalarini sintez qiladi, epiteliy hujayralariga kirmaydi; kasallik bolalarda og'ir o'tadi;
+- Enteroinvaziv (EIEK) — odamda ichburug'ga o'xshash kasallik chaqiradi, ichakning epiteliy hujayralariga kirib ko'payadi;
+- Enterogemorragik (EGEK) — og'ir kechuvchi gemorragik kolitni chaqiradi.
+Bu kasalliklarning mikrobiologik diagnostikasi faqat bakteriologik usullar bilan aniqlanadi; bakterioskopik va serologik usullar qo'llanilmaydi [2].
+## Ichakdan tashqari kasalliklar
+Ichak tayoqchasi boshqa a'zolarga o'tganda xolesistit, sistit, sepsis va boshqa kasalliklarni chaqiradi [1]. Aliyev va Muxamedov jadvaliga ko'ra, siydik-tanosil yo'llari kasalliklarini, bakteriemiyani va meningitni (K1 kapsula antigenli, O1, O6, O7, O16, O18, O83 serogruppalari) ham ichak tayoqchasi keltirib chiqaradi [2]. Yangi tug'ilgan chaqaloqlarda va 2–3 oylik bolalarda meningitning etiologik omillari qatorida E. coli K-1 ham ko'rsatilgan; chaqaloq E. coli K-1 ni yuqtirishida ayollarning urogenital trakti asosiy rol o'ynaydi [3]. E. coli ning O7, O8, O1, O6 serogruppa variantlari K-1 kapsula antigeniga ega bo'lib, N. meningitidis kapsula antigeniga o'xshashlik mavjud [3].
+## Disbakterioz va ikkilamchi rol
+Ichak tayoqchasining kamayishi yoki yo'qligi ichak mikroflorasi tarkibini buzadi (disbakterioz): proteylar, zamburug'lar va kokk floralari ko'payib ketadi; shuning uchun esherixiyalar bir vaqtning o'zida foydali ham, shartli patogen ham hisoblanadi [1]. Antibiotiklar uzoq qo'llanganda yoki organizm qarshiligi pasayganda (OITS, qand kasalligi va boshqa holatlarda) E. coli opportunistik infeksiyalar sababchisi bo'lishi mumkin (muallif izohi, 058-mavzudagi gospital infeksiya ma'lumotlariga asoslangan).
+## Siydik yo'llari infeksiyasi va bakteriemiya
+Aliyev va Muxamedov jadvaliga ko'ra siydik-tanosil tizimi infeksiyalarini B guruh streptokokklar va enterokokklar bilan bir qatorda E. coli ham keltirib chiqaradi; siydik-tanosil yo'llarida kasallik chaqiruvchi E. coli serovarlari O1, O2, O4, O6, O7, O8, O11, O18, O22, O25, O62, O75 serogruppalari va K1, K2, K5, K12, K13 kapsula antigenlariga mansub; bakteriemiya chaqiruvchi serovarlar ham shu guruhga yaqin (K23 qo'shimcha) [2]. Siydik yo'llari infeksiyasida sistit, pielit kabi shakllar uchraydi [1]. Bunday hollarda laboratoriya siydikdan miqdoriy ekish va ajratilgan kulturani identifikatsiya qilish orqali etiologiyani aniqlaydi.
+## Epidemiologik ahamiyat
+Koliyenterit bolalar muassasalarida, ayniqsa chaqaloqlar bo'limlarida, epidemik tus olishi mumkinligi sababli, enteropatogen ichak tayoqchalari serogruppalarini aniqlash (O111, O26, O55, O86 va boshqalar) epidemik o'choqni aniqlashda muhim [1]. Shaxsiy gigiyena qoidalariga rioya qilmaslik (iflos qo'l, idish-tovoq, o'yinchoq), pashsha va suvaraklar bilan oziq-ovqatning ifloslanishi tarqalishning asosiy omillaridir [1]. Oziq-ovqat mahsulotlarida ichak tayoqchasi ko'payishi mumkinligi sababli sanitariya-bakteriologik nazorat zarur (muallif izohi, G'anixo'jayeva ma'lumotlariga asoslangan).
+## Kasallik shakllarining qiyosiy xususiyatlari
+- ETEK: vabosimon diareya, toksin (termolabil va termostabil) bilan bog'liq;
+- EPEK: asosan bolalarda, adgeziya plazmidi bor, hujayra ichiga kirmaydi;
+- EIEK: ichburug'simon, epiteliy hujayralariga kiradi va ko'payadi;
+- EGEK: gemorragik kolit, O157 kabi serogruppalar;
+- ichakdan tashqari: siydik yo'llari, bakteriemiya, meningit (K1) [2].
+## Laboratoriya tashxisi uchun ahamiyati
+Patogen E. coli ni aniqlash uchun najas, qusuq massasi, kerak bo'lganda burun-halqum ajratmasi, quloq yiringi, qon, siydik va murdadan olingan material tekshiriladi; reja va epidemiologik ko'rsatma bo'yicha oziq-ovqat, qo'l, idish-tovoq va o'yinchoqlardan yuvindi olinadi [1]. Bu 79–80-mavzularda batafsil yoritiladi.
+## Amaliy xulosalar
+Bakteriolog-laborant uchun esherixiozlar etiologiyasini bilish quyidagi vazifalarda kerak: ichak tayoqchasini normal flora vakili sifatida emas, balki patogen serovar sifatida baholash; bolalardagi diareya va chaqaloqlar meningitida qo'zg'atuvchini aniq ajratish; siydik, qon va likvordan topilgan E. coli ning kapsula antigenini (K1) hisobga olish; ajratilgan kulturani serologik identifikatsiya qilib, epidemik o'choq manbaini topishga yordam berish. Shu bois har bir musbat natija kasallik shakli va material turi bilan birga baholanadi (muallif izohi). Natijani rasmiylashtirishda ajratilgan E. coli ning serogruppasi (masalan, O111, O26), antibiotiklarga sezuvchanligi va material turi yozilib, bu ma'lumot shifokorga va epidemiologga yetkaziladi.
+## Xulosa
+Esherixiozlar — E. coli ning patogen serogruppalari chaqiradigan kasalliklar: enterotoksigen, enteropatogen, enteroinvaziv va enterogemorragik patovarlar turli ichak infeksiyalarini, ichakdan tashqari serovarlar esa siydik-tanosil yo'llari kasalliklari, bakteriemiya va meningitni chaqiradi. Manba — kasal odam, yuqish yo'li — maishiy-oilaviy, oziq-ovqat va mexanik (pashsha, suvarak). Koliyenterit bolalar muassasalarida epidemik tus olishi mumkin.
+## Foydalanilgan adabiyotlar
+[1] G'anixo'jayeva A, Nazarova H. Mikrobiologiya: tibbiyot kollejlari va bilim yurtlari o'quvchilari uchun darslik. Toshkent: Abu Ali ibn Sino nomidagi tibbiyot nashriyoti; 2002 (kirill yozuvida). Xayrullo Komilov kutubxonasi, id 2323: https://xayrullokomilov.uz/kutubxona/2323
+[2] Aliyev ShR, Muxamedov IM. Mikrobiologiyadan laboratoriya mashg'ulotlariga doir qo'llanma. Toshkent: Ibn Sino nomidagi nashriyot-matbaa birlashmasi; 2013 (kirill yozuvida). Xayrullo Komilov kutubxonasi, id 2355: https://xayrullokomilov.uz/kutubxona/2355
+[3] O'zbekiston Respublikasi Sog'liqni saqlash vazirining 2015-yildagi 177-sonli buyrug'iga 2-ilova: Meningokokk infeksiyasi va boshqa bakterial meningitlarning mikrobiologik tashxisi — uslubiy ko'rsatma (kirill yozuvida). Xayrullo Komilov kutubxonasi, id 2052: https://xayrullokomilov.uz/kutubxona/2052

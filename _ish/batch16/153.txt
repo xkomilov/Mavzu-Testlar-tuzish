@@ -1,0 +1,46 @@
+TITLE: 153. Havo mikroflorasi, sedimentatsion usulida havodan namuna olish,yo'llanma xatini to'ldirish.
+## Kirish
+Sedimentatsion (cho'ktirish, Kox) usuli havo mikroflorasini aniqlashning eng sodda usuli bo'lib, asosan yopiq xonalar havosini tekshirishda qo'llanadi [1]. Uning mohiyati shundaki, oziqli agar quyilgan Petri idishi xonaning bir necha joyida ochiq holda ma'lum vaqt qoldiriladi, mikroorganizmlar tutgan zarrachalar og'irlik kuchi ta'sirida agar yuzasiga cho'kadi, so'ng idishlar termostatga qo'yiladi [1]. Usul qo'shimcha asbob talab qilmaydi (muallif izohi). Biroq u hajmi aniq o'lchangan havoni tekshirmaydi, shuning uchun aspiratsion usulga nisbatan kamroq aniq hisoblanadi (batafsil quyida).
+## Usulning mohiyati va tayyorgarlik
+Aliyev va Muxamedov bo'yicha oziqli agar quyilgan Petri idishlari xonaning turli joylariga ochiq holda 20–30 daqiqaga qoldiriladi, so'ng 37 °C li termostatga qo'yiladi [1]. Boshqa o'quv qo'llanmada esa Petri idishini tekshiriladigan joyda 3 daqiqa ochiq qoldirish, so'ng yopib, ag'darib, 24 soatga termostatga qo'yish tavsiya etilgan [2]. Muddatlardagi bu farq (3 daqiqa va 20–30 daqiqa) hisobotda qayd etilgan: undan amaliyotda ishlayotgan muassasa hujjati va xona ifloslik darajasiga qarab foydalanish lozim.
+Tayyorgarlik (muallif izohi, umumiy qoidalar asosida):
+- tekis, gorizontal yuzada qotgan oziq agarli steril idishlar tayyorlanadi;
+- idishlar belgilanadi (xona, nuqta, sana, vaqt);
+- tekshirilayotgan xonada ish bosqichi (ishdan oldin yoki ish vaqtida) qayd etiladi.
+## Namuna olish nuqtalari
+Aliyev qo'llanmasida nuqtalar soni ko'rsatilmagan, faqat har bir idishdagi mikrob soni aniqlanib, o'rtacha qiymat olinishi (a) aytilgan [1]. MUK 4.2.1089-02 da aspiratsion usul uchun maydoni 15 m2 gacha xonada bitta nuqta, undan katta xonalarda beshta nuqta, tor uzun xonalarda 5 m oralatib namuna olinishi ko'rsatilgan [3]; sedimentatsion usul uchun shu tamoyilni qo'llash mumkin (muallif izohi). Idishlarni devordan, eshik va derazadan, shuningdek odamlar harakatidan uzoqroqda va pol sathidan ma'lum balandlikda (odatda nafas olish sathi) qo'yish tavsiya etiladi (muallif izohi: manbalarda aniq balandlik berilmagan).
+## Bajarilishi
+Ketma-ketlik:
+- idish qopqog'i ochilib, agar yuzasi yuqoriga qaratib belgilangan joyga qo'yiladi (qopqoq yonida, ichki tomoni pastga);
+- belgilangan vaqt (3 yoki 20–30 daqiqa) o'tgach idish yopiladi;
+- idishlar tubi yuqoriga ag'darilib, 37 °C da termostatga qo'yiladi (Aliyev 37 °C da; Gigiyena qo'llanmasi 24 soat) [1][2];
+- o'sgan koloniyalar sanaladi va hisoblanadi.
+## Hisoblash: Omelyanskiy formulasi
+Koloniyalar soniga qarab 1 m3 havodagi umumiy mikrob soni Omelyanskiy formulasi bilan topiladi [1]:
+- x = a · 100 · 1000 · 5 / (b · 10 · t),
+bu yerda x — 1 m3 havodagi mikroblar soni; a — Petri idishidagi oziq muhitda o'sgan koloniyalar soni; b — idish yuza maydoni (π·r2, sm2); t — idish ochiq turgan vaqt (daqiqa); 5 — Omelyanskiy hisobidagi vaqt (daqiqa); 10 — mikroorganizmlar cho'kishi uchun zarur havo hajmi (litr); 1000 — izlanayotgan havo hajmi (litr) [1]. Bu formula 100 sm2 maydonga 5 daqiqada 10 litr havodagi mikroblar cho'kishi qoidasiga asoslanadi (muallif izohi, formuladagi koeffitsientlar izohidan chiqarilgan).
+Hisoblashda xonaga qo'yilgan har bir idishdagi mikrob soni aniqlanib, o'rtacha ko'rsatkich (a) olinadi [1].
+Misol (o'quv misoli, muallif izohi): diametri 9 sm li idishda (b = π·4,5² ≈ 63,6 sm2) 20 daqiqada o'rtacha 8 koloniya o'sdi. x = 8·100·1000·5 / (63,6·10·20) ≈ 314 mikrob/m3. Aliyev mezoni bo'yicha bu "o'rtacha ifloslangan" havo.
+## Baholash
+Aliyev va Muxamedov bo'yicha topilgan UMS 250 dan kam bo'lsa havo toza, 250–500 bo'lsa o'rtacha ifloslangan, 500 dan ortiq bo'lsa nihoyatda ifloslangan hisoblanadi [1]. Gigiyena qo'llanmasida esa 3 daqiqalik usul 1 m3 havodagi mikrob sonini aniqlashga imkon bermaydi, undan xona havosidagi mikroblar o'zgarishini (masalan, bir kun davomida) taqqoslab baholash uchun, namunani bir xil sharoitda (bir xil muhit, joy, vaqt) olib foydalanish mumkin [2]. MUK 4.2.1089-02 esa sedimentatsion usulni qo'llashni tavsiya etmaydi [3].
+## Oziq muhitlar
+Umumiy mikrob soni uchun neytral oziqli agar ishlatiladi; stafilokokklar uchun tuxum sarig'i qo'shilgan tuzli agar (2 % oziq agar, 10 % NaCl va 20 % tuxum sarig'i aralashmasi), hemolitik streptokokklar uchun gentian binafsha qo'shilgan qonli agar (2 % agar, 5–10 % fibrinsizlantirilgan qon, gentian binafsha 1 : 50 000) qo'llanadi [1]. Gigiyena qo'llanmasida stafilokokk uchun tuxum sarig'ili agar, streptokokk uchun gentian ko'k bo'yoqli qand-qonli agar (Garro muhiti) ko'rsatilgan [2].
+## Tozalik klasslari bo'yicha me'yorlar
+Aliyev qo'llanmasining 20-jadvalida 1 m3 havodagi umumiy mikrob soni (KHQB/m3) ishdan oldin / ish vaqtida quyidagicha berilgan: A klassi (o'ta toza: operatsiya xonasi, tug'ruq zallari, aseptik bokslar) — 200 dan / 500 dan ko'p emas; B klassi (toza: operatsiya oldi, protsedura, bog'lov xonalari, reanimatsiya, bakteriologik laboratoriya xonalari) — 500 dan / 750 dan ko'p emas; V klassi (shartli toza: jarrohlik bo'limi palatalari, yo'laklar) — 750 dan / 1000 dan ko'p emas; G klassi (ifloslangan) uchun norma belgilanmagan; A va B klasslarida oltinsimon stafilokokk va mog'or bo'lmasligi kerak [1]. MUK 4.2.1089-02 da operatsiya xonasi uchun ishdan oldin 500 gacha, ish vaqtida 1000 gacha ko'rsatilgan [3]; bu farq (A klassi 200/500 va MUK 500/1000) hisobotda qayd etilgan.
+## Usulning afzallik va kamchiliklari
+Afzalligi — soddaligi va maxsus asbob talab qilinmasligi (muallif izohi). Kamchiliklari — havo hajmi o'lchanmaydi, natijaga havo harakati va zarrachalar o'lchami ta'sir qiladi, shuning uchun u taqqoslash uchun bir xil sharoitda ishlatiladi [2], MUK esa uni tavsiya etmaydi [3].
+## Yo'llanma xatini to'ldirish
+Quyidagi maydonlar yoziladi (muallif izohi, amaliyotdan umumlashtirilgan):
+- yuboruvchi muassasa, tekshiruv maqsadi (reja, epidemiologik ko'rsatma);
+- xona nomi, tozalik klassi, maydoni, xonadagi odamlar soni, ish bosqichi;
+- idishlar soni, joylashuvi (nuqta raqami), ekspozitsiya vaqti (daqiqa), muhit turi;
+- namuna olish sanasi va vaqti, namuna olgan mutaxassis F.I.Sh.;
+- so'ralgan ko'rsatkichlar: UMS, S. aureus, hemolitik streptokokk va boshqalar.
+## Xatolar va cheklovlar
+Idishlarning turli vaqt ochiq turishi, nuqtalar baland-pastligi, harakat, shamollatish va hatto idish diametri farqi natijani o'zgartiradi; shu sababli sedimentatsiya usuli dinamikani solishtirish uchun bir xil sharoitda ishlatilishi shart [2].
+## Xulosa
+Sedimentatsion usulda ochiq Petri idishlari xonada 20–30 daqiqa (boshqa manbada 3 daqiqa) qoldirilib, 37 °C da o'stiriladi; 1 m3 havodagi mikrob soni Omelyanskiy formulasi bilan hisoblanadi. 250 dan kam — toza, 250–500 — o'rtacha, 500 dan ko'p — nihoyatda ifloslangan havo. Usul taqqoslash uchun qulay, lekin aniqligi pastligi sababli aspiratsion usul afzalroq hisoblanadi; yo'llanma xatiga xona, nuqta, ekspozitsiya va ish bosqichi yoziladi.
+## Foydalanilgan adabiyotlar
+[1] Aliyev ShR, Muxamedov IM. Mikrobiologiyadan laboratoriya mashg'ulotlariga doir qo'llanma. Toshkent: Ibn Sino nomidagi nashriyot-matbaa birlashmasi; 2013 (kirill yozuvida). Xayrullo Komilov kutubxonasi, id 2355: https://xayrullokomilov.uz/kutubxona/2355
+[2] Umumiy gigiyena bilan ekologiya: amaliy mashg'ulot kitobi (kirill/lotin yozuvida; muallif va nashr ma'lumotlari faylda ko'rsatilmagan). Xayrullo Komilov kutubxonasi, id 2365: https://xayrullokomilov.uz/kutubxona/2365
+[3] MUK 4.2.1089-02. UOV «Potok 150-M-01» havoni zararsizlantirish qurilmasidan foydalanish va uning ishlashida havoning mikrob bilan ifloslanishini nazorat qilish: uslubiy ko'rsatmalar (rus tilida). Moskva: Rossiya Federatsiyasi Sog'liqni saqlash vazirligi; 2002. 22 b. (Rossiya Federatsiyasi hujjati; O'zbekistonda rasmiy qo'llanilishi tasdiqlanmagan.) Xayrullo Komilov kutubxonasi, id 1977: https://xayrullokomilov.uz/kutubxona/1977

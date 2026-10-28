@@ -1,0 +1,42 @@
+TITLE: 62. Streptokokklar keltirib chiqaradigan kasalliklari, etiologiyasi.
+## Kirish
+Streptokokklar odamda juda xilma-xil kasalliklarni chaqiradi: o'tkir va surunkali, yiring hosil qiluvchi va yiring hosil qilmaydigan, klinik belgilari va patogenezi bo'yicha farqlanadigan infeksiyalar [1]. Streptokokk infeksiyalari yiringli-yallig'lanish kasalliklari bilan bir qatorda skarlatina, katarral angina, glomerulonefrit va saramas kabi mustaqil nozologik shakllarni ham keltirib chiqaradi [2]. Qo'zg'atuvchining etiologik o'rnini aniqlash laborantga davolash va epidemiologik chora-tadbirlar uchun muhim ma'lumot beradi.
+## Etiologik tuzilish
+Odam uchun asosiy ahamiyatga ega bo'lgan streptokokklar β-gemolitik streptokokkning A serologik guruhiga mansub S. pyogenes dir; ular odamlarda kasallikni ko'proq keltirib chiqaradi [1]. Aliyev va Muxamedov keltirgan jadvalga ko'ra kasalliklar va ularning qo'zg'atuvchilari quyidagicha [2]:
+- faringit — A, C, G guruh streptokokklari;
+- teri va yumshoq to'qima jarohati va jarohat infeksiyasi — A, C, G guruhi va yashil streptokokklar;
+- tug'ruqdan keyingi infeksiya — B, C va G guruhi;
+- neonatal sepsis — B va G guruhi;
+- bakteriemiya — A, B, C, G, D guruhi;
+- endokardit — A, B, C, G guruh streptokokklari va enterokokklar, S. pneumoniae, yashil streptokokklar;
+- meningit — A, B, C, G guruhi va S. pneumoniae;
+- artrit — A, B, C, G guruhi va S. pneumoniae;
+- siydik-tanosil tizimi infeksiyasi — B guruh va enterokokklar;
+- zotiljam — A, B guruhi va S. pneumoniae;
+- sinusit — A guruhi va S. pneumoniae; o'rta quloq otiti — S. pneumoniae;
+- revmatik atakalar va o'tkir glomerulonefrit — A guruh streptokokklari.
+## Yiring hosil qiluvchi va qilmaydigan infeksiyalar
+Yiring hosil qiladigan streptokokk infeksiyalariga flegmona, abssess, jarohat infeksiyalari, streptodermiya, sepsis va angina kiradi. Yiring hosil qilmaydigan infeksiyalarga yuqori nafas yo'llarining o'tkir infeksiyasi, skarlatina, revmatizm va saramas kiradi [1]. Streptokokklar ko'pincha ikkilamchi infeksiyalarni — gripp, qizamiq, ko'kyo'tal va boshqa kasalliklar fonida — keltirib chiqaradi va jarohatning bitishini qiyinlashtiradi [1].
+## Infeksiya manbai va yuqish yo'llari
+Infeksiya manbai — odamlar (bemor va bakteriya tashuvchi), kam hollarda hayvonlar yoki streptokokk bilan ifloslangan oziq-ovqat mahsulotlari. Havo-tomchi va havo-chang yo'li bilan, ayrim hollarda oziq-ovqat mahsulotlari va maishiy yo'l orqali tarqaladi [1]. Kasallik ekzogen yo'l bilan, shuningdek endogen — burun-halqum va jinsiy a'zolar shilliq qavatida yashovchi shartli patogen streptokokklarning faollashishi natijasida yuzaga kelishi mumkin. Organizm qarshiligining pasayishi (ochlik, sovqotish, toliqish va boshqalar) autoinfeksiyaga olib keladi [1].
+## Patogenez
+Streptokokk infeksiyalarining patogenezida taxminiy sensibilizatsiya, ya'ni oldin o'tkazilgan streptokokk etiologiyali kasallik katta ahamiyatga ega. Streptokokkning qon yo'liga tushishi septik jarayonning og'ir kechishiga sabab bo'ladi [1]. A guruh β-gemolitik streptokokklar gialuronidaza, fibrinolizin (streptokinaza), dezoksiribonukleaza kabi patogen fermentlar, shuningdek antifagotsitar kapsula va M-oqsil hosil qiladi [1].
+## Skarlatina (qizilcha)
+G. N. Gabrichevskiy (1902) gemolitik streptokokkni skarlatina qo'zg'atuvchisi deb birinchi bo'lib aniqlagan. Hozirgi vaqtda skarlatinani eritrogen toksin ajratuvchi A guruhi streptokokklari keltirib chiqarishi aniqlangan [1]. Kasallikni o'tkazganlarda antitoksik mustahkam immunitet hosil bo'ladi va qayta kasallanish kam kuzatiladi. 1–5 yoshli bolalar skarlatinaga ko'proq moyil; 6 oygacha bolalar onadan o'tgan immunitet tufayli juda kam kasallanadi [1]. Organizmning skarlatinaga moyilligini aniqlash uchun Dik reaksiyasi qo'llanadi: bilakning ichki qismiga teri ichiga gemolitik streptokokk toksinining kichik dozasi yuboriladi; qizarish va infiltrat paydo bo'lsa, reaksiya musbat (organizm antitoksinga ega emas, ya'ni moyil); musbat natija bermasa, organizm toksinni neytrallaydi va kasallikka moyil emas [1][2].
+## Revmatizm va revmokardit
+Revmokarditning patogenezi to'liq o'rganilmagan, ammo kasallikning kelib chiqishida streptokokklar asosiy rol o'ynaydi. Buni quyidagi omillar ko'rsatadi: bemorlarning tomir ustki qismida β-gemolitik streptokokklar aniqlangan; revmatizm ko'pincha organizmni sensibilizatsiyalovchi angina, tonzillit, faringitdan keyin yuzaga keladi; bemor qon zardobida streptokokk ferment va toksinlariga qarshi antistreptolizin hamda antistreptogialuronidaza antitelalari topiladi [1]. Revmatizm tashxisini tasdiqlash uchun O-streptolizinga qarshi antitelo tekshiriladi [2].
+## Immunitet va qaytalanish
+Streptokokk infeksiyalarida antitoksik va antibakterial xarakterdagi immunitet hosil bo'ladi. Ayrim hollarda esa organizm oldindan kasallanishga moyil bo'lib qoladi, shuning uchun streptokokkli angina, saramas va boshqa jarayonlar ko'p marta takrorlanishi mumkin [1].
+## Profilaktika va davolash prinsiplari
+Streptokokk infeksiyalariga qarshi maxsus profilaktika ishlab chiqilmagan; umumiy profilaktika sanitariya-gigiyena tadbirlarini o'tkazish va organizmning umumiy chidamliligini mustahkamlashdan iborat [1]. Skarlatinada bemor alohida xonaga ajratiladi va kasalxonaga yotqiziladi; u bilan muloqotda bo'lganlarga, zaiflashgan bolalarga gamma-globulin yuboriladi [1]. Revmokardit va streptokokk kasalliklarining oldini olish uchun bahor va kuzda profilaktika sifatida penitsillin bilan ishlar olib borish lozimligi ko'rsatilgan [1]. Davolashda antibiotiklar qo'llanadi: ko'pincha penitsillin, chunki streptokokklar unga sezgir; shuningdek eritromitsin va tetratsiklinlar ishlatiladi. Skarlatinaning og'ir shakllarida antitoksik zardob yuboriladi [1]. Laboratoriya esa ajratilgan kulturaning antibiotiklarga sezuvchanligini disk usulida aniqlaydi [2].
+## Qo'zg'atuvchi omillarning kasallik shakllariga ta'siri
+Streptokokk kasalliklarining turli klinik shakllari qo'zg'atuvchining ma'lum xossalariga bog'liq. Eritrogen toksin skarlatinaning intoksikatsiya, toshma va qon tomir reaksiyalarini chaqiradi; streptolizin O kardiotoksik ta'sir ko'rsatadi va revmatizm bilan bog'liq antitelalar hosil bo'lishiga sabab bo'ladi; sitotoksinlar glomerulonefritga olib keladi; gialuronidaza va streptokinaza esa infeksiyaning to'qimalarda tarqalishiga yordam beradi [1]. Antifagotsitar M-oqsil qo'zg'atuvchining fagotsitozdan qochishini ta'minlaydi. Shu sababli laboratoriya natijasini sharhlashda nafaqat qo'zg'atuvchining turi, balki serologik guruhi va antistreptolizin titri ham e'tiborga olinadi (muallif izohi, manbalardagi ma'lumotlardan kelib chiqqan xulosa).
+## Kasalxona sharoitida streptokokk infeksiyasi
+Streptokokklar kasalxona ichida tarqalgan yiringli-yallig'lanish kasalliklari etiologiyasida stafilokokklar, ichak tayoqchalari, proteylar va anaerob bakteriyalar bilan birga ishtirok etadi va ko'pincha ular bilan aralash infeksiyalarni keltirib chiqaradi (jarrohlik operatsiyalari asoratlarida) [2]. Tug'ruqdan keyingi infeksiyalarda va yangi tug'ilgan chaqaloqlar sepsisida B guruh streptokokklari alohida ahamiyatga ega [2].
+## Laboratoriya uchun ahamiyati
+Streptokokk etiologiyasini aniqlash uchun kasallik shakliga mos material olinadi: faringit va anginada tomoqdan surtma, jarohat infeksiyasida yiring va ajralma, sepsis va bakteriemiyada qon, meningitda orqa miya suyuqligi, artritda sinovial suyuqlik, siydik-tanosil infeksiyasida siydik va ajralmalar [2]. Bu masala 63-mavzuda batafsil yoritiladi.
+## Xulosa
+Streptokokklar yiringli (flegmona, abssess, jarohat infeksiyasi, sepsis) va yiringsiz (angina, skarlatina, saramas, revmatizm, glomerulonefrit) kasalliklarni keltirib chiqaradi. Asosiy qo'zg'atuvchi — A guruh β-gemolitik streptokokk (S. pyogenes). Manba — bemor va tashuvchi, yuqish yo'llari — havo-tomchi, havo-chang, maishiy va alimentar. Kasallik qaytalanishga moyil, sensibilizatsiya patogenezda muhim.
+## Foydalanilgan adabiyotlar
+[1] G'anixo'jayeva A, Nazarova H. Mikrobiologiya: tibbiyot kollejlari va bilim yurtlari o'quvchilari uchun darslik. Toshkent: Abu Ali ibn Sino nomidagi tibbiyot nashriyoti; 2002 (kirill yozuvida). Xayrullo Komilov kutubxonasi, id 2323: https://xayrullokomilov.uz/kutubxona/2323
+[2] Aliyev ShR, Muxamedov IM. Mikrobiologiyadan laboratoriya mashg'ulotlariga doir qo'llanma. Toshkent: Ibn Sino nomidagi nashriyot-matbaa birlashmasi; 2013 (kirill yozuvida). Xayrullo Komilov kutubxonasi, id 2355: https://xayrullokomilov.uz/kutubxona/2355

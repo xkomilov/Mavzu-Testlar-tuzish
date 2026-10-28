@@ -1,0 +1,56 @@
+TITLE: 149. Suvdagi mikroblarning umumoy sonini aniqlash.
+## Kirish
+Suvdagi mikroblarning umumiy soni (UMS; rus adabiyotida OMCh) suvning mikrob bilan ifloslanish darajasini baholaydigan asosiy sanitariya-mikrobiologik ko'rsatkichlardan biridir. Aliyev va Muxamedov ta'rifiga ko'ra, bu tuproq va suvdagi mezofil aerob va fakultativ anaerob bakteriyalarning umumiy miqdori bo'lib, ular agarli muhitda 37 °C da 24 soatda, 2 marta kattalashtirib qaralganda ko'rinadigan koloniyalar hosil qiladi [1]. Ichimlik suvida UMS ko'rsatkichi koli-indeks bilan birga nazoratning qisqartirilgan dasturiga kiradi va ko'pi bilan 100 bo'lishi belgilangan [2]. Mavzuda usulning mohiyati, bajarilish tartibi, hisoblash qoidalari va xatolari ko'rib chiqiladi.
+## Usulning mohiyati va ko'rsatkich ta'rifi
+Usul tekshirilayotgan suvdan kamida ikkita 1,0 ml namunani oziqli muhitga ekib, o'sgan koloniyalarni sanashga asoslangan [1]. MUK 4.2.1018-01 bo'yicha usul suvdagi mezofil aerob va fakultativ anaerob mikroorganizmlarning umumiy sonini aniqlaydi: ular oziq agarda 37 °C da 24 soat ichida, 2 marta kattalashtirishda ko'rinadigan koloniya hosil qilishi kerak [3]. UMS qo'zg'atuvchini tavsiflamaydi: u bu muhit va haroratda o'sa oladigan barcha mikroblarning hajm birligidagi miqdorini ko'rsatadi, shuning uchun uni koli-indeks bilan birga baholash lozim (muallif izohi).
+## Kerakli jihozlar va muhit
+Quyidagilar tayyorlanadi [3][4]:
+- steril Petri idishlari (diametri 90–100 mm);
+- steril 1 ml li pipetkalar;
+- erigan va 45–49 °C gacha sovitilgan oziq agar (suv hammomi yoki termostatda shu haroratda saqlanadi);
+- termostat (37 ± 1) °C;
+- koloniyalarni sanash asbobi yoki ikki marta kattalashtiruvchi lupa.
+Oziq agar sifatida go'sht-peptonli agar (GPA) qo'llanadi (muallif izohi: manbada muhit nomi aniq ko'rsatilmagan, GPA umumiy mikrob soni uchun odatiy tanlov).
+## Bajarilish tartibi
+MUK 4.2.1018-01 va Aliyev qo'llanmasi bo'yicha [1][3]:
+- har bir namunadan kamida ikki hajmda 1 ml ekiladi;
+- suv yaxshilab aralashtirilgach, 1 ml dan steril Petri idishlariga solinadi, qopqog'i salgina ochiladi;
+- har bir idishga, idish chetini olovda kuydirgandan so'ng, 10–12 ml (Aliyev) yoki 8–12 ml (MUK, diametri 90–100 mm idishga) erigan va 45–49 °C gacha sovitilgan oziq agar quyiladi;
+- mazmun tezda aralashtirilib, idish tubiga bir tekis taqsimlanadi; havo pufakchalari hosil bo'lishi, agarning chetlarga va qopqoqqa tushishi oldi olinadi;
+- idishlar gorizontal yuzada agar qotguncha qoldiriladi;
+- qotgach, idishlar termostatga tubi yuqoriga qaratib qo'yiladi va (37 ± 1) °C da (24 ± 2) soat saqlanadi.
+Taqdimotda agar hajmi 6–8 ml, harorat 45–46 °C deb berilgan [4]; manbalar orasidagi bu farq hisobotda qayd etilgan.
+## Natijani hisoblash
+Aliyev bo'yicha agar yuzasida ham, ichida ham o'sgan koloniyalar sanalib, ikkala idishdagi miqdor qo'shiladi va ikkiga bo'linadi; natija 1 ml suvdagi koloniya hosil qiluvchi birlik (KHQB; ingl. CFU) bilan ifodalanadi [1]. Tuproqdagi UMS hisobidan farqli, namuna 1,0 ml bo'lgani uchun 10 ga ko'paytirilmaydi [1]. Umumiy ifoda [4]:
+- UMS = (300 tadan ortiq bo'lmagan koloniyali idishlardagi koloniyalar soni) : (idishlar soni), KHQB/1 ml.
+MUK qoidalari [3]:
+- faqat 300 tadan ko'p bo'lmagan ajratilgan koloniya o'sgan idishlar hisobga olinadi;
+- bitta idishda sanash mumkin bo'lmasa, natija ikkinchi idishdagi koloniyalarga asoslanadi;
+- ikkala idishda ham yoyilgan o'sish bo'lsa yoki 300 tadan ko'p koloniya o'ssa va tahlilni takrorlash mumkin bo'lmasa, idishning bir sektori sanalib, butun yuzaga qayta hisoblanadi va bayonnomada "KHQB/ml — taxminiy" deb qayd etiladi;
+- sanash imkonsiz bo'lsa, bayonnomaga "uzluksiz o'sish" yoziladi.
+Masalan, ikki idishda 34 va 40 koloniya o'ssa, UMS = (34 + 40) : 2 = 37 KHQB/ml (o'quv misoli, muallif izohi).
+## Natijani baholash
+O'zMSt 133:2024 bo'yicha ichimlik suvida 1 sm3 dagi mikroblar soni ko'pi bilan 100 bo'lishi kerak; nazorat usuli sifatida GOST 18963 ko'rsatilgan [2]. Aliyev qo'llanmasidagi eski jadvalda ham 1 ml da 100 dan ko'p bo'lmasligi keltirilgan (O'zDSt 950:2000) [1]. Toshqin va noxush tabiiy holatlarda UMS va koli-indeks bo'yicha yiliga ko'pi bilan 5 % namunada og'ishga yo'l qo'yiladi [2].
+## Ish rejasi (kunlar bo'yicha)
+Taqdimotdagi sxemaga ko'ra [4]:
+- 1-kun: namuna aralashtiriladi, 1 ml dan steril Petri idishlariga solinadi, erigan va sovitilgan agar quyiladi, aralashtiriladi va idishlar termostatga qo'yiladi;
+- 2-kun: 24 ± 2 soatdan keyin koloniyalar sanaladi, natija KHQB/1 ml hisobida beriladi.
+Taqdimotda maqsad shunday ifodalangan: oziq muhitda 37 °C da 24 soat ichida 2 marta kattalashtirishda ko'rinadigan mezofil aerob va fakultativ anaerob mikroorganizmlarning umumiy sonini aniqlash [4].
+## Ko'rsatkichning sanitariya ahamiyati
+Aliyev va Muxamedov ob'ektning mikroblar bilan zararlanganligini UMS bo'yicha aniqlash mumkinligini, ya'ni tekshirilayotgan ob'ektning ma'lum hajmi yoki massasidagi (1 ml suvda, 1 g tuproqda, 1 m3 havoda) mikroorganizmlar umumiy sonini topish kerakligini yozadi [1]. Suv uchun bu ko'rsatkich tozalash va zararsizlantirish samaradorligining tezkor belgisi sifatida ishlatiladi: UMS ning keskin ortishi tarmoqda ifloslanish yoki qayta o'sish ehtimolini ko'rsatadi (muallif izohi). Biroq UMS fekal ifloslanishni isbotlamaydi; buning uchun IGTB, esherixiya va kolifag aniqlanadi [2].
+## Bayonnomaga yozish
+Bayonnomada namuna raqami, olingan joy, sana va vaqt, ekilgan hajm, har bir idishdagi koloniyalar soni va yakuniy KHQB/ml, tahlilni boshlash vaqti, inkubatsiya sharoiti (37 °C, 24 soat) va me'yor ko'rsatiladi. Taxminiy hisob yoki "uzluksiz o'sish" holatlari alohida belgilanadi [3]. Ro'yxatning aniq shakli muassasa hujjatiga bog'liq (muallif izohi).
+## Sifatni ta'minlash va xatolar
+Natijaga ta'sir etuvchi omillar (muallif izohi, MUK talablaridan kelib chiqib):
+- agar 45–49 °C dan issiq agar quyilsa, nozik mikroblar nobud bo'ladi, sovuq bo'lsa agar aralashtirishdan oldin qotib qoladi;
+- idishning chetiga yoki qopqog'iga agar tushishi koloniyalarni sanashni qiyinlashtiradi;
+- idishlarni tubi pastga qarab saqlash kondensat tomchilari tufayli koloniyalar qo'shilib ketishiga olib keladi, shuning uchun tubi yuqoriga qo'yiladi;
+- namuna olish va ekish orasidagi muddat 6 soatdan (sovitilmasa 2 soatdan) oshmasligi kerak [3].
+Muhit va idishlarning sterilligini tekshirish uchun steril suv bilan nazorat idishi ekilishi tavsiya etiladi (muallif izohi).
+## Xulosa
+Suvdagi UMS kamida ikkita 1 ml namunani 45–49 °C li oziq agar bilan Petri idishida aralashtirib, 37 °C da 24 soat o'stirish va o'sgan koloniyalarni sanash yo'li bilan aniqlanadi. Natija KHQB/ml da beriladi; ichimlik suvida u ko'pi bilan 100 bo'lishi kerak.
+## Foydalanilgan adabiyotlar
+[1] Aliyev ShR, Muxamedov IM. Mikrobiologiyadan laboratoriya mashg'ulotlariga doir qo'llanma. Toshkent: Ibn Sino nomidagi nashriyot-matbaa birlashmasi; 2013 (kirill yozuvida). Xayrullo Komilov kutubxonasi, id 2355: https://xayrullokomilov.uz/kutubxona/2355
+[2] O'zMSt 133:2024. Ichimlik suvi. Gigiyenik talablar va sifatini nazorat qilish. O'zbekiston milliy standarti (SEOJSQ qo'mitasi; 11.06.2024 holatida). Xayrullo Komilov kutubxonasi, id 1035: https://xayrullokomilov.uz/kutubxona/1035
+[3] MUK 4.2.1018-01. Ichimlik suvining sanitariya-mikrobiologik tahlili: uslubiy ko'rsatmalar (rus tilida; Rossiya Federatsiyasi Bosh davlat sanitariya shifokori tomonidan 2001-yil 9-fevralda tasdiqlangan; O'zbekistonda rasmiy qo'llanilishi tasdiqlanmagan). Xayrullo Komilov kutubxonasi, id 1976: https://xayrullokomilov.uz/kutubxona/1976
+[4] Komilov X. Ichimlik suvini sanitariya-mikrobiologik tahlili (№ 012-3/0136 uslubiy qo'llanma asosidagi taqdimot; kirill yozuvida). Furqat tumani DSENM bakteriologiya laboratoriyasi. Xayrullo Komilov kutubxonasi, id 2024: https://xayrullokomilov.uz/kutubxona/2024

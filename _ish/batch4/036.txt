@@ -1,0 +1,41 @@
+TITLE: 36. Infeksiyaning yuqish yo'llari.
+## Kirish
+Yuqish mexanizmi epidemik jarayonning ikkinchi bo'g'ini bo'lib, qo'zg'atuvchining bir xo'jayin organizmidan ikkinchisiga o'tishini ta'minlaydi. Qo'zg'atuvchi qancha tez va samarali moyil organizmga yetib borsa, uning populyatsiyada tarqalishi shunchalik tez bo'ladi [1]. Yuqish yo'llari esa mexanizmning aniq amalga oshish usullari: ular qaysi omillar (suv, oziq-ovqat, havo, buyumlar, hasharotlar) orqali yuqishini ko'rsatadi. Bu bilim epidemiologik tashxis qo'yish va infeksiyaga qarshi tadbirlarni to'g'ri yo'naltirish uchun zarur [1].
+## Yuqish mexanizmining bosqichlari
+Yuqish mexanizmi uch bosqichdan iborat [1]:
+- qo'zg'atuvchining infeksiya manbasidan chiqarilish bosqichi;
+- qo'zg'atuvchining tashqi muhitdagi bosqichi;
+- qo'zg'atuvchining sog'lom organizmga tushish (kirish) bosqichi.
+Har bir bosqich aniq spetsifik: chiqarilish bosqichi qo'zg'atuvchining organizmda joylashuviga bog'liq (yo'talganda nafas yo'llaridan shilimshiq tomchilari, hojat paytida najas), ikkinchi bosqich esa ajralmalar bilan tashqi muhit obyektlariga tushish va ularda saqlanishni anglatadi, uchinchi bosqich qo'zg'atuvchining o'zi moslashgan to'qimalarga tushishini ta'minlaydi. Birinchi va uchinchi bosqichlar qisqa muddatli, ikkinchisining davomiyligi turlicha: bevosita kontaktda, masalan jinsiy yo'l bilan yuqadigan kasalliklarda, u umuman bo'lmasligi mumkin, boshqa hollarda qo'zg'atuvchi tashqi muhitda uzoq saqlanishi kerak [1].
+## Mexanizm turlari
+Qo'zg'atuvchining organizmdagi asosiy joylashuvi va yuqish mexanizmi evolyutsion shakllangan tizimni hosil qiladi: har bir joylashuvga o'zining mexanizmi mos keladi. Jami to'rtta tizim ajratiladi [1]:
+- tashqi qoplamalar (teri, ochiq shilliq pardalar: konyunktiva, jinsiy a'zolarning tashqi bo'limlari) — kontakt mexanizmi (to'g'ridan-to'g'ri va bilvosita kontakt);
+- nafas yo'llari — havo-tomchi mexanizmi;
+- oshqozon-ichak yo'li — fekal-oral mexanizm;
+- qon aylanish tizimi — transmissiv mexanizm (bo'g'imoyoqlilar hisobiga).
+Alohida vertikal mexanizm ham bor — onadan homilaga yuqish (qizilcha, OIV-infeksiya, B gepatiti). Bu mexanizm asosan ikkilamchi ahamiyatga ega, lekin uni doim hisobga olish va imkon qadar oldini olish kerak [1].
+## Yuqish omillari va yo'llari
+Ikkinchi bosqichda qo'zg'atuvchi tushadigan va uchinchi bosqichni amalga oshirishni ta'minlaydigan tashqi muhit obyektlari yuqtirish (yuqish) omillari deyiladi: havo-tomchi infeksiyalarida havo, hazm yo'li infeksiyalarida tuproq, suv, oziq-ovqat mahsulotlari. Bir mexanizmda bir necha omil parallel ishtirok etishi mumkin (dizenteriya suv orqali ham, oziq-ovqat orqali ham yuqadi); omillar majmuasi bo'lsa, yuqish yo'li odatda oxirgi omil bo'yicha ataladi (suv yo'li, oziq-ovqat yo'li) [1]. Epidemiologik tashxisda aniq omil va yo'lni aniqlash muhim, chunki u samarali, maqsadli tadbirlarni belgilaydi [1].
+## Asosiy yuqish yo'llari
+Darslikda infeksiyaning quyidagi yo'llari keltirilgan [2]:
+- alimentar yo'l — qo'zg'atuvchi ichak ajralmasi bilan tashqi muhitga tushib, oziq-ovqatni ifloslaydi (qorin tifi, dizenteriya);
+- havo-tomchi yo'li — qo'zg'atuvchi nafas yo'llarida joylashib, aksirganda, yo'talganda, gaplashganda ajraladi (qizamiq, ko'kyo'tal, gripp); havo changi orqali ham yuqadi (sil, kuydirgi, tulyaremiya);
+- suv yo'li — najas va siydik bilan suvga tushadi (vabo, dizenteriya, qorin tifi);
+- kontakt yo'li — bemor bilan to'g'ridan-to'g'ri aloqada (zaxm, so'zak, OITS), shuningdek atrofdagi buyumlar (mebel, idish-tovoq, kiyim, o'yinchoq) orqali (gepatit, bo'g'ma, gripp);
+- transmissiv yo'l — qon so'ruvchi hasharotlar (bit, kana, burga, chivin) orqali: bezgak anofeles chivinlari, toshmali va qaytalama tif bit orqali;
+- mexanik yo'l — pashsha va suvaraklar qo'zg'atuvchini oyoqlarida olib yuradi (gepatit, dizenteriya);
+- tuproq orqali — qoqshol, gazli gangrena;
+- vertikal yo'l — homiladorlikda onadan homilaga (gepatit, sil, zaxm).
+## Yuqish yo'llarining epidemiologik ahamiyati
+Havo-tomchi mexanizmi hozirgi vaqtda eng muhim, chunki epidemik jarayonga samarali ta'sir etuvchi vositalar bo'lmasa, bu mexanizm ta'sir etganda kasallanish ayniqsa yuqori bo'ladi [1]. Boshqariladigan (maxsus profilaktikasi bo'lmagan) havo-tomchi infeksiyalardan aholi ko'p azob chekadi, sifatli suv bilan ta'minlanmagan aholida esa ichak infeksiyalari bilan kasallanish yuqori bo'ladi [1]. Suv orqali yuqishning oldini olish uchun markazlashgan suv ta'minoti sifati nazorat qilinadi (koli-indeks, umumiy mikrob soni).
+## Qo'zg'atuvchi tashqi muhitda
+Majburiy parazitlar uchun tashqi muhit yashash joyi hisoblanmaydi: ular uchun noqulay fizik (quyosh nurining ultrabinafsha qismi, namlik), kimyoviy (havo kislorodi) va ba'zan biologik (muhitda doimiy yashovchilar antagonizmi) omillar ta'sirida tashqi muhitda bo'lish uzaygan sari qo'zg'atuvchilarning bir qismi nobud bo'ladi va yuqish xavfi pasayadi [1]. Tashqi muhitda majburiy parazitlar kamdan-kam ko'payadi: masalan, oqsil yoki qandga boy oziq-ovqat mahsulotlarida (go'sht, sut mahsulotlari, qandolat) ichak bakteriyalari oilasining turli vakillari ko'payishi mumkin va bu oziq-ovqatdan kasallanish avj olishiga olib keladi [1]. Geogelmintlarda tuxumlarning invazion bosqichgacha yetilishi tuproqda kechadi [1].
+## Birlamchi va ikkilamchi joylashuv
+Ayrim hollarda infeksion jarayon rivojlanganda parazit asosiy joylashuv joyidan uzoq to'qimalarga kirishi mumkin. Bu murakkab patogenezda kuzatiladi: qorin tifi qo'zg'atuvchisi ingichka ichak shilliq pardasida ko'payib, limfa tizimi orqali qonga tushadi, jigarning Kupfer hujayralariga yopishib, o't yo'llari orqali yana ingichka ichakka tushadi; askaridozda esa lichinkalar ichak devori, qon, alveolalar, nafas yo'llari va yutqin orqali murakkab migratsiya qiladi [1]. Bunday hollarda parazit yakuniy bosqichda asosiy joyiga albatta qaytishi kerak, shundagina yuqish mexanizmi ro'yobga chiqadi. Ikkilamchi joylashuv (masalan, meningokokk infeksiyasida meningit, poliomielitda orqa miya shikastlanishi) esa parazitning tashqariga chiqishini ta'minlamaydi, ya'ni «berk ko'cha» hisoblanadi, lekin ko'pincha kasallikning og'irligini belgilaydi [1].
+## Laboratoriya ahamiyati
+Yuqish omilini topish uchun laboratoriya suv, oziq-ovqat, qo'l surtmalari, buyumlar yuvindilari, havo va tuproqdan namuna oladi, sanitariya-ko'rsatkich mikroblar va patogenlarni aniqlaydi; bemor va omilda bir xil kultura (serovar, fagovar, antibiogramma) topilishi yuqish yo'lini tasdiqlaydi. Bu ma'lumot epidemiolog tomonidan tadbirlar (dezinfeksiya, suvni xlorlash, ajratish, emlash) rejalashtirishda ishlatiladi.
+## Xulosa
+Yuqish mexanizmi uch bosqichdan iborat va qo'zg'atuvchining organizmda joylashuviga mos keladi: kontakt, havo-tomchi, fekal-oral va transmissiv; alohida vertikal mexanizm ham bor. Yuqish yo'llari omilga qarab alimentar, suv, havo-tomchi va havo-chang, kontakt, transmissiv, mexanik, tuproq va vertikal bo'ladi. Yo'lni aniqlash epidemiyaga qarshi tadbirlarni to'g'ri yo'naltirishga imkon beradi. Bakteriolog-laborant har bir yo'lga xos omillarni va ularni tekshirish usullarini bilishi, namunani tegishli obyektdan aseptika qoidalariga rioya qilib olishi kerak, chunki yuqish omilining topilishi epidemiologik tekshiruvning natijasini belgilaydi.
+## Foydalanilgan adabiyotlar
+[1] Mirtazayev OM, Zuyeva LP, Matnazarova GS. Epidemiologiya: darslik. Toshkent; 2016 (kirill yozuvida). Xayrullo Komilov kutubxonasi, id 2356: https://xayrullokomilov.uz/kutubxona/2356
+[2] G'anixo'jayeva A, Nazarova H. Mikrobiologiya: tibbiyot kollejlari va bilim yurtlari o'quvchilari uchun darslik. Toshkent: Abu Ali ibn Sino nomidagi tibbiyot nashriyoti; 2002 (kirill yozuvida). Xayrullo Komilov kutubxonasi, id 2323: https://xayrullokomilov.uz/kutubxona/2323

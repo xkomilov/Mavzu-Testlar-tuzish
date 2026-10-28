@@ -1,0 +1,49 @@
+TITLE: 9. Oziqa muhitlarga qo'yiladigan talablar.
+## Kirish
+Oziqa muhit mikroorganizmlar uchun yashash muhitini sun'iy sharoitda yaratadi, shuning uchun u ma'lum talablarga javob berishi shart. Muhit talablarga mos kelmasa, mikrob o'smaydi, yo'ldosh flora o'sib ketadi yoki natija noto'g'ri baholanadi. Muhit sifati ishlab chiqarish va tayyorlash bosqichida, shuningdek ishlatishdan oldin nazorat qilinadi [3]. Mavzuda asosiy talablar va ularni ta'minlash usullari ko'rib chiqiladi.
+## Asosiy talablar
+Har qanday oziqa muhit quyidagi talablarga javob berishi kerak [1], [2]:
+- to'yimlilik — mikroblar uchun zarur uglerod, azot, mineral tuzlar va o'sish omillarini yetarli miqdorda saqlashi;
+- optimal pH — aksariyat patogen bakteriyalar uchun 7,2–7,6 atrofida bo'lishi;
+- izotoniklik — muhitning osmotik bosimi hujayra ichidagiga yaqin, odatda NaCl miqdori 0,5–0,9 foiz atrofida bo'lishi;
+- namlik va qulay zichlik — zich muhitda sirt nam, lekin ustida suv tomchilari to'planmagan bo'lishi;
+- sterillik — muhitda begona mikroblar bo'lmasligi;
+- shaffoflik — suyuq muhitda o'sishni (loyqalik, cho'kma) ko'rishga imkon berishi;
+- oksidlanish–qaytarilish potensiali (Eh) — anaeroblar uchun past, aeroblar uchun yuqori bo'lishi;
+- bir xillik va standartlik — tarkibi har bir partiyada bir xil bo'lishi.
+## To'yimlilik va o'sish omillari
+Muhitning asosini suv, uglerod manbai (qand, spirt, aminokislotalar), azot manbai (pepton, aminokislotalar), mineral tuzlar (fosfatlar, xloridlar, magniy va boshqalar) tashkil etadi. Peptonlar oqsilning ferment bilan parchalangan mahsuloti bo'lib, ko'pchilik bakteriyalarga yetarli azot manbai bo'ladi. Talabchan mikroblar uchun o'sish omillari qo'shiladi: qon, zardob, asit suyuqligi, xamirturush ekstrakti, vitaminlar. Masalan, Haemophilus influenzae ning o'sishi uchun gemin (X-omil) va NAD (V-omil) kerak [2]. Muhitda kerakli moddalar yetishmasa, o'sish sekinlashadi yoki to'xtaydi; ortiqcha miqdori esa ba'zi mikroblarga to'siq bo'lishi mumkin.
+## pH va izotoniklik
+Mikroblarning ko'pchiligi neytral yoki kuchsiz ishqoriy muhitda yaxshi ko'payadi. Bakteriyalar ichki muhit pH i ni ma'lum chegarada ushlab turish mexanizmlariga ega bo'lib, tashqi muhit pH i hujayra ichidagidan farq qilganda ham ko'payishi mumkin [6]. Shunga qaramay, har bir tur uchun optimal pH bor: vabo vibrioni boyituvchi ishqoriy pepton suvida (pH taxminan 8,6), zamburug'lar esa kislotaliroq muhitda yaxshi o'sadi [1]. O'zbekistonda nashr etilgan darslikda ko'pchilik patogenlar uchun optimal pH 7,2–7,4, vabo vibrioni uchun 8,5–9,0, sil qo'zg'atuvchisi uchun 6,2–6,8 ekani, osmotik bosim uchun esa taxminan 0,5 foizli osh tuzi eritmasi mos kelishi ko'rsatilgan [7]. Muhit pH i tayyorlash paytida va sterilizatsiyadan keyin tekshiriladi (alohida mavzuda yoritiladi). Izotoniklik uchun muhitga odatda 0,5–0,85 foiz osh tuzi qo'shiladi; stafilokokklar yuqori tuz konsentratsiyasiga chidamli, shu sababli tuzli (7,5 foiz) muhit ularni tanlab ajratishda ishlatiladi.
+## Oksidlanish–qaytarilish potensiali va shaffoflik
+Aeroblar uchun muhitda erigan kislorod yetarli bo'lsa, majburiy anaeroblar uchun muhit qaytarilgan, ya'ni Eh past bo'lishi shart. Buning uchun muhitga qaytaruvchi moddalar (tioglikolat, sistein, askorbin kislotasi) qo'shiladi, yuzasi esa vazelin moyi bilan yopiladi. Rezazurin indikatori muhit oksidlanganda pushti rang beradi va uning sifatini ko'rsatadi [1]. Darslikda bu ko'rsatkich rH2 indeksi bilan ifodalanib, anaeroblar uchun u 5 dan, aeroblar uchun 10 dan past bo'lmasligi yozilgan [7]. Shaffoflik suyuq muhitda o'sishni ko'z bilan baholash uchun zarur: loyqa yoki cho'kmali muhit sterilizatsiyadan oldin filtrlanadi. Bunday muhitlarda ekilgan material o'sishi o'zgarmagan muhit bilan solishtirib baholanadi.
+## Muhit turiga xos qo'shimcha talablar
+Vazifasiga qarab muhitga qo'shimcha talablar qo'yiladi. Elektiv muhitda tanlovchi omillar — o't tuzlari, bo'yoqlar (yorqin yashil, kristall binafsha), yuqori tuz konsentratsiyasi, antibiotiklar yoki o'zgargan pH — yo'ldosh florani to'xtatishi, ammo kerakli mikrobning o'sishiga xalaqit bermasligi kerak. Differensial muhitda indikator va substrat shunday tanlanadiki, turli mikroblar koloniyalari rangi bo'yicha aniq farqlansin. Transport muhiti esa aksincha, mikrobning ko'payishini emas, uning tirik qolishini ta'minlaydi: u kam oziqali, buferlangan va kislorod ta'siridan himoyalangan bo'ladi [2]. Boyituvchi muhit yo'ldosh mikroblarga nisbatan kerakli mikrobning tezroq ko'payishini ta'minlashi, uni esa belgilangan muddatdan ortiq saqlamaslik zarur, aks holda yo'ldosh flora ham ko'payib ketadi [1].
+## Talablar buzilishining oqibatlari
+Talablar buzilishining oqibatlari amaliyotda quyidagicha ko'rinadi:
+- pH noto'g'ri bo'lsa, talabchan mikroblar o'smaydi yoki koloniyalari mayda bo'ladi;
+- muhit ortiqcha qizdirilsa, ozuqa moddalari parchalanadi, agar yaxshi qotmaydi;
+- Petri idishidagi muhit qurib qolsa, koloniyalar o'sishi sekinlashadi, ortiqcha nam bo'lsa, harakatchan mikroblar (masalan, Proteus) butun yuza bo'ylab tarqaladi;
+- sterilligi buzilsa, begona mikroblar natijani soxtalashtiradi;
+- partiyalar o'rtasida tarkib farqi bo'lsa, natijalarni solishtirib bo'lmaydi [3].
+Shu sababli muhit talablariga rioya qilish nafaqat sifat, balki tashxisning to'g'riligi uchun ham muhim.
+## Tayyorlash va sterilizatsiya talablari
+Muhit tayyorlashda quyidagi qoidalarga amal qilinadi [4], [5]:
+- distillangan yoki deionizatsiyalangan suv ishlatiladi, idishlar toza va qoldiq modda (yuvish vositasi, kislota) tutmasligi kerak;
+- quruq kukun ishlab chiqaruvchi ko'rsatmasidagi miqdorda eritiladi, agar to'liq erishi uchun qizdiriladi;
+- muhit ko'rsatilgan rejimda sterilizatsiya qilinadi; ortiqcha qizdirish qandlarning karamellashuviga, pH o'zgarishiga va agar zichligining pasayishiga olib keladi;
+- uglevodli muhitlar yumshoqroq rejimda sterilizatsiya qilinadi, issiqqa chidamsiz qo'shimchalar (qon, zardob, vitaminlar) esa muhit 45–50 °C gacha sovitilgandan keyin steril holda qo'shiladi;
+- Petri idishiga quyilgan zich muhit qotib, sirti qurigach ishlatiladi; agar qatlami bir tekis bo'lishi lozim; antibiotik sezuvchanligini aniqlash uchun muhit odatda (4,0 ± 0,5) mm qalinlikda quyiladi [8].
+## Sifat nazorati
+Tayyor muhitning sifati bir necha ko'rsatkich bo'yicha tekshiriladi. Steril ekanligini aniqlash uchun partiyadan tanlab olingan idishlar termostatda saqlanadi va o'sish bo'lmasligi kerak. Unumdorlik (o'sishni ta'minlash) va tanlovchanlik nazorat shtammlari yordamida baholanadi: muhitga ma'lum shtammlar ekilib, kutilgan o'sish va koloniya ko'rinishi tekshiriladi. Elektiv muhit uchun kerakli mikrob o'sishi va to'sib qo'yiladigan mikrob o'smasligi, differensial muhit uchun esa to'g'ri rang reaksiyasi kutiladi. Bu jarayonlar ISO 11133 standartida batafsil bayon qilingan [3]. Muhitning tashqi ko'rinishi (rangi, shaffofligi, qotganligi, qurib qolmaganligi), pH i va saqlash muddati qayd qilinadi. Tayyor muhit odatda 2–8 °C da yorug'likdan himoyalangan holda saqlanadi.
+## Xulosa
+Oziqa muhit to'yimli, optimal pH li, izotonik, steril, shaffof va standart bo'lishi, shuningdek mikrob guruhi uchun mos oksidlanish–qaytarilish sharoitiga ega bo'lishi kerak. Talablarga rioya qilish tayyorlash qoidalarini (toza suv, to'g'ri sterilizatsiya, qo'shimchalarni o'z vaqtida qo'shish) bajarish va muntazam sifat nazorati bilan ta'minlanadi. Bu laboratoriyada ishonchli natija olishning asosiy shartidir.
+## Foydalanilgan adabiyotlar
+[1] Riedel S, Hobden JA, Miller S, Morse SA, Mietzner TA, Detrick B, Mitchell TG, Sakanari JA, Hotez P, Mejia R. Jawetz, Melnick & Adelberg's Medical Microbiology. 28th ed. New York: McGraw-Hill Education; 2019. ISBN 978-1-260-01202-6.
+[2] Bonnet M, Lagier JC, Raoult D, Khelaifia S. Bacterial culture through selective and non-selective conditions: the evolution of culture media in clinical microbiology. New Microbes and New Infections. 2020;34:100622. DOI: 10.1016/j.nmni.2019.100622
+[3] ISO 11133:2014. Microbiology of food, animal feed and water — Preparation, production, storage and performance testing of culture media. Geneva: International Organization for Standardization; 2014. https://www.iso.org/standard/53610.html
+[4] Atlas RM. Handbook of Microbiological Media. 4th ed. Boca Raton: CRC Press; 2010. ISBN 978-1-4398-0406-3.
+[5] Vandepitte J, Engbaek K, Rohner P, Piot P, Heuck CC, et al. Basic laboratory procedures in clinical bacteriology. 2nd ed. Geneva: World Health Organization; 2003. ISBN 92-4-154545-3. https://iris.who.int/handle/10665/42696
+[6] Krulwich TA, Sachs G, Padan E. Molecular aspects of bacterial pH sensing and homeostasis. Nature Reviews Microbiology. 2011;9(5):330–343. DOI: 10.1038/nrmicro2549
+[7] G'anixo'jayeva A, Nazarova H. Mikrobiologiya: tibbiyot kollejlari va bilim yurtlari o'quvchilari uchun darslik. Toshkent: Abu Ali ibn Sino nomidagi tibbiyot nashriyoti; 2002 (kirill yozuvida). Xayrullo Komilov kutubxonasi, id 2323: https://xayrullokomilov.uz/kutubxona/2323
+[8] MUK 4.2.1890-04. Mikroorganizmlarning antibakterial preparatlarga sezuvchanligini aniqlash: uslubiy ko'rsatmalar (rus tilida). Moskva: Rossiya Sog'liqni saqlash vazirligi Davlat sanepidnazorat federal markazi; 2004 (Rossiya Federatsiyasi hujjati). Xayrullo Komilov kutubxonasi, id 1980: https://xayrullokomilov.uz/kutubxona/1980

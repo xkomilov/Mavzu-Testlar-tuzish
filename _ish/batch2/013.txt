@@ -1,0 +1,45 @@
+TITLE: 13. Mikroblarni zich oziqa muhitida o'sishi. Koloniyaga xarakteristika.
+## Kirish
+Zich oziqa muhitda bakteriyalar alohida hujayralar holida emas, balki ko'z bilan ko'rinadigan to'plamlar — koloniyalar shaklida o'sadi. Nazariy jihatdan har bir koloniya bitta hujayradan (yoki bitta koloniya hosil qiluvchi birlikdan) rivojlanadi, shu sababli bir-biridan yaxshi ajralgan koloniyalar sof kultura ajratishning asosi bo'lib xizmat qiladi [1]. Koloniya xarakteristikasi mikrobni aniqlashning birinchi bosqichi hisoblanadi, chunki turli tur koloniyalari o'lchami, rangi, shakli va konsistensiyasi bilan farq qiladi [2].
+## Koloniyaning hosil bo'lishi
+Ekish paytida muhit yuzasiga tushgan hujayra bo'linishni boshlaydi. Bir necha soatdan keyin uning avlodlari juda ko'payib, ko'z bilan ko'rinadigan to'plamga aylanadi. Koloniya shakli va tuzilishi mikrobning biologik xossalariga, shuningdek muhit tarkibi, namlik, harorat va inkubatsiya muddatiga bog'liq. Shu sababli morfologik tavsifda muhit turi va o'stirish sharoiti albatta qayd qilinadi [2]. ASM atlasidagi tasvirlangan koloniyalarning ko'pchiligi 1–3 mm kattalikda bo'lgan, ammo o'lcham turga va inkubatsiya muddatiga qarab keng o'zgaradi [2].
+## Koloniyani tavsiflash tartibi
+Koloniya morfologiyasini tavsiflashning umumiy qabul qilingan tartibi quyidagi belgilarni ketma-ket baholashni nazarda tutadi [2]:
+- o'lchami — koloniya diametri millimetrlarda o'lchanadi;
+- rangi (pigment) — pigmentli koloniya va muhitga tarqaluvchi pigment farqlanadi;
+- shakli (planda) — doira, noto'g'ri, ipsimon, ildizsimon;
+- balandligi (profilda) — yassi, ko'tarilgan, qavariq, gumbazsimon, markazida do'ngi bor;
+- chetlari — tekis, to'lqinsimon, bo'lakli, tishsimon, ipsimon;
+- yuzasi — silliq (yaltiroq), g'adir-budir (xira, donador) yoki shilimshiq (mukoid);
+- shaffofligi — shaffof, yarim shaffof yoki tiniq emas (loyqa);
+- konsistensiyasi — igna bilan tekshirilganda moysimon (butirous), yopishqoq yoki quruq, mo'rt bo'lishi mumkin.
+Baholash yorug'lik ostida, yaxshi ajralgan koloniyalarda bajariladi, kerak bo'lsa lupa yoki stereomikroskop qo'llanadi. Gemoliz o'tuvchi yorug'likda, idishni yorug'lik manbai oldida ushlab kuzatiladi [3].
+## Silliq, g'adir-budir va shilimshiq koloniyalar
+Koloniyalar S (smooth — silliq) va R (rough — g'adir-budir) shakllarga bo'linadi. S-koloniyalar yumaloq, qavariq, yuzasi nam va yaltiroq bo'ladi; ular odatda to'liq virulent kulturalar. R-koloniyalar yuzasi quruq va notekis bo'ladi; ular ko'pincha O-antigen yo'qolgan yoki kapsulasiz mutantlarga mansub va virulentligi pasaygan bo'ladi. Pnevmokokklar misolida silliq va g'adir-budir koloniyalarning farqi yaxshi ma'lum [2]. Kapsula hosil qiluvchi bakteriyalar (Klebsiella) shilimshiq, cho'ziluvchan mukoid koloniya beradi. S-R dissotsiatsiyasi eski yoki ko'p marta o'tkazilgan kulturalarda kuzatilishi mumkin, shuning uchun muhim xulosa chiqarishda yosh kulturalar ishlatiladi [1].
+## Ba'zi mikroblar koloniyalari
+Tibbiy ahamiyatli bakteriyalar koloniyalari odatda quyidagicha ko'rinadi [1]:
+- stafilokokklar — qon agarida yumaloq, qavariq, silliq, yarim shaffof emas, 1–3 mm koloniyalar; oltin stafilokokkning pigmenti odatda sariq-oltin rangda;
+- streptokokklar — mayda, nuqtasimon, tiniq koloniyalar; gemolitik turlari atrofida gemoliz zonasi bo'ladi;
+- ichak tayoqchasi — Endo muhitida qizil, metall yaltiroq koloniyalar, salmonella va shigellalar esa rangsiz koloniyalar beradi;
+- Pseudomonas aeruginosa — yirik, tekis chetli yoki yassi, ko'k-yashil pigment ajratadigan koloniyalar;
+- Proteus — harakatchan bo'lgani uchun muhit yuzasida to'lqin bo'lib «tarqaluvchi» o'sish beradi;
+- kuydirgi tayoqchasi — g'adir-budir, chetlari o'ralgan-buralgan «sher yoli» yoki «meduza boshi» shaklidagi koloniyalar;
+- sil mikobakteriyasi — quruq, g'adir-budir, «gulkaram»ga o'xshash koloniyalar bo'lib, juda sekin (bir necha hafta) o'sadi.
+Bu belgilar identifikatsiyada faqat yordamchi hisoblanadi: ular muhitga va sharoitga qarab o'zgaradi.
+## O'sish tezligi va inkubatsiya muddati
+Koloniyalarning paydo bo'lish vaqti mikrobning ko'payish tezligiga bog'liq. Tez o'suvchi bakteriyalar (ichak tayoqchasi, stafilokokklar) odatda 18–24 soatda aniq koloniya beradi, talabchan mikroblar uchun esa muddat uzayadi. Sil mikobakteriyasi koloniyalari bir necha haftada paydo bo'ladi, shu sababli ekmalar uzoq muddat kuzatiladi. Muddat tugamasdan oldin manfiy natija berish mumkin emas; aksincha, haddan tashqari uzoq saqlash muhit qurib qolishi yoki yo'ldosh flora o'sishiga olib keladi [1].
+## Koloniya atrofidagi o'zgarishlar
+Koloniyaning o'zi bilan bir qatorda uning atrofidagi muhit o'zgarishi ham diagnostik belgidir. Qonli agarda koloniya atrofida tiniq zona (β-gemoliz), yashilroq zona (α-gemoliz) yoki o'zgarishsiz muhit (γ-gemoliz) ko'rinadi. Differensial muhitlarda koloniya yoki uning atrofi indikator rangini o'zgartiradi (masalan, laktozani bijg'ituvchi bakteriyalar qizil koloniya beradi). Ayrim bakteriyalar pigmentni muhitga tarqatadi, bu muhit rangini o'zgartiradi; boshqalari tuxum sarig'ili muhitda lesitinaza ta'sirida koloniya atrofida loyqa zona hosil qiladi [1], [3].
+## Koloniyalarni hisoblash
+Koloniya hisoblash orqali namunadagi tirik mikroblar soni aniqlanadi. Buning uchun namuna suyultirilib ekiladi va koloniya soni sanaladi. Ishonchli hisoblash mumkin bo'lgan oraliq har bir idishda taxminan 30–300 koloniya; undan ko'p bo'lsa koloniyalar bir-biriga qo'shilib ketadi [4]. Natija mikroblarning umumiy soni sifatida koloniya hosil qiluvchi birliklarda (KHB) ifodalanadi.
+## Amaliy ahamiyati va nazorat
+Zich muhitdagi o'sishni baholash quyidagi qarorlar uchun asos bo'ladi: sof kulturani tanlash, aralash flora borligini aniqlash, keyingi biokimyoviy testlar uchun koloniya tanlash. Agar idishda turli ko'rinishdagi koloniyalar bo'lsa, ularning har biri alohida ko'rib chiqiladi va qayta ekiladi. Tavsif jurnalda yoziladi: ekma sanasi, muhit, inkubatsiya muddati, koloniya soni va xarakteristikasi. Natijani baholashda ekma sterilligi, muhit sifati va inkubatsiya sharoiti ham hisobga olinadi [2].
+## Baholashdagi tipik xatolar
+Koloniyalarni baholashda quyidagi xatolarga yo'l qo'yilmasligi kerak: bir-biriga qo'shilib ketgan koloniyalarni tavsiflash; faqat bitta koloniya turiga qarab xulosa chiqarish; muhit turini va inkubatsiya muddatini hisobga olmaslik; koloniyani qabul qilingan atamalar bilan emas, erkin ibora bilan tavsiflash; eski, qurib qolgan idishdagi koloniyalarni baholash. Shubhali hollarda koloniya qayta ekiladi va Gram usulida bo'yalgan preparatda tekshiriladi [2].
+## Xulosa
+Zich muhitda mikroblar koloniya hosil qilib o'sadi, koloniya esa o'lchami, pigmenti, shakli, balandligi, chetlari, yuzasi, shaffofligi va konsistensiyasi bilan tavsiflanadi. Silliq, g'adir-budir va shilimshiq shakllar virulentlik va kapsulaga bog'liq. Koloniya xarakteristikasi identifikatsiyaning dastlabki bosqichi bo'lib, sof kultura ajratish, mikroblar sonini aniqlash va keyingi testlar uchun asos bo'ladi. Natija har doim muhit turi va o'stirish sharoiti bilan birga baholanadi. Bakteriolog-laborant koloniyani standart atamalar bilan tavsiflay olishi, koloniya atrofidagi o'zgarishlarni payqashi va aralash o'sishni sof kulturadan ajrata bilishi zarur. Chunki ekmaning keyingi taqdiri — qaysi koloniya tanlanishi va qanday testlar o'tkazilishi — aynan shu baholashga bog'liq.
+## Foydalanilgan adabiyotlar
+[1] Riedel S, Hobden JA, Miller S, Morse SA, Mietzner TA, Detrick B, Mitchell TG, Sakanari JA, Hotez P, Mejia R. Jawetz, Melnick & Adelberg's Medical Microbiology. 28th ed. New York: McGraw-Hill Education; 2019. ISBN 978-1-260-01202-6.
+[2] Breakwell DP, Woolverton C, MacDonald B, Smith K, Robison R. Colony morphology protocol. American Society for Microbiology (ASM Microbe Library); 2007. https://asm.org/asm/media/protocol-images/colony-morphology-protocol.pdf
+[3] Buxton R. Blood agar plates and hemolysis protocols. American Society for Microbiology (ASM Microbe Library); 2005. https://asm.org/asm/media/protocol-images/blood-agar-plates-and-hemolysis-protocols.pdf
+[4] Sanders ER. Aseptic laboratory techniques: plating methods. Journal of Visualized Experiments. 2012;(63):e3064. DOI: 10.3791/3064

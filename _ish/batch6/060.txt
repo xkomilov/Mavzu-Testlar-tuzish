@@ -1,0 +1,52 @@
+TITLE: 60. Stafilokokk kasalliklarida tekshirish materiali va tekshirish usullari.
+## Kirish
+Stafilokokk kasalliklarini laboratoriya tashxislashda tekshirish materialini to'g'ri tanlash, steril sharoitda olish va o'z vaqtida laboratoriyaga yetkazish natijaning ishonchliligini belgilaydi. Qaysi material olinishi kasallikning klinik shakliga bog'liq: bir joyga chegaralangan jarohatlarda yiring yoki ajralayotgan suyuqlik, tarqoq shakllarda esa qon tekshiriladi [1][2]. Mavzuda stafilokokk infeksiyalarida tekshirish materiallari, ularni olish qoidalari va asosiy laboratoriya usullari yoritiladi.
+## Tekshirish materiallari
+Stafilokokk kasalliklarida quyidagi materiallar tekshiriladi [1]:
+- yiring (furunkul, karbunkul, abssessda);
+- tomoqning yuqori qismidan shilliq (anginada);
+- balg'am (zotiljamda);
+- siydik (pielit va sistitda);
+- o't suyuqligi (xolesistitda);
+- qon (sepsisga shubha qilinganda);
+- qusuq massasi, oshqozon yuvindisi, oziq-ovqat qoldiqlari (ovqatdan zaharlanishda);
+- burundan shilliq (bakteriya tashuvchilikka tekshirishda).
+Aliyev va Muxamedov qo'llanmasida tekshirish uchun yiring, qon, ekssudat, balg'am, tomoq va burundan olingan suyuqlik ko'rsatilgan [2]. Yiring yoki ajralayotgan suyuqlik flegmona, abssess, karbunkul, peritonit kabi chegaralangan jarohatlarda, qon esa tarqoq shakllarda (sepsis, septikopiemiya) olinadi [2].
+## Materialni yig'ish qoidalari
+Materialni yig'ishda quyidagi qoidalar qo'llanadi [1]:
+- yiring jarohatlangan sohaning chuqurroq qismidan olinadi; ochiq jarohat sohalaridan paxta yoki doka piligi, Pasteur pipetkasi yordamida, yopiq jarayonlarda steril shprits bilan;
+- tomoq va burun shilliqi steril paxta pilik bilan olinadi va steril idishlarga yig'iladi;
+- siydik kateter yordamida, ertalabki qismi, A, B, C qismlari steril idishlarga olinadi (3 qismni bitta idishga yig'ish ham mumkin);
+- qon bilak venasidan 10–15 ml hajmda steril idishga olinadi;
+- balg'am, o't suyuqligi, qusuq massasi, oshqozon yuvindisi steril idishga yig'iladi.
+Sepsisga shubha qilinganda Aliyev va Muxamedov bilak venasidan shprits bilan 5–10 ml qon olib, kolbadagi 50–100 ml qandli bul'onga 1:10 nisbatda ekishni ko'rsatadi [2]. Material olinganidan keyin laboratoriyaga imkon qadar tez yetkaziladi va ekmalar tezda o'tkaziladi (muallif izohi, umumiy bakteriologik amaliyot talabi).
+## Tekshirish usullari
+Stafilokokk kasalliklarida asosiy tekshirish usullari [1][2]:
+- mikroskopik (bakterioskopik) — materialdan surtma tayyorlab, Gram usulida bo'yash;
+- mikrobiologik (bakteriologik) — oziqa muhitlarga ekib, toza kultura ajratish va identifikatsiya;
+- biologik — laboratoriya hayvonlarida (masalan, quyon dermonekrotik sinamasi);
+- immunologik — serodiagnostika, teri-allergik sinamalar.
+Usullar murakkabligi, tekshirish muddati, sezgirligi va maxsusligi bilan bir-biridan farq qiladi [2].
+## Bakterioskopik usul
+Qondan tashqari materialdan surtma tayyorlanib, Gram usulida bo'yaladi va mikroskopda ko'riladi. Preparatda Gram-musbat, tuda-tuda bo'lib, uzum shingili shaklida joylashgan kokklar ko'rilsa, stafilokokk infeksiyasining dastlabki tashxisi qo'yiladi [2]. Kateter yordamida olingan siydik cho'kmasi va abssessdan shpritsda olingan yiringdan surtma tayyorlab bo'yalganda stafilokokklar ko'rinsa, stafilokokklar aniqlandi deb taxminiy tashxis qo'yish mumkin [1].
+## Bakteriologik usul
+Material 3–5 % qon va tuxum sarig'i qo'shilgan tuzli agarga, shuningdek qonli va sut qo'shilgan tuzli agarga ekiladi. Siydik, tomoq va burundan olingan suyuqlikdagi stafilokokklarni miqdoriy aniqlash uchun Goldi sektor usuli qo'llanadi [2]. Siydik, balg'am va o't suyuqligi kabi materiallar sentrifugalanadi, cho'kmasi qonli va sarig'li tuzli agarga ekiladi; ovqat qoldiqlari chinni xovonchada fiziologik eritma bilan aralashtirilib, 1–2 ml aralashmadan tuxum sarig'i qo'shilgan tuzli agarga ekiladi va shakarli sho'rvaga ham ekiladi [1]. Barcha ekmalar termostatda 37 °C da bir kun saqlanadi [1][2].
+Toza kultura ajratilgandan keyin identifikatsiya qilinadi: koloniya xarakteri, pigment, gemoliz va lesitinaza faolligi o'rganiladi, katalaza va plazmakoagulaza testlari qo'yiladi, mannit va glyukoza anaerob sharoitda parchalanishi tekshiriladi, antibiotiklarga hamda fagolarga sezuvchanlik aniqlanadi [2]. Plazmakoagulaza uchun 1:5 nisbatda suyultirilgan quyon plazmasidan 1 ml ikkita probirkaga solinadi; biriga kultura aralashtiriladi (tajriba), ikkinchisi nazorat sifatida qoladi, 6–8 soat termostatda saqlanadi, musbat natijada plazma ivib qotadi [2].
+## Biologik va immunologik usullar
+Biologik usulda quyon terisiga 0,2 ml kultura suspenziyasi (2 mlrd/ml) yuborilib, dermonekrotik sinama qo'yiladi; infiltrat va nekroz paydo bo'lsa, natija musbat [2]. Immunologik usullarga serodiagnostika va teri-allergik sinamalar kiradi [2]. Gospital infeksiya manbaini aniqlash uchun bemor va tashuvchilardan ajratilgan kulturalar fagotipi fagolar to'plami yordamida aniqlanadi [2].
+## Miqdoriy baholash
+Materialdagi stafilokokk miqdorini aniqlash uchun ekmalarda shubhali koloniyalar sanaladi va 1 ml tekshirilayotgan materialdagi mikrob soni hisoblab topiladi [2]. Bu ayniqsa siydik, tomoq va burundan olingan materialda muhim, chunki stafilokokk shartli patogen mikroorganizm hamda sog'lom odamlarda ham tashuvchilik tarzida uchrashi mumkin; shu sababli natijani baholashda mikrob miqdori va klinik ko'rinish birgalikda hisobga olinadi (muallif izohi).
+## Bakteriya tashuvchilikni aniqlash
+Tashuvchilikni aniqlash uchun burundan shilliq olib, tuxum sarig'i qo'shilgan tuzli agarga ekiladi [1]. SanPiN № 0342-17 ga ko'ra jarrohlik statsionarlari xodimlari patogen stafilokokk tashuvchiligiga yilda 2 marta, tug'ruq majmuasi xodimlari esa epidemiologik ko'rsatma bo'yicha tekshiriladi [3]. Tashuvchilikka tekshirishda toza kulturaning fagotipi va antibiotiksezuvchanligi aniqlansa, bu gospital infeksiya manbaini topishga yordam beradi [2][3].
+## Materialni tanlashda xatolar va ularning oldini olish
+Quyidagi xatolar tekshirish natijasini buzishi mumkin (muallif izohi, umumiy bakteriologik amaliyotga asoslangan): materialni jarohat yuzasidan, teri bilan ifloslangan holda olish; antibiotik qabul qilinganidan keyin olish; steril bo'lmagan idish ishlatish; materialni uzoq vaqt saqlab, keyin ekish; bitta idishga turli materialni aralashtirish. Shuning uchun materialni olishdan oldin jarohat atrofi tozalanadi, chuqurroq qismdan olinadi [1], idishlar steril bo'lishi va yo'llanma xatda ma'lumotlar to'liq ko'rsatilishi kerak.
+## Qo'shimcha usullar
+Gram bo'yash va kultural belgilar yetarli bo'lmasa, qo'shimcha ravishda fibrinolizin va DNKaza faolligi aniqlanadi, chunki S. aureus uchun fibrinolizin va DNKaza hosil qilish xos [2]. Sepsisga shubha bo'lsa, ekilgan bul'on 10 kun davomida saqlanadi: shu vaqt ichida vaqti-vaqti bilan surtma tayyorlanib bo'yaladi va Petri kosachasidagi qonli agarga ekib turiladi; ijobiy natijada toza kultura ajratiladi, aks holda 10 kundan so'ng javob beriladi [2].
+## Yakuniy javob
+Yakuniy javobda ajratilgan stafilokokk turi, zarur bo'lsa fagotipi, antibiotiklarga sezuvchanligi va titri albatta ko'rsatiladi [2]. Qon ekmasida o'sish bo'lmasa, javob 10 kundan keyin beriladi [2].
+## Xulosa
+Stafilokokk kasalliklarida tekshirish materiali kasallik shakliga qarab tanlanadi: yiring, ekssudat, balg'am, siydik, o't, qusuq massasi, tomoq va burun surtmasi, sepsisda qon. Material steril olinib, tezda laboratoriyaga yetkaziladi. Asosiy usullar — bakterioskopik, bakteriologik, biologik va immunologik; yakuniy javob toza kulturani identifikatsiya qilib, antibiotik va fagga sezuvchanlikni aniqlash bilan beriladi.
+## Foydalanilgan adabiyotlar
+[1] G'anixo'jayeva A, Nazarova H. Mikrobiologiya: tibbiyot kollejlari va bilim yurtlari o'quvchilari uchun darslik. Toshkent: Abu Ali ibn Sino nomidagi tibbiyot nashriyoti; 2002 (kirill yozuvida). Xayrullo Komilov kutubxonasi, id 2323: https://xayrullokomilov.uz/kutubxona/2323
+[2] Aliyev ShR, Muxamedov IM. Mikrobiologiyadan laboratoriya mashg'ulotlariga doir qo'llanma. Toshkent: Ibn Sino nomidagi nashriyot-matbaa birlashmasi; 2013 (kirill yozuvida). Xayrullo Komilov kutubxonasi, id 2355: https://xayrullokomilov.uz/kutubxona/2355
+[3] SanPiN RUz № 0342-17. Ichki kasalxona infeksiyalari profilaktikasi (SanPiN № 0304-12 o'rniga) (rus tilida). O'zbekiston Respublikasi Bosh davlat sanitariya shifokori tomonidan tasdiqlangan. Xayrullo Komilov kutubxonasi, id 2729: https://xayrullokomilov.uz/kutubxona/2729

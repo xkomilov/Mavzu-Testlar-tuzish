@@ -1,0 +1,51 @@
+TITLE: 155. Havodagi patogen mikroblarni aniqlash.
+## Kirish
+Yopiq xonalar havosida odam nafas yo'llari va terisidan tushgan mikroorganizmlar uchraydi; ularning epidemiologik ahamiyati sanitariya-ko'rsatkich va shartli patogen bakteriyalarni aniqlash orqali baholanadi. Aliyev va Muxamedov havo uchun sanitariya-ko'rsatkich mikroblar sifatida og'iz ajralmalaridan tushuvchi Staphylococcus aureus va Streptococcus pyogenes ni ko'rsatadi [1]. Kasalxona ichi infeksiyalarining qo'zg'atuvchilari — stafilokokklar, ko'k-yiring tayoqchasi va boshqa gramm manfiy bakteriyalar — jarrohlik, akusherlik-ginekologiya va boshqa bo'limlar havosini tekshirish paytida bevosita topilishi mumkin [1]. Mavzuda havodagi patogen va shartli patogen mikroblarni aniqlash tartibi ko'rib chiqiladi.
+## Sanitariya-ko'rsatkich bakteriyalarning ahamiyati
+Aliyev bo'yicha [1]:
+- Staph. aureus tomoq, burun-xalqum va teri florasining fakultativ vakili; uning xona havosi yoki buyumlardan topilishi og'iz suyuqlik tomchilari bilan ifloslanishni bildiradi;
+- hemolitik streptokokk (Str. pyogenes) burun-xalqum va tomoqning vaqtinchalik mikroorganizmi; uning tashqi muhitda yashash vaqti havo-tomchi infeksiyasining boshqa qo'zg'atuvchilariga yaqin; xona havosidan topilishi yuqori nafas yo'llari havo-tomchi infeksiyasi qo'zg'atuvchilari bilan ifloslanganini ko'rsatadi;
+- oltinsimon stafilokokk va hemolitik streptokokkning bir vaqtda topilishi havoning juda ifloslanganidan dalolat beradi.
+Operatsiya oldi, operatsiya zallari, operatsiyadan keyingi palatalar, tug'ruq zallari va reanimatsiyada bu mikroorganizmlar topilmasligi kerak [1].
+## Namuna olish
+MUK 4.2.1089-02 bo'yicha namuna aspiratsion asboblar (impaktor, sentrifugali, Krotov apparati) bilan olinadi [2]:
+- S. aureus — 250 dm3 havo, sariq-tuzli agarga (STA);
+- gramm manfiy shartli patogen bakteriyalar — 500–1000 dm3 havo, modifikatsiyalangan Endo muhitiga; operatsiya xonalari, bog'lov xonalari, palatalar, reanimatsiya va intensiv terapiya bo'limlari havosi bakteriologik nazoratga olinadi, zarurat va epidemiologik ko'rsatma bo'lsa boshqa xonalar ham; statsionarda havo yotgan bemorning nafas sathida olinadi;
+- xamirturush va mog'or zamburug'lari — 250 dm3 havo, Sabouro muhitiga;
+- sil mikobakteriyalari — 250 dm3 havo, Finn-II muhitiga.
+Aliyev bo'yicha stafilokokk uchun tuxum sarig'i qo'shilgan tuzli agar, hemolitik streptokokk uchun gentian binafsha qo'shilgan qonli agar ishlatiladi [1]. Gigiyena qo'llanmasida streptokokk uchun gentian ko'k bo'yoqli qand-qonli agar (Garro muhiti) keltirilgan [3].
+## Inkubatsiya
+MUK bo'yicha [2]:
+- S. aureus: 37 ± 1 °C da 48 soat yoki 24 soat termostatda va 24 soat xona haroratida;
+- zamburug'lar: 28 ± 1 °C da 72–96 soat;
+- sil mikobakteriyalari: 37 ± 1 °C da 28 sutka.
+Sariq-tuzli agar 100 sm3 go'sht-peptonli agarga (45–50 °C) 9,5 g NaCl va 10 sm3 tuxum sarig'i emulsiyasi qo'shilib tayyorlanadi, 4–10 °C da 5 sutkagacha saqlanadi [2].
+## S. aureus ni identifikatsiya qilish
+Shubhali koloniyalar tinktorial (Gram), morfologik va biokimyoviy xossalari bo'yicha o'rganiladi; surtmada tipik gramm musbat kokklar bo'lsa, koloniyaning qolgan qismidan go'sht-peptonli agarga ekiladi [2]. MUK jadvaliga ko'ra S. aureus quyidagi testlarning barchasida musbat: koagulaza, pigment, flokulyatsiya (plazmada ipir-ipir cho'kma hosil bo'lishi), hemoliz, mannit va maltozani bijg'itish; boshqa stafilokokk turlari (S. intermedius, S. hyicus, S. epidermidis) bu belgilarning bir qismi bo'yicha farq qiladi [2]. Flokulyatsiya reaksiyasida tomchi kultura plazmada ipir-ipir cho'kma, nazoratda (fiziologik eritma) bir tekis loyqa hosil qilsa musbat hisoblanadi; koagulaza plazma (quyon plazmasi) yordamida qo'yiladi [2]. Natija 1 m3 havoga qayta hisoblanadi [2].
+## Gramm manfiy bakteriyalar va zamburug'lar
+Endo muhitida o'sgan koloniyalar kasalxona ichi infeksiyalari qo'zg'atuvchisi — gramm manfiy shartli patogen bakteriyalarni aniqlash bo'yicha uslubiy tavsiyaga muvofiq o'rganiladi; zamburug'lar Sabouro muhitida sanaladi [2]. MUK da aniq identifikatsiya sxemasi bu hujjatda berilmagan, boshqa hujjatga havola qilingan (muallif izohi).
+## Muhitlar tarkibi
+MUK 4.2.1089-02 bo'yicha [2]:
+- Sabouro muhiti: 1000 sm3 distillangan suvda 10,0 g pepton, 40,0 g glyukoza yoki maltoza, 13,0 g agar; pH 5,8 ± 0,2; 121 ± 1 °C da 15 daqiqa sterillanadi, 4–10 °C da 14 sutkagacha saqlanadi;
+- mannitli-tuzli agar: 1000 sm3 suvda 10,0 g pepton, 75,0 g NaCl, 10,0 g mannit, 0,025 g fenol qizili, 13,0 g agar; pH 7,6 ± 0,2; 121 °C da 15 daqiqa;
+- tuxum sarig'i emulsiyasi: yangi (7 sutkadan eski bo'lmagan) tuxum yuvilib, 70 % spirtda 30 daqiqa ushlanadi, steril sharoitda sarig'i 50 sm3 fiziologik eritmaga solinib aralashtiriladi; 4 °C da 72 soatdan ortiq saqlanmaydi;
+- modifikatsiyalangan Endo: tayyor sovitilgan (60 °C) muhitga 100 sm3 ga 1,25 sm3 0,01 % li kristall violet qo'shiladi (gramm musbatlarni to'xtatish uchun), 15–18 sm3 dan idishlarga quyiladi.
+## Me'yorlar
+MUK 4.2.1089-02 ilovalaridan [2]:
+- operatsiya xonasi (ishga tayyor): S. aureus va gramm manfiy bakteriyalar bo'lmasligi kerak;
+- reanimatsiya va palatalar: S. aureus ≤4, gramm manfiy bakteriyalar bo'lmasligi kerak;
+- bemor yotgan boks: S. aureus va gramm manfiy ≤1–2;
+- protsedura xonasi: ishdan oldin S. aureus va gramm manfiy bo'lmasligi, ish vaqtida S. aureus ≤1–2, gramm manfiy ≤1;
+- aseptik palatalar va protsedura xonalari: S. aureus, gramm manfiy, mog'or va xamirturush bo'lmasligi kerak;
+- dorixona aseptik bloki: 250 dm3 havoda S. aureus va gramm manfiy bo'lmasligi; xizmat zalida S. aureus 100 gacha, gramm manfiy 20 gacha.
+Aliyev jadvalida A va B klasslarda S. aureus va mog'or bo'lmasligi kerak [1].
+## Epidemiologik tahlil
+Kasalxona ichida stafilokokk etiologiyali infeksiya paydo bo'lganda tekshiruv infeksiya manbai va tarqalish yo'llarini aniqlashga qaratiladi; atrof-muhit, bemorlar va xodimlardan ajratilgan kulturalar bir xilligi fagotip bo'yicha aniqlanadi [1]. Katta hajmdagi havoni PAB-1 va POV-1 asboblari bilan tekshirib, patogen bakteriya va viruslarni topish mumkin [1].
+## Xavfsizlik
+Sil mikobakteriyalari bo'yicha ishlar uchun kultura bilan ishlash qoidalari (III–IV xavflilik guruhi) qo'llanadi (muallif izohi); koloniyalar bilan ishlash biologik xavfsizlik kabinasida yoki ehtiyot choralari bilan bajariladi.
+## Xulosa
+Havodagi patogen va shartli patogen mikroblarni aniqlash uchun 250 dm3 havo STA ga (S. aureus), 500–1000 dm3 Endo muhitiga (gramm manfiy), 250 dm3 Sabouro (zamburug') va Finn-II (sil mikobakteriyalari) muhitlariga ekiladi. S. aureus koagulaza, pigment, flokulyatsiya, hemoliz, mannit va maltoza testlari bilan tasdiqlanadi. Operatsiya xonalari va aseptik bo'limlarda bu bakteriyalar bo'lmasligi, boshqa xonalarda esa me'yordan oshmasligi kerak.
+## Foydalanilgan adabiyotlar
+[1] Aliyev ShR, Muxamedov IM. Mikrobiologiyadan laboratoriya mashg'ulotlariga doir qo'llanma. Toshkent: Ibn Sino nomidagi nashriyot-matbaa birlashmasi; 2013 (kirill yozuvida). Xayrullo Komilov kutubxonasi, id 2355: https://xayrullokomilov.uz/kutubxona/2355
+[2] MUK 4.2.1089-02. UOV «Potok 150-M-01» havoni zararsizlantirish qurilmasidan foydalanish va uning ishlashida havoning mikrob bilan ifloslanishini nazorat qilish: uslubiy ko'rsatmalar (rus tilida). Moskva: Rossiya Federatsiyasi Sog'liqni saqlash vazirligi; 2002. 22 b. (Rossiya Federatsiyasi hujjati; O'zbekistonda rasmiy qo'llanilishi tasdiqlanmagan.) Xayrullo Komilov kutubxonasi, id 1977: https://xayrullokomilov.uz/kutubxona/1977
+[3] Umumiy gigiyena bilan ekologiya: amaliy mashg'ulot kitobi (kirill/lotin yozuvida; muallif va nashr ma'lumotlari faylda ko'rsatilmagan). Xayrullo Komilov kutubxonasi, id 2365: https://xayrullokomilov.uz/kutubxona/2365
