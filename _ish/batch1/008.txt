@@ -1,0 +1,44 @@
+TITLE: 8. Oziqa muhitlarning tasnifi.
+## Kirish
+Oziqa muhit — mikroorganizmlarni laboratoriyada o'stirish uchun tayyorlangan, ularga zarur oziqa moddalar va o'sish omillarini saqlovchi steril substrat. Bakteriologik tashxisning deyarli barcha bosqichlari — sof kultura olish, identifikatsiya, sezuvchanlikni aniqlash — oziqa muhitga bog'liq. Birinchi sun'iy suyuq muhitni 1860-yilda L. Paster yaratgan, R. Kox esa zich muhitni joriy etib, sof kultura olishga imkon bergan [2]. Hozirgi muhitlar bir necha belgisi bo'yicha tasniflanadi.
+## Kelib chiqishi bo'yicha tasnif
+Tarkibining tabiatiga ko'ra muhitlar uch guruhga bo'linadi:
+- tabiiy muhitlar — sut, tuxum, kartoshka, jigar bo'laklari kabi tabiiy mahsulotlar; tarkibi aniq emas, tayyorlash oson;
+- sintetik muhitlar — tarkibi aniq kimyoviy moddalardan (aminokislotalar, tuzlar, qandlar, vitaminlar) tuzilgan; ular asosan ilmiy tadqiqotda qo'llanadi;
+- yarim sintetik muhitlar — go'sht, kazein yoki xamirturush gidrolizati (pepton, ekstrakt) asosida tayyorlanib, aniq moddalar qo'shiladi; amaliyotda eng ko'p ishlatiladi [5].
+Go'shtli-peptonli bulyon (GPB) va go'shtli-peptonli agar (GPA) yarim sintetik muhitlarga misol.
+## Zichligi bo'yicha tasnif
+Zichlik muhitning quyuqlashtiruvchi moddasi — agar yoki jelatin miqdoriga bog'liq:
+- suyuq muhitlar (bulyonlar) — quyuqlashtiruvchi modda yo'q; o'sish loyqalik, cho'kma yoki pardacha ko'rinishida kuzatiladi, boyitish va biokimyoviy tekshiruvlarda qo'llanadi;
+- yarim suyuq muhitlar — 0,3–0,7 foiz agar; harakatchanlikni aniqlash va anaeroblarni o'stirish uchun ishlatiladi;
+- zich muhitlar — odatda 1,5–2 foiz agar; alohida koloniyalar olish uchun qo'llanadi;
+- quyuqlashtirilgan zardobli yoki tuxumli muhitlar — Lyoffler muhiti (qon zardobi), Levenshteyn–Yensen muhiti (tuxum) mikobakteriyalar uchun [1].
+Agar dengiz suvo'tlaridan olinadigan polisaxarid bo'lib, bakteriyalar uni deyarli parchalamaydi; u 100 °C ga yaqin haroratda eriydi va taxminan 40 °C gacha sovitilganda qotadi. Agarni bakteriologiyaga F. Gesse kiritgan [3]. Jelatin esa taxminan 25 °C dan yuqori haroratda suyuqlanadi va proteolitik bakteriyalar uni parchalaydi, shu sababli 37 °C da o'stirishga yaramaydi.
+## Tarkibi bo'yicha tasnif
+Tarkibining murakkabligiga ko'ra:
+- oddiy muhitlar (GPB, GPA, pepton suvi) — talabchan bo'lmagan bakteriyalar uchun;
+- murakkab muhitlar — oddiy muhitga qon, zardob, asit suyuqligi, glukoza, vitamin va boshqa o'sish omillari qo'shilgan; talabchan mikroblar uchun [1].
+Tarkibi aniq ma'lum bo'lsa — aniqlangan (defined), tarkibida tabiiy ekstrakt bo'lsa — aniqlanmagan muhit deyiladi.
+## Vazifasi bo'yicha tasnif
+Eng muhim tasnif muhitning amaliy vazifasiga asoslanadi [2], [6]:
+- universal (oddiy) muhitlar — ko'pchilik bakteriyalarni o'stiradi (GPA, GPB);
+- maxsus muhitlar — talabchan mikroblar uchun: qonli agar (streptokokklar, gemoliz aniqlash), shokolad agar (Haemophilus, Neisseria), Lyoffler muhiti (difteriya tayoqchasi), Levenshteyn–Yensen (sil mikobakteriyasi);
+- elektiv (tanlab ajratuvchi) muhitlar — yo'ldosh florani to'xtatib, kerakli mikrobning o'sishini ta'minlaydi: tuzli muhit (7,5 foiz NaCl) stafilokokklarni, TCBS vibrionlarni, Saburo muhiti zamburug'larni ajratadi;
+- boyituvchi muhitlar — suyuq muhit bo'lib, kerakli mikrob sonini ko'paytiradi: selenitli bulyon salmonellalar uchun, ishqoriy pepton suvi (pH taxminan 8,6) vabo vibrioni uchun;
+- differensial-diagnostik muhitlar — mikroblarni biokimyoviy xossasiga ko'ra farqlaydi: Endo, Levin, Ploskirev, MakKonki, Kligler va Giss «rangli qatori»;
+- transport muhitlari — namunani laboratoriyagacha mikroblar jonli va soni o'zgarmagan holda yetkazish uchun (Stuart, Eymis, Keri–Blyer); vabo gumon qilinganda Keri–Blyer muhiti qo'llanadi [6].
+Differensial muhitlar indikator va qand saqlaydi. Masalan, Endo muhitida laktozani bijg'ituvchi bakteriyalar (ichak tayoqchasi) qizil, metall tusli koloniya hosil qiladi, laktozani bijg'itmaydigan salmonellalar va shigellalar esa rangsiz koloniya beradi [1]. Ploskirev muhiti tarkibidagi o't tuzlari va yorqin yashil ichak tayoqchasining o'sishini qisman to'xtatadi, shu sababli salmonellalar va shigellalarni ajratishda qo'llanadi.
+Giss «rangli qatori» differensial muhitlarning klassik misoli: pepton suviga bitta uglevod (glukoza, laktoza, maltoza, mannit, saxaroza) va indikator qo'shiladi. Mikrob uglevodni bijg'itsa, kislota hosil bo'lib indikator rangi o'zgaradi, gaz hosil bo'lsa u ichki naychada yoki Durxam suzgichida to'planadi. Bunday qator bir necha qandga munosabat bo'yicha mikrobning biokimyoviy «pasporti»ni beradi [1].
+## Muhitni namunaga qarab tanlash
+Muhit tekshiriluvchi materialga va kutilayotgan qo'zg'atuvchiga qarab tanlanadi. Odatda qo'zg'atuvchisi noma'lum materialdan (yiring, siydik, balg'am) universal yoki qonli agarga, bir vaqtda esa ichak bakteriyalari uchun MakKonki yoki Endo muhitiga ekiladi. Najasdan ichak infeksiyalari qo'zg'atuvchisini ajratishda differensial-diagnostik muhitlar (Endo, Ploskirev) bilan birga boyituvchi selenitli bulyon ishlatiladi. Talabchan bakteriyalar gumon qilinsa, shokolad agar yoki zardobli muhit qo'shiladi [6]. Bu yondashuv ikki maqsadga xizmat qiladi: ko'p turdagi mikrobni qamrab oladi va tez, qisqa vaqtda foydali axborot beradi.
+## Tayyorlanish shakli
+Muhitlar tayyorlanish shakliga ko'ra uy sharoitida tayyorlanadigan va tayyor quruq (degidratlangan) kukunlardan tayyorlanadigan turlarga bo'linadi. Zamonaviy laboratoriyalar standartlashtirilgan quruq muhitlardan foydalanadi, chunki ular bir xil sifat beradi. Xromogen muhitlar (rangli substratli) tezkor identifikatsiyaga imkon beradi: ularda mikrob fermenti ta'sirida rangli birikma hosil bo'lib, koloniya turiga xos rang oladi [2]. Quruq kukunlar yopiq idishda, quruq joyda saqlanadi, tayyorlangan muhit idishiga esa nomi, tayyorlangan sanasi, partiya raqami va tayyorlagan xodim belgisi yoziladi; bu har bir natijani muhit partiyasi bilan bog'lash imkonini beradi. Muhitlarning tayyorlanishi, saqlanishi va sifatini tekshirish ISO 11133 xalqaro standartida belgilangan; u muhitlar sifat kafolati bilan bog'liq atamalarni belgilaydi, tayyorlash talablarini bayon qiladi va muhitning ishchi ko'rsatkichlarini sinash mezonlari hamda usullarini ko'rsatadi [4]. Standart tavsiflari asosan oziq-ovqat, ozuqa va suv mikrobiologiyasiga mo'ljallangan bo'lsa-da, uning tamoyillari klinik va sanitariya laboratoriyalarida ham muhit sifatini baholashda qo'llanadi.
+## Xulosa
+Oziqa muhitlar kelib chiqishi (tabiiy, sintetik, yarim sintetik), zichligi (suyuq, yarim suyuq, zich), tarkibi (oddiy, murakkab) va vazifasi (universal, maxsus, elektiv, boyituvchi, differensial-diagnostik, transport) bo'yicha tasniflanadi. Eng muhim tasnif amaliy vazifa bo'yicha bo'lib, laboratoriya xodimi muhitni tekshirilayotgan mikrob guruhiga qarab tanlaydi. To'g'ri tanlangan muhit natija tezligi va ishonchliligini belgilaydi. Shuning uchun bakteriolog-laborant har bir muhitning tarkibini, vazifasini, tayyorlash qoidasini va natijani baholash belgilarini bilishi, shuningdek muhit sifatini muntazam nazorat qilib borishi lozim. Bir xil namuna uchun bir necha turdagi muhitdan foydalanish yolg'on manfiy natija xavfini kamaytiradi.
+## Foydalanilgan adabiyotlar
+[1] Riedel S, Hobden JA, Miller S, Morse SA, Mietzner TA, Detrick B, Mitchell TG, Sakanari JA, Hotez P, Mejia R. Jawetz, Melnick & Adelberg's Medical Microbiology. 28th ed. New York: McGraw-Hill Education; 2019. ISBN 978-1-260-01202-6.
+[2] Bonnet M, Lagier JC, Raoult D, Khelaifia S. Bacterial culture through selective and non-selective conditions: the evolution of culture media in clinical microbiology. New Microbes and New Infections. 2020;34:100622. DOI: 10.1016/j.nmni.2019.100622
+[3] Hitchens AP, Leikind MC. The introduction of agar-agar into bacteriology. Journal of Bacteriology. 1939;37(5):485–493. DOI: 10.1128/jb.37.5.485-493.1939
+[4] ISO 11133:2014. Microbiology of food, animal feed and water — Preparation, production, storage and performance testing of culture media. Geneva: International Organization for Standardization; 2014. https://www.iso.org/standard/53610.html
+[5] Atlas RM. Handbook of Microbiological Media. 4th ed. Boca Raton: CRC Press; 2010. ISBN 978-1-4398-0406-3.
+[6] Vandepitte J, Engbaek K, Rohner P, Piot P, Heuck CC, et al. Basic laboratory procedures in clinical bacteriology. 2nd ed. Geneva: World Health Organization; 2003. ISBN 92-4-154545-3. https://iris.who.int/handle/10665/42696

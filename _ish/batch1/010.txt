@@ -1,0 +1,40 @@
+TITLE: 10. Oziqa muhitining vodorod ion konsentrasiyasi (pH) nianiqlash.
+## Kirish
+Vodorod ion konsentrasiyasi (pH) oziqa muhitning eng muhim ko'rsatkichlaridan biri bo'lib, mikroorganizmlarning o'sishi, fermentlar faolligi va koloniya xossalariga bevosita ta'sir qiladi. pH — vodorod ionlari konsentratsiyasining teskari ishorali o'nli logarifmi (pH = −lg[H⁺]). pH 7,0 neytral muhitni, 7,0 dan past qiymat kislotali, undan yuqori qiymat ishqoriy muhitni bildiradi. Shkalada har bir birlik farqi vodorod ionlari konsentratsiyasining o'n marta o'zgarishiga mos keladi. Shu sababli pH ni aniq o'lchash va tegishli darajaga keltirish bakteriolog-laborant ishining majburiy bosqichidir [1].
+## pH ning mikroblar uchun ahamiyati
+Bakteriyalarning ko'pchiligi neytral pH da yaxshi o'sadi (neytrofillar). Ayrimlari kislotali (atsidofillar), ayrimlari ishqoriy (alkalofillar) muhitni afzal ko'radi. Tashqi muhit pH i o'zgarganda ham bakteriya hujayra ichidagi (sitoplazmatik) pH ni ma'lum chegarada ushlab turadi; bu hodisa pH gomeostazi deyiladi [2], [3]. Shunga qaramay, hujayra uchun maqbul tashqi pH oralig'i chegaralangan. Masalan, tibbiy ahamiyatli bakteriyalarning aksariyati 7,2–7,6 atrofida yaxshi ko'payadi, vabo vibrioni esa ishqoriy sharoitga chidamli, shuning uchun ishqoriy pepton suvida (pH taxminan 8,4–8,6) boyitiladi [1]. Zamburug'lar kislotaliroq muhitni afzal ko'radi: Saburo agari pH i odatda 5,6 atrofida bo'ladi [4]. Muhit pH i optimaldan uzoq bo'lsa, o'sish sekinlashadi, koloniya morfologiyasi o'zgaradi va biokimyoviy reaksiyalar buziladi. pH antibiotiklar faolligiga ham ta'sir qiladi: ayrim preparatlar kislotali muhitda kuchsizlashadi, boshqalari ishqoriy muhitda, shuning uchun sezuvchanlikni aniqlash uchun mo'ljallangan muhit pH i qat'iy belgilangan oraliqda (odatda neytralga yaqin) bo'lishi lozim.
+## pH ni aniqlash usullari
+Muhit pH i uch asosiy usul bilan aniqlanadi:
+- indikator qog'ozlar — universal indikator qog'ozi muhitga botirilib, rangi shkala bilan solishtiriladi; usul tez va oson, ammo taxminiy natija beradi;
+- kolorimetrik (indikatorli) usul — muhit namunasiga indikator qo'shilib, hosil bo'lgan rang standart shkala bilan taqqoslanadi; masalan, fenol qizili 6,8–8,4, bromtimol ko'ki 6,0–7,6, bromkrezol binafshasi 5,2–6,8 oralig'ida rang o'zgartiradi;
+- potensiometrik usul — pH-metr (shisha elektrod) yordamida o'lchanadi; eng aniq va amaliyotda asosiy usul [4], [5].
+Kolorimetrik usul muhit rangli yoki loyqa bo'lsa noqulay, chunki rangni baholash qiyinlashadi. Shuning uchun asosiy o'lchovlar pH-metrda bajariladi.
+Hisob uchun misol: pH 7,2 bo'lsa, vodorod ionlari konsentratsiyasi 10^−7,2, ya'ni taxminan 6,3·10^−8 mol/l ni tashkil etadi; pH 6,2 bo'lsa, bu qiymat o'n baravar ko'p bo'ladi. Shu sababli pH o'nli kasr aniqligida o'lchanadi, chunki hatto kichik og'ish ham vodorod ionlari konsentratsiyasini sezilarli o'zgartiradi.
+## Muhit tarkibidagi pH indikatorlari
+Ko'p differensial-diagnostik muhitlar tarkibida pH indikatori bo'ladi, shu sababli ularning boshlang'ich pH i to'g'ri bo'lishi natijani talqin qilish uchun muhim. Giss muhitida fenol qizili yoki Andrade indikatori ishlatiladi: mikrob uglevodni bijg'itib kislota hosil qilsa, muhit pH i pasayadi va rang o'zgaradi. MakKonki muhitida neytral qizil indikator laktozani bijg'ituvchi bakteriyalar koloniyasini pushti-qizil rangga bo'yaydi. Agar boshlang'ich pH noto'g'ri bo'lsa, rang o'zgarishi mikroblar faoliyatiga emas, muhitga bog'liq bo'lib qoladi va soxta natija beradi [1].
+## pH-metr bilan o'lchash tartibi
+pH-metr bilan ishlash quyidagi tartibda olib boriladi:
+- asbob ishlatishdan oldin kamida ikki nuqtali kalibrlash qilinadi — o'lchanadigan pH ni o'rab turuvchi standart bufer eritmalari (masalan, pH 4,01, 7,00 va 10,01) bilan;
+- elektrod distillangan suv bilan yuviladi va filtr qog'ozi bilan ehtiyotkorlik bilan quritiladi;
+- muhit o'lchovdan oldin yaxshilab aralashtiriladi va harorati qayd qilinadi; pH harorat o'zgarishi bilan o'zgargani sababli me'yoriy qiymatlar odatda 25 °C uchun ko'rsatiladi [5];
+- elektrod muhitga botiriladi, ko'rsatkich barqarorlashguncha kutiladi va natija yoziladi;
+- o'lchovdan keyin elektrod yuvilib, ishlab chiqaruvchi tavsiya etgan saqlash eritmasida saqlanadi.
+Zich muhitning pH i yuzasiga qo'yiladigan yassi elektrod yordamida yoki muhitni qotishdan oldin suyuq holatda o'lchash orqali aniqlanadi. Qaynoq muhitni o'lchash noto'g'ri natija beradi, shuning uchun u sovitiladi.
+## pH ni to'g'rilash
+Muhit pH i talab qilinganidan farq qilsa, u to'g'rilanadi. Kislotali bo'lsa 1 mol/l natriy gidroksid (NaOH), ishqoriy bo'lsa 1 mol/l xlorid kislota (HCl) eritmasi tomchilab qo'shiladi, har gal yaxshi aralashtirib, pH qayta o'lchanadi. Birdaniga ko'p miqdor qo'shilmaydi, chunki o'tkazib yuborish xavfi bor va muhit tuzlari konsentratsiyasi o'zgaradi. Sterilizatsiya muhit pH ini biroz o'zgartirishi mumkin, shu sababli pH ni muhit sterilizatsiyadan keyin va sovugach qayta tekshirish tavsiya etiladi, tayyor muhit ko'rsatilgan oraliqdan (odatda ±0,2) chiqmasligi kerak [4], [5].
+## O'lchov xatolari va nazorat
+pH o'lchashdagi tipik xatolar quyidagilardan kelib chiqadi: asbobning kalibrlanmaganligi yoki muddati o'tgan bufer eritmalaridan foydalanish; elektrodning ifloslanishi yoki qurib qolishi; o'lchov harorati me'yordan farq qilishi; muhitning yaxshi aralashmaganligi; ishqoriy eritmalar havodan karbonat angidridni yutib, pH ni o'zgartirishi. Bu xatolarning oldini olish uchun kalibrlash har kuni yoki har ishlatishdan oldin o'tkaziladi, bufer eritmalarining muddati kuzatiladi, har bir o'lchov natijasi, sanasi va bajaruvchi imzosi jurnalga yoziladi [5]. Shubhali natija olinganda o'lchov takrorlanadi va asbob qayta kalibrlanadi.
+## Ba'zi muhitlarning pH i
+Quyidagi qiymatlar taxminiy bo'lib, aniq me'yor ishlab chiqaruvchi ko'rsatmasi yoki me'yoriy hujjatdan tekshiriladi [4]:
+- go'shtli-peptonli bulyon va agar — pH taxminan 7,2–7,4;
+- ishqoriy pepton suvi (vabo vibrioni uchun) — pH taxminan 8,4–8,6;
+- tiosulfat–sitrat–o't tuzi–saxaroza (TCBS) agari — pH taxminan 8,6;
+- Saburo agari (zamburug'lar uchun) — pH taxminan 5,6.
+## Xulosa
+pH oziqa muhitning mikroblar o'sishini belgilovchi asosiy ko'rsatkichi. U indikator qog'ozi, kolorimetrik yoki potensiometrik usul bilan aniqlanadi; eng ishonchli usul — kalibrlangan pH-metr bilan o'lchash. Zarur bo'lsa pH NaOH yoki HCl eritmasi bilan to'g'rilanadi va sterilizatsiyadan keyin qayta tekshiriladi. O'lchov natijasi muhit tayyorlash jurnaliga yoziladi. Laboratoriya xodimi muhit pH i ning mikroblar o'sishiga ta'sirini, o'lchash usullarini, asbob bilan ishlash qoidalarini va to'g'rilash tartibini bilishi hamda xatolik manbalarini oldindan bartaraf etishi kerak. Shu talablarga rioya qilinganda har bir partiya muhit bir xil sifatda tayyorlanadi, natijalar esa takrorlanadigan va ishonchli bo'ladi.
+## Foydalanilgan adabiyotlar
+[1] Riedel S, Hobden JA, Miller S, Morse SA, Mietzner TA, Detrick B, Mitchell TG, Sakanari JA, Hotez P, Mejia R. Jawetz, Melnick & Adelberg's Medical Microbiology. 28th ed. New York: McGraw-Hill Education; 2019. ISBN 978-1-260-01202-6.
+[2] Krulwich TA, Sachs G, Padan E. Molecular aspects of bacterial pH sensing and homeostasis. Nature Reviews Microbiology. 2011;9(5):330–343. DOI: 10.1038/nrmicro2549
+[3] Slonczewski JL, Fujisawa M, Dopson M, Krulwich TA. Cytoplasmic pH measurement and homeostasis in bacteria and archaea. Advances in Microbial Physiology. 2009;55:1–317. DOI: 10.1016/S0065-2911(09)05501-5
+[4] Atlas RM. Handbook of Microbiological Media. 4th ed. Boca Raton: CRC Press; 2010. ISBN 978-1-4398-0406-3.
+[5] ISO 11133:2014. Microbiology of food, animal feed and water — Preparation, production, storage and performance testing of culture media. Geneva: International Organization for Standardization; 2014. https://www.iso.org/standard/53610.html
