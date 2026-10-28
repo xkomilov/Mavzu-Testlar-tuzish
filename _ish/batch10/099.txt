@@ -1,0 +1,40 @@
+TITLE: 99. Kuydirgi kasalligida tekshirish materiali, tekshirish usullari, bosqichlari.
+## Kirish
+Kuydirgining laboratoriya tashxisi kasallikning klinik belgilari va epidemiologik anamnezni tasdiqlash, shuningdek hayvon xomashyosi va tashqi muhit ob'ektlarida qo'zg'atuvchini aniqlash uchun o'tkaziladi [1]. Qo'zg'atuvchi bilan ishlash qat'iy rejim asosida, o'ta xavfli infeksiyalar laboratoriyasida olib boriladi [1][2]. O'zbekiston Respublikasi Sog'liqni saqlash vazirining 2015-yildagi 177-sonli buyrug'i ilovasida odamlar, tashqi muhit ob'ektlari va hayvon xomashyosini tekshirish bo'yicha uslubiy ko'rsatma berilgan; quyida shu hujjat va G'anixo'jayeva darsligi asosida tekshirish materiali, usullar va bosqichlar bayon etiladi.
+## Tekshirish materiali
+Materialning turi kasallik shakliga bog'liq [1][3]:
+- teri shaklida — vezikula, karbunkul va yaradan ajralgan suyuqlik;
+- septik shaklda — bemor venasidan 1 ml qon;
+- o'pka shaklida — balg'am;
+- ichak shaklida — najas, siydik va qusuq namunalari;
+- o'lgan odamdan — zararlangan a'zo va to'qima bo'laklari, taloq va albatta qon [1].
+Askoli termopretsipitatsiya reaksiyasi uchun tuproq, teri va hayvon juni olinadi [3]. Hayvon xomashyosi va tashqi muhit ob'ektlari uchun jun, teri, yem, silos va tuproq namunalari tekshiriladi [1].
+## Materialni olish va yuborish
+Namuna olishdan oldin karbunkul usti va yara atrofi spirt bilan artiladi; suyuqlik steril pipetka, shpris yoki steril tampon bilan olinadi [1]. G'anixo'jayeva darsligida yara atrofini spirtli paxta yoki doka bilan artish tavsiya etilgan [3]. Material toza idishga (probirka, banka) solinadi; quritilgan surtmalar Petri kosachasiga solinib, ustiga «Surtma fiksatsiya qilingan» deb yoziladi. Patologik material penalga solinib, usti bog'lanadi, plombalanadi, muhrlanadi, «Ehtiyot qiling, ustki qismi!» deb yoziladi va mas'ul shaxs bilan laboratoriyaga jo'natiladi. Yo'llanmada bemorning F.I.Sh., yoshi, material olingan joy va vaqt, materialning nomi hamda dastlabki tashxis ko'rsatiladi [1].
+## Tekshirish bosqichlari
+Uslubiy ko'rsatmaga muvofiq tekshirish quyidagi bosqichlardan iborat: 1) namunani tayyorlash; 2) dastlabki materialni mikroskopik tekshirish; 3) oziq muhitlarga ekish; 4) laboratoriya hayvonlariga yuqtirish; 5) polimeraza zanjirli reaksiya (PZR); 6) ajratilgan kulturani identifikatsiya qilish [1].
+## 1-bosqich. Namunani tayyorlash
+Yaradan olingan to'qima chinni xovonchada maydalanadi yoki 0,9 % fiziologik eritma bilan yumshatilib, 10–12 ml aralashma hosil bo'lguncha ezilidi [1].
+## 2-bosqich. Mikroskopik tekshirish
+Surtmalar tayyorlanib, 3 % vodorod peroksid qo'shilgan etil spirtida fiksatsiya qilinadi; bu usul spora va vegetativ shakllarni 30 daqiqada zararsizlantiradi va morfologiya hamda lyuminessensiya xossalarini buzmaydi [1]. Surtma Gram usulida, lyuminessent kuydirgi zardobi bilan bo'yaladi; kapsula Romanovskiy–Gimza yoki Rebiger usulida aniqlanadi [1]. Gram usulida Gram-musbat, uchlari to'g'ri kesilgan, qisqa zanjir yoki juft joylashgan tayoqchalar ko'rinadi; yangi materialda ular kapsula bilan o'ralgan, eskisida esa tayoqchalar buzilgan, «soya» ko'rinishida bo'ladi [1]. Mikroskopik natija zudlik bilan beriladi [1].
+## 3-bosqich. Oziq muhitlarga ekish
+Birlamchi namunalar go'sht-peptonli sho'rva (GPSh) va go'sht-peptonli agarga (GPA) ekiladi [1]. Zich muhitda yassi, to'q kulrang g'adir-budur R-koloniyalar o'sadi; markazi qoraygan, chetlari kokilsimon o'simtali («meduza boshi», «sher yoli») [1]. Sho'rvada muhit tiniq qolib, tubida paxtasimon cho'kma hosil bo'ladi; qonli agarda gemoliz bo'lmaydi [1]. Aralash kulturada qo'zg'atuvchi Petri kosachasidagi zich muhitga bo'laklab ekish, alohida koloniyalarni ekish va oq sichqonlarga yuqtirish yo'li bilan ajratiladi [1].
+## 4-bosqich. Biologik sinama
+Birlamchi material namuna kelgan kuni oziq muhitga ekish bilan birga yuboriladi: 0,9 % NaCl dagi suspenziyadan ikkita oq sichqonga 0,2–0,5 ml dan teri ostiga (dumga yaqin joyga) yuboriladi; sichqonlar 1–3 kunda, ba'zan 10 kunda nobud bo'ladi [1]. Yorib ko'rilgan hayvonning yurak qoni, taloq, jigar va in'ektsiya joyi infiltratidan surtma tayyorlanib, kapsula Romanovskiy–Gimza usulida aniqlanadi, ekma qilinadi; ajratilgan kulturani yana ikkita sichqonga yuqtirib, 10 kun kuzatiladi [1]. G'anixo'jayeva darsligida dengiz cho'chqachalari va quyonlar ham sezuvchan hayvonlar sifatida ko'rsatilgan [3].
+## 5-bosqich. Serologik usullar va PZR
+Immunoflyuoressent usul spora va vegetativ hujayralarni ko'rish uchun qo'llanadi: surtma 90 ml 96 % etil spirti va 10 ml 33 % perhidrol aralashmasida fiksatsiya qilinadi, nam kamerada lyuminessent zardob bilan 15 daqiqa bo'yaladi, 10 daqiqa 0,9 % NaCl da yuviladi; musbat natija — +++ va ++++ nurlanish [1]. PZR ishlab chiqaruvchining yo'riqnomasi bo'yicha bajariladi [1].
+## 6-bosqich. Allergik sinama va identifikatsiya
+Antraksin sinamasida bilakka 0,1 ml antraksin teri ichiga yuboriladi (ikkinchi bilakka izotonik NaCl — nazorat); 24 soatdan keyin giperemiya 8 mm — shubhali, 15 mm gacha — kuchsiz musbat, 16 mm dan ortiq (infiltrat 8 mm) — musbat; reaksiya retrospektiv tashxisda qo'llanadi [1]. Identifikatsiya asosiy testlari: morfologiya, lyuminessent zardob bilan nurlanish, kapsula hosil bo'lishi, penitsillin «marvarid shodasi» sinamasi, bakteriofag lizisi va hayvonlar patogenligi [1].
+## Qo'shimcha identifikatsiya testlari va Askoli reaksiyasi
+Saprofit basillalardan farqlash uchun gemolitik faollik (defibrinlangan qo'y qonli agar), harakatchanlik (0,4 % yarim suyuq agarga sanchib ekish), lesitinaza hamda fosfataza va proteinaza faolligi aniqlanadi: kuydirgi qo'zg'atuvchisi gemoliz bermaydi, harakatsiz va tuxum sarig'ini parchalamaydi [1]. Kapsulasiz ajratilgan kultura boshqa tinktorial belgilari, faga sezgirligi va penitsillinda «marvarid shodasi» hosil qilishi bo'yicha B. anthracis guruhiga kiritiladi [1]. Hayvon terisi, juni va tuproq tekshirilganda Askoli termopretsipitatsiya reaksiyasi qo'llanadi: u murdadagi, chirigan xomashyodagi termostabil antigenni aniqlash imkonini beradi (oxirgi izoh — muallif izohi) [3].
+## Xavfsizlik
+Materiallar bilan ishlaganda qo'llanadigan fiksatsiya sporalarni 30 daqiqada zararsizlantiradi, biroq oziq muhitga ekilgan kultura tirik spora saqlaydi, shuning uchun sichqonlar 10 kun kuzatilgach zararsizlantiriladi [1]; ekmalar va ishlatilgan idishlarni avtoklavlash umumiy qoida (muallif izohi).
+
+## Tashxisni tasdiqlash va muddatlar
+Tashxis klinik va epidemiologik ma'lumotlar bilan birga quyidagilardan biri bilan tasdiqlanadi: bakterioskopiyada topish va ajratilgan kulturaning ikki hayvondan biri nobud bo'lishi; virulent B. anthracis ni gumon qilingan manba yoki yuqish omilidan ajratish; antraksin sinamasi musbat bo'lishi [1]. Muddatlar: bakterioskopik — namuna kelgan kun, bakteriologik — 3 kungacha, biologik — 10 kungacha [1].
+## Xulosa
+Kuydirgi tashxisi kasallik shakliga mos material (suyuqlik, qon, balg'am, najas, murda a'zolari) olinib, o'ta xavfli laboratoriya qoidalari asosida ketma-ket bosqichlarda amalga oshiriladi: mikroskopiya (Gram, kapsula, immunoflyuoressensiya), GPSh/GPA ga ekish, biosinama, PZR va identifikatsiya (marvarid shodasi, faglizis). Antraksin sinamasi retrospektiv ahamiyatga ega.
+## Foydalanilgan adabiyotlar
+[1] O'zbekiston Respublikasi Sog'liqni saqlash vazirining 2015-yil 1-maydagi 177-sonli buyrug'i ilovalari: Bakteriologik, virusologik va o'ta xavfli yuqumli kasalliklar laboratoriyalarida o'tkaziladigan laboratoriya tekshiruvlari bo'yicha uslubiy ko'rsatmalar (kirill yozuvida). Xayrullo Komilov kutubxonasi, id 491: https://xayrullokomilov.uz/kutubxona/491
+[2] O'zbekiston Respublikasi SEOJSQ qo'mitasining 2024-yil 25-yanvardagi 8-sonli buyrug'iga 7-ilova: O'ta xavfli yuqumli kasalliklar laboratoriyasi to'g'risida nizom. Xayrullo Komilov kutubxonasi, id 325: https://xayrullokomilov.uz/kutubxona/325
+[3] G'anixo'jayeva A, Nazarova H. Mikrobiologiya: tibbiyot kollejlari va bilim yurtlari o'quvchilari uchun darslik. Toshkent: Abu Ali ibn Sino nomidagi tibbiyot nashriyoti; 2002 (kirill yozuvida). Xayrullo Komilov kutubxonasi, id 2323: https://xayrullokomilov.uz/kutubxona/2323
