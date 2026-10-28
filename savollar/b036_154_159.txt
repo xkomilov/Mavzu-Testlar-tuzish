@@ -1,0 +1,551 @@
+# 154
+
+? Brucella avlodi nomi kimning sharafiga berilgan?
++ Devid Bruce, ingliz mikrobiologi
+- Robert Koch, nemis mikrobiologi
+- Lui Paster, frantsuz mikrobiologi
+- Aleksandr Fleming, shotland mikrobiologi
+- Bernhard Bang, daniyalik veterinar
+! Brucella avlodi nomi ingliz mikrobiologi Devid Bruce sharafiga berilgan, u Maltada harbiylar orasidagi isitma qo'zg'atuvchisini aniqlagan
+@ M JAW
+
+? Bruce qaysi kasallikning qo'zg'atuvchisini aniqlagan?
++ Malta isitmasining
+- Qorin tifining
+- Qaytalama tifning
+- Sariq isitmaning
+- Ko'kyo'talning
+! Bruce Maltada harbiylar orasida tarqalgan isitma kasalligining qo'zg'atuvchisini aniqlagan, kasallik "Malta isitmasi" deb atalgan
+@ M JAW
+
+? "Bang kasalligi" nomi kim bilan bog'liq?
++ Qoramol abortini o'rgangan daniyalik Bang
+- Maltada isitmani o'rgangan ingliz Bruce
+- Sil qo'zg'atuvchisini topgan nemis Koch
+- Vabo vibrionini topgan nemis Koch
+- Qoqshol toksinini o'rgangan yapon Kitazato
+! Daniyalik olim Bernhard Bang qoramollardagi abort holatlarini o'rganib, boshqa turni ajratdi va kasallik "Bang kasalligi" deb nomlandi
+@ M JAW
+
+? Brucella melitensis asosan qaysi hayvonlar bilan bog'liq?
++ Echki va qo'ylar bilan
+- Qoramollar bilan
+- Cho'chqalar bilan
+- Itlar bilan
+- Qo'ylarning erkagi bilan
+! B. melitensis echki va qo'ychilik bilan bog'liq bo'lib, odamlarda eng og'ir kechadigan turlardan biri
+@ M JAW WHOBRU
+
+? Brucella abortus asosan qaysi hayvonlarda kasallik chaqiradi?
++ Qoramollarda abort va bepushtlik
+- Cho'chqalarda o'pka yallig'lanishi
+- Itlarda teri yallig'lanishi
+- Qo'ylarda qon ketishi
+- Tuyalarda ich ketishi
+! B. abortus qoramollarda abort va bepushtlikni keltirib chiqaradi
+@ M JAW WHOBRU
+
+? Brucella suis qaysi hayvonlarda asosiy patogen?
++ Cho'chqalarda
+- Qoramollarda
+- Echkilarda
+- Itlarda
+- Tuyalarda
+! B. suis cho'chqalarda asosiy patogen bo'lib, odamlarda ham og'ir kasallik berishi mumkin
+@ M JAW WHOBRU
+
+? Brucella canis qaysi hayvonlarda uchraydi?
++ Itlarda
+- Mushuklarda
+- Qo'ylarda
+- Qoramollarda
+- Cho'chqalarda
+! B. canis itlarda uchraydi va odamlarga yuqishi kamroq kuzatiladi
+@ M JAW WHOBRU
+
+? Brucella hujayrasi tashqi qismida qaysi komponent joylashgan?
++ Lipopolisaxarid
+- Mikolat kislota
+- Teyxoy kislota
+- Gialuron kislota
+- Kapsula polisaxaridi
+! Brucella hujayrasi tashqi qismida lipopolisaxarid joylashgan bo'lib, u antigenlik xossalarini belgilaydi va kasallik belgilarining ko'p qismini keltirib chiqaradi
+@ M JAW
+
+? Brucella avlodining klassik turlariga qaysi biri kiradi?
++ B. melitensis, B. abortus, B. suis
+- B. cholerae, B. typhi, B. pestis kabilar
+- B. pertussis, B. anthracis, B. tetani kabilar
+- B. coli, B. aureus, B. pyogenes kabilar
+- B. botulinum, B. perfringens, B. cereus
+! Brucella avlodining klassik turlari: B. melitensis, B. abortus, B. suis, B. canis, B. ovis va B. neotomae
+@ M JAW
+
+? Bruzellyoz atamasi qanday ahamiyatga ega?
++ Kasallikning hozirgi ilmiy nomi
+- Tarixiy nom, hozir ishlatilmaydi
+- Veterinar atama, odamga tegishli emas
+- Qoramol kasalligi nomi
+- Echki kasalligi nomi
+! "Malta isitmasi" va "Bang kasalligi" tarixiy nomlar, bruzellyoz esa kasallikning hozirgi ilmiy nomi
+@ M
+
+# 155
+
+? Brucella Gram usulida qanday ko'rinadi?
++ Gram-manfiy, mayda kokkobakteriya
+- Gram-musbat, yirik tayoqcha
+- Gram-musbat, uzum shingilsimon kokk
+- Gram-manfiy, spiralsimon shakl
+- Gram-manfiy, ipsimon shakl
+! Brucella Gram-manfiy mayda kokkobakteriya bo'lib, yakka yoki juft joylashadi
+@ M JAW
+
+? Brucella harakat va spora hosil qilishiga ko'ra qanday?
++ Harakatsiz, sporasiz
+- Harakatchan, sporali tayoqcha
+- Harakatchan, sporasiz kokk
+- Harakatsiz, lekin sporali
+- Xivchinli, kapsulali
+! Brucella harakatsiz va sporasiz mikroorganizmdir
+@ M JAW
+
+? Brucellani bo'yashda qaysi usul qo'llanadi?
++ Ziel–Nilsen (o'zgartirilgan) yoki Stamp usuli
+- Gram usulining oddiy varianti va Burri usuli
+- Romanovskiy–Gimza va Ojeshko usullari
+- Neyser va Leffler usullari
+- Fontana–Tribondo va Klett usullari
+! Brucella hujayralari modifikatsiyalangan Ziel–Nilsen yoki Stamp usulida qizil rangda ko'rinadi va fon bilan yaxshi farq qiladi
+@ M JAW
+
+? Brucella nima uchun fastidioz mikroorganizm deyiladi?
++ Maxsus o'sish sharoitini talab qiladi
+- Har qanday oddiy muhitda tez o'sadi
+- Sovuq muhitdagina o'sa oladi
+- Kislorodsiz muhitdagina o'sa oladi
+- Yuqori, 56 °C haroratdagina o'sa oladi
+! Fastidioz — oziqa muhitida o'sish uchun maxsus sharoitlarni talab qiladigan mikroorganizm
+@ M JAW
+
+? Brucella koloniyalari qancha vaqtda paydo bo'ladi?
++ Odatda 2–5 kunda
+- Odatda 2–3 soatda
+- Odatda 30 daqiqada
+- Odatda bir soatda
+- Odatda olti soatda
+! Brucellada o'sish sekin: koloniyalar odatda 2 dan 5 kungacha yoki undan ko'proq vaqtda paydo bo'ladi
+@ M JAW
+
+? Brucella koloniyalari qanday ko'rinishda bo'ladi?
++ Kichik, silliq, qavariq, shaffof
+- Yirik, quruq, tangachali, qora
+- Katta, shilimshiq, sariq, hidli
+- O'rta, g'adir-budir, qizil, yaltiroq
+- Yassi, ko'k, tikanli, qattiq
+! Koloniyalar odatda kichik, silliq, qavariq, shaffof va rangsiz bo'ladi, qonli agarda gemoliz hosil qilmaydi
+@ M JAW
+
+? Brucella uchun S va R shakllar nimasi bilan farq qiladi?
++ S shakl O-antigen tutadi, R tutmaydi
+- S shakl kapsulali, R shakl kapsulasiz
+- S shakl harakatchan, R shakl harakatsiz
+- S shakl sporali, R shakl sporasiz
+- S shakl Gram-musbat, R Gram-manfiy
+! S shakl hujayra yuzasida O-antigen tutadi, R shakl esa bu antigendan mahrum, bu serologik reaksiyalarda muhim
+@ M JAW
+
+? Brucellani ajratishda qaysi selektiv muhit qo'llanadi?
++ Farrell muhiti (antibiotikli)
+- Endo muhiti (laktoza, fuksinli)
+- Ploskirev muhiti (safro tuzli)
+- Manitli tuzli agar (sho'r muhit)
+- Sabouraud agari (kislotali muhit)
+! Namunalardan brucella ajratish uchun antibiotiklar aralashmasi bo'lgan selektiv muhitlar, masalan Farrell muhiti, qo'llanadi
+@ M JAW
+
+? Brucella katalaza va oksidaza testlarida qanday natija beradi?
++ Odatda musbat
+- Odatda manfiy
+- Katalaza musbat, oksidaza manfiy
+- Katalaza manfiy, oksidaza musbat
+- Natija o'zgaruvchan, shtammga bog'liq
+! Brucella katalaza va oksidaza testlarida odatda musbat natija beradi
+@ M JAW
+
+? Brucella karbonsuvlarga munosabati qanday?
++ Bijg'itmaydi, metabolizmi oksidativ
+- Tez bijg'itadi, gaz hosil qiladi
+- Laktozani bijg'itadi
+- Glyukozani gaz bilan bijg'itadi
+- Shakarni kislota bilan bijg'itadi
+! Brucella karbonsuvlarni bijg'itmaydi, metabolizmi oksidativ yo'l bilan kechadi
+@ M JAW
+
+# 156
+
+? Brucella uchun infeksiya manbai qaysi?
++ Kasal uy hayvonlari
+- Kasal odamlarning nafasi
+- Kasal qushlarning patlari
+- Kasal baliqlar yashaydigan suv
+- Kasal hasharotlarning chaqishi
+! Brucella infeksiyasining manbai kasal uy hayvonlari bo'lib, ularning ajralmalari va tug'ruq materiallari xavfli
+@ M WHOBRU
+
+? Hayvon mahsulotlaridan qaysi biri infeksiya manbai bo'lishi mumkin?
++ Go'sht, teri, jun
+- Quritilgan meva, yong'oq, asal
+- Non, guruch, un
+- Shakar, tuz, o'simlik moyi
+- Pishirilgan sabzavot, qaynatilgan suv
+! Hayvon mahsulotlari — go'sht, teri va jun — infeksiya manbai bo'lishi mumkin, ayniqsa so'yish va qayta ishlashda
+@ M WHOBRU
+
+? Qaysi sut turi bruzellyozda eng xavfli hisoblanadi?
++ Pasterizatsiya qilinmagan echki va qo'y suti
+- Pasterizatsiya qilingan echki va qo'y suti
+- Qaynatilgan sigir suti
+- Sterilizatsiya qilingan sigir suti
+- Quruq sut kukuni, kukunli
+! Pasterizatsiya qilinmagan echki va qo'y suti eng xavfli, chunki bu turlar odamlar uchun ko'proq patogen
+@ M WHOBRU
+
+? Qaysi mahsulotlar bruzellyoz manbai bo'lishi mumkin?
++ Xom sutdan tayyorlangan pishloq, qaymoq, yog'
+- Pasterizatsiyalangan sutdan pishloq va yog'
+- Qaynatilgan sutdan tayyorlangan qatiq
+- Quruq non va quritilgan mevalar
+- Qizdirilgan guruch va sabzavot taomlari
+! Pishloq, qaymoq va yog' pasterizatsiyalanmagan sutdan tayyorlangan bo'lsa, yuqish manbai bo'lishi mumkin
+@ M WHOBRU
+
+? Qaysi kasb egalari bruzellyoz xavfi yuqori bo'lgan guruhga kiradi?
++ Cho'ponlar, sog'uvchilar, veterinarlar
+- O'qituvchilar, muhandislar, bankirlar
+- Haydovchilar, aktyorlar, dasturchilar
+- Kassirlar, sotuvchilar, yozuvchilar
+- Dengizchilar, rassomlar, musiqachilar
+! Hayvonlar bilan ishlovchilar: cho'ponlar, sog'uvchilar, veterinarlar va so'yish sexi xodimlari xavf guruhini tashkil etadi
+@ M WHOBRU
+
+? Nafas yo'li orqali bruzellyoz qanday yuqishi mumkin?
++ Changlangan go'ng yoki tug'ruq materiali orqali
+- Toza suv ichish orqali, nafas bilan
+- Qaynatilgan sut ichish orqali, nafas bilan
+- Ochiq havoda sayr qilish orqali, nafas bilan
+- Hasharot chaqishi orqali, nafas bilan
+! Qo'zg'atuvchi changlangan go'ng yoki quritilgan tug'ruq materiali aerozoli orqali nafas yo'llariga kirishi mumkin
+@ M WHOBRU
+
+? Laboratoriya sharoitida nafas yo'li orqali yuqish nima uchun alohida xavf?
++ Bir tomchi ham yuqtirishi mumkin
+- Mikrob laboratoriyada tez nobud bo'ladi
+- Havo laboratoriyada doimo filtrlanadi
+- Mikrob laboratoriyada faolsiz bo'ladi
+- Infeksiya laboratoriyada umuman yuqmaydi
+! Laboratoriya sharoitida nafas yo'li orqali yuqish alohida xavf tug'diradi, chunki bir tomchi ham infeksiya uchun yetarli bo'lishi mumkin
+@ M WHOLBM WHOBRU
+
+? Oziq-ovqatni qanday ishlash bruzellyoz xavfini kamaytiradi?
++ Yaxshilab pishirish va sutni pasterizatsiya qilish
+- Xom holda iste'mol qilish va sutni qaynatmaslik
+- Yarim pishirish va sutni sovitmaslik
+- Quyoshda quritish va sutni ochiq saqlash
+- Tuzlash va sutni xona haroratida qoldirish
+! Oziq-ovqatni yaxshilab pishirish va sut mahsulotlarini pasterizatsiya qilish asosiy profilaktika choralaridan biri
+@ M WHOBRU
+
+? Yuqtirilgan hayvonni so'yish va qayta ishlash jarayoni nimaga olib kelishi mumkin?
++ Qo'zg'atuvchining odamga o'tishiga
+- Qo'zg'atuvchining halok bo'lishiga
+- Immunitetning kuchayishiga
+- Hayvon mahsulotining sifati oshishiga
+- Odamning kasallikka chidamliligi oshishiga
+! Yuqtirilgan hayvonlarni so'yish va qayta ishlash jarayonida qo'zg'atuvchi odamga o'tishi mumkin
+@ M WHOBRU
+
+? Echki yoki qo'ylar abort qilsa, bu odam uchun nimani bildiradi?
++ Brucella manbai sifatida xavf bor
+- Qanday xavf yo'q
+- Kasallik hayvondan odamga yuqmaydi
+- Immunitet kuchayadi
+- Qo'shni hayvonlarga xavf bor
+! Hayvonlarning abort qilishi va tug'ruq materiallari bruzellyoz manbai bo'lib, ular bilan aloqa katta xavf tug'diradi
+@ M WHOBRU
+
+# 157
+
+? Bruzellyozda qon kulturasi uchun qanday flakonlar ishlatiladi?
++ Muhitli kultura flakonlari
+- Quruq steril probirkalar
+- Formalinli flakonlar
+- Spirtli idishlar
+- Muzlatuvchi qadoqlar
+! Qon kulturasi uchun muhitli flakonlar ko'p ishlatiladi, bu qo'zg'atuvchini ko'paytirish imkonini beradi
+@ M JAW
+
+? Suyak iligi kulturasi qaysi holatda muhim?
++ Surunkali holatda
+- O'tkir davrda faqat
+- Kasallik boshlanishidan oldin
+- Sog'ayganidan bir yil keyin
+- Kasallik yo'qligida
+! O'tkir davrda qon kulturasi, surunkali holatda esa suyak iligi kulturasi muhim rol o'ynaydi
+@ M JAW WHOBRU
+
+? Qaysi material neyrobruzellyozda tekshiriladi?
++ Likvor (asab tizimi asoratlarida)
+- Najas (hazm tizimi buzilishida)
+- Siydik (buyrak buzilishida)
+- Sut (emizish davrida)
+- Balg'am (o'pka kasalligida)
+! Likvor asab tizimi asoratlarida tekshiriladi
+@ M JAW
+
+? Yurak qopqog'i zararlanganda qanday material olinadi?
++ Operatsiya to'qimasi
+- Najas namunasi (axlat)
+- Siydik namunasi (peshob)
+- So'lak namunasi (tupurik)
+- Balg'am namunasi (yo'tal)
+! Yurak qopqog'i zararlanganda operatsiya paytida olingan to'qima tashxisni aniqlashtirish uchun qo'llanadi
+@ M JAW
+
+? Hayvonlarni tekshirishda qanday materiallar olinadi?
++ Sut, qon, homila organlari, platsenta
+- Teri, soch, tirnoq, tuyoq parchalari
+- Najas, siydik, tupurik, ter namunalari
+- Jun, quloq, dum, tish parchalari
+- Ko'z, burun, til, qorin parchalari
+! Hayvonlarni tekshirishda sut, qon, abort qilgan homilaning ichki organlari va platsenta olinadi
+@ M WHOBRU
+
+? Brucella kulturalari bilan ishlash qaysi xavfsizlik darajasini talab qiladi?
++ BSL-3 talablariga mos yuqori daraja
+- BSL-1 talablariga mos oddiy daraja
+- Qanday maxsus talab yo'q
+- Qo'lqop va xalat yetarli
+- Oddiy stolda ishlash yetarli
+! Brucella kulturalari bilan ishlash yuqori xavfsizlik darajasini talab qiladi, odatda BSL-3 talablariga mos ravishda bajariladi
+@ M WHOLBM WHOBRU
+
+? Laboratoriyada qaysi qoida bajarilmaydi?
++ x
+- a
+- b
+- c
+- d
+! Og'izdan pipetkalash taqiqlanadi, ishlar xavfsizlik shkafida bajariladi va o'tkir asboblar bilan ehtiyot bo'linadi
+@ M WHOLBM
+
+? Serologik tekshirish uchun nima olinadi?
++ Qon zardobi, ikki marta
+- Siydik namunasi, bir marta
+- Najas namunasi, bir marta
+- Likvor namunasi, bir marta
+- Balg'am namunasi, bir marta
+! Serologik tekshirish uchun qon zardobi olinadi; titr o'zgarishini kuzatish uchun juft namunalar tavsiya etiladi
+@ M JAW
+
+? Namuna bilan birga qanday ma'lumot yuboriladi?
++ Hayvon bilan aloqa tarixi
+- Bemorning ismi va yoshi
+- Xodimning telefon raqami
+- Idishning shakli va rangi
+- Transport turi va narxi
+! Har bir namuna haqida epidemiologik ma'lumot, masalan hayvon bilan aloqa tarixi, birga yuboriladi
+@ M
+
+? Namuna tezda yetkazilishi nima uchun muhim?
++ Uzoq saqlash mikrob tirikligiga ta'sir qiladi
+- Uzoq saqlash mikrob tirikligini oshiradi
+- Uzoq saqlash mikrob toksinini kuchaytiradi
+- Uzoq saqlash mikrobni sporaga aylantiradi
+- Uzoq saqlash natijani yaxshilab beradi
+! Uzoq saqlangan materiallar qo'zg'atuvchining tirikligiga ta'sir qilishi mumkin, shuning uchun tashish muddati qisqa bo'lishi lozim
+@ M
+
+# 158
+
+? Bruzellyoz tashxisida epidemiologik anamnezda nimalar so'raladi?
++ Hayvon bilan aloqa, sut, qishloq ishi
+- Sevimli ovqat va kiyim rangi haqida
+- Maktabdagi baholar va sevimli fanlar
+- Sport musobaqalari va sport yutuqlari
+- Dam olish kunlari va ta'til rejalari
+! Shifokor bemorning hayvonlar bilan aloqasi, sut va sut mahsulotlarini iste'mol qilishi, qishloq xo'jaligi ishlari va sayohat tarixini so'raydi
+@ M WHOBRU
+
+? Bruzellyoz tashxisini tasdiqlashning eng ishonchli usuli qaysi?
++ Qo'zg'atuvchini kulturada ajratish
+- Rentgenologik tekshiruv o'tkazish
+- Tana haroratini o'lchash
+- Qon bosimini o'lchash
+- Yurak urishini sanash
+! Qo'zg'atuvchini kulturada ajratish tashxisni tasdiqlashning eng ishonchli usuli hisoblanadi
+@ M JAW WHOBRU
+
+? Kultura natijasi manfiy bo'lsa, bruzellyoz haqida nima deyish mumkin?
++ Kasallikni istisno qilmaydi
+- Kasallik yo'qligini kafolatlaydi
+- Kasallik tugaganini ko'rsatadi
+- Immunitet borligini ko'rsatadi
+- Davo kerak emasligini ko'rsatadi
+! O'sish sekin bo'lgani uchun manfiy natija kasallikni istisno qilmaydi, takroriy tekshiruv o'tkazilishi mumkin
+@ M JAW WHOBRU
+
+? Rose Bengal sinovi qanday maqsadda ishlatiladi?
++ Tez skrining uchun (plastinka sinovi)
+- Aniq tur belgilash uchun (kultura)
+- Antibiotik tanlash uchun (disk)
+- Toksinni aniqlash uchun (hayvon)
+- Sil tashxisi uchun (teri)
+! Rose Bengal plastinka sinovi tez skrining uchun ishlatiladi, aglyutinatsiya titri esa aniqroq ma'lumot beradi
+@ M WHOBRU
+
+? Titrni baholashda nima muhimroq?
++ Ketma-ket olingan namunalar
+- Bitta olingan namuna, bir marta
+- Bemorning yoshi va jinsi
+- Bemorning ismi va manzili
+- Namunaning rangi va hidi
+! Titrni baholashda bitta namuna emas, ketma-ket olingan namunalar muhimroq
+@ M JAW
+
+? Epidemiologik ma'lumot nimaga yordam beradi?
++ Birgalikdagi holatlarni aniqlashga
+- Bemorni tezda chiqarib yuborishga
+- Kasallik tarqalishini yashirishga
+- Mikrobni sporaga aylantirishga
+- Antibiotik dozasini oshirishga
+! Epidemiologik ma'lumot boshqa bemorlar bilan birgalikdagi holatlarni aniqlashga va profilaktika choralarini tezroq boshlashga yordam beradi
+@ M
+
+? Brusellyoz umumiy belgilari haqida qaysi gap to'g'ri?
++ Xos emas, tarqalganini ko'rsatadi
+- Yagona va aniq xos belgi hisoblanadi
+- Bolalardagina uchraydigan belgi hisoblanadi
+- Hayvonlardagina uchraydigan belgi hisoblanadi
+- Hech qachon uchramaydigan belgi hisoblanadi
+! Isitma kabi umumiy belgilar kasallikning umumiy tarqalganini ko'rsatadi, lekin ularning o'zi bruzellyozga xos emas
+@ M
+
+? Echki yoki qo'ylarni boqqan bemorda qaysi ma'lumot muhim?
++ Abort va tug'ruqda ishtirok
+- Sut berish miqdori va uning narxi
+- Yoshi, vazni va oziqlanish tartibi
+- Rangi, nomi va tashqi ko'rinishi
+- Uyqu vaqti va yurish yo'nalishi
+! Bemor echki yoki qo'ylarni boqsa, ularning abort qilishi yoki tug'ruq paytida ishtirok etgani tashxis uchun juda muhim
+@ M WHOBRU
+
+? Pasterizatsiya qilinmagan sut yoki pishloq iste'moli qanday qayd etiladi?
++ Epidemiologik anamnezda
+- Qon tarkibida
+- Rentgen tasvirida
+- Yurak urishida
+- Qon bosimi ko'rsatkichida
+! Pasterizatsiya qilinmagan sut yoki pishloq iste'moli epidemiologik anamnezda qayd etiladi
+@ M WHOBRU
+
+? Kasallikning o'tkir davrida qanday kultura muhim?
++ Qon kulturasi
+- Najas kulturasi
+- Siydik kulturasi
+- Balg'am kulturasi
+- Soch kulturasi
+! Kasallikning o'tkir davrida qon kulturasi muhim rol o'ynaydi
+@ M JAW
+
+# 159
+
+? Bruzellyozni davolashda nima tanlanadi?
++ Antibiotiklar kombinatsiyasi, uzoq kurs
+- Bitta antibiotik, qisqa kurs davomida
+- Vitaminlar kursi, uzoq muddatli
+- Jarrohlik amaliyoti, bir martalik
+- Fizioterapiya muolajasi, uzoq muddatli
+! Bruzellyozda antibiotiklar kombinatsiyasi uzoq kurs davomida qo'llanadi, kursni vaqtidan oldin to'xtatish qayta kasallanish xavfini oshiradi
+@ M WHOBRU JAW
+
+? Bruzellyozda odatdagi antibiotik kombinatsiyasi qaysi?
++ Doksisiklin va rifampitsin
+- Penitsillin va ampitsillin
+- Eritromitsin va azitromitsin
+- Metronidazol va tinidazol
+- Izoniazid va pirazinamid
+! WHO tavsiyasiga ko'ra bruzellyozda doksisiklin va rifampitsin (yoki doksisiklin va streptomitsin) kombinatsiyasi qo'llanadi
+@ WHOBRU JAW
+
+? Doksisiklin va rifampitsin kombinatsiyasi odatda necha hafta qo'llanadi?
++ Taxminan 6 hafta
+- Taxminan 1 kun davomida
+- Taxminan 3 kun davomida
+- Taxminan 1 hafta davomida
+- Taxminan 6 oy davomida
+! WHO tavsiyasiga ko'ra doksisiklin va rifampitsin odatda 6 hafta davomida beriladi
+@ WHOBRU
+
+? Bruzellyozda sakroilit va spondilit qaysi shakllarga xos?
++ Surunkali va asoratli shakllarga
+- O'tkir yengil shakllarga, boshqasiga emas
+- Belgisiz tashuvchilikka, boshqasiga emas
+- Chaqaloqlarga xos shaklga, boshqasiga emas
+- Hayvonlarga xos shaklga, boshqasiga emas
+! Bo'g'im va suyak zararlanishi (sakroilit, spondilit) surunkali shakllarda uzoqroq davolashni talab qiladi
+@ M WHOBRU
+
+? Bruzellyoz endokarditi qanday davolanadi?
++ Uzoq antibiotik va qopqoq almashtirish
+- Qisqa antibiotik kursi va dam olish
+- Vitaminlar va ko'p uyqu bilan davolash
+- Parhez va ko'p yurish bilan davolash
+- Sovuq muhit va issiq vanna bilan davolash
+! Endokardit eng og'ir asoratlardan biri: uzoq muddatli antibiotik terapiyasi va ba'zan yurak qopqog'ini almashtirish operatsiyasi zarur
+@ M WHOBRU
+
+? Neyrobruzellyozda davolash qanday o'zgaradi?
++ Maxsus antibiotik, davo uzaytiriladi
+- Davolash qisqartiriladi va to'xtatiladi
+- Antibiotiklar butunlay to'xtatiladi
+- Vitaminlar kursi bilan almashtiriladi
+- Jarrohlik amaliyoti bilan almashtiriladi
+! Neyrobruzellyozda maxsus antibiotiklar tanlanib, davolash uzaytiriladi; likvor tekshiruvi va neyrologik kuzatuv muhim
+@ M WHOBRU
+
+? Davolashdan keyin kuzatuvda nima baholanadi?
++ Harorat, bo'g'im og'rig'i, umumiy holat
+- Soch rangi va bo'y uzunligi, tarozi
+- Ovqat tanlovi va kiyim turi, rangi
+- Qiziqishlari va sevimli ranglari, hobbi
+- Uy manzili va ish joyi, telefoni
+! Davolashdan keyin harorat, bo'g'im og'rig'i va umumiy holat baholanadi, chunki ular samaradorlikni ko'rsatadi
+@ M WHOBRU
+
+? Qayta kasallanishni nima ko'rsatishi mumkin?
++ Titrning qayta ko'tarilishi
+- Titrning pasayishi
+- Titrning barqaror past qolishi
+- Harorat normal bo'lishi
+- Bo'g'im og'rig'i yo'qligi
+! Davolashdan keyingi serologik nazoratda titrning qayta ko'tarilishi takroriy davolash zarurligini ko'rsatishi mumkin
+@ M WHOBRU
+
+? Odamlarda bruzellyoz profilaktikasining asosiy chorasi qaysi?
++ Sutni pasterizatsiya yoki qaynatish
+- Sutni xom holda iste'mol qilish
+- Pishloqni xom sutdan tayyorlash
+- Go'shtni yarim pishirib iste'mol qilish
+- Hayvon ajralmalari bilan aloqa qilish
+! Odamlarda profilaktikaning asosiy choralari oziq-ovqat xavfsizligiga qaratilgan: sutni pasterizatsiya qilish yoki qaynatish
+@ M WHOBRU
+
+? Bruzellyozni davolashda kursni vaqtidan oldin to'xtatish nimaga olib keladi?
++ Qayta kasallanish xavfining ortishiga
+- Immunitetning kuchayishiga olib keladi
+- Qisqa vaqtda to'liq tuzalishga olib keladi
+- Zararsiz sog'ayishga olib keladi
+- Kasallikdan umrbod himoyaga olib keladi
+! Kursni vaqtidan oldin to'xtatish qayta kasallanish xavfini oshiradi
+@ M WHOBRU

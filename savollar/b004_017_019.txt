@@ -1,0 +1,272 @@
+# 017
+? Koloniya nima?
++ Bitta hujayra yoki hujayralar guruhidan ko'payib chiqqan, ko'rinadigan o'sish massasi
+- Suyuq muhitda bir tekis tarqalib, muhitni loyqalantiradigan o'sish massasi
+- Qattiq muhit yuzasida to'planib qolgan, nobud bo'lgan hujayralarning cho'kmasi
+- Muhitga qo'shilgan bo'yoq va agar aralashmasidan hosil bo'lgan ko'rinadigan cho'kma
+- Faqat zamburug' sporalaridan tuzilgan, ko'z bilan ko'rinadigan maxsus hosila
+! Koloniya bitta hujayra yoki hujayralar guruhidan ko'payib chiqqan ko'rinadigan o'sish massasidir
+@ M JAW
+
+? Koloniyani tavsiflashda qaysi belgilar ko'riladi?
++ O'lcham, shakl, chekka, yuza, konsistensiya, rang va shaffoflik
+- Hujayra devori qalinligi, ribosoma turi, xivchin soni va plazmida o'lchami
+- Muhit narxi, idish diametri, quritish muddati va yorliq rangi
+- Gram bo'yog'i, kislotaga chidamlilik, kapsula va xivchin bo'yalishi
+- Antibiotik zonasi diametri, MIK, bakteriotsid konsentratsiya va sezuvchanlik
+! Koloniyani tavsiflashda o'lcham, shakl, chekka, yuza, konsistensiya, rang va shaffoflik ko'riladi
+@ M JAW
+
+? Koloniya o'lchami odatda qachon baholanadi?
++ Ekilgandan 24 yoki 48 soat keyin
+- Ekilgandan 30 daqiqa keyin
+- Ekilgandan 3 soat keyin
+- Ekilgandan 7–10 kun keyin
+- Inkubatsiyasiz, ekilgan zahoti
+! Koloniya o'lchami o'sish sharoitiga va vaqtga bog'liq bo'lib, odatda 24 yoki 48 soatdan keyin baholanadi
+@ M JAW
+
+? Pseudomonas turlari koloniyada qanday pigment hosil qilishi mumkin?
++ Yashil-ko'k pigment
+- Sariq-oltin pigment
+- Pushti-qizil pigment
+- Qora pigment
+- Binafsha pigment
+! Pseudomonas turlari yashil-ko'k pigment hosil qilishi mumkin; stafilokokklarning ayrim turlari esa sariq yoki oltin rangli koloniya beradi
+@ M JAW
+
+? Qon agarida koloniya atrofida yashil zona hosil bo'lsa, bu qanday gemoliz deyiladi?
++ Alfa-gemoliz
+- Beta-gemoliz
+- Gamma-gemoliz
+- Delta-gemoliz
+- Sigma-gemoliz
+! Qon agarida alfa-gemolizda koloniya atrofida yashil zona, beta-gemolizda esa rangsiz tiniq zona hosil bo'ladi; gamma-gemolizda o'zgarish bo'lmaydi
+@ M JAW
+
+? Muhitda turli ko'rinishdagi koloniyalar paydo bo'lsa, bu nimani ko'rsatadi?
++ Aralash o'sishni, ya'ni namunada bir necha mikrob turi borligini
+- Sof kultura o'sganini, ya'ni barcha koloniyalar bitta turga mansubligini
+- Muhit sterilligi saqlanganini va begona mikroflora yo'qligini
+- Bitta shtamm turli pH sharoitida o'sganini va o'zgarmaganini
+- Mikrob antibiotiklarga to'liq sezuvchan ekanini
+! Turli ko'rinishdagi koloniyalar aralash o'sishni, ya'ni namunada bir necha mikrob turi borligini ko'rsatadi
+@ M JAW
+
+? Koloniya elevatsiyasi nimani bildiradi?
++ Koloniya yuzasining muhitdan ko'tarilishini
+- Koloniya chekkasining tishsimon shaklini
+- Koloniya rangi va shaffofligini
+- Koloniya konsistensiyasi, ya'ni quruq yoki shilliqligini
+- Koloniya diametrini millimetrlarda
+! Koloniya elevatsiyasi — yuzaning muhitdan ko'tarilishi; yassi, qavariq, tepasi bo'rtgan yoki halqasimon bo'lishi mumkin
+@ M JAW
+
+? Koloniya chekkasi qanday bo'lishi mumkin?
++ Silliq, tishli, to'lqinsimon yoki qirqilgan
+- Yaltiroq, xira, quruq yoki moyli
+- Dumaloq, nuqtasimon, tekis yoki g'adir-budur
+- Yassi, qavariq, tepasi bo'rtgan yoki halqasimon
+- Sariq, oq, kulrang yoki qora
+! Koloniya chekkasi silliq, tishli, to'lqinsimon yoki qirqilgan bo'lishi mumkin
+@ M JAW
+
+? Koloniya rangi odatda qanday yorug'likda baholanadi?
++ Tabiiy yorug'likda
+- Qizil lampa yorug'ida
+- Qorong'i xonada
+- Lyuminessent lampa ostida
+- Ultrabinafsha nur ostida
+! Sun'iy yorug'likda rang boshqacha ko'rinishi mumkin, shu sababli rang odatda tabiiy yorug'likda baholanadi
+@ M
+
+? Koloniyalarning rasmli katalogi laborantga qanday yordam beradi?
++ Yangi koloniyani tanib olishda yordam beradi, lekin biokimyoviy testlar baribir talab etiladi
+- Identifikatsiyani to'liq almashtiradi, qo'shimcha biokimyoviy testlar talab etilmaydi
+- Koloniyaning antibiotikka sezuvchanligini bevosita ko'rsatib beradi
+- Oziqa muhitini sterillaydi va koloniyalarni avtomatik sanab chiqadi
+- Koloniyadagi hujayralarni bo'yamasdan Gram guruhini aniqlab beradi
+! Katalog faqat yordamchi vosita; identifikatsiya uchun biokimyoviy testlar talab etiladi
+@ M
+
+# 018
+? Sof kultura nima?
++ Bitta mikrob turiga mansub hujayralardan iborat o'sish massasi
+- Bir necha tur aralash o'sgan, koloniyalari bir xil ko'rinadigan massa
+- Namunadan to'g'ridan-to'g'ri olingan, tekshirilmagan mikroblar aralashmasi
+- Bir necha avlod mikroblari bilan ifloslangan oziqa muhiti
+- Steril muhit ichida hosil bo'lgan bo'yoq cho'kmasi massasi
+! Sof kultura — bitta mikrob turiga mansub hujayralardan iborat o'sish massasi
+@ M JAW
+
+? Sof kulturasiz qaysi tekshiruvlar ishonchli bo'lmaydi?
++ Identifikatsiya, antibiotikka sezuvchanlik va serologik tahlil
+- Muhitni sterillash va pH ni o'lchash bo'yicha tekshiruvlar jarayoni
+- Mikroskop yoritgichini sozlash va linzalarni tozalash bo'yicha ishlar
+- Laboratoriya jurnalini yuritish va idishlarni yorliqlash bo'yicha ishlar
+- Namunani tashish va sovitgichda saqlash bo'yicha tekshiruvlar jarayoni
+! Sof kulturasiz identifikatsiya testlari, antibiotikka sezuvchanlik sinovi va serologik tahlil ishonchli bo'lmaydi
+@ M JAW
+
+? Sof kultura ajratishda eng keng tarqalgan usul qaysi?
++ Chizma usuli
+- Quyish usuli
+- Surtish usuli
+- Suyultirish usuli
+- Osilgan tomchi usuli
+! Eng keng tarqalgan usul chizma usuli bo'lib, sodda va arzon bo'lgani uchun ko'p qo'llanadi
+@ M JAW
+
+? Suyultirish usulida alohida koloniyalar qaysi muhitda o'sadi?
++ Eng yuqori suyultirishdagi muhitda
+- Suyultirilmagan namunadagi muhitda
+- Eng past suyultirishdagi muhitda
+- Barcha muhitlarda bir xil miqdorda
+- Nazorat idishidagi muhitda
+! Suyultirish usulida alohida koloniyalar eng yuqori suyultirishdagi muhitda o'sadi
+@ M JAW
+
+? Ajratilgan koloniyadan tayyorlangan surtma mikroskopda sof kultura ekanini qanday ko'rsatishi kerak?
++ Bir xil hujayra shaklini ko'rsatishi kerak
+- Turli shakldagi hujayralar aralashmasini ko'rsatishi kerak
+- Sporalar to'plamini ko'rsatishi kerak
+- Hujayralarsiz bo'yoq cho'kmasini ko'rsatishi kerak
+- Qizil rangli hujayralarni ko'rsatishi kerak
+! Sof kultura tasdiqlanishi uchun koloniya bir xil morfologiyaga ega, surtmasi bir xil hujayra shaklini ko'rsatadi va qayta ekilganda bir xil koloniyalar hosil bo'ladi
+@ M JAW
+
+? Sof kultura qayta ekilganda qanday natija uni toza deb hisoblashga asos bo'ladi?
++ Bir xil koloniyalar hosil bo'lishi
+- Turli koloniyalar paydo bo'lishi
+- Hech qanday o'sish bo'lmasligi
+- Koloniyalar o'rniga faqat loyqa hosil bo'lishi
+- Koloniyalar o'rnida sporalar cho'kmasi hosil bo'lishi
+! Bitta koloniyadan olingan kultura qayta ekilganda o'sish yana bir xil bo'lsa, toza hisoblanadi; turli koloniyalar paydo bo'lsa, ajratish takrorlanadi
+@ M JAW
+
+? Anaerob mikroblarni sof kultura sifatida ajratishda ekish qayerda bajariladi?
++ Anaerob kamerada yoki maxsus idishlarda
+- Ochiq stolda, havo oqimi ostida
+- Oddiy termostatda, qopqoqni ochiq qoldirib
+- Kislorod bilan to'ldirilgan shkafda
+- Sovutgichda, muhitni yoritib turib
+! Anaerob mikroblar havo ta'siriga sezgir, shuning uchun ekish anaerob kamerada yoki maxsus idishlarda bajariladi, ko'chirish esa tezkor bo'ladi
+@ M JAW
+
+? Sof kultura ajratish jarayonidagi chiqindi materiallar nima qilinadi?
++ Avtoklavlanadi
+- Oddiy axlat qutisiga tashlanadi
+- Kanalizatsiyaga to'kiladi
+- Quyoshda quritiladi
+- Sovutgichda saqlanadi
+! Sof kulturani ajratishda patogen mikroblar bilan ishlanadi, shu sababli chiqindi materiallar avtoklavlanishi kerak
+@ M WHOLBM
+
+? Ko'chirish uchun qanday koloniya tanlanadi?
++ Boshqalaridan uzoqda, tekis joyda joylashgan koloniya
+- Boshqa koloniyalarga yaqin, o'rtada zich joylashgan koloniya
+- Idish chetida, muhit yorilgan joyda joylashgan koloniya
+- Eng katta o'lchamli, boshqalari bilan qo'shilib ketgan koloniya
+- Kondensat suvi ichida joylashgan koloniya
+! Eng yaxshi koloniya boshqalaridan uzoqda, tekis joyda bo'lishi kerak; yaqinida boshqa koloniya bo'lsa, ko'chirishda aralashish ehtimoli ortadi
+@ M JAW
+
+? Selektiv muhitdan olingan koloniya keyinchalik nima qilinadi?
++ Oddiy muhitga ko'chirilib, sof kultura sifatida tekshiriladi
+- Darhol bemorga yuborilib, shu asosda davo tanlanadi va yoziladi
+- Avtoklavlanib, o'sishi to'xtatiladi va tashlab yuboriladi, tekshirilmaydi
+- Xuddi shu selektiv muhitda qoldirilib, qo'shimcha kutiladi va tekshirilmaydi
+- Tekshirilmasdan, to'g'ridan-to'g'ri tashlab yuboriladi
+! Selektiv muhitdan olingan koloniya keyinchalik oddiy muhitga ko'chirilib, sof kultura sifatida tekshiriladi
+@ M JAW
+
+# 019
+? Katalaza fermenti vodorod peroksidni nimaga parchalaydi?
++ Suv va kislorodga
+- Suv va vodorodga
+- Karbonat angidrid va suvga
+- Vodorod va kislorodga
+- Ammiak va suvga
+! Katalaza vodorod peroksidni suv va kislorodga parchalaydi; hosil bo'lgan kislorod pufakchalari ko'rinadi
+@ M JAW
+
+? Katalaza testi musbat bo'lsa, nima ko'rinadi?
++ Gaz pufakchalari
+- Qizil rang
+- Cho'kma
+- Yashil fluoressensiya
+- Muhitning qotishi
+! Katalaza vodorod peroksidni parchalab kislorod hosil qiladi, bu pufakchalar bilan ko'rinadi
+@ M JAW
+
+? Ureaza ijobiy mikroblar muhitni qanday o'zgartiradi?
++ Ishqoriylashtiradi, indikator rangi o'zgaradi
+- Nordonlashtiradi, gaz pufakchalari hosil qiladi
+- Muhit pH ni o'zgartirmaydi, cho'kma hosil qiladi
+- Muhitni qotiradi, indikator rangi o'zgarmaydi
+- Neytrallashtiradi, muhit loyqaligi yo'qoladi
+! Ureaza mochevinani parchalaydi; ureaza ijobiy mikroblar muhitni ishqoriylashtiradi va indikator rangini o'zgartiradi
+@ M JAW
+
+? Indol testi qaysi aminokislotaning parchalanishini aniqlaydi?
++ Triptofan aminokislotasi
+- Tirozin aminokislotasi
+- Glitsin aminokislotasi
+- Sistein aminokislotasi
+- Alanin aminokislotasi
+! Indol testi triptofanni parchalab indol hosil qilish qobiliyatini aniqlaydi
+@ M JAW
+
+? Sitrat testi nimani tekshiradi?
++ Sitratni manba sifatida ishlata olish qobiliyatini
+- Mochevinani ammiak va CO₂ gacha parchalash qobiliyatini
+- Triptofandan indol hosil qilish qobiliyatini
+- Eritrotsitlarni parchalab, zona hosil qilish qobiliyatini
+- Vodorod peroksidni parchalash qobiliyatini
+! Sitrat testida mikrob sitratni manba sifatida ishlata olishi tekshiriladi
+@ M JAW
+
+? Oksidaza testida qaysi ferment aniqlanadi?
++ Sitoxrom oksidaza fermenti
+- Katalaza fermenti
+- Ureaza fermenti
+- Koagulaza fermenti
+- Superoksid dismutaza fermenti
+! Oksidaza testida sitoxrom oksidaza fermenti aniqlanadi
+@ M JAW
+
+? Ko'pgina biokimyoviy testlar qaysi haroratda va qancha vaqt inkubatsiya qilinadi?
++ 35–37 °C da 18–24 soat
+- 4–8 °C da 1–2 soat
+- 20–22 °C da 15–30 daqiqa
+- 56 °C da 3–5 soat
+- 60–65 °C da 10–20 daqiqa
+! Ko'pgina testlar 35–37 °C da bajariladi va 18–24 soat kutiladi; sekin o'sadigan mikroblar uchun muddat uzaytiriladi
+@ M JAW
+
+? Biokimyoviy testlarda nazorat shtammlari nima uchun ishlatiladi?
++ Testning to'g'ri ishlashini tasdiqlash uchun
+- Testning bajarilish tezligini oshirish uchun
+- Substrat miqdorini ko'paytirish uchun
+- Inkubatsiya haroratini pasaytirish uchun
+- Natijani rang bilan bo'yab ko'rsatish uchun
+! Nazorat shtammlari testning to'g'ri ishlashini tasdiqlaydi; natija kutilgan bo'lmasa, test qayta bajariladi
+@ M JAW
+
+? Biokimyoviy test natijasi noaniq bo'lsa, u qanday yoziladi?
++ "Aniqlanmagan" deb yoziladi, keyingi tekshiruv rejalashtiriladi
+- "Musbat" deb yoziladi va takror tekshiruv o'tkazilmaydi
+- "Manfiy" deb yoziladi va jurnaldan keyinroq o'chirib tashlanadi
+- Nazorat shtammiga o'xshatib yoziladi, tekshirilmaydi
+- Yozuvsiz qoldiriladi, test esa butunlay yo'q qilib yuboriladi
+! Noaniq natija "aniqlanmagan" deb yoziladi va keyingi tekshiruv rejalashtiriladi, bu hujjatlarda xatoning oldini oladi
+@ M
+
+? Avtomatlashtirilgan identifikatsiya tizimi noto'g'ri natija bersa, nima qilinadi?
++ Laborant uni qo'lda tekshirib, tuzatadi
+- Natija avtomatik ravishda to'g'ri hisoblanadi
+- Tizim o'chiriladi va boshqa tekshiruv o'tkazilmaydi
+- Namuna darhol yo'q qilinadi
+- Natija o'zgartirilmasdan jurnalga yoziladi
+! Avtomatlashtirilgan tizimlar laborant nazoratidan to'liq ozod emas; noto'g'ri natijani laborant qo'lda tekshirib tuzatadi
+@ M

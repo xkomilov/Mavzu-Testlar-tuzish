@@ -1,0 +1,551 @@
+# 165
+
+? Anaeroblar odam organizmida asosan qayerda uchraydi?
++ Og'iz, ichak va jinsiy yo'llarda
+- Qon plazmasi va limfa tugunida
+- Jigar to'qimasi va o't yo'lida
+- Buyrak kanalchasi va siydik pufagida
+- Miya pardasi va orqa miya suyuqligida
+! Anaeroblar odam tabiiy mikroflorasi tarkibida: og'iz bo'shlig'i, ichak va ayol jinsiy yo'llarida uchraydi
+@ M JAW
+
+? Anaeroblar keltirib chiqaradigan infeksiya ko'pincha qanday nomlanadi?
++ Endogen infeksiya
+- Ekzogen infeksiya
+- Transmissiv infeksiya
+- Aerogen infeksiya
+- Alimentar infeksiya
+! Anaeroblar ko'pincha endogen infeksiya, ya'ni bemorning o'z organizmidan boshlanadigan infeksiya chaqiradi
+@ M JAW
+
+? Bakteroidlar morfologiyasi qanday?
++ Gram-manfiy, sporasiz tayoqcha
+- Gram-musbat, sporali tayoqcha
+- Gram-manfiy, sporali kokk
+- Gram-musbat, sporasiz kokk
+- Gram-manfiy, spiralsimon shakl
+! Bakteroidlar Gram-manfiy, sporasiz tayoqchalardir, qisqa va ba'zan pleomorf shaklda ko'rinadi
+@ M JAW
+
+? Klostridiyalar morfologiyasi qanday?
++ Yirik, ba'zan sporali tayoqcha
+- Mayda, doim sporasiz kokk
+- Spiralsimon, doim sporasiz shakl
+- Uzum shingilsimon, sporasiz kokk
+- Vergulsimon, doim sporali shakl
+! Klostridiyalar odatda yirik, ba'zan spora hosil qiluvchi tayoqchalar bo'lib, sporalari hujayra ichida turli joylashishi mumkin
+@ M JAW
+
+? Anaeroblar o'stirish uchun qaysi muhit ishlatiladi?
++ Tioglikolat yoki pishirilgan go'sht muhiti
+- Oddiy go'sht-peptonli agar, ochiq idishda
+- Endo agari, ochiq idishda
+- Manitli tuzli agar, ochiq idishda
+- Sabouraud agari, ochiq idishda
+! Anaeroblar uchun tioglikolat muhiti yoki pishirilgan go'sht bo'lakli muhit ishlatiladi
+@ M JAW
+
+? Tioglikolat muhitida qaytaruvchi moddalar nima qiladi?
++ Kislorodni bog'lab, anaerob sharoit saqlaydi
+- Kislorod hosil qilib, aerob sharoit yaratadi
+- Mikroblarni o'ldirib, muhitni sterillaydi
+- Qizil rang berib, o'sishni ko'rsatadi
+- Agar bilan almashib, muhitni qattiqlashtiradi
+! Qaytaruvchi moddalar kislorodni bog'lab, sharoitni anaerob holatda ushlab turadi
+@ M JAW
+
+? Anaerob sharoitni nazorat qilishda qaysi indikator ishlatiladi?
++ Rezazurin
+- Lakmus
+- Fenolftalein
+- Metil-qizil
+- Bromtimol ko'k
+! Anaerob o'stirishni nazorat qilish uchun rezazurin kabi indikatorlar va anaerob kolba yoki kamera qo'llanadi
+@ M JAW
+
+? Anaeroblar energiyani qanday oladi?
++ Asosan bijg'ish yo'li bilan
+- Asosan nafas olish yo'li bilan
+- Asosan fotosintez yo'li bilan
+- Asosan oksidlanish yo'li bilan
+- Asosan kislorod yordamida
+! Anaeroblar energiyani asosan bijg'ish yo'li bilan oladi: uglevodlardan kislota, spirt va gaz hosil qiladi
+@ M JAW
+
+? Anaeroblar bijg'ishi yarada qanday o'zgarish keltiradi?
++ Gaz to'planishiga olib keladi
+- Kislorod ko'payishiga olib keladi
+- Yarani tezda quritib qo'yadi
+- Yarani tezda tuzatib qo'yadi
+- Yaraga qon oqimini oshiradi
+! Bijg'ish natijasida hosil bo'lgan gazlar yara ichida gaz to'planishiga olib kelishi mumkin
+@ M JAW
+
+? Spora hosil bo'lishi klostridiyalarga nimani beradi?
++ Issiqlik va quritishga chidamlilik
+- Tez harakatchanlik va kapsula hosil qilish
+- Toksin ko'pligi va o'tkirligini oshirish
+- Antibiotikka sezgirlikning ortishini
+- Kislorodli muhitda tez ko'payish
+! Spora hosil bo'lishi klostridiyalarga issiqlik, quritish va dezinfeksiyalovchi moddalarga chidamlilik beradi
+@ M JAW
+
+# 166
+
+? Clostridium tetani sporalari qanday joylashadi?
++ Hujayra uchida, yumaloq shaklda
+- Hujayra o'rtasida, oval shaklda
+- Hujayra ichida, tarqoq holda
+- Hujayradan tashqarida, kapsulada
+- Hujayra o'rtasida, chiziqsimon
+! Sporalar yumaloq shaklda bo'lib, hujayraning uchida joylashadi (baraban tayoqchasi ko'rinishi)
+@ M JAW
+
+? C. tetani harakatchanligi qanday?
++ Harakatchan
+- Harakatsiz
+- Sovuqda harakatchan
+- Spora holida harakatchan
+- Kapsulali holda harakatchan
+! C. tetani harakatchan bo'lib, bu xususiyat uni boshqa klostridiyalardan farqlashda yordam beradi
+@ M JAW
+
+? Harakatchanlikni aniqlash uchun qaysi muhit ishlatiladi?
++ Yarim suyuq muhit
+- Qattiq qon agari
+- Endo agari
+- Manitli tuzli agar
+- Sabouraud agari
+! Harakatchanlikni aniqlash uchun yarim suyuq muhitdan foydalaniladi
+@ M JAW
+
+? C. tetani sporalarini ko'rish uchun nima qo'llanadi?
++ Maxsus bo'yash usuli
+- Oddiy Gram bo'yash usuli
+- Bo'yoqsiz tirik surtma
+- Romanovskiy usuli
+- Burri–Gins usuli
+! Sporalarni ko'rish uchun maxsus bo'yash usuli qo'llanadi, chunki oddiy Gram bo'yog'ida ular yaxshi ko'rinmasligi mumkin
+@ M JAW
+
+? C. tetani kapsula hosil qiladimi?
++ Odatda kapsula hosil qilmaydi
+- Doimo qalin kapsula hosil qiladi
+- 37 °C da kapsula hosil qiladi
+- Tuproqda kapsula hosil qiladi
+- Odam organizmida kapsula hosil qiladi
+! Qo'zg'atuvchi odatda kapsula hosil qilmaydi, bu uni kapsulali kuydirgi qo'zg'atuvchisidan farqlashga yordam beradi
+@ M JAW
+
+? Eski madaniyatlarda C. tetani Gram bo'yog'iga qanday munosabatda?
++ Gram-o'zgaruvchan bo'lishi mumkin
+- Gram-musbat bo'lib qolaveradi
+- Umuman bo'yalmay qolaveradi
+- Ko'k rangda bo'lib qolaveradi
+- Sariq rangda bo'lib qolaveradi
+! Eski madaniyatlarda hujayralar Gram-o'zgaruvchan yoki Gram-manfiy ko'rinishga o'tishi mumkin
+@ M JAW
+
+? C. tetani qon agarida qanday o'sadi?
++ Anaerob muhitda, tarqalib o'sadi
+- Aerob muhitda, mayda koloniya bo'lib
+- Aerob muhitda, sariq koloniya bo'lib
+- Qora yaltiroq koloniya bo'lib, anaerob
+- Rangsiz tomchi bo'lib, aerob muhitda
+! C. tetani anaerob sharoitda qon agarida o'sadi; koloniyalar yupqa va nozik bo'lib, muhit sirtida tarqalib (suzib) o'sadi
+@ M JAW
+
+? Tetanolizin nima?
++ Gemolitik toksin
+- Neyrotoksin
+- Enterotoksin
+- Endotoksin
+- Eksfoliativ toksin
+! Qon agaridagi ozgina gemoliz tetanolizin deb ataladigan gemolitik toksin tufayli yuzaga keladi
+@ M JAW
+
+? Qoqshol asosiy toksini qanday ataladi?
++ Tetanospazmin
+- Tetanolizin
+- Botulotoksin
+- Leykotsidin
+- Eksfoliatin
+! Qoqshol belgilari tetanospazmin deb ataladigan kuchli neyrotoksin tufayli yuzaga keladi
+@ M JAW
+
+? C. tetani qaysi sharoitda sporaga aylanadi?
++ Noqulay sharoitda, tashqi muhitda
+- Qulay sharoitda, tez ko'payganda
+- Qonda, bemor tanasida
+- Sovuq muhitda, muzda
+- Issiq muhitda, 100 °C da
+! Noqulay sharoitda qo'zg'atuvchi sporaga aylanadi, spora tuproqda uzoq saqlanadi
+@ M JAW
+
+# 167
+
+? Qoqshol qo'zg'atuvchisi tabiatda qayerda uchraydi?
++ Tuproq va hayvon axlatida
+- Toza ichimlik suvi tarkibida
+- Havo oqimi va chang ichida
+- Sut va sut mahsulotlari ichida
+- O'simlik barglari yuzasida
+! Qoqshol sporalari tuproqda va hayvonlar axlatida keng tarqalgan
+@ M JAW WHODW
+
+? Qoqshol odamdan odamga yuqadimi?
++ Bevosita yuqishi kuzatilmaydi
+- Havo-tomchi orqali tez yuqadi
+- Ichimlik suvi orqali yuqadi
+- Jinsiy yo'l orqali yuqadi
+- Hasharot chaqishi orqali yuqadi
+! Odamdan odamga bevosita yuqish amalda kuzatilmaydi, odam tashuvchiligi asosiy manba emas
+@ M JAW WHODW
+
+? Qoqshol asosan qanday yo'l bilan yuqadi?
++ Jarohat orqali
+- Havo-tomchi orqali
+- Ovqat orqali
+- Hasharot orqali
+- Jinsiy yo'l orqali
+! Asosiy yuqish yo'li teri yoki shilliq qavat orqali kirgan sporalardir
+@ M JAW WHODW
+
+? Qaysi jarohat qoqshol uchun eng xavfli?
++ Tuproqli chuqur jarohat
+- Toza yuzaki tirnalish, tozalangan
+- Steril kesik, tozalangan
+- Yuzaki quruq yara, tozalangan
+- Yengil qizarish, yaralanmagan
+! Tuproq yoki axlat bilan ifloslangan chuqur jarohatlar kislorod kam bo'lgani uchun sporalar unishi uchun qulay
+@ M JAW WHODW
+
+? Neonatal qoqshol qanday yuqadi?
++ Kindik yarasi orqali
+- Ona suti orqali
+- Ona qoni orqali, homiladorlikda
+- Havo-tomchi orqali
+- Jinsiy yo'l orqali
+! Yangi tug'ilgan chaqaloqlarda qoqshol kindik yarasi orqali, steril bo'lmagan asboblar yoki noto'g'ri parvarish tufayli yuqadi
+@ M JAW WHODW
+
+? Neonatal qoqshol ko'proq qaysi sharoitlarda uchraydi?
++ Resursi past mamlakatlarda, gigiyena buzilganda
+- Rivojlangan davlatlarda, steril sharoitda
+- Kasalxona tug'ruqxonalarida, steril sharoitda
+- Ko'chadagi odamlarda, hayvonlar bilan
+- Yoz oylarida, issiqda
+! Neonatal qoqshol ayniqsa past resursli mamlakatlarda uchraydi, tug'ruqxonalarda gigiyena qoidalari qat'iy talab qilinadi
+@ M JAW WHODW
+
+? Qoqshol uchun xavfli shartlarga qaysi biri kiradi?
++ Kuyish, sovuq urishi, ezilish
+- Shamollash, burun bitishi, yo'tal
+- Ichak infeksiyasi, ich ketishi
+- Allergik toshma, qichishish
+- Vitamin tanqisligi, charchoq
+! Chuqur kesmalar, kuyish, sovuq urishi, teshuvchi jarohatlar, ezilishlar va tish jarohatlari xavfli sharoit yaratadi
+@ M JAW WHODW
+
+? Steril bo'lmagan shprisdagi in'ektsiya qoqsholga qanday ta'sir qiladi?
++ Infeksiya xavfini oshiradi
+- Infeksiya xavfini kamaytiradi
+- Qanday ta'sir qilmaydi
+- Immunitetni umrbod kuchaytiradi
+- Sporalarni yo'q qilib tashlaydi
+! Steril bo'lmagan shprislar bilan qilingan in'ektsiyalar va surunkali tish abssesslari infeksiya xavfini oshiradi
+@ M JAW WHODW
+
+? Jarrohlik yarasida qoqshol xavfi nima sababdan ortadi?
++ Nekroz anaerob sharoitni oshiradi
+- Qon ta'minoti yaxshilanib, kislorod ko'payadi
+- Yara tez bitib, doim toza qoladi
+- Antibiotik kuchayib, mikrob o'ladi
+- Immunitet kuchayib, mikrob o'ladi
+! Jarrohlik yaralarida to'qimalar nekrozi va qon ta'minotining buzilishi anaerob sharoitni kuchaytiradi
+@ M JAW
+
+? Jarohat chuqur va ifloslangan bo'lsa nima ortadi?
++ Qoqshol xavfi
+- Qoqshol xavfining kamayishi
+- Immunitet kuchi
+- Yara tez bitishi
+- Antibiotik samarasi
+! Jarohat qanchalik chuqur va ifloslangan bo'lsa, qoqshol xavfi shuncha yuqori bo'ladi
+@ M JAW
+
+# 168
+
+? Qoqshol tashxisida likvor tekshiruvi qanday ahamiyatga ega?
++ Odatda ahamiyatli emas
+- Asosiy tasdiqlovchi usul hisoblanadi
+- Eng muhim usul hisoblanadi
+- Majburiy tekshiruv hisoblanadi
+- Yagona ishonchli usul hisoblanadi
+! Likvorda qoqsholga xos o'zgarishlar aniq aks etmaydi, shuning uchun rutin tekshiruvga kiritilmaydi
+@ M JAW
+
+? Qoqshol namunasi qanday tashiladi?
++ Anaerob muhitda, havosiz idishda
+- Ochiq idishda, havo bilan aloqada
+- Oddiy shisha idishda, tiqinsiz
+- Qog'oz xaltada, quruq holatda
+- Plastik stakanda, ochiq holatda
+! Anaerob tashish muhiti yoki havo kirmaydigan idish ishlatiladi, chunki kislorod vegetativ hujayralarni nobud qilishi mumkin
+@ M JAW
+
+? Antibiotik qo'llanilgan bemor namunasida nima bo'lishi mumkin?
++ O'stirish natijasi kamayishi mumkin
+- O'stirish natijasi ortishi mumkin
+- Natija o'zgarmaydi
+- Sporalar yo'qoladi
+- Toksin ko'payadi
+! Antibiotiklar qo'llanilgan bo'lsa, o'stirish natijasi kamayishi mumkin, shuning uchun bu ma'lumot yozib qo'yiladi
+@ M JAW
+
+? Qoqshol namunasi qayerda ochiladi?
++ Xavfsizlik shkafida
+- Ochiq stol ustida, himoyasiz
+- Koridorda, shamolda, himoyasiz
+- Bemor yonida, palata ichida
+- Derazaga yaqin joyda, himoyasiz
+! Namuna bilan ishlash xodimlar uchun xavf tug'diradi, shuning uchun u biologik xavfsizlik shkafida ochiladi
+@ M WHOLBM
+
+? Mikroskopda qoqshol uchun qanday ko'rinish taxmin qilinadi?
++ Ingichka Gram-musbat tayoqcha, uchida spora
+- Yo'g'on Gram-manfiy tayoqcha, o'rtasida spora
+- Uzum shingilsimon Gram-musbat kokk
+- Zanjirli Gram-musbat kokk
+- Vergulsimon Gram-manfiy tayoqcha
+! Yupqa Gram-musbat tayoqchalar va hujayra uchida joylashgan sporalar qo'zg'atuvchini taxmin qilishga yordam beradi
+@ M JAW
+
+? Mikroskopik natija nima uchun yetarli emas?
++ Boshqa klostridiyalar bilan adashadi
+- Qoqshol tayoqchasi umuman ko'rinmaydi
+- Surtma har doim sifatsiz tayyorlanadi
+- Gram usuli bu mikrobga ishlamaydi
+- Sporalar hech qachon ko'rinmaydi
+! Mikroskopik tekshiruv boshqa klostridiyalar va anaerob bakteriyalar bilan adashtirish xavfini tug'diradi, shuning uchun kultura bilan birga qo'llanadi
+@ M JAW
+
+? Namuna idishida nima qayd etiladi?
++ Raqam va olingan vaqt
+- Xodimning shaxsiy rangi
+- Idishning umumiy hajmi
+- Havoning harorati
+- Transport vositasi turi
+! Namuna idishi raqamlanadi va olingan vaqt qayd etiladi
+@ M
+
+? Qoqsholda qo'shimcha ma'lumot sifatida qanday tarix yoziladi?
++ Davolanish tarixi yoziladi
+- Sevimli ovqati haqida yoziladi
+- Kiyim rangi haqida yoziladi
+- Sport yutuqlari haqida yoziladi
+- Dam olish kunlari haqida yoziladi
+! Namuna olishdan oldin bemor qanday davolanganligi haqida ma'lumot yoziladi
+@ M
+
+? Emlanmagan bemorda tashxis uchun qaysi omil muhim?
++ Emlash holati va jarohat tarixi
+- Sevimli ranglari va kiyim turi
+- Kasbi va ish haqi miqdori
+- Ta'til rejalari va safarlari
+- Sport turi va mashg'ulotlari
+! Emlanmagan yoki emlash muddati o'tgan bemorlarda emlash holati va jarohat tarixi tashxisda muhim
+@ M JAW
+
+? Namunani qabul qilishda nimaga e'tibor beriladi?
++ Steril vositalar va tez yetkazish
+- Iliq xona va sekin yetkazish
+- Ochiq idish va xona harorati
+- Quruq idish va yorug' joy
+- Chiroyli qadoq va yorliq rangi
+! Namuna steril vositalar bilan olinadi va imkon qadar tez laboratoriyaga yetkaziladi
+@ M
+
+# 169
+
+? Qoqshol og'irligi qanday tasnif bo'yicha baholanadi?
++ Ablett tasnifi
+- Lensfild tasnifi
+- Kauffmann–Uayt tasnifi
+- Gram tasnifi
+- Kox tasnifi
+! Qoqshol og'irligi odatda Ablett tasnifi bo'yicha, trizm, mushak qattiqligi, spazmlar va nafasga ta'sir darajasiga qarab baholanadi
+@ M JAW WHODW
+
+? Yengil qoqshol shaklida qanday belgilar kuzatiladi?
++ Trizm va mahalliy tortishish
+- Nafas to'xtashi va koma
+- Qon ketishi va sariqlik
+- Teri toshmasi va qichishish
+- Ko'rish yo'qolishi va karlik
+! Yengil shaklda trizm va mahalliy mushak tortishishi kuzatiladi
+@ M JAW
+
+? Og'ir qoqshol shaklida nima kuzatiladi?
++ Nafas qiyinlashishi, kuchli spazm
+- Yengil isitma va yo'tal holati
+- Tomoq og'rig'i va burun bitishi
+- Ich ketishi va qusish holati
+- Bosh og'rig'i va bosh aylanishi
+! Og'ir shaklda nafas olish qiyinlashib, tana mushaklari kuchli spazmlarga uchraydi
+@ M JAW
+
+? Avtonom nerv tizimi buzilishi belgilari qaysilar?
++ Yurak urishi tezlashishi, bosim ko'tarilishi, terlash
+- Yurak urishi sekinlashishi, bosim tushishi, quruqlik
+- Siydik ushlanishi, ich qotishi, qichishish
+- Ko'rish pasayishi, quloq shang'illashi
+- Tana haroratining tushishi, sovuq qotish
+! Yurak urishining tezlashishi, qon bosimining ko'tarilishi, terlash va isitma og'ir shaklda kuzatiladi
+@ M JAW
+
+? Qoqshol strixnin zaharlanishidan qanday farq qiladi?
++ Qoqsholda tortishish uzluksiz, strixninda bo'shashadi
+- Qoqsholda mushaklar bo'shashadi, strixninda uzluksiz
+- Ikkalasida ham mushaklar to'liq bo'shashadi
+- Ikkalasida ham mushaklar umuman tortishmaydi
+- Qoqsholda faqat teri jabrlanadi, xolos
+! Strixnin zaharlanishida spazmlar orasida mushaklar to'liq bo'shashadi, qoqsholda esa tortishish uzluksiz davom etadi
+@ M JAW
+
+? Qoqshol bilan adashtiriladigan kasalliklarga qaysi biri kiradi?
++ Meningit, quturish, tetaniya
+- Gripp, qizamiq, tepki, suvchechak
+- Gepatit, tif, vabo, ichburug'
+- Sil, zaxm, gonoreya, xlamidioz
+- Kuydirgi, o'lat, vabo, tulyaremiya
+! Differensial tashxisda tonzillar atrofi abssessi, meningit, tetaniya, quturish va ayrim dorilarning nojo'ya ta'siri ko'rib chiqiladi
+@ M JAW
+
+? Differensial tashxisda hal qiluvchi omil nima?
++ Anamnez, jarohat, emlash holati
+- Bemorning rangi, bo'yi va vazni
+- Kasbi, ish joyi va lavozimi
+- Yoshi, jinsi va yashash joyi
+- Sevimli ovqati va ichimligi
+! Differensial tashxisda bemorning anamnezi, jarohat va emlash holati hal qiluvchi ahamiyatga ega
+@ M JAW
+
+? Jarohat aniqlanmasa, qoqshol haqida nima deyish mumkin?
++ Tashxisni rad etib bo'lmaydi
+- Tashxis butunlay rad etiladi
+- Kasallik yo'q deb hisoblanadi
+- Tekshiruv to'xtatib qo'yiladi
+- Davolash boshlanmaydi
+! Jarohat aniqlanmagan holatda ham tashxisni butunlay rad etib bo'lmaydi, chunki ba'zan jarohat sezilmay qoladi
+@ M JAW
+
+? Og'irlikni qayta-qayta baholash nima uchun zarur?
++ Holat qisqa vaqtda o'zgaradi
+- Holat umuman o'zgarmaydi
+- Qayta baholash qiyin bo'lgani uchun
+- Natija doim bir xil bo'lgani uchun
+- Tasnif doim o'zgarib turgani uchun
+! Og'irlik darajasini qayta-qayta baholash kasallik rivojlanishini kuzatish uchun zarur, chunki holat qisqa vaqt ichida o'zgarishi mumkin
+@ M JAW
+
+? Qoqsholning dastlabki xarakterli belgisi qaysi?
++ Trizm, chaynov mushaklari tortishishi
+- Qorin og'rig'i, qusish va ich ketishi
+- Yo'tal xurujlari va nafas qisilishi
+- Teri toshmasi va bo'g'im shishishi
+- Sariqlik, jigar kattalashishi va qichishish
+! Qoqsholda dastlabki belgi trizm — chaynov mushaklarining tortishishi bo'lib, keyin umumiy mushak qattiqligi va spazmlar qo'shiladi
+@ M JAW WHODW
+
+# 170
+
+? Qoqsholda jarohat bilan nima qilinadi?
++ Tozalanib, nekroz olib tashlanadi
+- Yopib qo'yilib, bog'lanadi
+- Tozalanmay, quritib qo'yiladi
+- Issiq kompress bilan davolanadi
+- Sovuq kompress bilan davolanadi
+! Jarohat tozalanadi, nekrotik to'qima olib tashlanadi, aks holda qo'zg'atuvchi ko'payishini davom ettiradi
+@ M JAW WHODW
+
+? Qoqsholda asosiy antibiotik qaysi?
++ Metronidazol
+- Gentamitsin
+- Streptomitsin
+- Izoniazid
+- Flukonazol
+! Qoqshol davosida asosiy antibiotik sifatida metronidazol tavsiya etiladi, u anaerob bakteriyalarga qarshi samarali
+@ M JAW WHODW
+
+? Muqobil antibiotik qaysi?
++ Yuqori dozali penitsillin G
+- Gentamitsin sulfat eritmasi
+- Streptomitsin sulfat eritmasi
+- Izoniazid tabletkasi
+- Flukonazol kapsulasi
+! Muqobil sifatida yuqori dozali penitsillin G qo'llanadi
+@ M JAW WHODW
+
+? Antibiotik toksinga qanday ta'sir qiladi?
++ Hosil toksinga ta'sir qilmaydi
+- Hosil bo'lgan toksinni zararsizlantiradi
+- Uni kuchaytirib yuboradi
+- Sporaga aylantirib yuboradi
+- Butunlay yo'q qilib tashlaydi
+! Antibiotik qo'zg'atuvchini yo'q qiladi, ammo allaqachon hosil bo'lgan toksinga ta'sir qilmaydi
+@ M JAW
+
+? Odam qoqshol immunoglobulini nimani zararsizlantiradi?
++ Nerv uchlariga bog'lanmagan toksinni
+- Nerv uchlariga bog'langan toksinni
+- Sporalarni
+- Vegetativ hujayrani
+- Kapsulani
+! Immunoglobulin toksinning hali nerv uchlariga bog'lanmagan qismini zararsizlantiradi
+@ M JAW
+
+? Immunoglobulin qanday yuboriladi?
++ Mushak ichiga, boshqa joyga
+- Teri ostiga, emlash joyining o'ziga
+- Tomir ichiga, tez va darhol
+- Og'iz orqali ichiladi
+- Burun orqali tomiziladi
+! Immunoglobulin mushak ichiga yuboriladi va emlash qilinadigan joydan boshqa joyga yuboriladi
+@ M JAW
+
+? Immunoglobulinni erta berish nima uchun muhim?
++ Yetgan toksinni qaytara olmaydi
+- Yetgan toksinni qaytarib yuboradi
+- Sporalarni darhol o'ldirib yuboradi
+- Antibiotikni kuchaytirib yuboradi
+- Jarohatni quritib qo'yadi
+! Immunoglobulin nerv tizimiga yetib borgan toksinni qaytara olmaydi, shuning uchun uni erta berish muhim
+@ M JAW
+
+? Immunoglobulin yuborilganda nimani hisobga olish kerak?
++ Allergik reaksiya ehtimolini
+- Qon bosimining pasayishini
+- Jarohat hajmini
+- Havo haroratini
+- Bemor kiyimini
+! Immunoglobulin yuborilganda allergik reaksiyalar ehtimoli hisobga olinadi, preparat shifokor nazorati ostida yuboriladi
+@ M JAW
+
+? Antibiotik dozasini o'zgartirishda nima hisobga olinadi?
++ Buyrak va jigar funksiyasi
+- Soch rangi va uzunligi
+- Ish joyi va lavozimi
+- Sevimli ovqati va ichimligi
+- Yashash manzili va telefoni
+! Dozani o'zgartirishda bemorning buyrak va jigar funksiyasi hisobga olinadi
+@ M JAW
+
+? Qoqshol profilaktikasining asosiy usuli qaysi?
++ Anatoksin bilan emlash
+- Antibiotikni oldindan ichish
+- Jarohatni yopib qo'yish
+- Sovuq vanna
+- Issiq kompress
+! Qoqshol profilaktikasining asosi qoqshol anatoksini bilan emlash, jarohat bo'lganda esa jarohatni tozalash va kerak bo'lsa immunoglobulin
+@ JAW WHODW

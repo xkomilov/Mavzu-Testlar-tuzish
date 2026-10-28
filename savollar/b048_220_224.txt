@@ -1,0 +1,468 @@
+# 220
+
+? Endemik toshmali tifning qo'zg'atuvchisi qaysi tur hisoblanadi?
++ Rickettsia typhi
+- Rickettsia prowazekii
+- Orientia tsutsugamushi
+- Coxiella burnetii
+- Rickettsia rickettsii
+! Endemik (murin) toshmali tifni Rickettsia typhi keltirib chiqaradi; R. prowazekii epidemik tif qo'zg'atuvchisi
+@ M JAW CDCMUR
+
+? Rickettsia typhi shakli va Gram bo'yicha munosabati qanday?
++ Gram-manfiy kichik kokkobasil
+- Gram-musbat yirik sporali tayoqcha
+- Gram-musbat zanjirsimon streptokokk
+- Spiralsimon shakldagi gram-manfiy spiroxeta
+- Shoxlanuvchi ipsimon gram-musbat shakl
+! Rickettsia typhi gram-manfiy, kichik kokkobasil shaklidagi majburiy hujayra ichi mikroorganizmi
+@ M JAW
+
+? Mikroskopiyada Rickettsia typhi qaysi usullarda bo'yaladi?
++ Gimenez yoki Giemsa usulida
+- Ziehl-Neelsen usulida kislotaga chidamli bo'yash
+- Neisser usulida metakromatik donachalarni bo'yash
+- Burri-Gins usulida tush bilan kapsulani bo'yash
+- Ozheshko usulida sporalarni bo'yash
+! Qo'zg'atuvchi hujayra sitoplazmasida Gimenez yoki Giemsa usulida bo'yalib ko'rinadi, ammo usulning sezuvchanligi cheklangan
+@ M JAW
+
+? Rickettsia typhi nima uchun oddiy sun'iy oziq muhitlarda o'smaydi?
++ Hujayra ichida ko'payishga moslashgan
+- Kislorodni umuman o'zlashtira olmaydigan bakteriya
+- Hujayra devori mutlaqo mavjud bo'lmagan shakl
+- Juda yuqori haroratni talab qiladigan mikrob
+- Quruq muhitdagina ko'payadigan mikroorganizm
+! Rikketsiyalar majburiy hujayra ichi parazitlari, shuning uchun sun'iy oziq muhitida emas, faqat tirik hujayrada ko'payadi
+@ M JAW BROCK
+
+? Rickettsia typhi laboratoriyada qaysi substratda o'stiriladi?
++ Urug'langan tovuq tuxumi sariq xaltasida
+- Oddiy go'sht-peptonli agar muhitida
+- Qonli agarda anaerob sharoitda
+- Sabouraud muhitida xona haroratida
+- Shokoladli agarda CO2 muhitida
+! Qo'zg'atuvchi urug'langan tovuq tuxumi sariq xaltasida yoki maymun buyragi kabi to'qima kulturalarida o'stiriladi
+@ M JAW
+
+? Rickettsia typhining fermentativ faolligi qanday?
++ Klassik biokimyoviy testlarda faol emas
+- Qand va spirtlarni faol bijg'itib gaz chiqaradi
+- Jelatinani tez suyultirib yuboradi
+- Katalaza va ureazani kuchli hosil qiladi
+- Indol va vodorod sulfid ajratib chiqaradi
+! Qo'zg'atuvchining energiya almashinuvi cheklangan, shu sababli identifikatsiya molekulyar va immunologik usullarga tayanadi
+@ M JAW
+
+? Rickettsia typhining toksigenlik xususiyati qanday?
++ Klassik ekzotoksin hosil qilmaydi
+- Kuchli neyrotoksin ishlab chiqaradi
+- Eritrogen toksin sintez qiladi
+- Shish toksini va letal faktor hosil qiladi
+- Enterotoksin ajratib diareya chaqiradi
+! Klassik ekzotoksin yo'q; belgilar hujayra ichidagi zararlanish va lipopolisakharid ta'siri bilan bog'liq
+@ M JAW
+
+? Rickettsia typhida isitma va yallig'lanishni qaysi tarkib chaqiradi?
++ Hujayra devoridagi lipopolisakharid
+- Sporalar tarkibidagi dipikolin kislota
+- Plazmidlardagi rezistentlik genlari
+- Mezosomadagi fermentlar majmuasi
+- Hujayra devoridagi teixoy kislotalar
+! Hujayra devoridagi endotoksinsimon lipopolisakharid isitma va yallig'lanish reaksiyasiga sabab bo'ladi
+@ M JAW
+
+? Veyl-Feliks reaksiyasida Rickettsia typhi qaysi shtamm bilan aglyutinatsiya beradi?
++ Proteus OX19 shtammi bilan
+- Proteus OXK shtammi bilan
+- Salmonella O9 antigeni bilan
+- Escherichia coli O111 bilan
+- Klebsiella K1 kapsulasi bilan
+! Veyl-Feliks reaksiyasi Proteus OX19 bilan aglyutinatsiyaga asoslangan tarixiy usul, aniqligi past
+@ M JAW
+
+? Rickettsia typhining tashqi muhitga chidamliligi qanday?
++ Quyosh nuri va dezinfektantlarga sezgir
+- Xlorli dezinfektantlar ta'siriga to'liq chidamli
+- Spora hosil qilib qurg'oqchilikka bardosh beradi
+- Qaynatish haroratiga bir soat bardosh beradi
+- Muzlatilganda darhol butunlay parchalanadi
+! Qo'zg'atuvchi tashqi muhitda uzoq yashamaydi, quyosh nuri, yuqori harorat va dezinfektantlarga sezgir
+@ M JAW
+
+# 221
+
+? Endemik toshmali tifning asosiy infeksiya manbai kim?
++ Kemiruvchilar, ayniqsa kalamushlar
+- Kasal odam va uning kiyim-boshi
+- Qoramol hamda qo'y-echkilar
+- Yovvoyi qushlar va tovuqlar
+- Ifloslangan tuproq va suv
+! Asosiy manba kemiruvchilar: oddiy va qora kalamushlar qo'zg'atuvchini qonida va burgalarida saqlaydi
+@ M JAW CDCMUR
+
+? Endemik toshmali tif odamga asosan qanday yo'l bilan yuqadi?
++ Burga najasining teri jarohatiga tushishi
+- Havo-tomchi yo'li bilan nafas olganda
+- Ifloslangan suv va oziq-ovqat orqali
+- Jinsiy aloqa yo'li bilan o'tishi
+- Kiyim bitining chaqishi orqali
+! Burga najasi tirnalgan teriga tushishi eng keng tarqalgan yo'l; burga chaqqanda ham yuqishi mumkin
+@ M CDCMUR
+
+? Endemik toshmali tifning asosiy tashuvchisi qaysi?
++ Sharq burgasi Xenopsylla cheopis
+- Kiyim biti Pediculus humanus
+- Ixodes turkumidagi kanalar
+- Anopheles turkumidagi chivinlar
+- Uy pashshasi Musca domestica
+! Asosiy tashuvchi sharq burgasi Xenopsylla cheopis bo'lib, kalamushlarda yashaydi va ularning qoni bilan oziqlanadi
+@ M JAW CDCMUR
+
+? Endemik toshmali tifning odamdan odamga yuqishi haqida nima deyish mumkin?
++ Odatda kuzatilmaydi, odam tasodifiy xo'jayin
+- Kasal odam bilan aloqada tez-tez yuqadi
+- Aksirganda havo orqali yuqadi, deyiladi
+- Qon orqali kontaktda tez yuqadi
+- Siydik orqali keng tarqaladi, deyiladi
+! Odam zanjirda tasodifiy xo'jayin, odamdan odamga yuqish odatda kuzatilmaydi
+@ M CDCMUR
+
+? Burgalarning issiq va nam muhitda tez ko'payishi nimaga olib keladi?
++ Kasallikning mavsumiy xarakterga ega bo'lishiga
+- Qo'zg'atuvchining spora hosil qilishiga
+- Kasallikning faqat qishda uchrashiga
+- Qo'zg'atuvchi toksinining kuchayishiga
+- Inkubatsion davrning bir necha soatga qisqarishiga
+! Burgalar issiq va nam sharoitda tez ko'payadi, bu kasallikning mavsumiy xarakterini belgilaydi
+@ M
+
+? Patogenezda Rickettsia typhi organizmda qaysi hujayralarda ko'payadi?
++ Qon tomirlari endoteliy hujayralarida
+- Ichak epiteliy hujayralari sirtida
+- Teri shox qavati hujayralarida
+- Neytrofillar fagolizosomalarida
+- Suyak iligi megakariotsitlarida
+! Qo'zg'atuvchi teridan limfa va qon tomirlari orqali tarqalib, endoteliy hujayralarida ko'payadi
+@ M JAW
+
+? Endemik toshmali tifda vaskulit nimani anglatadi?
++ Qon tomirlari devorining yallig'lanishi
+- Qon ivish tizimining irsiy buzilishi
+- Jigar to'qimasining yallig'lanishi
+- Eritrotsitlarning ommaviy parchalanishi
+- Teri qavatlarining yog'li o'zgarishi
+! Endoteliyda ko'payish tomir yallig'lanishiga (vaskulit) olib keladi va klinik belgilarni shakllantiradi
+@ M JAW
+
+? Endemik toshmali tifning inkubatsion davri odatda qancha?
++ Taxminan bir hafta atrofida
+- Bir necha soatdan bir kungacha
+- Ikki oydan to'rt oygacha cho'ziladi
+- Olti oydan bir yilgacha davom etadi
+- Odatda bir necha daqiqa ichida
+! Inkubatsion davr odatda bir hafta atrofida; CDC ma'lumotiga ko'ra taxminan 6–14 kun
+@ M CDCMUR
+
+? Endemik toshmali tif odatda qanday boshlanadi?
++ To'satdan isitma, bosh va mushak og'rig'i
+- Sekin rivojlanuvchi yo'tal va qon tupurish
+- Qorin og'rig'i bilan qonli ich ketish
+- Bo'g'imlarning shishishi va qotishi
+- Yurak urishining sekinlashishi va hushdan ketish
+! Bemorda to'satdan isitma, bosh og'rig'i va mushaklarda og'riq boshlanadi
+@ M CDCMUR
+
+? Endemik toshmali tifning kam uchraydigan og'ir holatlarida qaysi tizimlar zararlanadi?
++ Nafas yo'llari va markaziy nerv tizimi
+- Soch follikulalari va tirnoq plastinkasi
+- Ko'z gavhari va quloq nog'orasi
+- Suyak va tog'ay to'qimalari
+- Jinsiy a'zolar va siydik pufagi
+! Og'ir holatlarda nafas yo'llari va markaziy nerv tizimi zararlanishi mumkin
+@ M
+
+# 222
+
+? Endemik toshmali tifning eng asosiy tekshirish materiali nima?
++ Bemorning venoz qoni va zardobi
+- Axlat namunasi va rektal surtma
+- Balg'am yoki bronx yuvindisi
+- Bo'g'im suyuqligidan olingan punktat
+- Ko'z konyunktivasidan olingan surtma
+! Asosiy material venoz qon; serologiya uchun zardob, ba'zan teri biopsiyasi yoki ichki organ to'qimasi olinadi
+@ M JAW
+
+? Namuna olishdan oldin bemor haqida nima aniqlanishi kerak?
++ Antibiotik qabul qilgan-qilmaganligi
+- Qon guruhi va rezus omilining turi
+- So'nggi ovqatlanish vaqti va tarkibi
+- Kasbi hamda oylik daromadining miqdori
+- Boshqa tillarni bilish darajasi haqida
+! Antibiotikdan keyin olingan namuna qo'zg'atuvchini aniqlashda kam natija berishi mumkin
+@ M
+
+? Namuna idishining yorlig'ida qaysi ma'lumotlar ko'rsatiladi?
++ Bemor identifikatori, namuna turi va sana
+- Shifokorning uy manzili va telefon raqami
+- Bemorning sevimli ovqati va yashash joyi
+- Laboratoriya xodimining yoshi va oilaviy ahvoli
+- Idish ishlab chiqargan zavod nomi va narxi
+! Yorliq natijalarni bemor bilan to'g'ri bog'lash uchun identifikator, namuna turi va sanani o'z ichiga oladi
+@ M WHOLBM
+
+? Mikroskopik tekshiruvda rikketsiyalar qaysi usulda bo'yaladi?
++ Gimenez usuli bo'yicha bo'yalgan surtma
+- Ozheshko usuli bo'yicha bo'yalgan surtma
+- Neisser usuli bo'yicha bo'yalgan surtma
+- Ziehl-Neelsen usuli bo'yicha bo'yalgan surtma
+- Burri-Gins usuli bo'yicha tayyorlangan tush surtmasi
+! Qon yoki to'qima surtmasi Gimenez usulida bo'yaladi, qo'zg'atuvchi qizil mayda kokkobasillar ko'rinishida topiladi
+@ M JAW
+
+? Gimenez usulida bo'yalgan surtmada rikketsiyalar qanday ko'rinadi?
++ Qizil rangli mayda kokkobasillar
+- Ko'k rangli yirik diplokokklar
+- Yashil rangli uzun sporali tayoqchalar
+- Sariq rangli zanjirsimon kokklar
+- Binafsha rangli shoxlanuvchi iplar
+! Gimenez usulida qo'zg'atuvchi qizil rangli mayda kokkobasillar shaklida ko'rinadi
+@ M JAW
+
+? Mikroskopik usulning sezuvchanligi nima uchun past?
++ Qonda qo'zg'atuvchi soni kam bo'lishi mumkin
+- Preparatda qo'zg'atuvchi tezda kristallanib ketadi
+- Surtma tayyorlashda mikroblar sporaga aylanadi
+- Qo'zg'atuvchi bo'yoq ta'sirida darhol parchalanadi
+- Mikroblar yorug'lik mikroskopida umuman ko'rinmaydi
+! Qo'zg'atuvchi soni kam bo'lgani uchun salbiy mikroskopik natijadan keyin ham boshqa usullar bilan tekshiruv davom ettiriladi
+@ M
+
+? Serologik tashxisda zardob namunalari qachon olinadi?
++ Kasallik boshida va bir necha hafta keyin
+- Sog'aygandan keyin olingan bitta namuna
+- Kasallikning birinchi kunidagi ikki namuna
+- Bir kunda olingan uch xil zardob
+- Ikki yildan keyin olingan yagona zardob
+! Juftlangan zardob kasallik boshida va bir necha hafta keyin olinib, antikorlarning ko'tarilishi kuzatiladi
+@ M JAW CDCMUR
+
+? Juftlangan zardobda tashxisni tasdiqlovchi o'zgarish qanday?
++ Antikorlar titrining sezilarli ortishi
+- Antikorlar titrining doimiy pasayishi
+- Leykotsitlar sonining doimiy kamayishi
+- Zardob oqsillarining umumiy pasayishi
+- Gemoglobin miqdorining ikki baravar ortishi
+! Antikorlar titrining ko'tarilishi juftlangan zardob tahlilining asosiy diagnostik belgisi
+@ M JAW CDCMUR
+
+? Veyl-Feliks reaksiyasi hozirgi tashxisda qanday o'rin tutadi?
++ Tarixiy usul bo'lib, aniqligi cheklangan
+- Hozirgi kunda eng aniq va yagona usul
+- Qo'zg'atuvchi DNKsini aniqlovchi molekulyar usul
+- Qo'zg'atuvchini o'stiruvchi madaniy usul
+- Oziq muhitda koloniya sanash usuli
+! Reaksiya sezuvchanligi va o'ziga xosligi cheklangan, shuning uchun asosiy tashxis vositasi sifatida qo'llanmaydi
+@ M JAW
+
+? PZR usuli qaysi davrda ayniqsa foydali bo'ladi?
++ Kasallikning erta bosqichida
+- Antikorlar titri eng yuqori bo'lganda
+- Sog'ayishdan bir yil o'tgandan keyin
+- Davolash tugagandan bir necha oy so'ng
+- Kasallik asoratlari rivojlangan paytda
+! PZR erta bosqichda, antikorlar hali shakllanmagan paytda foydali; natija klinik gumon bilan baholanadi
+@ M CDCMUR
+
+# 223
+
+? Endemik toshmali tif tashxisi qanday baholanadi?
++ Klinik va laboratoriya ma'lumotlari birgalikda
+- Bitta tezkor test natijasiga qarab xulosa
+- Bemorning shikoyatiga asoslangan holda xulosa
+- Rentgen tasviridagi o'zgarishlarga tayanib
+- Qon guruhini aniqlash natijasiga tayanib
+! Dastlabki belgilar boshqa isitmali kasalliklarga o'xshagani uchun klinik, epidemiologik va laboratoriya ma'lumotlari birga baholanadi
+@ M CDCMUR
+
+? Quyidagi juftliklardan qaysi biri endemik toshmali tif bilan differensiatsiya qilinadi?
++ Leptospiroz va bezgak
+- Qoqshol va botulizm
+- Qoqshol va gazli gangrena
+- Bo'g'ma va ko'kyo'tal
+- Vabo va botulizm
+! Isitma bilan kechadigan leptospiroz, bezgak, qizamiq va boshqa rikketsiozlar bilan o'xshash belgilar kuzatilishi mumkin
+@ M
+
+? Endemik toshmali tifning laboratoriya tashxisi asosan qaysi usulga tayanadi?
++ Juftlangan zardobning serologik tekshiruvi
+- Qonni oddiy go'sht-peptonli agarga ekish
+- Axlatni Endo muhitiga ekib o'stirish
+- Balg'amni Levenshteyn-Yensen muhitiga ekish
+- Siydikni miqdoriy bakteriologik tekshirish
+! Asosiy usul serologik: juftlangan zardobda antitanachalar titrining ortishi kasallikni tasdiqlaydi
+@ M CDCMUR
+
+? Rikketsiyalarni oziq muhitida o'stirish tashxisda nima uchun kam qo'llanadi?
++ Rikketsiyalar faqat hujayra kulturasida o'sadi
+- Rikketsiyalar oddiy agarda juda sekin o'sadi
+- Kultura serologiyadan ancha arzonroq usul
+- Kultura natijasi bir necha soatda tayyor bo'ladi
+- Rikketsiyalar probirkadagi bulonda tez o'sadi
+! Rikketsiyalar faqat hujayra kulturasida o'sadi va bu yuqori xavfsizlik darajasi hamda maxsus malaka talab qiladi
+@ M JAW WHOLBM
+
+? Rikketsiya kulturasi bilan ishlash qaerda bajariladi?
++ Yuqori xavfsizlik darajasidagi laboratoriyada
+- Oddiy klinik laboratoriya ish stolida
+- Ochiq xonadagi umumiy ish joyida
+- Bemor yotgan palata yonidagi stolda
+- Maktab o'quv laboratoriyasida
+! Qo'zg'atuvchi kulturasi bilan ishlash yuqori biologik xavfsizlik sharoitida va malakali xodimlar tomonidan bajariladi
+@ M WHOLBM
+
+? PZR usuli nimani aniqlaydi?
++ Qo'zg'atuvchining DNK qismini
+- Qo'zg'atuvchi hosil qilgan toksin faolligini
+- Qo'zg'atuvchi koloniyalarining rangini
+- Qon zardobidagi umumiy oqsil miqdorini
+- Qo'zg'atuvchining oziq muhitdagi o'sishini
+! PZR qo'zg'atuvchi genetik materialini (DNKsini) aniqlaydi va kasallikning dastlabki bosqichida foydali
+@ M JAW
+
+? PZR usulining sezgirligi nimaga bog'liq?
++ Namuna olish vaqti va namuna turiga
+- Bemorning yoshi va shifokor tajribasiga
+- Namuna idishining rangi va hajmiga
+- Laboratoriya xonasining yoritilganligiga
+- Reaktiv ishlab chiqargan davlat nomiga
+! PZR tez natija beradi, ammo sezgirligi namuna olish vaqti va namuna turiga bog'liq
+@ M
+
+? Toshmaning yo'qligi tashxisga qanday ta'sir qiladi?
++ Kasallikni istisno qilishga asos bo'lmaydi
+- Kasallik yo'qligining qat'iy isboti bo'ladi
+- Davolashni boshlamaslik uchun yetarli bo'ladi
+- Bemor sog'ayganini tasdiqlovchi belgi bo'ladi
+- Tashxis qo'yishning yagona mezoni sanaladi
+! Toshma har doim ham aniq bo'lmaydi va kechroq paydo bo'lishi mumkin, shuning uchun uning yo'qligi kasallikni inkor etmaydi
+@ M CDCMUR
+
+? Endemik toshmali tifning og'ir kechishida qanday asoratlar kuzatilishi mumkin?
++ Pnevmoniya hamda jigar va buyrak buzilishi
+- Suyak sinishi va bo'g'imlar siljishi
+- Ichak tutilishi va me'da yarasi teshilishi
+- Eshitish va ta'm bilish qobiliyati yo'qolishi
+- Qalqonsimon bez yallig'lanishi va semirish
+! Og'ir holatlarda pnevmoniya, jigar va buyrak funksiyasi buzilishi hamda neyrologik asoratlar uchraydi
+@ M CDCMUR
+
+? Ikkinchi zardob namunasi qachon olinadi?
++ Dastlabkisidan bir necha hafta o'tgach
+- Birinchi namuna bilan bir vaqtda
+- Bir necha soatdan so'ng
+- Bir necha yil o'tgach
+- Davolash tugagandan o'n yil keyin
+! Birinchi zardob kasallik boshida, ikkinchisi bir necha hafta o'tgach olinadi, shunda titr o'zgarishi aniq ko'rinadi
+@ M
+
+# 224
+
+? Endemik toshmali tifni davolashda asosiy preparat qaysi?
++ Doksitsiklin antibiotigi
+- Penitsillin G natriy tuzi
+- Sefazolin sefalosporini
+- Streptomitsin sulfati
+- Sulfanilamid preparati
+! Rikketsioz infeksiyalarini davolashda doksitsiklin asosiy preparat; beta-laktamlar, aminoglikozidlar va sulfanilamidlar samarasiz
+@ M JAW CDCMUR
+
+? Doksitsiklin o'rniga boshqa antibiotik qachon qo'llanishi mumkin?
++ Homiladorlikda yoki nojo'ya ta'sirda
+- Kasallik yengil kechgan har qanday holatda
+- Bemor ishtahasi yaxshi bo'lgan paytda
+- Harorat bir kunga tushgan paytda
+- Bemor boshqa shaharga ketganda
+! Boshqa antibiotiklar faqat alohida holatlarda, masalan homiladorlikda yoki doksitsiklinga nojo'ya ta'sir bo'lganda qo'llanadi
+@ M CDCMUR
+
+? Antibiotik bilan davolash kursi qachon tugatiladi?
++ Harorat normallashgandan keyin ham to'liq kurs
+- Harorat tushishi bilanoq darhol to'xtatiladi
+- Toshma yo'qolishi bilanoq to'xtatiladi
+- Bemor xohishiga qarab to'xtatiladi
+- Bir dozadan keyin to'xtatiladi
+! Harorat normallashgandan keyin ham davolash kursi to'liq tugatilishi lozim
+@ M CDCMUR
+
+? Davolash kursini to'liq tugatmaslik nimaga olib kelishi mumkin?
++ Kasallik qaytalanish xavfining ortishiga
+- Qo'zg'atuvchi umrbod yo'qolishiga
+- Immunitet to'liq mustahkamlanishiga
+- Dori ta'siri kuchayishiga
+- Inkubatsion davr qisqarishiga
+! Kurs to'liq tugallanmasa, kasallikning qaytalanish xavfi ortishi mumkin
+@ M
+
+? Kemiruvchilarga qarshi kurash qanday ataladi?
++ Deratizatsiya
+- Dezinseksiya
+- Dezinfeksiya
+- Sterilizatsiya
+- Dezodoratsiya
+! Deratizatsiya kemiruvchilarni yo'qotishga qaratilgan, endemik toshmali tif profilaktikasining muhim qismi
+@ M CDCMUR
+
+? Burgalarni yo'qotishga qaratilgan tadbir qanday ataladi?
++ Dezinseksiya
+- Deratizatsiya
+- Dezinfeksiya
+- Sterilizatsiya
+- Dezaktivatsiya
+! Dezinseksiya hasharotlar, shu jumladan burgalarni yo'qotishga qaratilgan insektitsid ishlovdir
+@ M CDCMUR
+
+? Deratizatsiya va dezinseksiya nima uchun bir vaqtda o'tkaziladi?
++ Kemiruvchilar o'lgach, burgalar odamga o'tadi
+- Kemiruvchilar kamaysa burgalar ham yo'qoladi
+- Burgalar faqat odam qonidan oziqlanadi
+- Dezinseksiya kemiruvchilarni ham yo'qotadi
+- Deratizatsiya burgalarni ham o'ldiradi
+! Burgalar kemiruvchi o'lgach yangi xo'jayin qidiradi va odamga o'tish ehtimoli oshadi, shuning uchun bir tomonlama kurash yetarli emas
+@ M CDCMUR
+
+? Uy hayvonlari bilan bog'liq qanday profilaktik chora muhim?
++ Hayvonlarni burgalardan himoya qilish
+- Hayvonlarni har kuni sovuq suvda cho'miltirish
+- Mushuk va itlarni faqat quruq ozuqada boqish
+- Uy hayvonlariga antibiotik berib turish
+- Uy hayvonlarini vitaminlar bilan boqish
+! Mushuk va it burgalarni uyga olib kelishi mumkin, shuning uchun ularni burgalardan himoya qilish muhim
+@ M CDCMUR
+
+? Oziq-ovqat kemiruvchilar sonini kamaytirish uchun qanday saqlanadi?
++ Kemiruvchilar kira olmaydigan yopiq idishda
+- Ochiq javonda va xona haroratida
+- Hovlida ochiq savatlarda
+- Chiqindi idishi yonida ochiq holda
+- Omborxona polida to'kib qo'yilgan holda
+! Oziq-ovqatni himoyalangan idishda saqlash va chiqindini o'z vaqtida olib tashlash kemiruvchilar sonini kamaytiradi
+@ M CDCMUR
+
+? Kemiruvchilarga qarshi zaharli vositalar qaerda qo'llanishi kerak?
++ Bolalar va hayvonlar tegmaydigan joyda
+- Bolalar o'ynaydigan hovlida ochiq holda
+- Oziq-ovqat stoli ustida ochiq holda
+- Uy hayvonlari yuradigan yerda sochib
+- Maktab sinfida ochiq idishda
+! Kimyoviy vositalar xavfsizlik qoidalariga rioya qilib, bolalar va uy hayvonlari tegmaydigan joylarda qo'llanadi
+@ M
+
+? Kemiruvchilar yashaydigan joylarda shaxsiy himoya uchun nima tavsiya etiladi?
++ Yopiq kiyim va repellentlardan foydalanish
+- Ochiq kiyimda repellentsiz yurish
+- Kemiruvchilar uyasida yalang oyoq yurish
+- Qo'lni yuvmasdan oziq-ovqat iste'mol qilish
+- Kemiruvchilarni yalang qo'l bilan ushlash
+! Yopiq kiyim kiyish va repellent vositalardan foydalanish xavfni kamaytiradi
+@ M CDCMUR

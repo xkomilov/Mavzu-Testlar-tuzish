@@ -1,0 +1,459 @@
+# 188
+
+? Ko'kyo'tal asosan qanday yo'l bilan yuqadi?
++ Havo-tomchi yo'li bilan
+- Fekal-oral yo'l bilan, suv orqali
+- Transmissiv yo'l bilan, hasharot orqali
+- Parenteral yo'l bilan, qon orqali
+- Vertikal yo'l bilan, onadan homilaga
+! Ko'kyo'tal asosan havo-tomchi yo'li bilan: kasal yo'talganda bakteriyali tomchilar atrofga tarqaladi
+@ M JAW WHOPERT CDCPINK
+
+? Ko'kyo'talda yuqish uchun qaysi masofa muhim?
++ Yaqin masofa, yaqin muloqot
+- Uzoq masofa, havo oqimi bilan
+- Juda uzoq masofa, shamol bilan
+- Masofa ahamiyatsiz, suv orqali
+- Masofa ahamiyatsiz, qon orqali
+! Tomchilar uzoq masofaga tarqalmaydi, shuning uchun yuqish uchun yaqin muloqot muhim, oila a'zolari xavf ostida
+@ M JAW WHOPERT
+
+? Buyumlar orqali ko'kyo'tal yuqishi qanday baholanadi?
++ Kam ahamiyatga ega, bakteriya tez quriydi
+- Eng muhim yo'l, bakteriya uzoq saqlanadi
+- Asosiy yo'l, bakteriya sporaga aylanadi
+- Muhim yo'l, bakteriya suvda ko'payadi
+- Doimiy yo'l, bakteriya tuproqda yashaydi
+! Bakteriya muhitda tez quriydi, shu sababli kontakt orqali yuqish kamroq ahamiyatga ega
+@ M JAW WHOPERT
+
+? Ko'kyo'talda yashirin infeksiya manbai kim?
++ Immuniteti pasaygan emlangan kattalar
+- Yangi tug'ilgan sog'lom chaqaloqlar
+- Qisqa vaqt kasal bo'lgan hayvonlar
+- Toza suv va havo massalari
+- Tuproq va chang zarrachalari
+! Emlangan, ammo immuniteti pasaygan va yengil kasallangan kattalar qo'zg'atuvchini tarqatishi va bolalar uchun yashirin manba bo'lishi mumkin
+@ M JAW WHOPERT
+
+? Ko'kyo'tal kasalligi davriy ko'tarilishi nimaga bog'liq?
++ Aholi immuniteti o'zgarishiga
+- Havo harorati o'zgarishiga
+- Oy fazalari o'zgarishiga
+- Suv sifati o'zgarishiga
+- Yer osti suvlari o'zgarishiga
+! Ko'kyo'tal davriy ko'tarilishlar bilan kuzatiladi, bu aholi immuniteti o'zgarishi va emlash qamrovi bilan bog'liq
+@ M JAW WHOPERT
+
+? Emlash qamrovi pasayganda ko'kyo'tal nima bo'ladi?
++ Kasallik ko'rsatkichi yana oshadi
+- Kasallik ko'rsatkichi keskin kamayadi
+- Kasallik butunlay yo'qoladi
+- Kasallik faqat hayvonlarda qoladi
+- Kasallik og'irligi kamayadi
+! Emlash qamrovi pasayganda kasallik ko'rsatkichi yana oshishi mumkin, shuning uchun emlash dasturlari uzluksiz bo'lishi kerak
+@ M JAW WHOPERT CDCPINK
+
+? Qaysi shaxslar ko'kyo'tal tarqalishida xavfli?
++ Tashxis qo'yilmagan yengil kasal kattalar
+- Sog'lom, hech qachon kasallanmagan kattalar
+- To'liq izolyatsiyadagi og'ir bemorlar
+- Tashxis qo'yilgan va davolangan bemorlar
+- Shifoxonadagi sog'lom hamshiralar
+! Yengil kechgan va tashxis qo'yilmagan kattalar belgilari engil bo'lgani uchun shifokorga murojaat qilmaydi va tarqalishni osonlashtiradi
+@ M JAW
+
+? Ko'kyo'tal epidemiologik nazoratda nima qilinadi?
++ Emlangan shaxslar ham kuzatiladi
+- Emlanmaganlar kuzatilib, emlanganlar kuzatilmaydi
+- Hech kim kuzatilmaydi, nazorat bekor qilinadi
+- Chaqaloqlargina kuzatiladi, boshqalar kuzatilmaydi
+- Keksalargina kuzatiladi, boshqalar kuzatilmaydi
+! Emlangan, ammo immuniteti pasaygan shaxslar ham qo'zg'atuvchini tarqatishi mumkin, shu sababli ular ham kuzatuvga kiradi
+@ M JAW
+
+? Oila ichida ko'kyo'tal bo'yicha nima muhim?
++ Kontaktlarni aniqlash va emlash
+- Kontaktlarni uyda qoldirish
+- Kontaktlarni tekshirmaslik
+- Kontaktlarga vitamin berish
+- Kontaktlarni bog'chaga yuborish
+! Immuniteti pasaygan kattalar bolalar uchun manba bo'lishi mumkin, shuning uchun oila a'zolarini emlash va kontaktlarni aniqlash muhim
+@ M JAW WHOPERT
+
+? Ko'kyo'tal asosiy yuqish yo'li qaysi?
++ Kasal bilan bevosita aloqa
+- Hasharot chaqishi orqali aloqa
+- Ifloslangan suv orqali aloqa
+- Ifloslangan ovqat orqali aloqa
+- Tuproq changi orqali aloqa
+! Asosiy yuqish yo'li kasal shaxs bilan bevosita aloqa hisoblanadi
+@ M JAW
+
+# 189
+
+? Ko'kyo'tal uchun qaysi namuna olinadi?
++ Burun-halqum (nazofaringeal) tampon
+- Najas namunasi, ichak ajralmasi
+- Siydik namunasi, buyrak ajralmasi
+- Sut namunasi, ona ajralmasi
+- Safro namunasi, jigar ajralmasi
+! Ko'kyo'talda burun-halqum, ya'ni nazofaringeal tampon yoki aspirat namunasi olinadi
+@ M JAW WHOPERT CDCPINK
+
+? Namuna uchun qaysi tamponlar ishlatiladi?
++ Poliester (Dacron) yoki kalsiy alginat
+- Oddiy paxtali, yog'ochli tayoqchali
+- Yog'och tayoqchali, paxtali
+- Metall simli, paxtali
+- Qog'ozli, yog'ochli
+! Poliester (Dacron) yoki kalsiy alginat tolali tamponlar ishlatiladi; yog'och va paxtali tamponlarda bakteriyaga zararli moddalar bor
+@ M JAW CDCPINK
+
+? Yog'och yoki paxtali tamponlar nima uchun qo'llanilmaydi?
++ Zararli moddalar saqlagani uchun
+- Narxi juda arzon bo'lgani uchun
+- Rangi chiroyli bo'lgani uchun
+- Hajmi katta bo'lgani uchun
+- Og'irligi yengil bo'lgani uchun
+! Yog'och tayoqchali yoki paxtali tamponlar bakteriyaga zararli moddalar saqlagani uchun qo'llanilmaydi
+@ M JAW CDCPINK
+
+? Tampon qayerga kiritiladi?
++ Burundan halqum orqa devoriga
+- Og'izdan oshqozon devoriga
+- Quloq yo'lidan o'rta quloqqa
+- Ko'zdan konyunktiva qopchasiga
+- Burundan bosh miya ichiga
+! Tampon burun teshigi orqali asta-sekin kiritilib, halqumning orqa devoriga yetkaziladi va bir necha soniya ushlab turiladi
+@ M JAW CDCPINK
+
+? Namuna qachon olinishi maqsadga muvofiq?
++ Antibiotik boshlanishidan oldin
+- Antibiotik kursi oxirida olinadi
+- Antibiotik tugagandan keyin olinadi
+- Antibiotik dozasi oshganda olinadi
+- Antibiotikdan mustaqil olinadi
+! Antibiotik qabul qilingan bemorlarda bakteriya kam bo'ladi, shu sababli namuna antibiotikdan oldin olinadi
+@ M JAW
+
+? Qaysi tashish muhiti ishlatiladi?
++ Regan–Lou tashish muhiti
+- Stuart tashish muhiti, glyukozali
+- Cary–Blair tashish muhiti, tuzli
+- Amies tashish muhiti, ko'mirli
+- Distillangan suv muhiti
+! Olingan tampon Regan–Lou tashish muhiti solingan probirkaga joylashtiriladi, bu bakteriya hayotchanligini uzoqroq saqlaydi
+@ M JAW CDCPINK
+
+? Namuna qanday yetkaziladi?
++ Tez va sovutilgan holda
+- Sekin va qaynoq holda
+- Tez va muzlatilgan holda
+- Sekin va issiq holda
+- Tez va quritilgan holda
+! Namuna iloji boricha tez laboratoriyaga yetkaziladi va sovutilgan holda saqlanadi
+@ M JAW
+
+? Yo'llanmada ko'kyo'talda nima qayd etiladi?
++ Ism, yosh, yo'tal sanasi
+- Sevimli ovqat va ranglar
+- Kiyim o'lchami va rangi
+- Ish haqi va lavozim
+- Sport turi va yutuqlari
+! Yo'llanmada bemorning ismi, yoshi, yo'tal boshlanish sanasi va emlanish holati ko'rsatiladi
+@ M JAW
+
+? Namuna olish paytida xodim nima qiladi?
++ Himoya vositalarini ishlatadi
+- Himoyasiz ishlab, tez ketadi
+- Niqobsiz yaqin turib ishlaydi
+- Qo'lqopsiz ishlab, qo'l yuvmaydi
+- Ochiq xonada, himoyasiz ishlaydi
+! Namuna olish paytida xodim himoya vositalaridan foydalanadi, chunki yo'tal orqali tomchilar tarqalishi mumkin
+@ M JAW WHOLBM
+
+? Namuna olishda vaqt omili nima uchun muhim?
++ Bakteriya soni kasallik davomida kamayadi
+- Bakteriya soni kasallik davomida ortadi
+- Bakteriya soni doim bir xil qoladi
+- Bakteriya sporaga aylanib qoladi
+- Bakteriya tashqi muhitda ko'payadi
+! Kasallikning boshida bakteriya ko'p bo'ladi, keyinchalik soni kamayadi, shuning uchun namuna erta olinadi
+@ M JAW WHOPERT CDCPINK
+
+# 190
+
+? Ko'kyo'talning muhim gematologik belgisi qaysi?
++ Limfotsitoz
+- Neytropeniya
+- Eozinofiliya
+- Anemiya
+- Trombotsitoz
+! Ko'kyo'talning muhim laboratoriya belgisi qondagi limfotsitlar sonining ko'payishi — limfotsitoz
+@ M JAW WHOPERT
+
+? Limfotsitoz qaysi omil bilan bog'liq?
++ Pertussis toksin ta'siri bilan
+- Endotoksin ta'siri bilan bog'liq
+- Kapsula ta'siri bilan bog'liq
+- Xivchin ta'siri bilan bog'liq
+- Spora ta'siri bilan bog'liq
+! Limfotsitoz pertussis toksinning limfotsitlarni ko'paytiruvchi ta'siri bilan bog'liq
+@ M JAW WHOPERT
+
+? Limfotsitoz qaysi bosqichda ko'proq aniq bo'ladi?
++ Paroksizmal bosqichda
+- Inkubatsiya bosqichida
+- Sog'ayish bosqichida
+- Kasallikdan oldin
+- Dastlabki soatlarda
+! Limfotsitoz ko'pincha kasallikning paroksizmal (xurujli) bosqichida aniq bo'ladi
+@ M JAW WHOPERT
+
+? Limfotsitoz nima uchun mustaqil mezon emas?
++ Ko'kyo'talga xos emas
+- Doim yolg'on musbat bo'ladi
+- Qachon topilmaydi
+- Hayvonlarda uchraydi
+- Bolalarda uchraydi
+! Limfotsitoz faqat ko'kyo'talga xos emas, shuning uchun boshqa ma'lumotlar bilan birga ko'rib chiqiladi
+@ M JAW
+
+? Bakteriologik ekish tashxisda qanday o'rin tutadi?
++ Standart ("oltin standart") usul
+- Yordamchi, ahamiyatsiz usul
+- Tez va sezgir usul
+- Qo'shimcha, ixtiyoriy usul
+- Taxminiy, tasdiqlamaydigan usul
+! Bakteriologik ekish ko'kyo'tal tashxisining standart ("oltin standart") usuli: qo'zg'atuvchini tasdiqlaydi va sezgirligini aniqlaydi
+@ M JAW WHOPERT
+
+? Ekish usulining kamchiligi nima?
++ Sekin o'sadi, natija kech chiqadi
+- Tez o'sadi, natija tez chiqadi
+- Qimmat, lekin aniqligi past
+- Juda sezgir, lekin noaniq
+- Sodda, lekin juda xavfli
+! Bakteriya sekin o'sadi va muhitga talabchan, shu sababli ekish natijasi ko'p vaqt talab etadi
+@ M JAW WHOPERT
+
+? Antibiotikdan keyin ekish imkoniyati qanday?
++ Pasayadi
+- Oshadi
+- O'zgarmaydi
+- Ikki baravar oshadi
+- Butunlay to'xtaydi
+! Antibiotik qabul qilingandan keyin bakteriyani ekish imkoniyati pasayadi
+@ M JAW
+
+? Ko'kyo'tal shubhasi qachon kuchayadi?
++ Yo'tal 2 haftadan ortiq davom etsa
+- Yo'tal bir kun davom etib tuzalsa
+- Yo'tal faqat harorat bilan boshlansa
+- Yo'tal kechqurun bo'lib tuzalsa
+- Yo'tal tez va oson tuzalsa
+! Yo'tal ikki haftadan ortiq davom etsa va tipik belgilar bo'lsa, ko'kyo'tal shubhasi kuchayadi
+@ M JAW WHOPERT CDCPINK
+
+? Tashxisni tasdiqlash uchun nima buyuriladi?
++ Laboratoriya tekshiruvi
+- Rentgenologik tekshiruv
+- Jarrohlik amaliyoti
+- Massaj muolajasi
+- Parhez buyurish
+! Klinik shubha bo'lsa, tashxisni tasdiqlash uchun laboratoriya tekshiruvi buyuriladi
+@ M JAW
+
+? "Oltin standart" deb nimani atashadi?
++ Eng ishonchli taqqoslash usulini
+- Eng tez va sodda usulni atashadi
+- Eng arzon va oddiy usulni atashadi
+- Eng oson va qulay usulni atashadi
+- Eng yangi va yaxshi usulni atashadi
+! Bakteriologik ekish tashxisning "oltin standarti" deb qaraladi, uning natijasi ko'pincha asosiy mezon
+@ M JAW
+
+# 191
+
+? Ko'kyo'talda antibiotik qachon eng samarali?
++ Yo'tal boshlanishidan 3 hafta ichida
+- Yo'tal boshlanishidan 3 oy o'tgach
+- Sog'ayganidan bir yil o'tgach
+- Kasallik boshlanishidan oldin ham
+- Yo'tal butunlay tugagandan so'ng
+! Antibiotik yo'tal boshlangandan keyingi dastlabki uch hafta ichida berilsa, bakteriya tashishni tez to'xtatadi
+@ M JAW WHOPERT CDCPINK
+
+? Kechroq berilgan antibiotik nimani kamaytiradi?
++ Asosan yuqish xavfini
+- Yo'tal xurujlarini to'liq
+- Kasallik og'irligini keskin
+- Bakteriya sezgirligini
+- Asoratlar xavfini keskin
+! Keyingi bosqichda antibiotik asosan yuqish xavfini kamaytiradi, yo'talga ta'siri kam
+@ M JAW WHOPERT CDCPINK
+
+? Antibiotik kursi qanday o'tkaziladi?
++ Shifokor tavsiyasiga ko'ra to'liq
+- Belgilar yengillashganda to'xtatiladi
+- Bir-ikki dozadan keyin to'xtatiladi
+- Bemor xohlaganda to'xtatiladi
+- Xurujlarda ichiladi
+! Antibiotik kursi shifokor tavsiyasiga muvofiq to'liq o'tkaziladi, belgilar yengillashganda ham to'xtatilmaydi
+@ M JAW
+
+? Qo'zg'atuvchining antibiotikka sezgirligi odatda qanday?
++ Yuqori
+- Past
+- Yo'q
+- Bolalarda yuqori
+- Kattalarda yuqori
+! Qo'zg'atuvchining antibiotikka sezgirligi odatda yuqori, shu sababli davolash standart sxemalarda o'tkaziladi
+@ M JAW WHOPERT
+
+? Yo'talga qarshi vositalarning samarasi qanday?
++ Cheklangan
+- Juda yuqori
+- Eng yuqori
+- Doimiy yuqori
+- Mutlaq yuqori
+! Yo'tal xurujlarini to'xtatish uchun yo'talga qarshi vositalarning samarasi cheklangan
+@ M JAW
+
+? Chaqaloqlarda og'ir ko'kyo'tal uchun nima ta'minlanadi?
++ Kislorod terapiyasi
+- Qattiq parhez va uyqu
+- Issiq vanna va massaj
+- Sovuq kompress va sayr
+- Vitamin va dam olish
+! Chaqaloqlarda va og'ir kechgan holatlarda kislorod terapiyasi, suyuqlik balansi va nafas yo'llarini tozalash ta'minlanadi
+@ M JAW WHOPERT
+
+? Apnoe xavfi bo'lgan bemorlar bilan nima qilinadi?
++ Monitor nazoratiga olinadi
+- Uyga qaytariladi, kuzatilmaydi
+- Nazoratsiz qoldiriladi, kuzatilmaydi
+- Sovuq muhitga qo'yiladi
+- Uyquga yotqiziladi, kuzatilmaydi
+! Apnoe xavfi bo'lgan bemorlar monitor nazoratiga olinadi
+@ M JAW WHOPERT
+
+? Xurujdan keyin qusish xavfi bo'lsa nima qilinadi?
++ Ovqat va suyuqlik rejimi tashkil etiladi
+- Ovqatlantirish butunlay to'xtatib qo'yiladi
+- Ko'p miqdorda ovqat berib yuboriladi
+- Suyuqlik cheklab qo'yiladi
+- Sovuq ovqatning o'zi beriladi
+! Ovqatlanish va suyuqlik qabul qilishni to'g'ri tashkil qilish bemor holatini yaxshilaydi va kuchini tiklaydi
+@ M JAW
+
+? Antibiotik tanlashda nima hisobga olinadi?
++ Bemor yoshi va allergiyasi
+- Dori rangi va qadog'i
+- Dori narxi va nomi
+- Bemorning sevimli ovqati
+- Xodimning kayfiyati
+! Antibiotik tanlashda bemorning yoshi va allergiyasi hisobga olinadi
+@ M JAW
+
+? Ko'kyo'talda parvarishning o'rni qanday?
++ Asosiy e'tibor parvarishga qaratiladi
+- Parvarish ahamiyatga ega emas
+- Jarrohlik amaliyoti asosiy hisoblanadi
+- Dori berish yagona asosiy hisoblanadi
+- Parhez yagona asosiy hisoblanadi
+! Yo'tal xurujlarini to'xtatish qiyin bo'lgani uchun ko'pincha asosiy e'tibor parvarishga qaratiladi
+@ M JAW
+
+# 192
+
+? Mycobacterium tuberculosis Gram usulida qanday bo'yaladi?
++ Gram bo'yog'ini yomon qabul qiladi
+- Gram-musbat, binafsha rangga bo'yaladi
+- Gram-manfiy, pushti rangga bo'yaladi
+- Doim ko'k rangga bo'yaladi
+- Doim sariq rangga bo'yaladi
+! M. tuberculosis Gram bo'yog'ini yomon qabul qiladi, shu sababli kislota-tezkor bakteriya deyiladi
+@ M JAW WHOTB
+
+? Kislota-tezkorlik nimani bildiradi?
++ Kislotadan keyin rang saqlash
+- Kislota ta'sirida erib ketish
+- Spirt ta'sirida qorayib ketish
+- Issiqlik ta'sirida sporalanish
+- Sovuq ta'sirida harakatlanish
+! Kislota-tezkor bakteriya kislota va spirt bilan ishlovdan keyin ham bo'yoqni saqlaydi
+@ M JAW WHOTB
+
+? Zil–Nilsen usulida sil tayoqchasi qanday ko'rinadi?
++ Qizil rangda, fon ko'k
+- Ko'k rangda, fon qizil
+- Yashil rangda, fon sariq
+- Qora rangda, fon oq
+- Binafsha rangda, fon pushti
+! Zil–Nilsen usulida sil tayoqchasi qizil, qolgan hujayralar va fon ko'k rangda ko'rinadi
+@ M JAW WHOTB
+
+? Mikroskopiya sezuvchanligi haqida qaysi gap to'g'ri?
++ O'rtacha
+- Juda yuqori, har doim aniq
+- Mutlaq, har qanday miqdorda
+- Eng yuqori, ekishdan ustun
+- Yo'q
+! Mikroskopiya tez, ammo uning sezuvchanligi o'rtacha bo'lib, faqat bakteriya soni yetarli bo'lganda aniq
+@ M JAW WHOTB
+
+? Virulent shtammlarda "arqon" hosil qilish nima?
++ Tayoqchalarning iplar bo'lib yig'ilishi
+- Tayoqchalarning sporaga aylanishi
+- Tayoqchalarning kapsula hosil qilishi
+- Tayoqchalarning xivchin chiqarishi
+- Tayoqchalarning parchalanib ketishi
+! Virulent shtammlar oziqa muhitida tayoqchalarning iplar shaklida yig'ilishi bilan ajraladi, bu "arqon" hosil qilish
+@ M JAW WHOTB
+
+? M. tuberculosis o'sish tezligi qanday?
++ Sekin, ancha past
+- Juda tez, daqiqalar ichida
+- Tez, soatlar ichida
+- Bir kunda koloniya beradi
+- Ikki kunda koloniya beradi
+! M. tuberculosis sekin o'sadigan bakteriya, shu sababli ekish natijasini olish uzoq vaqt talab etadi
+@ M JAW WHOTB
+
+? M. tuberculosis uchun qaysi muhit ishlatiladi?
++ Levenshteyn–Yensen yoki Middlebrook
+- Endo yoki Levin agari
+- Qon yoki shokoladli agar
+- Manitli tuzli yoki Sabouraud agari
+- Ploskirev yoki Vismut-sulfit agari
+! M. tuberculosis tuxumli Levenshteyn–Yensen muhitida yoki Middlebrook agarlarida o'stiriladi
+@ M JAW WHOTB
+
+? Sil tayoqchasi koloniyalari qanday ko'rinadi?
++ Qo'pol, quruq, krem yoki sarg'ish
+- Silliq, nam, qora yoki yashil
+- Shilimshiq, tiniq, qizil yoki ko'k
+- Yaltiroq, mayda, pushti yoki oq
+- Yassi, sariq, tikanli yoki tiniq
+! Koloniyalar qo'pol, quruq va krem yoki sarg'ish rangda bo'lib, odatda bir necha hafta davomida paydo bo'ladi
+@ M JAW WHOTB
+
+? Koloniyalar qancha vaqtda paydo bo'ladi?
++ Odatda bir necha haftada
+- Odatda bir necha soatda
+- Odatda bir necha daqiqada
+- Odatda bir kunda
+- Odatda ikki kunda
+! Sil koloniyalari odatda bir necha hafta davomida paydo bo'ladi
+@ M JAW WHOTB
+
+? M. tuberculosis qaysi bakteriyalar guruhiga kiradi?
++ Mikobakteriyalar
+- Klostridiyalar (sporali tayoqcha)
+- Stafilokokklar (uzum shingili)
+- Spiroxetalar (spiral)
+- Vibrionlar (vergulsimon)
+! M. tuberculosis mikobakteriyalar guruhiga kiradi; hujayra devorida mikolat kislotalar bo'lgani uchun kislotaga chidamli
+@ M JAW WHOTB

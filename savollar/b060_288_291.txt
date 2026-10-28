@@ -1,0 +1,421 @@
+# 288
+
+? Xlamidiyalarni nima uchun "energiya parazitlari" deyiladi?
++ ATP ni o'zi ishlab chiqara olmaydi
+- Juda ko'p ATP ishlab chiqaradi
+- Quyosh energiyasini yutadi
+- Kimyoviy energiyani saqlaydi
+- Energiya talab qilmaydi
+! Xlamidiyalar ATP ni o'zi ishlab chiqara olmaydi va xo'jayin hujayrasi energiya manbalaridan foydalanadi
+@ M JAW
+
+? Xlamidiyalarning infeksion shakli qaysi?
++ Elementar tana
+- Retikulyar tana
+- Kista shakli
+- Spora shakli
+- Trofozoit shakli
+! Elementar tana infeksion shakl bo'lib, tashqi muhitda barqaror va yangi hujayrani zararlash qobiliyatiga ega
+@ M JAW
+
+? Retikulyar tana qanday xususiyatga ega?
++ Metabolik faol, inklyuziyada bo'linib ko'payadi
+- Metabolik nofaol, tashqi muhitda barqaror
+- Sporalar hosil qiluvchi chidamli shakl
+- Xivchinli harakatchan erkin shakl
+- Kapsulali yuqumli tashqi shakl
+! Retikulyar tana metabolik faol bo'lib, hujayra ichidagi inklyuziyada bo'linib ko'payadi, so'ng yana elementar tanaga aylanadi
+@ M JAW
+
+? Xlamidiyalarning ko'payish sikli odatda qancha davom etadi?
++ Taxminan 48–72 soat
+- Taxminan 5–10 daqiqa
+- Taxminan 1–2 soat
+- Taxminan 2–3 hafta
+- Taxminan 6–12 oy
+! Butun sikl odatda 48–72 soat davom etadi
+@ M JAW
+
+? Chlamydia trachomatis qaysi kasallikni keltirib chiqaradi?
++ Trahoma va jinsiy yo'l infeksiyalarini
+- Psittakoz va qushlar bilan bog'liq kasallikni
+- Atipik pnevmoniya va bronxit kasalligini
+- Qoqshol va gazli gangrena kasalligini
+- Vabo va dizenteriya kasalliklarini
+! C. trachomatis trahoma (ko'z shilliq pardasining surunkali yallig'lanishi) va siydik-jinsiy yo'l infeksiyalarini keltirib chiqaradi
+@ M JAW CDCSTI
+
+? Psittakoz kasalligini qaysi xlamidiya keltirib chiqaradi?
++ Chlamydia psittaci
+- Chlamydia trachomatis
+- Chlamydia pneumoniae
+- Mycoplasma pneumoniae
+- Coxiella burnetii
+! Chlamydia psittaci qushlardan odamga yuqadigan psittakoz kasalligini keltirib chiqaradi
+@ M JAW
+
+? Xlamidiya tashxisida eng sezgir va keng qo'llanadigan usul qaysi?
++ Nuklein kislota amplifikatsiyasi
+- Oddiy mikroskopiya (Gram bo'yash)
+- Oddiy oziqa agarida o'stirish
+- Qon guruhini aniqlash
+- Siydik zichligini o'lchash
+! Nuklein kislota amplifikatsiyasi testi (PTR) eng sezgir va keng qo'llanadigan usul bo'lib, kam miqdordagi DNKni aniqlaydi
+@ M CDCSTI
+
+? Xlamidiyalar laboratoriyada qanday o'stiriladi?
++ Sezgir hujayra chizig'ida
+- Oddiy go'sht-pepton agarida
+- Qonli agarda anaerob sharoitda
+- Shakarli bulyonda xona haroratida
+- Sabouraud muhitida 25 °C da
+! Xlamidiyalar hujayra ichida ko'payadi, shuning uchun hujayra madaniyatida, sezgir hujayra chizig'ida o'stiriladi
+@ M JAW
+
+? Xlamidiya infeksiyasida qaysi antibiotiklar qo'llanadi?
++ Azitromitsin va doksitsiklin
+- Penitsillin va ampitsillin
+- Sefazolin va seftriakson
+- Vankomitsin va penitsillin
+- Streptomitsin va kanamitsin
+! Xlamidiya infeksiyasi azitromitsin va doksitsiklin bilan davolanadi; penitsillinlar xlamidiyalarga samarali emas
+@ M CDCSTI
+
+? Xlamidiya profilaktikasida nima muhim?
++ Prezervativ, erta tashxis va sheriklarni tekshirish
+- Vitaminlar qabul qilish va ko'p suyuqlik ichish
+- Sovuq suv bilan yuvinish, antibiotiksiz davolanish
+- Quyoshda uzoq qolish va issiq vannalar olish
+- Doimiy ravishda spirtli ichimliklar iste'mol qilish
+! Profilaktikada jinsiy xavfsizlik (prezervativ), erta tashxis va sheriklarni birga tekshirish muhim
+@ M CDCSTI
+
+? Trahoma profilaktikasida qaysi choralar ahamiyatli?
++ Yuz gigiyenasi, toza suv, hasharotlarga qarshi kurash
+- Isitish, kuchli ovqatlanish va uzoq dam olish
+- Sovuq havoda yurish va yalang oyoq yurish
+- Ko'z tomchilarini muzlatib, uzoq vaqt saqlash
+- Yorug' xonalarda uzoq vaqt qolib o'tirish
+! Trahomaning oldini olishda yuz gigiyenasi, toza suv ta'minoti va hasharotlarga qarshi kurash ahamiyatga ega
+@ M WHODW
+
+# 289
+
+? Mikoplazmalarning hujayra devori haqida nima deyish mumkin?
++ Hujayra devori yo'q, faqat membrana bor
+- Qalin peptidoglikan qavatidan iborat devori bor
+- Mikol kislotali mumsimon qavatli devori bor
+- Tashqi lipid membranali yupqa devori bor
+- Xitin va glyukanli mustahkam devori bor
+! Mikoplazmalar hujayra devorisiz, faqat sitoplazma membranasi bilan o'ralgan, shuning uchun polimorf bo'ladi
+@ M JAW
+
+? Mikoplazmalar oziqa muhitiga nima uchun zardob qo'shiladi?
++ Sterollar (xolesterol) talab qilgani uchun
+- Vitamin B12 yetishmasligi uchun
+- Hujayra devorini hosil qilish uchun
+- Muhit rangini o'zgartirish uchun
+- Muhitni qotirish va quyuqlashtirish uchun
+! Mikoplazmalar sterollarni, ayniqsa xolesterolni o'z membranasiga qo'shib oladi, shuning uchun muhitga zardob yoki xolesterol qo'shiladi
+@ M JAW
+
+? Mikoplazma koloniyalari qattiq muhitda qanday ko'rinadi?
++ Kichik, "qovurilgan tuxum" shaklida
+- Yirik, quruq va shoxlangan
+- Qora, metall yaltiroq
+- Yashil, shilimshiq va katta
+- Qizil, tekis va rangli halqali
+! Qattiq muhitda mikoplazma koloniyalari kichik bo'lib, "qovurilgan tuxum" shaklini eslatadi
+@ M JAW
+
+? Mikoplazmalar bakteriya filtrlaridan o'tadimi?
++ Ha, 0,45 mkm filtrdan ham o'tishi mumkin
+- Yo'q, hech qaysi filtrdan o'tmaydi
+- 5 mkm filtrdan o'tadi
+- 50 mkm filtrdan o'tadi
+- Qaynatilganda o'tadi
+! Mikoplazmalar bakteriya filtrlaridan o'tadi, masalan 0,45 mkm filtrdan ham o'tishi mumkin
+@ M JAW
+
+? Mycoplasma pneumoniae qanday kasallik keltirib chiqaradi?
++ Atipik pnevmoniya va bronxit
+- Qoqshol va botulizm kasalliklarini
+- Vabo va dizenteriya kasalliklarini
+- Sil va ko'kyo'tal kasalliklarini
+- Bo'g'ma va skarlatina kasalliklarini
+! Mycoplasma pneumoniae nafas yo'llari infeksiyasini, jumladan atipik pnevmoniya va bronxitni keltirib chiqaradi
+@ M JAW
+
+? Mikoplazma tashxisida tez va sezgir usul qaysi?
++ PTR
+- Oddiy Gram bo'yash
+- Bir soatlik kultura
+- Qaynatish sinovi
+- Qon zardobini quritish
+! PTR mikoplazma infeksiyasini aniqlashda eng tez va sezgir usullardan biri
+@ M JAW
+
+? M. pneumoniae infeksiyasiga ishora qiluvchi serologik belgi qaysi?
++ Sovuq aglyutininlarning topilishi
+- Veyl-Feliks reaksiyasining musbatligi
+- Vasserman reaksiyasining musbatligi
+- Kumbs sinovining manfiyligi
+- Vidal reaksiyasining musbatligi
+! Sovuq aglyutininlarning topilishi M. pneumoniae infeksiyasiga ishora qilishi mumkin, ammo bu test to'liq ishonchli emas
+@ M JAW
+
+? Mikoplazmalar nima uchun penitsillinga chidamli?
++ Hujayra devori yo'q, penitsillin devorga ta'sir qiladi
+- Hujayra devori juda qalin, dori o'tmaydi
+- Penitsillinni parchalovchi ferment hosil qiladi
+- Sporalar hosil qilib, dori ta'siridan qochadi
+- Tashqi membranasi dori o'tkazmaydi
+! Mikoplazmalarda hujayra devori bo'lmaganligi sababli devor sintezini bloklovchi penitsillin, sefalosporin va vankomitsin ta'sir qilmaydi
+@ M JAW WHOAMR
+
+? Mikoplazma infeksiyalarida qaysi antibiotiklar qo'llanadi?
++ Makrolidlar va tetratsiklinlar
+- Penitsillinlar va sefalosporinlar
+- Vankomitsin va bakitratsin
+- Sulfanilamidlar va ampitsillin
+- Streptomitsin va kanamitsin
+! Davolashda makrolidlar (masalan azitromitsin), tetratsiklinlar va ba'zan fluorxinolonlar qo'llanadi
+@ M JAW
+
+? Hujayra madaniyatlarida mikoplazma nima uchun xavfli?
++ Hujayra o'sishiga ta'sir qilib
+- Hujayralarni sterillab qo'yadi
+- Hujayra rangini o'zgartirib yuboradi
+- Muhit pH ini doimo ko'taradi
+- Hujayralarni tezroq ko'paytiradi
+! Mikoplazmalar hujayra madaniyatlarida ifloslovchi sifatida hujayra o'sishiga ta'sir qiladi va tajriba natijalarini buzadi
+@ M
+
+? Mikoplazmalar osmotik bosimga nima uchun sezgir?
++ Himoya qiluvchi hujayra devori yo'q
+- Hujayra devori juda qalin va qattiq
+- Sporali qobiq hosil qiladi va qotadi
+- Kapsula hosil qilib, shishib ketadi
+- Yadro membranasi borligi tufayli
+! Hujayra devori yo'qligi ularni osmotik bosimga sezgir qiladi, shuning uchun izotonik muhitlar tayyorlanadi
+@ M
+
+# 290
+
+? Zamburug' hujayra devorining asosiy tarkibiy qismi qaysi?
++ Xitin va glyukanlar
+- Peptidoglikan va teixoy kislota
+- Mikol kislota va mumlar
+- Lipopolisaxarid va lipid A
+- Sellyuloza va lignin
+! Zamburug' hujayra devorining asosiy tarkibiy qismi xitin bo'lib, glyukanlar bilan birga keladi
+@ M JAW
+
+? Zamburug' membranasidagi sterol qaysi?
++ Ergosterol
+- Xolesterol
+- Peptidoglikan
+- Lipid A
+- Mikol kislota
+! Zamburug' membranasida ergosterol bo'ladi, bu uni xo'jayin hujayrasidagi xolesteroldan farqlaydi
+@ M JAW
+
+? Mitseliyni nima hosil qiladi?
++ Bir-biriga o'ralgan gifalar
+- Bir hujayrali xamirturush kurtaklari
+- Bakteriya kapsulalari
+- Virus zarrachalari
+- Sporalar qobig'i
+! Ko'p hujayrali zamburug'lar gifalardan iborat; gifalar bir-biriga o'ralib mitseliy hosil qiladi
+@ M JAW
+
+? Dimorf zamburug'lar qanday xususiyatga ega?
++ Tashqarida mitseliy, organizmda xamirturushsimon
+- Tashqarida xamirturush, organizmda mitseliy
+- Har qanday muhitda faqat sporalar hosil qiladi
+- Muhit o'zgarsa ham doim gifa holida qoladi
+- Hamma sharoitda faqat kapsula hosil qiladi
+! Dimorf zamburug'lar tashqi muhitda mitseliy, organizmda esa xamirturushsimon shakl hosil qiladi
+@ M JAW
+
+? Teri usti qatlami, soch va tirnoqdagi mikozlar qanday ataladi?
++ Superfisial mikozlar
+- Sistemali mikozlar
+- Teri osti mikozlari
+- Oportunistik mikozlar
+- Epidemik mikozlar
+! Superfisial mikozlar teri usti qatlamida (epidermis), sochda va tirnoqda joylashadi
+@ M JAW
+
+? Oportunistik mikozlar qanday bemorlarda rivojlanadi?
++ Immuniteti kuchsiz bemorlarda
+- Yangi tug'ilgan sog'lom chaqaloqlarda
+- Muntazam shug'ullanuvchi sportchilarda
+- Qishloq joylarda yashovchi aholida
+- Hamma sog'lom qariyalarda
+! Oportunistik mikozlar kuchsiz immun tizimli bemorlarda rivojlanadi; kandidoz va aspergillyoz shunga misol
+@ M JAW
+
+? Dermatofitlar nimani parchalab yashaydi?
++ Keratinni
+- Xolesterolni
+- Selluloza tolasini
+- Peptidoglikanni
+- Lipopolisaxaridni
+! Dermatofitlar teri, soch va tirnoqdagi keratinni parchalab yashaydi va tinea infeksiyalarini keltirib chiqaradi
+@ M JAW
+
+? Zamburug'larni aniqlash uchun teri qirindisi qaysi eritma bilan ishlanadi?
++ KOH eritmasi
+- Metilen ko'ki eritmasi
+- Karbol fuksin eritmasi
+- Lyugol eritmasi
+- Kristall binafsha eritmasi
+! Teri, soch yoki tirnoq qirindilari KOH eritmasi bilan ishlanadi, shunda zamburug' elementlari ko'rinadi
+@ M JAW
+
+? Zamburug'lar uchun qaysi oziqa muhiti keng qo'llanadi?
++ Sabouraud agari
+- Endo agari
+- Qonli agar
+- Manitolli tuzli agar
+- SPS agari
+! Madaniyat usuli uchun Sabouraud agari keng qo'llanadi; zamburug'lar odatda 25–30 °C da o'stiriladi
+@ M JAW
+
+? Amfotitsin B zamburug'larga qanday ta'sir qiladi?
++ Ergosterolga bog'lanib, teshiklar hosil qiladi
+- Beta-1,3-glukan sintezini to'xtatib qo'yadi
+- Xitin sintezini hujayra devorida blokaydi
+- Ribosomadagi oqsil sintezini to'xtatadi
+- DNK replikatsiyasini butunlay buzib qo'yadi
+! Amfotitsin B ergosterolga bog'lanib, hujayra membranasida teshiklar hosil qiladi
+@ M JAW
+
+? Ehinokandinlar zamburug'larga qanday ta'sir qiladi?
++ Beta-1,3-glukan sintezini to'xtatadi
+- Ergosterolga bog'lanib, teshiklar hosil qiladi
+- Ribosomadagi oqsil sintezini to'xtatib qo'yadi
+- DNK giraza fermentini to'xtatib qo'yadi
+- Folat sintezini butunlay buzib qo'yadi
+! Ehinokandinlar zamburug' hujayra devoridagi beta-1,3-glukan sintezini to'xtatadi
+@ M JAW
+
+? Aflatoksin qaysi zamburug' tomonidan hosil qilinadi?
++ Aspergillus flavus
+- Candida albicans
+- Penicillium notatum
+- Cryptococcus neoformans
+- Trichophyton rubrum
+! Aspergillus flavus hosil qiladigan aflatoksin oziq-ovqatda kanserogen xavf tug'diradi
+@ M JAW
+
+# 291
+
+? Protozoalarning asosiy xususiyati nima?
++ Bir hujayrali, yadroli (eukariot) organizmlar
+- Hujayrasiz oqsil-nuklein zarrachalari
+- Bir hujayrali yadrosiz prokariotlar
+- Ko'p hujayrali parazit chuvalchanglar
+- O'simlik hujayrali organizmlar
+! Protozoalar bir hujayrali, yadro, mitoxondriya va vakuolalar kabi organellalarga ega organizmlar
+@ M JAW
+
+? Protozoalarning chidamli shakli qaysi?
++ Kista
+- Trofozoit
+- Elementar tana
+- Mitseliy
+- Kapsid
+! Ko'pchilik protozoalar faol trofozoit va chidamli kista shaklida uchraydi; kista yangi xo'jayinga yuqish vazifasini bajaradi
+@ M JAW
+
+? Sarkodalilar qanday harakatlanadi?
++ Yolg'on oyoqchalar bilan
+- Xivchinlari yordamida suzib
+- Kipriklari yordamida sirpanib
+- Sporalar hosil qilib uchib
+- Harakatsiz, joyida qotib turib
+! Sarkodalilar yolg'on oyoqchalar, flagellatlar xivchinlar, infuzoriyalar kipriklar bilan harakatlanadi
+@ M JAW
+
+? Plasmodium turlari qaysi guruhga kiradi?
++ Sporali protozoalar (Apicomplexa)
+- Sarkodalilar (yolg'on oyoqchalilar)
+- Kiprikli infuzoriyalar guruhiga
+- Xivchinli flagellatlar guruhiga
+- Zamburug'lar guruhiga mansub
+! Sporali protozoalar (Apicomplexa) qatoriga Plasmodium turlari kiradi
+@ M JAW
+
+? Entamoeba histolytica qanday kasallik keltirib chiqaradi?
++ Amyobiaz (dizenteriya, jigar abstsessi)
+- Malyariya kasalligini chaqiradi
+- Trixomonoz kasalligini chaqiradi
+- Toksoplazmoz kasalligini chaqiradi
+- Leyshmanioz kasalligini chaqiradi
+! Entamoeba histolytica yo'g'on ichakda amyobiaz, ya'ni dizenteriya va jigar abstsessini keltirib chiqaradi
+@ M JAW
+
+? Giardia lamblia qaerda yashaydi?
++ Ingichka ichakda
+- Yo'g'on ichak devorida
+- Jigar to'qimasida
+- Qon eritrotsitlarida
+- Bosh miyada
+! Giardia lamblia ingichka ichakda yashab, ichburug' va ovqat moddalari so'rilishining buzilishini keltirib chiqaradi
+@ M JAW
+
+? Trichomonas vaginalis qanday yo'l bilan yuqadi?
++ Jinsiy yo'l bilan
+- Chivin chaqishi bilan
+- Ifloslangan suv orqali
+- Mushuk najasi orqali
+- Havo-tomchi yo'li bilan
+! Trichomonas vaginalis jinsiy yo'l orqali yuqadigan xivchinli parazit bo'lib, trixomonozni keltirib chiqaradi
+@ M JAW CDCSTI
+
+? Malyariya qo'zg'atuvchisi odamga qanday yuqadi?
++ Anofel chivinlari chaqishi orqali
+- Uy pashshalari qo'nishi orqali
+- Burgalar chaqishi va najasi orqali
+- Ixodes kanalari chaqishi orqali
+- Kiyim bitlari chaqishi orqali
+! Plasmodium turlari anofel chivinlari orqali yuqib, malyariyani qo'zg'atadi
+@ M JAW
+
+? Malyariya tashxisining asosiy usuli qaysi?
++ Qon surtmasini Giemsa bilan bo'yash
+- Axlatni Endo agariga ekib o'stirish
+- Balg'amni Ziehl-Neelsen bilan bo'yash
+- Siydikni Gram usulida bo'yash
+- Teri qirindisini KOH bilan ishlash
+! Qon surtmasi malyariya tashxisi uchun asosiy usul: qalin va yupqa surtmalar tayyorlanib, Giemsa bilan bo'yaladi
+@ M JAW
+
+? Toxoplasma gondii qaysi hayvonlar ichagida ko'payadi?
++ Mushuklar ichagida
+- Qoramol ichagida
+- Cho'chqa ichagida
+- Qushlar ichagida
+- Kalamush ichagida
+! Toxoplasma gondii mushuklar ichagida ko'payadi va odamga ovqat yoki mushuk najasi orqali yuqadi
+@ M JAW
+
+? Amyobiaz, giardiaz va trixomonozda qaysi dori keng qo'llanadi?
++ Metronidazol
+- Penitsillin
+- Doksitsiklin
+- Streptomitsin
+- Izoniazid
+! Metronidazol amyobiaz, giardiaz va trixomonozda keng qo'llanadi
+@ M JAW CDCSTI
+
+? Malyariyada qaysi dorilar kombinatsiyasi tavsiya etiladi?
++ Artemizinin asosidagi kombinatsiyalar
+- Penitsillin asosidagi kombinatsiyalar
+- Sulfanilamid asosidagi kombinatsiyalar
+- Streptomitsin asosidagi kombinatsiyalar
+- Vankomitsin asosidagi kombinatsiyalar
+! Malyariyada artemizinin asosidagi kombinatsiyalar tavsiya etiladi
+@ M JAW

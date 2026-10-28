@@ -1,0 +1,623 @@
+# 242
+
+? Kox apparatida bug' harorati qancha bo'ladi?
++ 100 °C dan oshmaydi
+- 121 °C gacha yetadi
+- 134 °C ga ko'tariladi
+- 150 °C dan yuqori bo'ladi
+- 60 °C atrofida qoladi
+! Ochiq yoki yarim yopiq idishda bosim atmosfera bosimiga yaqin, shuning uchun harorat 100 °C dan oshmaydi
+@ M BROCK
+
+? Kox apparatining qopqog'i qanday bo'ladi?
++ Bug' chiqishi uchun ochiq yoki yengil yopiq
+- Bosim hosil qilish uchun mahkam yopiq
+- Bug' chiqmasligi uchun germetik berkitilgan
+- Butunlay olib tashlangan, ochiq holda
+- Qulf bilan mahkamlangan, bosimli
+! Qopqoq bug' chiqishi uchun ochiq yoki yengil yopiladi, shunda ortiqcha bosim hosil bo'lmaydi
+@ M
+
+? Kox apparatida vaqt qachondan hisoblanadi?
++ Bug' paydo bo'lganidan keyin
+- Isitgich yoqilgan zahotiyoq
+- Suv quyilgan paytdan boshlab
+- Apparat sovigandan keyin
+- Qopqoq ochilgan paytdan
+! Isitish boshida bug' hali to'liq hosil bo'lmaydi, shuning uchun vaqt bug' paydo bo'lganidan keyin hisoblanadi
+@ M
+
+? Kox apparatida suv kamayib ketsa nima bo'ladi?
++ Bug' hosil bo'lmaydi, muhit zararsizlanmaydi
+- Bug' ko'payib, bosim keskin ortib ketadi
+- Muhit tezroq va ishonchliroq zararsizlanadi
+- Harorat 121 °C dan ham oshib ketadi
+- Apparat o'z-o'zidan sovib, ishdan to'xtaydi
+! Suv sathi kerakli darajada ushlab turilmasa, bug' oqimi buziladi va muhit zararsizlanmaydi
+@ M
+
+? Arnold apparatida qaysi muhitlar zararsizlantiriladi?
++ Qand yoki jelatin saqlovchi muhitlar
+- Quruq shisha idishlar va pipetkalar
+- Metall asboblar va ilmoqlar
+- Rezina buyumlar va tiqinlar
+- Bo'yoq eritmalari va spirtlar
+! Arnold apparatida qand yoki jelatin saqlovchi muhitlar bug' oqimi bilan zararsizlantiriladi
+@ M
+
+? Tindallizatsiya nima?
++ Bug' oqimida takroriy, kunlik ishlov
+- Bir marta 134 °C da qisqa ishlov
+- Quruq issiqlikda bir sutkalik ishlov
+- Ultrabinafsha nur bilan kunlik ishlov
+- Filtrlab mikroblarni ajratib olish
+! Tindallizatsiya ketma-ket bir necha kun, har kuni 30–60 daqiqa bug' oqimida ushlab turishdan iborat
+@ M BROCK
+
+? Tindallizatsiyada sporalar qanday yo'q qilinadi?
++ Oraliqda unib chiqib, keyingi ishlovda o'ladi
+- Birinchi ishlovdayoq hammasi yo'q bo'ladi
+- Nurlanish ta'sirida oraliqda parchalanadi
+- Filtrda to'liq ushlab qolinib olib tashlanadi
+- Bosim ostida tezda erib ketadi
+! Birinchi ishlovda tirik qolgan sporalar oraliq vaqtda unib chiqadi va keyingi ishlovda vegetativ hujayra sifatida o'ldiriladi
+@ M BROCK
+
+? Tindallizatsiya odatda qanday davom etadi?
++ Ketma-ket uch kun, kuniga 30–60 daqiqa
+- Bir marta, uch soat davomida
+- Ketma-ket uch kun, kuniga 5 soniya
+- Bir kun, har soatda 1 daqiqa
+- Ketma-ket o'ttiz kun, kuniga 1 soat
+! Rejim uch kun davomida qo'llanadi: har kuni taxminan 30–60 daqiqa bug' oqimida ushlanadi
+@ M
+
+? Bug' oqimi usulining asosiy cheklovi nima?
++ Sporalar bir ishlovdan so'ng tirik qoladi
+- Vegetativ bakteriyalar nobud bo'lmaydi
+- Zamburug'lar issiqlikka juda chidamli bo'ladi
+- Usul ortiqcha bosim hosil qilib portlatadi
+- Usul quruq idishlarda ishlamaydi
+! Termal chidamli sporalar bir marta ishlovdan so'ng ham tirik qolishi mumkin, shuning uchun usul oraliq zararsizlantirish hisoblanadi
+@ M BROCK
+
+? Idishlar apparatga nima uchun zich qo'yilmaydi?
++ Bug' markazga yetib borishi uchun
+- Idishlar bir-biriga yopishmasligi uchun
+- Suv sathi pasayib ketmasligi uchun
+- Qopqoq ochilishi osonlashishi uchun
+- Apparat og'irligini kamaytirish uchun
+! Idishlar zich qo'yilsa, bug' markazga yetib bormaydi, shuning uchun ular orasida bo'shliq qoldiriladi
+@ M
+
+? Tindallizatsiya ko'proq nimani zararsizlantirishda ishlatiladi?
++ Oziqa muhitlarini zararsizlantirishda
+- Shisha idish va pipetkalarni zararsizlantirishda
+- Metall asboblar va ilmoqlarni zararsizlantirishda
+- Kiyim va xalatlarni zararsizlantirishda
+- Chiqindi to'plamlarini zararsizlantirishda
+! Tindallizatsiya ko'proq oziqa muhitlarini zararsizlantirish uchun ishlatiladi; rejim muhit tarkibiga qarab tanlanadi
+@ M
+
+# 243
+
+? Quruq issiqlikda mikroblar hujayrasiga nima bo'ladi?
++ Oqsil denaturatsiyasi va fermentlar inaktivatsiyasi
+- Hujayra devori kristallanib, o'sish tezlashadi
+- Mikroblar sporaga aylanib, issiqqa chidamli bo'ladi
+- Nuklein kislotalar bo'linib, ko'payish kuchayadi
+- Hujayra suvi muzlab, tuzilishi saqlanadi
+! Yuqori haroratda oqsillar denaturatsiyaga uchraydi, fermentlar faolsizlanadi va mikroorganizm ko'payish qobiliyatini yo'qotadi
+@ M CDCSTER
+
+? Quruq issiqlik sterilizatsiyasida odatda qanday rejim qo'llanadi?
++ 160–180 °C, bir necha soat
+- 100 °C, bir necha daqiqa
+- 121 °C, 15–20 daqiqa
+- 60 °C, bir necha daqiqa
+- 250 °C, bir necha soniya
+! Quruq issiqlikda harorat 160–180 °C oralig'ida tanlanadi va ekspozitsiya bir necha soat davom etadi; CDC: 170 °C da 60 daqiqa, 160 °C da 120 daqiqa
+@ M CDCSTER
+
+? Quruq issiqlikda nima uchun harorat yuqori va vaqt uzoq kerak?
++ Namlik bo'lmagani uchun oqsil sekin buziladi
+- Havo bug'ga qaraganda tez issiqlik uzatadi
+- Quruq issiqlik sporalarga ta'sir qilmaydi
+- Shisha idish issiqlikni sekin qaytaradi
+- Mikroblar quruq muhitda ko'payib ketadi
+! Namlik bo'lmasa issiqlik oqsil tuzilishini bug'ga nisbatan sekin buzadi, shu sababli harorat yuqoriroq va vaqt uzunroq bo'lishi kerak
+@ M CDCSTER
+
+? Quruq issiqlik shkafi qanday ataladi?
++ Pasteur shkafi
+- Kox apparati
+- Arnold apparati
+- Papin qozoni
+- Petri shkafi
+! Quruq issiqlik sterilizatsiyasi uchun Pasteur shkafi deb ataladigan termostatli quruq issiqlik shkafi ishlatiladi
+@ M
+
+? Shkaf ichida buyumlar nima uchun zich qo'yilmaydi?
++ Issiq havo aylanishi buzilmasligi uchun
+- Shisha bir-biriga yopishib qolmasligi uchun
+- Namlik tezroq to'planishi uchun
+- Termometr ko'rsatkichi o'zgarmasligi uchun
+- Eshik tez ochilishi uchun
+! Issiq havo aylanishi buzilsa, ayrim qismlar yetarli isimaydi va ularda mikroblar tirik qolishi mumkin
+@ M
+
+? Quruq issiqlik shkafiga qo'yishdan oldin buyumlar qanday bo'lishi kerak?
++ Yuvilgan va quritilgan
+- Nam holda, bug'lanishi uchun
+- Yog'li moy bilan artilgan
+- Spirtga botirilgan, ho'l
+- Muzlatilib, qotirilgan
+! Qolgan namlik bug'lanib, sterilizatsiya natijasiga salbiy ta'sir qilishi mumkin, shuning uchun buyumlar yuvilib quritiladi
+@ M
+
+? Ekspozitsiya vaqtida shkaf eshigi ochilsa nima bo'ladi?
++ Harorat tushib, vaqt hisobi buziladi
+- Sterillik tezroq ta'minlanadi
+- Harorat ikki baravar ko'tariladi
+- Namlik kamayib, ishlov qisqaradi
+- Shisha idishlar tezda eriydi
+! Eshik ochilsa issiq havo chiqib, harorat keskin tushadi va vaqt hisobi buziladi
+@ M
+
+? Sovitish davrida shkaf eshigi nima uchun ochilmaydi?
++ Sovuq havodan issiq shisha yorilishi mumkin
+- Havoda sporalar ko'payib ketishi mumkin
+- Termometr buzilib qolishi mumkin
+- Metall asboblar zanglab qolishi mumkin
+- Buyumlar bir-biriga yopishib qolishi mumkin
+! Sovuq havo tushgan issiq shisha idishlar yorilishi yoki sinishi mumkin
+@ M
+
+? Quruq issiqlik shkafida qaysi buyumlar zararsizlantiriladi?
++ Shisha idishlar, pipetkalar va metall asboblar
+- Rezina naychalar va plastmassa idishlar
+- Qand va jelatinli oziqa muhitlari
+- Paxta-doka bog'lamlari va suyuq eritmalar
+- Qog'oz hujjatlari va mato xalatlar
+! Quruq issiqlik shisha idishlar, Petri likopchalari, pipetkalar, probirkalar va metall asboblar uchun mos keladi
+@ M CDCSTER
+
+? Oziqa muhitlari nima uchun bug' avtoklavida sterillanadi?
++ Bu usul tarkibini saqlab qoladi
+- Quruq issiqlik muhitni muzlatib qo'yadi
+- Avtoklav sporalarni yo'q qilmaydi
+- Quruq issiqlik namlikni oshirib yuboradi
+- Avtoklavda muhit rangi o'zgarib ketadi
+! Oziqa muhitlari quruq issiqlikka mos kelmaydi, bug' avtoklavi esa ularning tarkibini saqlab qoladi
+@ M
+
+? Quruq issiqlikning asosiy afzalligi nima?
++ Bug' manbai yoki bosimli idish talab qilmaydi
+- Juda qisqa vaqtda sterilizatsiya qiladi
+- Plastmassa va rezinani sterillaydi
+- Oziqa muhitlari tarkibini yaxshilaydi
+- Past haroratda ham samarali ishlaydi
+! Quruq issiqlik usuli bug' manbai yoki bosimli idishni talab qilmaydi, lekin sekin va yuqori harorat talab qiladi
+@ M CDCSTER
+
+# 244
+
+? Nurlar mikroblarga qanday ta'sir qiladi?
++ Nuklein kislota va oqsillar energiyani yutadi
+- Hujayra devorini qaynatib eritib yuboradi
+- Mikroblarni muzlatib, qotirib qo'yadi
+- Ribosomalarni shishirib, yorib tashlaydi
+- Hujayra suvini kondensatsiyalab quyadi
+! Nuklein kislotalar va oqsillar nur energiyasini yutadi, tuzilishi buziladi va hujayra ko'payish qobiliyatini yo'qotadi
+@ M JAW
+
+? Mikrobiologiyada eng ko'p ishlatiladigan ultrabinafsha nurning to'lqin uzunligi qancha?
++ Taxminan 254 nm
+- Taxminan 500 nm
+- Taxminan 700 nm
+- Taxminan 1000 nm
+- Taxminan 2540 nm
+! Mikrobiologiyada ko'pincha to'lqin uzunligi taxminan 254 nm bo'lgan UB nur ishlatiladi
+@ M JAW
+
+? 254 nm to'lqin uzunligidagi UB nur DNKda nimani hosil qiladi?
++ Qo'shni pirimidinlar orasida bog'lanish
+- Qo'shni purinlar orasida bog'lanish
+- Fosfodiefir bog'larining to'liq gidrolizi
+- DNK iplarining ribosomaga ulanishi
+- Gistonlar bilan kovalent bog'lanish
+! UB nur DNKda qo'shni pirimidin asoslari orasida bog'lanish hosil qilib, replikatsiya va transkripsiyani buzadi
+@ M JAW
+
+? Ultrabinafsha nurning asosiy kamchiligi nima?
++ Kam kirib boradi, soyada ta'sir qilmaydi
+- Juda chuqur kirib, to'qimalarni yoqadi
+- Changli yuzada yanada kuchli ishlaydi
+- Qalin qatlam orqali oson o'tadi
+- Havo orqali umuman tarqalmaydi
+! UB nur yupqa qatlamni ham to'liq o'ta olmaydi, soya joylarda mikroblar tirik qoladi, chang esa ta'sirini kamaytiradi
+@ M JAW
+
+? UB nur qaysi ob'ektlarni zararsizlantirish uchun samarali?
++ Havo va ochiq yuzalarni
+- Oziqa muhitlari va chuqur qatlamni
+- Qalin qatlamli matolarni
+- Suyuq eritmalarni chuqur qatlamda
+- Yopiq qadoq ichidagi asboblarni
+! UB nur havo va ochiq yuzalar uchun samarali, lekin oziqa muhitlari va chuqur qatlamdagi materiallar uchun mos emas
+@ M JAW
+
+? Bakteritsid lampa ichida nima bo'ladi?
++ Simob bug'i, tok ta'sirida UB chiqaradi
+- Neon gazi, qizil nur chiqaradi
+- Natriy bug'i, sariq yorug'lik beradi
+- Rentgen trubkasi va vakuum
+- Radioaktiv izotop, gamma nur beradi
+! Bakteritsid lampa ichida simob bug'i bo'lib, elektr toki ta'sirida ultrabinafsha nur chiqaradi
+@ M JAW
+
+? Bakteritsid lampa nima uchun belgilangan muddatda almashtiriladi?
++ Nur chiqarishi vaqt bilan pasayadi
+- Shishasi vaqt o'tgach eriydi
+- Simobi to'liq bug'lanib ketadi
+- Kamera ichida bosim ko'tarilib ketadi
+- Nur ko'zga zararsiz bo'lib qoladi
+! Lampaning nur chiqarish qobiliyati vaqt o'tishi bilan pasayadi, shuning uchun sterilizatsiya samaradorligi kamayadi
+@ M
+
+? Bakteritsid lampa shishasi nima uchun spirt bilan artiladi?
++ Chang nur chiqishini to'sib qo'yadi
+- Shisha qizib ketmasligi uchun
+- Spirt nur kuchini oshirishi uchun
+- Simob ifloslantirmasligi uchun
+- Chiroq shishasi yoyilib ketmasligi uchun
+! Lampa shishasi spirt bilan artiladi, chunki chang nur chiqishini to'sib qo'yishi mumkin
+@ M
+
+? Lampa o'chirilgach xonaga nima uchun darhol kirilmaydi?
++ Havodagi zaharli moddalar tarqalishi uchun
+- Lampa shishasi hali qizib turgani uchun
+- Nur to'liq o'chmagan bo'lgani uchun
+- Xona harorati keskin tushgani uchun
+- Havoda sterilizatsiya davom etgani uchun
+! Havoda hosil bo'lgan zaharli moddalar tarqalishi uchun vaqt kerak, shuning uchun xonaga darhol kirish tavsiya etilmaydi
+@ M
+
+? Ionlovchi nurlanishga qaysi nurlar kiradi?
++ Gamma nurlar va tezlashtirilgan elektronlar
+- Ultrabinafsha va ko'rinadigan nurlar
+- Infraqizil va mikroto'lqinli nurlar
+- Radiotulqin va ovoz to'lqinlari
+- Lazer nuri va yorug'lik diodlari
+! Ionlovchi nurlanishga gamma nurlari va tezlashtirilgan elektron nurlari kiradi; ular DNKni shikastlaydi
+@ M CDCSTER
+
+? Ionlovchi nurlar UB nurdan nimasi bilan farq qiladi?
++ Buyum ichiga, qadoq orqali ham kiradi
+- Sirtga ham zo'rg'a ta'sir qiladi
+- Buyum qalinligiga qaramay yuzada qoladi
+- Oddiy yorug'likda ishlaydi
+- Xodimga zararsiz hisoblanadi
+! Ionlovchi nurlar buyumning ichki qismiga ham kira oladi, shuning uchun qadoqlangan buyumlarni ham sterilizatsiya qilish mumkin
+@ M CDCSTER
+
+? Nurlar bilan sterilizatsiya termik usullardan nimasi bilan farq qiladi?
++ Buyum haroratini deyarli oshirmaydi
+- Buyum haroratini 200 °C gacha ko'taradi
+- Bug' va bosim hosil qilishni talab qiladi
+- Namlikni oshirib yuborishi bilan farq qiladi
+- Oqsilni qaynatib koagulyatsiya qiladi
+! Nurlar buyum haroratini deyarli oshirmaydi, shuning uchun termik ta'sirga zaif plastmassa buyumlarni ham sterilizatsiya qilish mumkin
+@ M
+
+# 245
+
+? Alanga yordamida sterilizatsiyada mikroblarga nima bo'ladi?
++ Suv bug'lanib, oqsillar denaturatsiyalanadi
+- Hujayralar muzlab, tuzilishi saqlanadi
+- Oqsillar bo'linib, hujayra ko'payadi
+- Nuklein kislotalar nurni yutadi
+- Hujayra devori kimyoviy eriydi
+! Alanga ta'sirida hujayradagi suv tez bug'lanadi va oqsillar denaturatsiyaga uchrab, mikroblar ko'payish qobiliyatini yo'qotadi
+@ M
+
+? Alanga usulida buyum nega olov bo'ylab to'liq aylantiriladi?
++ Olov tekkan qismgina zararsizlanadi
+- Buyum tezroq sovib qolishi uchun
+- Olov o'chib qolmasligi uchun
+- Bo'yoq tez o'zgarmasligi uchun
+- Alanga rangi o'zgarishi uchun
+! Alanga usulida ta'sir zonasi cheklangan: olov bevosita tegib turgan qism zararsizlanadi
+@ M
+
+? Alanga usuli qaysi asboblar uchun mos?
++ Ilmoq, igna va pinset kabi ingichka asboblar
+- Petri likopchalari va katta shisha idishlar
+- Oziqa muhitlari quyilgan kolbalar
+- Katta hajmdagi shisha idishlar to'plami
+- Qalin devorli metall idishlar
+! Qalin buyumlarning ichiga issiqlik yetib bormaydi, shuning uchun usul ilmoq, igna, pinset kabi ingichka asboblar uchun mos
+@ M
+
+? Bunsen gorelkasi qanday olov beradi?
++ Yuqori haroratli, rangsiz olov
+- Past haroratli, tutunli sariq olov
+- Past haroratli, doimo qizil olov
+- Sovuq, ko'k tusli nursiz olov
+- Tutunli va qurumli qora olov
+! Bunsen gorelkasi gaz bilan ishlaydi va yuqori haroratli, rangsiz olov beradi
+@ M
+
+? Spirtovka qaysi ishlar uchun qulay?
++ Kichik hajmdagi ishlar uchun
+- Katta hajmdagi sanoat ishlari uchun
+- Yuqori bosimli sterilizatsiya uchun
+- Gaz bilan ishlovchi katta pechlarda
+- Ko'p soatlik sterilizatsiya uchun
+! Spirtovka spirt bilan ishlaydi va kichik hajmdagi ishlar uchun qulay
+@ M
+
+? Ilmoq alanga ichiga qanday kiritiladi?
++ Avval eng issiq yuqori qismiga
+- Avval olov chetiga, bir soniya ushlab
+- Sovuq pastki qismiga, sekin isitib
+- Alanga yonidan, tegmasdan, uzoq
+- Olov markaziga, burchak ostida egib
+! Ilmoq alanganing eng issiq yuqori qismiga kiritilib, qizarguncha ushlab turiladi, shunda barcha qismi zararsizlanadi
+@ M
+
+? Qizdirilgan ilmoq ishlatishdan oldin nima qilinadi?
++ Ishlatishdan oldin sovitiladi
+- Darhol namunaga tegiziladi
+- Muz ustiga qo'yib tashlanadi
+- Qizigan holatda ishlatiladi
+- Suvga botirib sovitiladi
+! Qizib turgan asbob namunani buzib yuborishi mumkin, shuning uchun u steril joyda yoki havoda sovitiladi
+@ M
+
+? Kuydirish usuli nimani zararsizlantirish uchun qo'llanadi?
++ Ishlatilgan materiallar va hayvon jasadlarini
+- Oziqa muhitlari va shisha idishlarni
+- Metall asboblar va ilmoqlarni
+- Ko'zoynak va mikroskop linzalarini
+- Probirka va pipetkalarni
+! Kuydirishda buyum to'liq yonib kul holiga keladi; ishlatilgan mikrobiologik materiallar, hayvon jasadlari va zararli chiqindilar shunday zararsizlantiriladi
+@ M WHOLBM
+
+? Kuydirishdan keyin nima qoladi?
++ Anorganik qoldiqlar qoladi
+- Organik moddalar saqlanib qoladi
+- Sporali mikroblar qoladi
+- Bakteriya kulturalari qoladi
+- Yonmagan to'qimalar qoladi
+! Kuydirish natijasida organik moddalar yo'qolib, faqat anorganik qoldiqlar qoladi va ular xavfsiz tarzda yo'q qilinadi
+@ M
+
+? Yonib turgan spirtovkaga spirt quyish nima uchun taqiqlanadi?
++ Yong'in xavfini keskin oshiradi
+- Spirt tezda bug'lanib ketadi
+- Olov rangi o'zgarib ketadi
+- Spirtovka sovib qolishi mumkin
+- Fitil ho'llanib qoladi
+! Spirtovka yonidan spirt quyish yong'in xavfini keskin oshiradi
+@ M
+
+? Alanga usuli qaysi buyumlar uchun mos emas?
++ Petri likopchalari va oziqa muhitlari
+- Bakteriologik ilmoq va igna
+- Pinset va shisha tayoqcha
+- Ingichka metall asboblar
+- Metall igna va simli ilmoqlar
+! Alanga usuli oziqa muhitlari, Petri likopchalari va ko'p miqdordagi shisha idishlar uchun mos emas: olov ularni eritishi, sindirishi yoki kuydirishi mumkin
+@ M
+
+# 246
+
+? Qaynatish vaqti odatda qancha belgilanadi?
++ 15 daqiqadan 30 daqiqagacha
+- Bir necha soniyadan yarim minutgacha
+- 3 soatdan 5 soatgacha davom etadi
+- Bir sutkadan uch sutkagacha
+- 1 daqiqadan 2 daqiqagacha bo'ladi
+! Qaynatish vaqti odatda 15–30 daqiqa; aniq rejim buyum va vazifaga qarab belgilanadi
+@ M
+
+? Qaynatish vaqti qachondan hisoblanadi?
++ Suv qaynay boshlagan paytdan
+- Idish isitgichga qo'yilgan paytdan
+- Suv quyilgan paytdan boshlab
+- Buyum sovigandan keyin boshlab
+- Suv ko'pik chiqmay qolganda
+! Vaqt suv qaynay boshlagan paytdan hisoblanadi, chunki shu paytdan harorat barqaror 100 °C da turadi
+@ M
+
+? Qaynatishda buyum qanday bo'lishi kerak?
++ Suvga to'liq botirilgan
+- Suv yuzasidan yarmi chiqib turgan
+- Suv ustida bug'da ushlangan
+- Qopqoq ustida turgan
+- Quruq idish ichida solingan
+! Yuzaga chiqib turgan qism zararsizlanmaydi, shuning uchun buyum suvga to'liq botiriladi
+@ M
+
+? Bakteriya sporalari 100 °C da qanday bo'ladi?
++ Uzoq vaqt tirik qolishi mumkin
+- Bir necha soniyada nobud bo'ladi
+- Darhol vegetativ shaklga o'tib o'ladi
+- Qaynashi bilan butunlay eriydi
+- Qaynatishda tezda ko'payib ketadi
+! Sporalar 100 °C da uzoq vaqt tirik qolishi mumkin, shu sababli qaynatish ularni to'liq yo'q qilmaydi
+@ M CDCSTER
+
+? Qaynatish qanday usul hisoblanadi?
++ Dezinfeksiya usuli, sterilizatsiya emas
+- Sporalarni ham yo'q qiladigan sterilizatsiya
+- Gaz bilan ishlovga o'xshash kimyoviy usul
+- Nurlantirishga o'xshash fizikaviy usul
+- Filtrlashga yaqin mexanik usul
+! Qaynatish sporalarni yo'q qilmagani uchun haqiqiy sterilizatsiya emas, balki dezinfeksiya usuli hisoblanadi
+@ M CDCSTER
+
+? Suvga soda qo'shishning vazifasi nima?
++ Zanglashni kamaytiradi, haroratni biroz oshiradi
+- Suvni rangsizlantirib, hidini yo'qotadi
+- Sporalarni bir zumda yo'q qiladi
+- Suv qaynashini to'xtatib, ko'pik hosil qiladi
+- Buyumlarni yaltiratib, silliq qilib qo'yadi
+! Natriy gidrokarbonat suvning qaynash haroratini biroz oshiradi va metall buyumlarning zanglashini kamaytiradi
+@ M
+
+? Qaynatish qaysi buyumlar uchun keng qo'llanadi?
++ Shpris, igna, metall asbob va rezina naychalar
+- Oziqa muhitlari va termik chidamsiz plastmassa
+- Qand va jelatinli muhitlar va bo'yoqlar
+- Qog'oz va mato hujjatlar, kitoblar
+- Elektron asboblar va optik linzalar
+! Shprislar, ignalar, metall asboblar va rezina naychalar qaynatish haroratiga chidaydi va qisqa muddatda zararsizlanadi
+@ M
+
+? Qaynatish qaysi buyumlar uchun mos emas?
++ Oziqa muhitlari va termik chidamsiz plastmassa
+- Shprislar va zanglamaydigan metall asboblar
+- Ignalar va zanglamaydigan pinsetlar
+- Rezina naychalar va shisha tayoqchalar
+- Kichik metall qaychilar va qisqichlar
+! Oziqa muhitlari, ayrim plastmassa va termik chidamsiz asboblar qaynatilganda erishi, deformatsiyalanishi yoki tarkibi buzilishi mumkin
+@ M
+
+? Balandlik ortgan sari suvning qaynash harorati nima bo'ladi?
++ Pasayadi, shuning uchun samara kamayishi mumkin
+- Ortadi, shuning uchun samara oshishi mumkin
+- O'zgarmaydi, doim aniq 100 °C bo'ladi
+- Ikki baravar ko'tariladi, bug' ko'payadi
+- Nolga tushadi, suv qaynamaydi
+! Balandlik ortgan sari atmosfera bosimi kamayib, suvning qaynash harorati pasayadi, bu tog'li hududlarda qaynatish samaradorligini kamaytiradi
+@ M
+
+? Qaynayotgan idish qopqog'i qanday ochiladi?
++ Bug' yuzga tegmasligi uchun o'zidan uzoqda
+- Yuzni yaqinlashtirib, ichiga qarab
+- Qo'lni qo'lqopsiz idish bo'ylab tutib
+- Idishni qo'l bilan ushlab qiyshaytirib
+- Qopqoqni silkitib, tez ochib
+! Qopqoq o'zidan uzoqroq tutib ochiladi, bug' yuzga tegmasligi kerak; qaynayotgan idishni qo'l bilan ushlash taqiqlanadi
+@ M
+
+? Qaynatilgan suvni qayta ishlatish nimaga olib keladi?
++ Ifloslanish xavfi ortadi
+- Sterillik darajasi ortadi
+- Sporalar to'liq yo'qoladi
+- Vaqt hisobi talab qilinmaydi
+- Metallar zanglamay qoladi
+! Qaynatilgan suvni qayta ishlatish ifloslanish xavfini oshiradi, shuning uchun har bir ishda yangi suv tayyorlanadi
+@ M
+
+# 247
+
+? Sterilizatsiya nazorati nimani isbotlash uchun o'tkaziladi?
++ Buyum haqiqatan zararsizlanganini
+- Asbob narxini oqlash uchun
+- Xodim ish haqini hisoblash uchun
+- Qadoq rangini tanlash uchun
+- Elektr sarfini kamaytirish uchun
+! Nazorat buyumning haqiqatan zararsizlanganini isbotlash va asbob nosozliklarini aniqlash uchun o'tkaziladi
+@ M CDCSTER
+
+? Sterilizatsiya nazoratining turlari qaysilar?
++ Fizikaviy, kimyoviy va biologik
+- Optik, akustik va elektrik
+- Mexanik, gidravlik va pnevmatik
+- Genetik, immunologik va serologik
+- Mikroskopik, makroskopik va sezgi
+! Nazorat fizikaviy, kimyoviy va biologik usullarda amalga oshiriladi
+@ M CDCSTER
+
+? Fizikaviy nazorat nimani o'lchaydi?
++ Harorat, bosim va vaqtni
+- Rang, hid va tuzni
+- Zichlik, yorug'lik va tovushni
+- Namlik, shovqin va ranglarni
+- Hajm, og'irlik va uzunlikni
+! Fizikaviy nazorat asbob ko'rsatkichlari: harorat, bosim va vaqtni o'lchashga asoslanadi
+@ M CDCSTER
+
+? Fizikaviy nazoratning asosiy kamchiligi nima?
++ Buyum ichidagi haroratni ko'rsatmaydi
+- Harorat va bosimni o'lchay olmaydi
+- Jurnalga yozib qo'yishga imkon bermaydi
+- Asbob nosozligini bildirmaydi
+- Vaqtni hisoblab bera olmaydi
+! Asbob ko'rsatkichi to'g'ri bo'lsa ham, buyumning chuqur qismi yetarli isimagan bo'lishi mumkin, shuning uchun boshqa usullar bilan birga qo'llanadi
+@ M CDCSTER
+
+? Kimyoviy indikator qanday ishlaydi?
++ Sterilizatsiya sharoitida rangini o'zgartiradi
+- Tirik sporalarning o'sishini ko'rsatadi
+- Mikroblar sonini to'g'ridan-to'g'ri sanaydi
+- Bosimni raqamlar bilan yozib boradi
+- Vaqtni soat kabi hisoblab turadi
+! Kimyoviy indikatorlar ma'lum harorat yoki bosimga yetganda rangini o'zgartiradi
+@ M CDCSTER
+
+? Kimyoviy indikator rangi o'zgarishi nimani anglatadi?
++ Sharoit bajarilganini, sterillik isboti emas
+- Mikroblar yo'qolganini to'liq isbotlaydi
+- Sporalar tirik qolganini ko'rsatadi
+- Asbob buzilganini bildiradi
+- Buyum hali sterillanmaganini bildiradi
+! Rang o'zgarishi faqat fizik sharoit haqida ma'lumot beradi va mikroblar yo'q qilinganini to'liq isbotlamaydi
+@ M CDCSTER
+
+? Biologik nazoratda qaysi mikroorganizmlar ishlatiladi?
++ Chidamli bakteriya sporalari
+- Vegetativ stafilokokk hujayralari
+- Sezgir ichak tayoqchasi hujayralari
+- Xamirturush zamburug'i hujayralari
+- Virus zarrachalari kulturasi
+! Biologik nazoratda sterilizatsiyaga eng chidamli bakteriya sporalari sinov organizmi sifatida qo'llanadi
+@ M CDCSTER
+
+? Bug' avtoklavi uchun sinov mikroorganizmi qaysi?
++ Geobacillus stearothermophilus sporalari
+- Bacillus atrophaeus sporalari
+- Escherichia coli hujayralari
+- Staphylococcus aureus hujayralari
+- Candida albicans hujayralari
+! Bug' avtoklavi uchun Geobacillus stearothermophilus sporalari qo'llanadi
+@ M CDCSTER
+
+? Quruq issiqlik uchun sinov mikroorganizmi qaysi?
++ Bacillus atrophaeus sporalari
+- Geobacillus stearothermophilus sporalari
+- Escherichia coli hujayralari
+- Pseudomonas aeruginosa hujayralari
+- Klebsiella pneumoniae hujayralari
+! Quruq issiqlik sterilizatsiyasi uchun Bacillus atrophaeus sporalari ishlatiladi
+@ M CDCSTER
+
+? Biologik indikator natijasi qachon ma'lum bo'ladi?
++ Bir necha kun inkubatsiyadan keyin
+- Sterilizatsiya tugashi bilan bir zumda
+- Bir necha soniyada rang o'zgarishidan
+- Bir yil saqlanganidan keyin
+- Ikki daqiqalik tekshiruvdan keyin
+! Sporali tasma yoki ampula oziqa muhitiga ekilib inkubatsiya qilinadi, natija odatda bir necha kundan keyin ma'lum bo'ladi
+@ M CDCSTER
+
+? Biologik indikatordagi sporalar o'sib chiqsa nimani bildiradi?
++ Sterilizatsiya yetarli bo'lmaganini
+- Sterilizatsiya to'liq samarali bo'lganini
+- Indikator bo'sh bo'lganini
+- Muhit zararsiz ekanini
+- Nazorat talab qilinmasligini
+! Spora o'sib chiqsa, sterilizatsiya yetarli bo'lmagan va partiyani qayta ishlash kerak
+@ M CDCSTER
+
+? Sterilizatsiya jurnaliga nimalar yoziladi?
++ Sana, usul, rejim, buyumlar va natija
+- Xodimning oilaviy ahvoli va yoshi
+- Idishning narxi va ishlab chiqaruvchisi
+- Bemorlarning ismi va manzillari
+- Xona harorati va havo namligi
+! Jurnalda sana, vaqt, sterilizatsiya usuli, rejim, buyumlar ro'yxati va nazorat natijalari qayd etiladi
+@ M

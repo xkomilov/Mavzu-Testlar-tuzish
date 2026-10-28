@@ -1,0 +1,272 @@
+# 032
+? Normal mikroflora bilan odam o'rtasidagi munosabat ko'pincha qanday xarakterda bo'ladi?
++ Mutualizm xarakterida
+- Parazitizm xarakterida
+- Antagonizm xarakterida
+- Yirtqichlik xarakterida
+- Raqobat xarakterida
+! Normal mikroflora bilan odam o'rtasidagi munosabat ko'pincha mutualizm xarakterida bo'ladi
+@ M JAW
+
+? Teri yuzasida odatda qaysi mikroblar uchraydi?
++ Stafilokokklar, mikrokokklar va korinebakteriyalar
+- Salmonella, shigella va vabo vibrioni tayoqchalari
+- Meningokokk, gonokokk va ko'kyo'tal tayoqchalari
+- Qoqshol, botulizm va kuydirgi sporali tayoqchalari
+- Treponema, leptospira va borreliya spiroxetalari
+! Teri yuzasida stafilokokklar, mikrokokklar, korinebakteriyalar va boshqa mikroblar uchraydi
+@ M JAW
+
+? Terining qaysi xususiyati ko'plab mikroblar o'sishini cheklaydi?
++ Kislotali muhiti
+- Ishqoriy muhiti
+- Yuqori namligi
+- Qalin kapsulasi
+- Doimiy yuqori harorati
+! Teri kislotali muhitga ega, bu ko'plab mikroblar o'sishini cheklaydi
+@ M JAW
+
+? Og'iz bo'shlig'i mikroflorasida qaysi mikroblar yashaydi?
++ Streptokokklar, laktobakteriyalar va bakteroidlar
+- Vibrionlar, brutsellalar va yersiniyalar
+- Mikobakteriyalar, rikketsiyalar va xlamidiyalar
+- Klostridiyalar, bordetellalar va neysseriyalar
+- Salmonellalar, shigellalar va klebsiellalar
+! Og'iz bo'shlig'ida streptokokklar, laktobakteriyalar, bakteroidlar va boshqa anaerob mikroblar yashaydi
+@ M JAW
+
+? Ichak mikroflorasi muvozanatining buzilishi nima deb ataladi?
++ Disbakterioz
+- Bakteriemiya
+- Sepsis
+- Kolonizatsiya
+- Bakteriuriya
+! Ichak mikroflorasi muvozanati antibiotiklar, stress yoki noto'g'ri ovqatlanish ta'sirida buzilishi mumkin; bu holat disbakterioz deyiladi
+@ M JAW
+
+? Vagina mikroflorasida qaysi mikroblar ustunlik qiladi?
++ Laktobakteriyalar
+- Stafilokokklar
+- Ichak tayoqchalari
+- Klostridiyalar
+- Mikobakteriyalar
+! Ayollarda vagina mikroflorasida laktobakteriyalar ustunlik qiladi
+@ M JAW
+
+? Laktobakteriyalar vaginada muhitni qanday saqlaydi?
++ Glikogenni sut kislotasiga aylantirib, muhitni nordon tutadi
+- Glikogenni spirtga aylantirib, muhitni ishqoriy tutadi
+- Oqsillarni parchalab, muhitni neytral tutib turadi
+- Yog'larni gidrolizlab, muhitni quruq tutib turadi
+- Mochevinani parchalab, muhitni ishqoriylashtirib turadi
+! Laktobakteriyalar glikogenni sut kislotasiga aylantirib muhitni nordon saqlaydi, bu patogenlar o'sishini cheklaydi
+@ M JAW
+
+? Normal mikroflora vakillari himoya pasayganda kasallik qo'zg'atsa, ular qanday ataladi?
++ Shartli-patogen
+- Mutlaq patogen
+- Saprofit
+- Avtotrof
+- Termofil
+! Normal mikroflora vakillari organizm himoyasi pasayganda yoki to'qima shikastlanganda kasallik qo'zg'atishi mumkin; ular shartli-patogen deyiladi
+@ M JAW
+
+? Balg'am yoki siydikda normal mikroflora vakillarining topilishi nimani bildirishi mumkin?
++ Kasallik belgisi emas, namuna ifloslanishini
+- Albatta og'ir infeksiya borligini ko'rsatadi
+- Antibiotiklarga to'liq sezuvchanlikni bildiradi
+- Bemorning to'liq sog'ayganini bildiradi
+- Doimiy bakteriemiya borligini bildiradi
+! Balg'amda yoki siydikda normal mikroflora vakillarining borligi kasallik belgisi emas, namunaning ifloslanishi bo'lishi mumkin
+@ M
+
+? Odam organizmi mikroblar bilan qachondan boshlab kolonizatsiyalanadi?
++ Tug'ilishdan boshlab
+- Bir yoshga to'lgandan keyin
+- Maktab yoshidan boshlab
+- Balog'atga yetgandan keyin
+- Birinchi antibiotik qabul qilgandan so'ng
+! Odam organizmi tug'ilishdan boshlab mikroblar bilan kolonizatsiyalanadi; birinchi mikroblarni tug'ruq vaqtidagi ona mikroflorasi va ovqatlanish shakllantiradi
+@ M
+
+# 033
+? Bakteriofag nima?
++ Bakteriyalarni yuqtirib, ichida ko'payadigan virus
+- Bakteriyalardan hosil bo'ladigan bo'yoq pigmenti moddasi
+- Bakteriyalarni yutadigan bir hujayrali sodda jonivor
+- Bakteriyalar ishlab chiqaradigan antibiotik modda turi
+- Bakteriya hujayrasidagi ribosoma kichik birligi
+! Bakteriofag — bakteriyalarni yuqtiradigan va ularning ichida ko'payib, hujayrani lizisga olib keladigan virus
+@ M JAW
+
+? "Bakteriofag" nomi qaysi yunoncha so'zdan olingan va nimani bildiradi?
++ "Phagos" — yeb yuboruvchi
+- "Phagos" — yorituvchi
+- "Photos" — nur sochuvchi
+- "Phobos" — qo'rquv uyg'otuvchi
+- "Phyton" — o'simlik hosil qiluvchi
+! Nomi yunoncha "phagos" (yeb yuboruvchi) so'zidan olingan, chunki fag bakteriya hujayrasini "yeb yuboradi"
+@ M
+
+? 1915-yilda bakteriyalar koloniyasida shaffof joylar paydo bo'lishini kuzatgan ingliz mikrobiologi kim?
++ F. Tvort
+- F. d'Herelle
+- A. Fleming
+- R. Kox
+- L. Paster
+! 1915-yilda ingliz mikrobiologi F. Tvort bakteriyalar koloniyasida shaffof joylar paydo bo'lishini kuzatgan
+@ M
+
+? 1917-yilda hodisani tavsiflab, agentga "bakteriofag" nomini bergan olim kim?
++ F. d'Herelle
+- F. Tvort
+- D. Ivanovskiy
+- I. Mechnikov
+- P. Erlix
+! 1917-yilda fransuz olimi F. d'Herelle hodisani tavsifladi va agentga "bakteriofag" nomini berdi
+@ M
+
+? Ichak tayoqchasini yuqtiradigan fag qanday ataladi?
++ Kolifag
+- Stafilofag
+- Aktinofag
+- Streptofag
+- Salmonellofag
+! Fag nomlanganda uning yuqtiradigan mikrobi asos qilib olinadi: kolifaglar ichak tayoqchasini, stafilofaglar stafilokokkni yuqtiradi
+@ M
+
+? Fag bir bakteriyadan ikkinchisiga genlarni olib o'tishi nima deb ataladi?
++ Transduksiya
+- Transformatsiya
+- Konyugatsiya
+- Transkripsiya
+- Translatsiya
+! Fag bir bakteriyadan ikkinchisiga genlarni olib o'tishi mumkin, bu hodisa transduksiya deb ataladi
+@ M BROCK
+
+? Fagotiplash nimaga imkon beradi?
++ Bir turdagi bakteriyalarning kichik guruhlarini ajratishga
+- Bakteriyalarni gram-musbat va gram-manfiyga bo'lishga
+- Bakteriyalar sporasini bo'yab ko'rsatishga
+- Antibiotik ta'sirida o'sish zonasini o'lchashga
+- Muhit pH ini o'lchashga
+! Fagotiplash bir turdagi bakteriyalarning kichik guruhlarini ajratishga imkon beradi, bu epidemiologik kuzatuvda muhim
+@ M JAW
+
+? T-juft fag (T2, T4) qaysi bakteriyada keng o'rganilgan?
++ Ichak tayoqchasida
+- Oltinsimon stafilokokkda
+- Sil mikobakteriyasida
+- Vabo vibrionida
+- Meningokokkda
+! T-juft fag (T2, T4) ichak tayoqchasi tadqiqotlarida keng o'rganilgan va molekulyar biologiyada muhim model bo'lgan
+@ M BROCK
+
+? Laboratoriya mashg'ulotida fag borligi qanday aniqlanadi?
++ Lizis zonasi orqali
+- Gaz pufakchalari orqali
+- Qora cho'kma orqali
+- Muhitning sariq tusga o'tishi orqali
+- Spora hosil bo'lishi orqali
+! Mashg'ulotda talabalar fag borligini bakteriya o'sishidagi lizis zonasi orqali aniqlaydilar
+@ M
+
+? Fag DNKsi bilan o'tkazilgan tajribalar nimani ko'rsatishga yordam berdi?
++ Genetik material DNK ekanini
+- Genetik material oqsil ekanini
+- Genetik material lipid ekanini
+- Genetik material polisaxarid ekanini
+- Genetik material ribosoma ekanini
+! Fag DNKsi bilan o'tkazilgan tajribalar genetik material DNK ekanini ko'rsatishga yordam bergan, shu sababli fag genetika darsliklarida model organizm sifatida keltiriladi
+@ M BROCK
+
+# 034
+? Fag zarralarining o'lchami qanday oraliqda bo'ladi?
++ 20 dan 800 nm gacha
+- 0,5 dan 5 mm gacha
+- 2 dan 20 mkm gacha
+- 20 dan 800 mkm gacha
+- 1 dan 5 sm gacha
+! Fag zarralari juda kichik bo'lib, o'lchami 20 dan 800 nm gacha bo'ladi, shu sababli tuzilishi elektron mikroskopda o'rganiladi
+@ M
+
+? Fag tuzilishi qaysi ikki asosiy qismdan iborat?
++ Nuklein kislotali bosh va dum apparati
+- Hujayra devori va sitoplazmatik membrana
+- Kapsula qavati va xivchin apparati qismi
+- Yadro membranasi va sitoplazma qismi
+- Spora po'sti va korteks qavati qismi
+! Bakteriofag tuzilishi nuklein kislota saqlovchi bosh qism va bakteriyaga yopishib DNKni uzatuvchi dum apparatidan iborat
+@ M BROCK
+
+? Fag boshining oqsil qobig'i nima deb ataladi?
++ Kapsid
+- Kapsula
+- Pilus
+- Mezosoma
+- Ekzosporium
+! Fag boshidagi nuklein kislotani o'rab turuvchi oqsil qobig'i kapsid deyiladi va kapsomerlardan tuzilgan
+@ M BROCK
+
+? Kapsid qaysi oqsil birliklaridan tuzilgan?
++ Kapsomerlardan
+- Nukleotidlardan
+- Peptidoglikan zanjirlaridan
+- Flagellin monomerlaridan
+- Ribosomalardan
+! Kapsid kapsomerlar deb ataladigan oqsil birliklaridan tuzilgan
+@ M BROCK
+
+? Fagning dum apparati qanday vazifani bajaradi?
++ Bakteriya devoriga yopishib, DNKni hujayra ichiga kiritadi
+- Bakteriya ichida oqsil sintezini amalga oshiradi
+- Fag zarrachasiga energiya beruvchi nafas zanjirini hosil qiladi
+- Fagni quritishdan himoya qiluvchi kapsula hosil qiladi
+- Fag genomini bo'laklarga bo'lib saqlaydi
+! Dum apparati bakteriya devoriga yopishib, DNKni hujayra ichiga kiritish uchun mo'ljallangan
+@ M BROCK
+
+? Fagning bakteriyani yuqtirish doirasi nimaga bog'liq?
++ Dum ipchalarining tuzilishiga
+- Kapsid rangiga
+- Muhit hajmiga
+- Mikroskop kattalashtirishiga
+- Laboratoriya haroratiga
+! Dum ipchalari bakteriya yuzasidagi retseptorlarni aniqlaydi, shu sababli fagning yuqtirish doirasi dum ipchalari tuzilishiga bog'liq
+@ M BROCK
+
+? Ikosaedr simmetriyada fag boshi nechta uchburchakli yuzga ega?
++ Yigirmata
+- Oltita
+- Sakkizta
+- O'n ikkita
+- O'ttiz oltita
+! Ikosaedr simmetriyada bosh qism yigirmata uchburchakli yuzga ega
+@ M BROCK
+
+? Manfiy bo'yash usulida fag zarrachasi qanday ko'rinadi?
++ Tuz birikmali fonda yorug' tasvir sifatida
+- Qizil fonda hujayra ichida qora nuqta sifatida
+- Yashil fonda hujayra atrofida sariq halqa sifatida
+- Rangsiz fonda hujayra bo'ylab ko'k chiziq sifatida
+- Qora fonda hujayra yonida binafsha dog' sifatida
+! Manfiy bo'yash usulida fon tuz birikmasi bilan bo'yaladi va fag zarrachasi yorug' tasvir sifatida ko'rinadi
+@ M
+
+? Materialga ko'ra fag qaysi haroratda nobud bo'ladi?
++ 65–70 °C da
+- 30–35 °C da
+- 40–45 °C da
+- 85–90 °C da
+- 120–125 °C da
+! Materialga ko'ra fag 65–70 °C da nobud bo'ladi, ultrabinafsha va radiatsiya ta'siri esa uni zararlaydi
+@ M
+
+? Fag preparatlari qanday saqlanadi?
++ Sovitgichda, qorong'i joyda
+- Issiq joyda, yorug'likda
+- Quyosh nuri tushadigan derazada
+- Termostatda, 56 °C haroratda
+- Qaynoq suvli idish yonida
+! Fag preparatlari sovitgichda, qorong'i joyda saqlanadi
+@ M

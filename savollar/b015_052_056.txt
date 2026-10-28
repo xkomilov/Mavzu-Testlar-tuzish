@@ -1,0 +1,463 @@
+# 052
+? Infeksion kasallikning aholi orasida tarqalish shakllari qaysilar?
++ Sporadik, endemik, epidemik va pandemik
+- Mahalliy, hududiy, mintaqaviy va umumiy
+- Birlamchi, ikkilamchi, uchlamchi va to'rtlamchi
+- Aktiv, passiv, tabiiy va sun'iy
+- O'tkir, yarim o'tkir, surunkali va yashirin
+! Tarqalish shakllari odatda sporadik, endemik, epidemik va pandemik turlarga bo'linadi
+@ M JAW
+
+? Sporadik kasallik qanday uchraydi?
++ Bir-biri bilan bog'lanmagan alohida holatlarda
+- Ma'lum hududda doimiy va barqaror darajada qayd etilib
+- Qisqa vaqt ichida ko'plab odamlarda birdaniga paydo bo'lib
+- Bir necha mamlakat bo'ylab keng yoyilib, ommaviy tarzda
+- Kasalxona ichida bemorlar guruhida zanjirsimon tarqalib
+! Sporadik kasallik kutilmagan holda, bir-biri bilan bog'lanmagan alohida holatlar ko'rinishida uchraydi
+@ M JAW
+
+? Endemik kasallik qanday xususiyatga ega?
++ Ma'lum hududda doimiy ravishda uchraydi
+- Qisqa vaqt ichida ko'plab odamlarni qamrab oladi
+- Bir necha mamlakat bo'ylab keng tarqaladi
+- Alohida, bog'lanmagan holatlarda uchraydi
+- Faqat yangi paydo bo'lgan mikrob bilan bog'liq
+! Endemik kasallik ma'lum hududda doimiy ravishda uchraydi va odatda kam o'zgaradigan darajada qayd etiladi
+@ M JAW
+
+? Endemik kasallik qanday xususiyatga ega?
++ Ma'lum hududda doimiy ravishda uchraydi
+- Qisqa vaqt ichida ko'plab odamlarni birdaniga qamrab oladi
+- Bir necha mamlakat bo'ylab keng va tez yoyilib ketadi
+- Alohida, bir-biri bilan bog'lanmagan holatlarda uchraydi
+- Yangi paydo bo'lgan mikrob tufayli ommaviy tarqaladi
+! Endemik kasallik ma'lum hududda doimiy ravishda uchraydi va odatda kam o'zgaradigan darajada qayd etiladi
+@ M JAW
+
+? Pandemiya nima?
++ Kasallikning bir necha mamlakat yoki butun dunyoda tarqalishi
+- Kasallikning bitta qishloq doirasida alohida uchrab turishi
+- Kasallikning ma'lum hududda doimiy va barqaror saqlanishi
+- Kasallikning bitta oila a'zolari orasida uchrab qolishi
+- Kasallikning faqat bir fasl davomida kuzatilib, so'nishi
+! Pandemiya — kasallikning bir necha mamlakat yoki butun dunyo bo'ylab tarqalishi
+@ M JAW
+
+? Pandemiya odatda qachon yuz beradi?
++ Yangi mikrob yoki kuchli virulentli shtamm paydo bo'lganda
+- Barcha aholi to'liq emlanib, immunitet shakllanganda
+- Kasallik ma'lum hududda doimiy va barqaror saqlanganda
+- Mikrob antibiotik ta'sirida butunlay yo'qolib ketganda
+- Suv ta'minoti yaxshilanib, sanitar holat tiklanganda
+! Pandemiya odatda yangi mikrob yoki kuchli virulentlikka ega shtamm paydo bo'lganda yuz beradi
+@ M JAW
+
+? Epidemiya kurvasi nimani ko'rsatadi?
++ Tarqalishning boshlanishi, avj olishi va pasayishini
+- Antibiotikning qondagi konsentratsiyasi o'zgarishini
+- Mikrob hujayra devori tuzilishining o'zgarishini
+- Oziqa muhitidagi pH ko'rsatkichi o'zgarishini
+- Laboratoriya jihozlarining sarflanish hajmini
+! Epidemiya kurvasi kasallik holatlarini vaqt bo'yicha ko'rsatadi va tarqalishning boshlanishi, avj olishi va pasayishini ifodalaydi
+@ M JAW
+
+? Choralar qo'llangandan keyin epidemiya kurvasi pasaysa, bu nimani bildiradi?
++ Choralar samarali ekanini
+- Choralar samarasiz ekanini
+- Kasallik pandemiyaga aylanganini
+- Mikrob virulentligi oshganini
+- Kasallik endemik bo'lib qolganini
+! Choralar qo'llangandan keyin kurva pasaysa, bu choralarning samarali ekanini bildiradi
+@ M JAW
+
+? Epidemiya aniqlanganda laboratoriya va epidemiologik xizmat nima qiladi?
++ Namunalarni tez tekshiradi, bog'liq holatlarni izlaydi
+- Namunalarni bir oy saqlab, natijani sekin kutib turadi
+- Bog'liq holatlarni qidirmasdan, hisobotni yopib qo'yadi
+- Profilaktik choralarni keyinroq, yil oxirida rejalashtiradi
+- Natijalarni boshqa laboratoriyalar bilan solishtirmaydi
+! Epidemiyani aniqlash uchun laboratoriya va epidemiologik xizmat birgalikda ishlaydi: namunalar tez tekshiriladi, bog'liq holatlar izlanadi, profilaktik choralar darhol boshlanadi
+@ M JAW
+
+? Endemik hududlarda sharoit o'zgarsa, nima yuz berishi mumkin?
++ Endemiya kuchayib ketishi mumkin
+- Kasallik avtomatik yo'qolib ketadi
+- Aholi uchun xavf butunlay yo'qoladi
+- Endemiya pandemiyaga aylanishi shart emas
+- Mikrob sezuvchanligi mutlaqo o'zgarmaydi
+! Endemik hududlarda aholi kasallikka qisman moslashgan bo'ladi, lekin sharoit o'zgarsa, endemiya kuchayib ketishi mumkin
+@ M JAW
+
+# 053
+? Infeksion kasallikning bosqichlari qaysi tartibda keladi?
++ Inkubatsiya, prodromal, avj olish, sog'ayish yoki asoratlar
+- Prodromal, inkubatsiya, sog'ayish, avj olish yoki asoratlar
+- Avj olish, inkubatsiya, prodromal, asoratlar yoki sog'ayish
+- Sog'ayish, avj olish, prodromal, inkubatsiya yoki asoratlar
+- Inkubatsiya, sog'ayish, avj olish, prodromal yoki asoratlar
+! Kasallik yashirin (inkubatsiya), prodromal, avj olish va sog'ayish yoki asoratlar bilan tugash bosqichlaridan o'tadi
+@ M JAW
+
+? Kechish davomiyligiga ko'ra infeksiyalar qanday bo'linadi?
++ O'tkir, yarim o'tkir va surunkali
+- Mahalliy, umumiy va aralash
+- Engil, o'rta og'ir va juda og'ir
+- Birlamchi, takroriy va ikkilamchi
+- Tipik, atipik va yashirin
+! Kechish davomiyligiga ko'ra infeksiyalar o'tkir, yarim o'tkir va surunkali bo'ladi
+@ M JAW
+
+? O'tkir infeksiya qanday xususiyatga ega?
++ Belgilar tez paydo bo'ladi va odatda qisqa muddatda tugaydi
+- Belgilar sekin paydo bo'ladi va yillar davomida davom etadi
+- Belgilar yo'q, mikrob organizmda yashirin qoladi
+- Belgilar davriy kuchayib, doimiy saqlanadi
+- Belgilar faqat qayta zararlanganda paydo bo'ladi
+! O'tkir shaklda belgilar tez paydo bo'ladi va kasallik odatda qisqa muddatda tugaydi
+@ M JAW
+
+? Surunkali infeksiya qanday kechadi?
++ Uzoq davom etib, ko'pincha davriy kuchayish bilan
+- Qisqa vaqtda tugab, belgilar bir marta chiqadi
+- Belgilarsiz, mikroblar birdaniga yo'qolishi bilan
+- Tez avj olib, bir necha soatda tugaydi
+- Faqat inkubatsiya davrida qayd etiladi
+! Surunkali infeksiya uzoq vaqt davom etadi va ko'p hollarda davriy kuchayish bilan kechadi
+@ M JAW
+
+? Yarim o'tkir shakl qanday joylashadi?
++ O'tkir va surunkali shakl oralig'ida turadi
+- O'tkir shakldan ancha qisqa vaqt davom etadi
+- Surunkali shakldan ancha uzoq vaqt davom etadi
+- Bolalar orasida uchraydigan alohida shakldir
+- Kasalxona infeksiyalariga xos alohida shakldir
+! Yarim o'tkir shakl o'tkir va surunkali oralig'ida turadi; belgilar bir muncha vaqt davom etadi, lekin o'tkir shakldagidek keskin emas
+@ M JAW
+
+? Yashirin infeksiya qanday ta'riflanadi?
++ Mikrob organizmda bor, belgilar yo'q yoki juda sust
+- Mikrob organizmda yo'q, belgilar esa juda yorqin
+- Mikrob tez yo'qolib, belgilar bir kunda tugaydi
+- Mikrob qonda bo'ladi, to'qimalarda esa uchramaydi
+- Mikrob hayvon organizmida saqlanib, odamda bo'lmaydi
+! Yashirin infeksiyada mikrob organizmda bo'lsa-da, kasallik belgilari yo'q yoki juda sust bo'ladi
+@ M JAW
+
+? Tashuvchilik shakli nima uchun alohida ahamiyatga ega?
++ Tashuvchi belgisiz ham mikrobni boshqalarga yuqtirishi mumkin
+- Tashuvchi mikrobni boshqalarga yuqtira olmaydigan bo'ladi
+- Tashuvchida immunitet har doim mutlaq darajada bo'ladi
+- Tashuvchi har doim og'ir kasal holatda yotgan bo'ladi
+- Tashuvchilik hodisasi faqat hayvonlar orasida uchraydi
+! Tashuvchi odam kasallik belgilarisiz ham mikrobni boshqalarga yuqtirishi mumkin
+@ M JAW
+
+? Prodromal davrda qanday belgilar kuzatiladi?
++ Umumiy holsizlik, bosh og'rig'i va harorat ko'tarilishi
+- Aniq xarakterli toshma va yuqori isitma bilan tutqanoq
+- Qon bosimining keskin pasayishi va hushdan ketish holati
+- Mikrobning yo'qolishi va to'liq sog'ayish belgilari
+- Hech qanday belgi bo'lmaydigan, to'liq yashirin holat
+! Prodromal davrda umumiy holsizlik, bosh og'rig'i va harorat ko'tarilishi kabi noaniq belgilar paydo bo'ladi
+@ M JAW
+
+? Infeksion kasallikning formalari qaysi mezonlar bo'yicha ajratiladi?
++ Klinik belgilar, joylashuv, davomiylik, og'irlik va manba
+- Mikrob rangi, hajmi, hidi va zichligi ko'rsatkichlari bo'yicha
+- Muhit pH i, harorati, namligi va yoritilishi bo'yicha
+- Bemor ismi, yoshi, jinsi va kasbi ko'rsatkichlari bo'yicha
+- Laboratoriya nomi, sanasi, raqami va rangi bo'yicha
+! Formalar klinik belgilari, joylashuvi, kechish davomiyligi, og'irligi va kelib chiqish manbai bo'yicha ajratiladi
+@ M JAW
+
+? Mahalliy (lokal) infeksiyada nima kuzatiladi?
++ Mikrob va zararlanish bitta o'choqda joylashadi
+- Mikrob butun organizmga qon orqali tarqaladi
+- Mikrob organizmda hech qachon ko'paymaydi
+- Zararlanish faqat hasharot ichida bo'ladi
+- Mikrob faqat antibiotik ta'sirida paydo bo'ladi
+! Lokal infeksiyada patogen va uning ta'siri bitta o'choq bilan cheklanadi
+@ M JAW
+
+? Bosqichlarni bilish laborantga nimaga yordam beradi?
++ Kasallikning qaysi davrida tashxis qo'yilganini aniqlashga
+- Oziqa muhiti rangini mos ravishda tanlab olishga
+- Mikroskop linzasini almashtirib, tasvirni yaxshilashga
+- Dori vositasining narxini hisoblab chiqishga
+- Termostat turini tanlab, uni o'rnatib qo'yishga
+! Bosqichlarni bilish kasallikning qaysi davrida tashxis qo'yilganini aniqlashga yordam beradi
+@ M JAW
+
+# 054
+? Immunitet nima?
++ Organizmning yot moddalardan himoyalanish qobiliyati
+- Organizmning oziq moddalarni ichakda so'rish qobiliyati
+- Organizmning harorat o'zgarishiga moslashish qobiliyati
+- Organizmning kislorodni to'qimalarga tashish qobiliyati
+- Organizmning tashqi muhitdan ajralib turish qobiliyati
+! Immunitet — organizmning genetik jihatdan o'ziga yot moddalar, jumladan mikroblar va toksinlardan himoyalanish qobiliyati
+@ M JAW
+
+? Chechakka qarshi himoyalanish imkoniyatini kuzatgan olim kim?
++ Edvard Jenner
+- Lui Paster
+- Robert Kox
+- Ilya Mechnikov
+- Paul Erlix
+! Edvard Jenner chechakka qarshi himoyalanish imkoniyatini kuzatgan
+@ M JAW
+
+? Zaiflashtirilgan mikroblardan vaksina olish yo'lini ochgan olim kim?
++ Lui Paster
+- Edvard Jenner
+- Robert Kox
+- Aleksandr Fleming
+- Karl Voz
+! Lui Paster zaiflashtirilgan mikroblardan vaksina olish yo'lini ochgan
+@ M JAW
+
+? Antigen nima?
++ Begona molekula bo'lib, immun javob chaqiradi
+- Organizmning o'z oqsili bo'lib, javob chaqirmaydi
+- Antitelo molekulasining bir qismi
+- Immun hujayralarning ichki to'ri
+- Oziqa muhitining tarkibiy qismi
+! Begona molekulalar antigen deb ataladi; ularga javob sifatida antitelolar yoki maxsus hujayralar hosil bo'ladi
+@ M JAW
+
+? Immunitet qanday asosiy ikki guruhga bo'linadi?
++ Irsiy va orttirilgan
+- Tez va sekin
+- Mahalliy va umumiy
+- Qisqa va uzoq
+- Bakterial va virusli
+! Immunitet ikki asosiy guruhga bo'linadi: irsiy va orttirilgan
+@ M JAW
+
+? Irsiy immunitet qachon mavjud bo'ladi?
++ Tug'ilishdan boshlab, genetik belgilangan holda
+- Kasallikdan so'ng paydo bo'lib, xotira qoldirib
+- Emlashdan keyin shakllanib, xotira hosil qilib
+- Zardob yuborilgandan so'ng tayyor holda kirib
+- Keksalik davrida rivojlanib, kuchayib boradi
+! Irsiy immunitet tug'ilishdan boshlab mavjud bo'lib, genetik jihatdan belgilanadi
+@ M JAW
+
+? Orttirilgan immunitet qanday hosil bo'ladi?
++ Hayot davomida kasallik yoki emlash natijasida
+- Tug'ilishdan avval genetik kodda belgilanib qo'yilgan holda
+- Ona suti orqali tug'ilgandan keyin ichakdan so'rilib
+- Haroratning ko'tarilishi natijasida o'z-o'zidan hosil bo'lib
+- Oziqlanish tarkibining o'zgarishi bilan avtomatik tarzda
+! Orttirilgan immunitet hayot davomida, kasallik yoki emlash natijasida shakllanadi va xotira hosil qiladi
+@ M JAW
+
+? Orttirilgan immunitet nima uchun spetsifik deb ataladi?
++ Antigen bilan tanishgandan keyin xotira shakllantirgani uchun
+- Barcha mikroblarga bir xil kuch bilan ta'sir qilgani uchun
+- Tug'ilishdan oldin genetik kodda belgilangani uchun
+- Antigen ishtirokisiz o'z-o'zidan hosil bo'lgani uchun
+- Mikrob hujayra devoriga bevosita ta'sir qilgani uchun
+! Orttirilgan immunitet antigen bilan tanishgandan keyin hosil bo'lib, xotira shakllantiradi, shu sababli spetsifik deb ham ataladi
+@ M JAW
+
+? Turga xos (irsiy) immunitet nimani bildiradi?
++ Bir tur ma'lum mikroblarga sezgir bo'lmasligini
+- Barcha turlar barcha mikroblarga sezgir ekanini bildiradi
+- Bolalar infeksiyaga ko'proq moyil bo'lishini bildiradi
+- Tur chidamliligi mutlaq va o'zgarmasligini bildiradi
+- Mikrobning kapsula hosil qilishini bildiradi
+! Turga xos immunitet bir turdagi hayvonlar yoki odamlar ma'lum mikroblarga sezgir bo'lmasligini bildiradi
+@ M JAW
+
+? Immun javob ortiqcha kuchaysa, qanday holatlar yuzaga kelishi mumkin?
++ Allergiya va autoimmun kasalliklar
+- Yangi antibiotiklarga chidamlilik
+- Mikroflora muvozanatining yaxshilanishi
+- Oziqa muhitining pH o'zgarishi
+- Hujayra devori sintezining kuchayishi
+! Immun javob ortiqcha kuchaysa, to'qimalarga zarar yetishi mumkin, masalan allergiya va autoimmun kasalliklarda
+@ M JAW
+
+# 055
+? Immunitet hosil bo'lish usuliga ko'ra qanday guruhlarga bo'linadi?
++ Aktiv va passiv
+- Irsiy va tur
+- Bakterial va virusli
+- Tez va sekin
+- Mahalliy va umumiy
+! Immunitet hosil bo'lish usuliga ko'ra aktiv va passiv turlarga bo'linadi
+@ M JAW
+
+? Aktiv immunitet qanday hosil bo'ladi?
++ Organizm antigenga javoban o'z antitelolarini hosil qiladi
+- Organizmga tayyor antitelolar tashqaridan kiritiladi
+- Antitelolar ona organizmidan homilaga o'tadi
+- Zardob yuborilishi natijasida hosil bo'ladi
+- Immunoglobulin preparati yuborilishi bilan hosil bo'ladi
+! Aktiv immunitetda organizm antigen bilan to'qnashadi va unga javoban o'z antitelolarini va xotira hujayralarini hosil qiladi
+@ M JAW
+
+? Passiv immunitet qanday hosil bo'ladi?
++ Organizmga tayyor antitelolar kiritilishi bilan
+- Organizm o'z antitelolarini hosil qilishi bilan
+- Xotira hujayralari shakllanishi bilan
+- Vaksina yordamida faol javob uyg'otish bilan
+- Infeksiya o'tkazish natijasida
+! Passiv immunitetda organizmga tayyor antitelolar kiritiladi; organizm o'zi javob bermaydi
+@ M JAW
+
+? Tabiiy aktiv immunitet qachon hosil bo'ladi?
++ Infeksiya o'tkazilgandan keyin
+- Vaksina yuborilgandan keyin
+- Zardob yuborilgandan keyin
+- Platsenta orqali antitelo o'tganda
+- Ona suti iste'mol qilinganda
+! Tabiiy aktiv immunitet infeksiya o'tkazilgandan keyin hosil bo'ladi
+@ M JAW
+
+? Sun'iy aktiv immunitet qanday hosil qilinadi?
++ Vaksina yordamida
+- Zardob yordamida
+- Ona suti yordamida
+- Platsenta orqali
+- Immunoglobulin preparati yordamida
+! Sun'iy aktiv immunitet vaksina yordamida hosil qilinadi
+@ M JAW
+
+? Aktiv immunitetning eng muhim xususiyati nima?
++ Immunologik xotira
+- Darhol ta'sir qilish
+- Tayyor antitelolar kiritilishi
+- Faqat bir necha kun saqlanish
+- Xotira hujayralari hosil bo'lmasligi
+! Aktiv immunitetning muhim xususiyati immunologik xotiradir: organizm antigenni eslab qoladi, qayta uchrashuvda javob tezroq va kuchliroq bo'ladi
+@ M JAW
+
+? Aktiv immunitetning eng muhim xususiyati nima?
++ Immunologik xotira
+- Darhol ta'sir qilish xususiyati
+- Tayyor antitelolar kiritilishi
+- Bir necha kunda tugashi
+- Xotira hujayralari hosil bo'lmasligi
+! Aktiv immunitetning muhim xususiyati immunologik xotiradir: organizm antigenni eslab qoladi, qayta uchrashuvda javob tezroq va kuchliroq bo'ladi
+@ M JAW
+
+? Tabiiy passiv immunitet qanday hosil bo'ladi?
++ IgG antitelolarining platsenta orqali onadan homilaga o'tishi bilan
+- Vaksina yuborilib, organizm o'z antitelolarini hosil qilishi bilan
+- Infeksiya o'tkazilib, organizm xotira hujayralari hosil qilishi bilan
+- Zardob yuborilib, tayyor antitelolar qonga kiritilishi bilan
+- Immunoglobulin preparati yuborilib, antitelolar qonga tushishi bilan
+! Tabiiy passiv immunitet homiladorlik vaqtida ona organizmidan homilaga IgG antitelolarining platsenta orqali o'tishi natijasida hosil bo'ladi
+@ M JAW
+
+? Ona suti chaqaloq ichak shilliq pardasini qaysi antitelolar bilan himoya qiladi?
++ IgA antitelolari
+- IgG antitelolari
+- IgM antitelolari
+- IgD antitelolari
+- IgE antitelolari
+! Ona suti IgA antitelolari bilan chaqaloqning ichak shilliq pardasini himoya qiladi
+@ M JAW
+
+? Sun'iy passiv immunitet qanday amalga oshiriladi?
++ Zardob yoki immunoglobulin preparatlarini yuborish orqali
+- Vaksina yuborib, o'z antitelolarini hosil qilish orqali
+- Infeksiyani o'tkazib, xotira hujayralari hosil qilish orqali
+- Ona suti bilan IgA antitelolari qabul qilish orqali
+- Platsenta orqali onadan IgG antitelolari o'tishi orqali
+! Sun'iy passiv immunitet zardob yoki immunoglobulin preparatlarini yuborish orqali amalga oshiriladi
+@ M JAW
+
+# 056
+? Tabiiy immunitet qanday hosil bo'ladi?
++ Kasallikni o'tkazish natijasida
+- Emlash natijasida
+- Zardob yuborish natijasida
+- Immunoglobulin yuborish natijasida
+- Toksoid yuborish natijasida
+! Tabiiy immunitet kasallikni o'tkazish natijasida hosil bo'ladi
+@ M JAW
+
+? Sun'iy immunitet qanday hosil bo'ladi?
++ Emlash yoki zardob yuborish orqali
+- Kasallikni o'tkazish orqali
+- Onadan homilaga o'tish orqali
+- Ovqatlanish tarkibini o'zgartirish orqali
+- Sovuq muhitda yashash orqali
+! Sun'iy immunitet emlash yoki zardob yuborish orqali shakllanadi
+@ M JAW
+
+? Tabiiy va sun'iy usullarning asosiy farqi nimada?
++ Sun'iy usulda kasallik belgilarisiz himoya olish mumkin
+- Tabiiy usulda kasallik belgilarisiz himoya olinadi
+- Sun'iy usulda doimo kasallik o'tkaziladi
+- Ikkala usul bir xil xavf darajasiga ega
+- Tabiiy usulda vaksina yuboriladi
+! Sun'iy usulda kasallik belgilarisiz himoya olish mumkin, bu xavfli infeksiyalarda juda muhim
+@ M JAW
+
+? Bakteriyalarga qarshi immunitet asosan qaysi mexanizmlar orqali amalga oshadi?
++ Antitelolar, fagotsitoz va komplement tizimi
+- T-limfotsitlar va interferon hamda gormonlar tizimi
+- Gormonlar, fermentlar va vitaminlar tizimi
+- Qon quyilishi, dializ va oqsil almashinuvi
+- Oziqa muhitidagi aralash omillar va harorat
+! Bakteriyalarga qarshi immunitet asosan antitelolar, fagotsitoz va komplement tizimi orqali amalga oshadi
+@ M JAW
+
+? Sil oldini olishda qo'llanadigan BCG nima?
++ Zaiflashtirilgan tirik mikrob preparati
+- O'ldirilgan butun hujayrali vaksina preparati
+- Toksoidli vaksina preparati
+- Tayyor antitelo saqlovchi preparat
+- Sintetik antibiotik preparati
+! BCG sil oldini olishda qo'llaniladigan zaiflashtirilgan tirik mikrob preparati hisoblanadi
+@ M WHOIMM
+
+? Virus infeksiyalarida infeksiyalangan hujayralarni nishonga oladigan hujayralar qaysilar?
++ T-limfotsitlar
+- Eritrotsitlar
+- Trombotsitlar
+- Epiteliy hujayralari
+- Plazmatik oqsillar
+! Virus infeksiyalarida T-limfotsitlar infeksiyalangan hujayralarni nishonga oladi
+@ M JAW
+
+? Toksoidli vaksinalar nima uchun qo'llanadi?
++ Toksinga qarshi immunitet hosil qilish uchun
+- Viruslarning hujayraga kirishini bloklash uchun
+- Bakteriyalarni to'g'ridan-to'g'ri o'ldirish uchun
+- Normal mikrofloraning o'sishini to'xtatish uchun
+- Qon bosimini normallashtirish uchun
+! Toksoidlar — zararsizlantirilgan toksinlar bo'lib, toksinga qarshi immunitet hosil qilish uchun emlashda qo'llanadi
+@ M JAW
+
+? Bakterial infeksiyalardan keyin immunitet davomiyligi nimaga bog'liq?
++ Mikrobning immun tizimdan qochish usuliga va antigen tuzilishiga
+- Laboratoriya jihozlarining turiga va ularning narxiga bog'liq
+- Bemorning ism-sharifiga va yashash joyi manziliga bog'liq
+- Termostat haroratiga va inkubatsiya muddatiga bog'liq
+- Oziqa muhiti rangiga va idishlar o'lchamiga bog'liq
+! Ba'zi bakterial infeksiyalardan keyin barqaror himoya hosil bo'ladi, boshqalarida qisqa muddatli bo'ladi; bu mikrobning immun tizimdan qochish mexanizmlariga va antigen tuzilishiga bog'liq
+@ M JAW
+
+? Tabiiy immunitet ko'pincha qanday xususiyatga ega?
++ Patogenga xos bo'lib, uzoq xotira hosil qiladi
+- Barcha patogenlarga bir xil kuch bilan ta'sir qiladi
+- Xotira hosil qilmaydi va qisqa muddat saqlanadi
+- Zardob yuborilgandan keyingina hosil bo'ladi
+- Hayvonlarda mavjud, odamda esa uchramaydi
+! Tabiiy immunitet ko'pincha patogenga xos bo'ladi va uzoq saqlanadigan xotira hosil qiladi
+@ M JAW
+
+? Zaiflashtirilgan tirik vaksinalar va toksoidli vaksinalar qaysi turdagi immunitetga misol?
++ Sun'iy bakterial immunitetga
+- Tabiiy virusli immunitetga
+- Irsiy turga xos immunitetga
+- Passiv tabiiy immunitetga
+- Sun'iy passiv immunitetga
+! Sun'iy bakterial immunitetga tirik zaiflashtirilgan vaksinalar va toksoidli vaksinalar misol bo'ladi
+@ M JAW

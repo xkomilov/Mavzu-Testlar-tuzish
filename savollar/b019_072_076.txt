@@ -1,0 +1,454 @@
+# 072
+? Vaksina nima uchun qo'llanadi?
++ Kasallik keltirmasdan immunitet hosil qilish uchun
+- Tayyor antitelo kiritib, passiv himoya berish uchun
+- Mikroblarni bevosita o'ldirib, davolash uchun
+- Qon plazmasidan oqsil ajratib olish uchun
+- Allergik reaksiyani to'xtatib turish uchun
+! Vaksina antigen kiritib, kasallik keltirmasdan immunitet hosil qiladigan biologik preparat
+@ M WHOIMM
+
+? Vaksina tarkibidagi antigen qanday bo'lishi mumkin?
++ Tirik yoki o'lik mikrob, uning qismi yoki oqsili
+- Tayyor antitelo molekulalari va immunoglobulin preparati
+- Kimyoviy yo'l bilan sintez qilingan antibiotik moddasi
+- Qon pigmenti va eritrotsit hujayralaridan iborat massa
+- Mineral tuzlar va vitaminlar aralashmasidan iborat eritma
+! Vaksina tarkibidagi antigen tirik yoki o'lik mikroorganizmdan, uning qismlaridan yoki rekombinant usulda olingan oqsildan iborat bo'lishi mumkin
+@ M WHOIMM
+
+? Vaksinaning asosiy vazifasi nima?
++ Xotira hujayralarini shakllantirish
+- Tayyor antitelolarni kiritish
+- Mikrob toksinini hujayradan chiqarish
+- Qon bosimini normallashtirish
+- Oziqa muhitini sterillash
+! Vaksinaning asosiy vazifasi xotira hujayralarini shakllantirishdir
+@ M WHOIMM
+
+? Tirik kuchsizlantirilgan vaksinaga qaysi javob misol bo'ladi?
++ BCG va qizamiq vaksinasi
+- Qoqshol toksoidi va difteriya toksoidi
+- O'ldirilgan ko'kyo'tal vaksinasi
+- Gepatit B rekombinant vaksinasi
+- Tayyor immunoglobulin preparati
+! Tirik kuchsizlantirilgan vaksinalarga bakteriyalar uchun BCG va viruslar uchun qizamiq vaksinasi misol bo'ladi
+@ M WHOIMM
+
+? Tirik vaksinalarning asosiy afzalligi nima?
++ Bir dozasi ko'pincha uzoq muddatli immunitet beradi
+- Immuniteti zaif bemorlar uchun mutlaqo xavfsiz bo'ladi
+- Hech qanday qarshi ko'rsatmasi bo'lmaydi, hammaga mos
+- Immun javobni umuman uyg'otmaydi, faqat nazorat qiladi
+- Passiv himoya hosil qiladi, xotira shakllantirmaydi
+! Tirik vaksinalarning bir dozasi ko'pincha uzoq muddatli immunitet beradi, chunki immun javob tabiiy infeksiyaga yaqin bo'ladi
+@ M WHOIMM
+
+? Tirik vaksinalar qaysi bemorlarda ehtiyotkorlik bilan qo'llanadi?
++ Immuniteti kam bemorlarda
+- Immuniteti kuchli kattalarda
+- Sog'lom o'smirlarda
+- Faqat hayvonlarda
+- Yangi tug'ilgan sog'lom hayvonlarda
+! Tirik vaksinalar immunitet kam bo'lgan bemorlarda ehtiyotkorlik bilan qo'llanadi
+@ M WHOIMM
+
+? O'ldirilgan (inaktivlangan) vaksinalarda mikrob qanday holatda bo'ladi?
++ Ko'paya olmaydi, lekin antigenlari saqlanadi
+- Ko'payadi va yengil infeksiya kabi kechadi
+- Antigenlari to'liq yo'qolib, faqat qobig'i qoladi
+- Tirik holatda organizmda uzoq vaqt saqlanadi
+- Toksin ajratib, organizmga zarar yetkazadi
+! O'ldirilgan vaksinalarda mikroorganizm zararsizlantiriladi: u ko'paya olmaydi, ammo antigenlari saqlanib qoladi
+@ M WHOIMM
+
+? O'ldirilgan vaksinalar tirik vaksinalarga nisbatan qanday?
++ Xavfsizroq, lekin bir necha marta qo'llanadi
+- Xavfliroq, bir dozasi to'liq yetarli bo'ladi
+- Xavfsizroq, hech qachon takrorlash talab etilmaydi
+- Xavfliroq, takrorlash ham talab etilmaydi
+- Xavfsiz emas, ammo har doim kuchliroq ta'sir etadi
+! O'ldirilgan vaksinalar tirik vaksinalarga qaraganda xavfsizroq hisoblanadi, ammo odatda bir necha marta qo'llanadi
+@ M WHOIMM
+
+? Vaksina ta'sirida hosil bo'lgan immunitet qaysi hujayralar faoliyati bilan bog'liq?
++ Xotira B va T-limfotsitlar
+- Eritrotsitlar va trombotsitlar
+- Neytrofillar va bazofillar
+- Epiteliy va yog' hujayralari
+- Mushak va nerv hujayralari
+! Vaksina immuniteti xotira B va T-limfotsitlar faoliyati bilan bog'liq
+@ M WHOIMM
+
+? Vaksinalar nima uchun yuqori xavfsizlik talablariga javob berishi shart?
++ Sog'lom odamlarda qo'llanadigan preparat bo'lgani uchun
+- Faqat hayvonlarda sinaladigan preparat bo'lgani uchun
+- Kasal bemorlarga yuborilmaydigan preparat bo'lgani uchun
+- Tarkibida antibiotik bo'lgani uchun
+- Rangi va hidi o'zgaruvchan bo'lgani uchun
+! Vaksinalar sog'lom odamlarda qo'llanilgani uchun ular yuqori xavfsizlik talablariga javob berishi shart
+@ M WHOIMM
+
+# 073
+? Zardoblar nimani o'z ichiga oladi?
++ Toksinga qarshi tayyor antitelolarni
+- Zaiflashtirilgan tirik mikroblar suspenziyasini
+- Mikrob toksinining zararsizlantirilgan shaklini
+- Rekombinant yo'l bilan olingan antigen oqsilini
+- Bo'yoq va fiksator moddalar aralashmasini
+! Zardoblar qo'zg'atuvchi yoki zaharli moddaga qarshi antitelolarni o'z ichiga oladi
+@ M JAW
+
+? Zardob qanday immunitet beradi?
++ Tayyor antitelolar orqali passiv himoya
+- Xotira hosil qiluvchi faol himoya turi
+- Irsiy turga xos bo'lgan tug'ma himoya
+- Infeksiyadan keyingi tabiiy faol himoya
+- Vaksinadan keyingi uzoq muddatli faol himoya
+! Zardob tayyor antitelolar orqali passiv himoya beradi, vaksina esa faol immunitet hosil qiladi
+@ M JAW
+
+? Zardoblar qachon qo'llanadi?
++ Kasallik tez kechganda yoki zaharlanish xavfida
+- Kasallik xavfi yo'q va odam to'liq sog'lom bo'lganda
+- Uzoq muddatli xotira hosil qilish talab etilganda
+- Laboratoriya tekshiruvi o'tkazilayotgan paytda
+- Mikrob oziqa muhitida jadal o'sayotgan paytda
+! Zardoblar kasallik tez kechayotgan yoki zaharlanish xavfi yuqori bo'lgan hollarda qo'llanadi
+@ M JAW
+
+? Zardobning faol komponenti nima?
++ Immunoglobulinlar (antitelolar)
+- Eritrotsitlar (qizil qon tanachalari)
+- Fibrinogen (ivish oqsili)
+- Trombotsitlar (qon plastinkalari)
+- Gemoglobin (kislorod tashuvchi pigment)
+! Zardobning faol komponenti immunoglobulinlar bo'lib, ular antigenni bog'lab, zararsizlantiradi
+@ M JAW
+
+? Zardobning sifati nimaga bog'liq?
++ Antitelo miqdori va faolligiga
+- Idish rangi, shakli va hajmiga
+- Xodim yoshi, jinsi va tajribasiga
+- Preparat hidi, ta'mi va rangiga
+- Qadoq dizayni, narxi va markasiga
+! Zardobning sifati uning tarkibidagi antitelo miqdori va faolligi bilan belgilanadi
+@ M JAW
+
+? Zardob manbasi sifatida qaysi organizmlar ishlatiladi?
++ Odam yoki immunizatsiyalangan hayvon (ot)
+- O'simlik hujayralarining sun'iy kulturasi
+- Tuproq mikroblarining aralash kulturasi
+- Dengiz suvi va tuz aralashmasi eritmasi
+- Sintetik polimer moddalar aralashmasi
+! Odam qonidan yoki immunizatsiya qilingan hayvon, odatda ot yoki boshqa sut emizuvchilar qonidan zardob ajratib olinadi
+@ M JAW
+
+? Antitoksik zardoblar nimani zararsizlantirish uchun mo'ljallangan?
++ Bakteriyalar ajratadigan ekzotoksinlarni
+- Bakteriya hujayra devori peptidoglikanini
+- Virus nuklein kislotasini
+- Zamburug' sporalarini
+- Eritrotsit membranasini
+! Antitoksik zardoblar bakteriyalar ajratadigan ekzotoksinlarni zararsizlantirish uchun mo'ljallangan
+@ M JAW
+
+? Antitoksik zardoblar qaysi kasalliklarda qo'llanadi?
++ Qoqshol va botulizm kabi toksinli kasalliklarda
+- Gripp va qizamiq kabi virusli kasalliklarda
+- Teri zamburug'li kasalliklarida
+- Siydik yo'llari yallig'lanishida
+- Bezgak va tripanosomozda
+! Antitoksik zardoblar tetanus yoki botulizm kabi toksinli kasalliklarda qo'llanadi
+@ M JAW
+
+? Zardobni vaksinadan qaysi xususiyatlar ajratib turadi?
++ Passiv immunitet beradi va tez ta'sir qiladi
+- Faol immunitet beradi va sekin ta'sir qiladi
+- Xotira hujayralari hosil qiladi, uzoq saqlanadi
+- Uzoq muddatli himoyani shakllantirib boradi
+- Organizm o'zi antitelo ishlab chiqarishiga olib keladi
+! Zardob passiv himoya beradi va tez ta'sir qiladi; vaksina esa faol immunitet va uzoq muddatli xotira hosil qiladi
+@ M JAW
+
+? Zardobni vaksinadan qaysi xususiyati bilan ajratish mumkin?
++ Passiv immunitet beradi, tez ta'sir qiladi
+- Faol immunitet beradi, sekin ta'sir qiladi
+- Xotira hujayralari hosil qiladi
+- Uzoq muddatli himoya shakllantiradi
+- Organizm o'zi antitelo ishlab chiqaradi
+! Zardob passiv himoya beradi va tez ta'sir qiladi; vaksina esa faol immunitet va uzoq muddatli xotira hosil qiladi
+@ M JAW
+
+# 074
+? Vaksina va zardoblarning samaradorligi nimaga bog'liq?
++ Tayyorlash, saqlash va nazorat to'g'riligiga
+- Qadoq rangi, shakli va dizayniga bog'liq
+- Ishlab chiqaruvchi nomining uzunligiga bog'liq
+- Preparat narxi va savdo hajmiga bog'liq
+- Transport vositasi markasi va tezligiga bog'liq
+! Biologik preparatlarning samaradorligi ishlab chiqarish, saqlash va nazorat bosqichlarining to'g'ri bajarilishiga bog'liq
+@ M JAW
+
+? Vaksina tayyorlashda asosiy xom ashyo nima?
++ Aniq identifikatsiyalangan mikroorganizm shtammi
+- Oddiy tuproq namunasidan olingan aralashma
+- Aralash mikroblar suspenziyasidan iborat massa
+- Tasodifan ajratilgan, tekshirilmagan kultura
+- Ichimlik suvi namunasidan olingan cho'kma
+! Vaksina tayyorlashda asosiy xom ashyo mikroorganizm shtammi bo'lib, u aniq identifikatsiya qilingan va barqaror xususiyatlarga ega bo'lishi kerak
+@ M JAW
+
+? Shtamm tanlanganda nimalar hisobga olinadi?
++ Virulentligi, antigen tarkibi va o'sishi
+- Rangi, hidi va ta'mi ko'rsatkichlari
+- Idish shakli, hajmi va qopqog'i turi
+- Narxi, ishlab chiqarilgan joyi va savdosi
+- Transport vaqti, muddati va yo'l holati
+! Shtamm tanlanganda uning virulentligi, antigen tarkibi va o'sish xususiyatlari hisobga olinadi
+@ M JAW
+
+? Donorlar zardob uchun nima bo'yicha tekshiriladi?
++ Sog'ligi va yuqumli kasalliklarga skrining
+- Bo'yi va vazni bo'yicha musobaqa natijasi
+- Ovozi va rangi bo'yicha tanlov natijasi
+- Yoshiga qarab oddiy tanlov natijasi
+- Kasbiga qarab oddiy ro'yxat natijasi
+! Donor sog'ligi tekshiriladi va yuqumli kasalliklar uchun skrining o'tkaziladi, hayvonlar esa veterinariya nazoratidan o'tadi
+@ M JAW
+
+? Vaksinalar asosan qanday uch turga bo'linadi?
++ Tirik, o'ldirilgan va subbirlik yoki toksoid
+- Tabiiy, sintetik va gibrid ko'rinishdagi
+- Suyuq, qattiq va gazsimon ko'rinishdagi
+- Faol, passiv va aralash ko'rinishdagi
+- Mahalliy, umumiy va yashirin ko'rinishdagi
+! Vaksinalar asosan tirik attenuatsiyalangan, o'ldirilgan (inaktivatsiyalangan) va subbirlik yoki toksoid vaksinalariga bo'linadi
+@ M JAW
+
+? Attenuatsiya nima?
++ Virulentlikni ketma-ket o'stirib pasaytirish
+- Qaynatib, mikrobni to'liq o'ldirib qo'yish
+- Muzlatib, mikrobni uzoq saqlab turish
+- Rangli bo'yoq bilan mikrobni bo'yab ko'rish
+- Filtrdan o'tkazib, mikrobni ajratib olish
+! Attenuatsiya ko'pincha mikrobni ketma-ket maxsus sharoitda o'stirish orqali amalga oshiriladi va uning virulentligini pasaytiradi
+@ M JAW
+
+? Kuchsizlangan shtammning xavfsizligi qanday tekshiriladi?
++ Hayvonlar yoki hujayra modellarida baholanadi
+- Tashqi ko'rinishiga qarab xulosa chiqariladi
+- Tekshirilmay, to'g'ridan-to'g'ri ishlatiladi
+- Qaynatib, hidiga qarab baholanadi
+- Qadoq rangiga qarab xulosa chiqariladi
+! Kuchsizlangan shtamm hayvonlar yoki hujayra modellarida tekshirilib, uning xavfsizligi va immunogenligi baholanadi
+@ M JAW
+
+? Kuchsizlangan shtammning xavfsizligi qanday tekshiriladi?
++ Hayvonlar yoki hujayra modellarida baholanadi
+- Faqat tashqi ko'rinishiga qarab baholanadi
+- Tekshirilmaydi, to'g'ridan-to'g'ri ishlatiladi
+- Qaynatilib, hidiga qarab baholanadi
+- Qadoq rangiga qarab baholanadi
+! Kuchsizlangan shtamm hayvonlar yoki hujayra modellarida tekshirilib, uning xavfsizligi va immunogenligi baholanadi
+@ M JAW
+
+? O'ldirilgan vaksinalarda mikroblar qanday usulda inaktivatsiya qilinadi?
++ Fizik yoki kimyoviy usulda
+- Faqat tabiiy yo'l bilan o'z-o'zidan
+- Ovoz to'lqinlari yordamida
+- Quyosh nuri bilan, kunduzi
+- Tirik holatda saqlanib
+! O'ldirilgan vaksinalarda mikroblar fizik yoki kimyoviy usul bilan inaktivatsiya qilinadi
+@ M JAW
+
+? Biologik preparatlarda har bir tayyorlash bosqichi qanday bajariladi?
++ Standart hujjatlar asosida, yozib borilgan holda
+- Xodim xohishiga ko'ra, hech qanday yozuvsiz
+- Og'zaki ko'rsatma asosida, hujjat yuritmasdan
+- Tasodifiy tartibda, har qanday nazoratsiz
+- Erkin shaklda, hujjatlarni tekshirmasdan
+! Har bir texnologik bosqich standart hujjatlar asosida bajariladi va yozib boriladi
+@ M JAW
+
+# 075
+? "Allergiya" atamasini 1906-yilda kim taklif qilgan?
++ Klemens fon Pirke (shifokor)
+- Lui Paster (fransuz kimyogari)
+- Robert Kox (nemis bakteriologi)
+- Edvard Jenner (ingliz shifokori)
+- Ilya Mechnikov (rus biologi)
+! "Allergiya" atamasini 1906 yilda avstriyalik shifokor Klemens fon Pirke taklif qilgan
+@ M JAW
+
+? Allergiya nima?
++ Immunitet tizimining zararsiz moddalarga ortiqcha javobi
+- Immunitet tizimining mikroblarga mutlaq javobsizligi
+- Immunitet tizimining tug'ma yetishmovchiligi
+- Immunitet tizimining vaksinadan keyingi himoyasi
+- Immunitet tizimining yoshga bog'liq kuchayishi
+! Allergiya — immunitet tizimining zararsiz tabiiy yoki sun'iy moddalarga ortiqcha va noto'g'ri javobi
+@ M JAW
+
+? Allergiya immunologiyada yana qanday ataladi?
++ Giperduyuchanlik
+- Gipoduyuchanlik
+- Tolerantlik
+- Immunodefitsit
+- Autoimmunitet
+! Allergiya immunitetning buzilishi, ya'ni giperduyuchanlik deb ham ataladi
+@ M JAW
+
+? Allergen nima?
++ Organizmda allergik javob chaqira oladigan modda
+- Organizmni allergiyadan himoya qiluvchi modda
+- Allergiyani davolaydigan dori vositasi
+- Organizmning o'z oqsili bo'lgan modda
+- Allergiyaga qarshi vaksina preparati
+! Allergen — organizmda allergik javob chaqira oladigan modda
+@ M JAW
+
+? Ko'pchilik allergenlar kimyoviy jihatdan nima?
++ Oqsillar yoki glikoproteinlar
+- Mineral tuzlar va minerallar
+- Oddiy gazlar va bug'lar
+- Sof suv va erigan kislorod
+- Metall ionlari va oksidlar
+! Ko'pchilik allergenlar oqsillar yoki glikoproteinlar bo'lib, ularning molekulasi antitelolar tomonidan tanib olinadi
+@ M JAW
+
+? Kichik molekulali moddalar nima uchun allergik javob chaqirishi mumkin?
++ Oqsillar bilan birikib, to'liq antigen hosil qilgani uchun
+- Organizm oqsillarini butunlay parchalab yuborgani uchun
+- Antitelolarni to'g'ridan-to'g'ri o'ldirib qo'ygani uchun
+- Komplement tizimini butunlay faolsizlantirgani uchun
+- Mikroblarni haddan ziyod ko'paytirib yuborgani uchun
+! Kichik molekulali moddalar organizmdagi oqsillar bilan birikib, to'liq antigen hosil qiladi; bunday moddalar hapten deb ataladi
+@ M JAW
+
+? Hapten qaysi allergiya turi bilan ko'proq bog'liq?
++ Dori allergiyasi
+- Oziq-ovqat allergiyasi
+- Chang allergiyasi
+- Hasharot allergiyasi
+- Mavsumiy allergiya
+! Haptenlar ko'pincha dori vositalari bilan bog'liq holda uchraydi va dori allergiyasini tushunishda muhim
+@ M JAW
+
+? Allergen organizmga qaysi yo'llar orqali kirishi mumkin?
++ Nafas yo'li, ovqat yo'li yoki teri orqali
+- Qon quyilishi va transfuziya yo'llari orqali
+- Teri ostiga igna bilan yuborish yo'li orqali
+- Ko'z yoshi kanali va quloq yo'li orqali
+- Suyak iligi va limfa tugunlari orqali
+! Nafas yo'li, ovqat hazm qilish yo'li yoki teri orqali kirgan allergen turli xil reaksiyalar keltirib chiqarishi mumkin
+@ M JAW
+
+? Allergik reaksiyaning shiddati nimaga bog'liq?
++ Allergen turi, miqdori, organizm holati
+- Xona harorati, namligi va yoritilishiga
+- Xodim yoshi, jinsi va ish stajiga
+- Idish rangi, shakli va hajmiga
+- Qadoq dizayni, narxi va markasiga
+! Allergik reaksiyaning davomiyligi va kuchi allergenning turi, miqdori va organizmning holatiga bog'liq
+@ M JAW
+
+? Allergik reaksiyalar qanday vaqt xususiyatiga ega bo'lishi mumkin?
++ Tez yoki kechikib yuzaga chiqishi mumkin
+- Bir lahzada va doimo tez yuzaga chiqadi
+- Bir oydan keyin va doimo kech yuzaga chiqadi
+- Tunda va doimo uyqu vaqtida yuzaga chiqadi
+- Yozda va doimo issiq paytda yuzaga chiqadi
+! Allergik reaksiyalar tez yoki kechikib yuzaga chiqishi mumkin
+@ M JAW
+
+# 076
+? Allergenlar kelib chiqishiga ko'ra qanday guruhlarga bo'linadi?
++ Ekzoallergenlar va endoallergenlar
+- Aktiv allergenlar va passiv allergenlar
+- Mahalliy allergenlar va umumiy allergenlar
+- Tez allergenlar va sekin allergenlar
+- Tabiiy allergenlar va sun'iy allergenlar
+! Allergenlar kelib chiqishiga ko'ra ekzoallergenlar va endoallergenlarga bo'linadi
+@ M JAW
+
+? Ekzoallergenlar qanday allergenlar?
++ Organizm tashqarisidan kiruvchi moddalar
+- Organizmning o'z to'qimalaridan kelib chiqqan moddalar
+- Dori vositalaridan iborat bo'lgan moddalar
+- Mikroblar toksinlaridan iborat bo'lgan moddalar
+- Virus zarralaridan iborat bo'lgan moddalar
+! Ekzoallergenlar organizmning tashqarisidan kiruvchi moddalar bo'lib, nafas olish, ovqatlanish yoki teri orqali kirishi mumkin
+@ M JAW
+
+? Endoallergenlar qanday allergenlar?
++ Organizmning o'z to'qimalaridan kelib chiqqan moddalar
+- Organizm tashqarisidan kiruvchi moddalar guruhi
+- Havo orqali tarqaladigan chang zarralari guruhi
+- Oziq-ovqat mahsulotlari oqsillari guruhi
+- Hasharot chaqishi bilan tushadigan moddalar guruhi
+! Endoallergenlar organizmning o'z to'qimalaridan kelib chiqadi, ammo ma'lum sharoitda immunitet tizimi ularni begona deb qabul qiladi
+@ M JAW
+
+? Havo orqali tarqaladigan ekzoallergenlarga qaysilar kiradi?
++ O'simlik changi, mog'or sporasi, uy changi, jun
+- Sut, tuxum, yong'oq va baliq mahsulotlari
+- Penitsillin, sulfanilamid va aspirin vositalari
+- Ari zahari va chivin so'lagi moddalari
+- Lateks, nikel va kosmetika vositalari
+! Havo orqali tarqaladigan allergenlarga o'simlik changi, mog'or sporalari, uy changi va hayvon junlari kiradi
+@ M JAW
+
+? Uy changidagi muhim allergen qaysi?
++ Chang kanalari qoldiqlari va ajratmalari
+- Mineral tuz kristallari va qoldiqlari
+- Metall zarrachalari va ularning chiqindilari
+- Distillangan suv bug'i va uning qoldig'i
+- Shisha parchalari va ularning mayda changi
+! Uy changi ichida chang kanalarining qoldiqlari va ularning ajratmalari muhim allergen hisoblanadi
+@ M JAW
+
+? Oziq-ovqat allergenlari ko'p uchraydigan manbalarga qaysilar kiradi?
++ Sut, tuxum, yong'oq, baliq va dengiz mahsulotlari
+- Distillangan suv, osh tuzi va ichimlik sodasi
+- Sof uglerod, kremniy va mineral kukunlar
+- Metall tuzlari, oksidlari va ularning birikmalari
+- Sintetik polimerlar, bo'yoqlar va plastmassalar
+! Sut, tuxum, yong'oq, baliq va dengiz mahsulotlari oziq-ovqat allergenlarining ko'p uchraydigan manbalari
+@ M JAW
+
+? Ekzoallergenlar tarqalish yo'liga ko'ra qanday guruhlarga ajratiladi?
++ Havo, oziq-ovqat, dori, teri, hasharot
+- Yosh, jins, kasb, millat va yashash joyi
+- Rang, hid, ta'm, hajm va zichlik ko'rsatkichi
+- Mikroskop, termostat, avtoklav va sentrifuga turi
+- Tirik, o'lik, sintetik, tabiiy va aralash tarkib
+! Ekzoallergenlar tarqalish yo'liga ko'ra havo, oziq-ovqat, dori, teri kontakti va hasharot chaqishi guruhlariga ajratiladi
+@ M JAW
+
+? Anamnezda belgilarning yil fasliga bog'liqligi nima uchun aniqlanadi?
++ Mavsumiy allergenni aniqlash uchun
+- Dori narxini hisoblab chiqish va tanlash uchun
+- Mikroskop linzasini tanlab, sozlab qo'yish uchun
+- Termostat turini aniqlab, o'rnatib qo'yish uchun
+- Xodimning ish soatini belgilab, jadvallash uchun
+! Belgilarning yil fasliga bog'liqligini aniqlash allergenni topish uchun tekshiruvlarni yo'naltirishga yordam beradi
+@ M JAW
+
+? Havo allergenlari nafas yo'llariga tushganda qanday belgilar chaqirishi mumkin?
++ Rinit yoki bronxial belgilar
+- Oyoq mushaklarining og'rig'i
+- Soch to'kilishi va tirnoq sinishi
+- Ko'rish o'tkirligining oshishi
+- Suyak sinishi va qon ketishi
+! Havo allergenlari nafas yo'llarining shilliq qavati bilan aloqaga kirishi va rinit yoki bronxial belgilarni keltirib chiqarishi mumkin
+@ M JAW
+
+? Ekzoallergenning miqdori va muntazam ta'siri nimaga ta'sir qiladi?
++ Sezuvchanlanish va belgilarning kuchiga
+- Mikroskop tasviri va ravshanligiga
+- Oziqa muhiti sterilligi va rangiga
+- Termostat harorati va barqarorligiga
+- Qadoq mustahkamligi va ko'rinishiga
+! Ekzoallergenning miqdori va davomiyligi sezuvchanlanish hamda belgilarning kuchiga ta'sir qilishi mumkin
+@ M JAW

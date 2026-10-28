@@ -1,0 +1,367 @@
+# 100
+
+? Homilador ayollarda B guruh streptokokkni aniqlash uchun qanday namuna olinadi?
++ Vaginal va rektal surtma
+- Siydik va najas namunasi
+- Qon va orqa miya suyuqligi
+- Balg'am va tomoq surtmasi
+- Teri va yara yiringi
+! B guruh streptokokkni aniqlash uchun tug'ishdan oldingi kunlarda vaginal va rektal surtma olinadi
+@ M CDCGBS
+
+? Meningit gumon qilinganda streptokokk tekshiruvi uchun qaysi material olinadi?
++ Orqa miya suyuqligi
+- Siydik namunasi
+- Najas namunasi
+- Tomoq shilliq surtmasi
+- Yara yiringi (surtma)
+! Meningit gumonida orqa miya suyuqligi, siydik yo'llari infeksiyasida esa siydik tekshiriladi
+@ M JAW
+
+? Streptokokk tekshiruvi uchun namuna qachon olinishi kerak?
++ Antibiotik qabul qilinishidan oldin
+- Antibiotik kursi tugagandan bir hafta keyin
+- Antibiotik dozasi eng yuqori bo'lganda
+- Antibiotik ichishning uchinchi haftasida
+- Antibiotik darajasi qonda oshganda
+! Antibiotik bilan davolash boshlangan bo'lsa manfiy natija ehtimoli ortadi, shuning uchun namuna antibiotikdan oldin olinadi
+@ M
+
+? Surtmalar laboratoriyaga qanday yetkaziladi?
++ Transport muhitli steril tamponda, tezda
+- Quruq oddiy tamponda, bir necha kundan keyin
+- Qaynatilgan suvda saqlab, bir haftadan keyin
+- Ochiq idishda, tushlik vaqtidan keyinroq
+- Muzlatilgan holda, bir oydan keyinroq
+! Surtmalar transport muhiti bilan steril tamponda olinib, tez yetkaziladi, chunki qisqa vaqtda mikroblar tirik qoladi
+@ M
+
+? Namunaga yopishtiriladigan yorliqda nimalar yozilishi kerak?
++ Bemor ismi, sana va namuna olingan joy
+- Xodimning shaxsiy telefon raqami
+- Idish ishlab chiqarilgan zavod nomi
+- Laboratoriya binosining qavat raqami
+- Tashuvchi haydovchining ismi
+! Ism, sana va namuna olingan joy yozilgan yorliq natijani to'g'ri bemorga bog'lash va xatolarning oldini olish uchun zarur
+@ M
+
+? Streptokokk namunasidan tayyorlangan surtma qaysi usulda bo'yaladi?
++ Gram usulida, zanjir shaklidagi kokklar ko'rinadi
+- Sil-Nilsen usulida, qizil rangli tayoqchalar ko'rinadi
+- Ojeshko usulida, sporalar yashil rangda ko'rinadi
+- Romanovskiy usulida, malyariya plazmodiylari ko'rinadi
+- Burri-Gins usulida, kapsulasiz kokklar ko'rinadi
+! Surtma Gram usulida bo'yaladi va Gram-musbat kokklarning zanjir shaklini tez ko'rsatadi
+@ M JAW
+
+? Streptokokk tekshiruvida standart oziqa muhiti qaysi?
++ Qon agari, gemoliz xususiyati ko'rinadi
+- Endo agari, laktoza bijg'ishi ko'rinadi
+- Levenshteyn–Yensen muhiti, sil kulturasi o'sadi
+- Sabouraud agari, zamburug' koloniyasi o'sadi
+- Manitli tuzli agar, stafilokokk koloniyasi o'sadi
+! Qon agari streptokokk tekshiruvida standart muhit bo'lib, undagi gemoliz xususiyati identifikatsiyada ahamiyatlidir
+@ M JAW
+
+? Streptokokk ekmalari odatda qanday sharoitda inkubatsiya qilinadi?
++ 35–37 °C da 24–48 soat
+- 22–25 °C da 5–7 kun
+- 4–6 °C da 14–21 kun
+- 56–60 °C da 10–15 daqiqa
+- 42–44 °C da 2–3 soat
+! Inkubatsiya odatda 35–37 °C da 24–48 soat davom etadi; ba'zi turlar uchun CO2 muhiti qo'llanadi
+@ M CLSI
+
+? Bacitracin disk sinovi nimani ajratishda qo'llanadi?
++ A guruh streptokokkni boshqa guruhlardan
+- B guruh streptokokkni A guruhdan, bacitracin'ga sezgir bo'lgani uchun
+- Pnevmokokkni viridans streptokokklardan, safroda erishi bilan
+- Stafilokokkni mikrokokkdan, koagulaza bo'yicha
+- Meningokokkni gonokokkdan, shakar bijg'ishi bilan
+! A guruh streptokokk bacitracin'ga sezgir bo'lib, disk atrofida o'sish to'sqinligi kuzatiladi
+@ M JAW
+
+? CAMP sinovi qaysi guruh streptokokkni aniqlashda qo'llanadi?
++ B guruh (S. agalactiae)
+- A guruh (S. pyogenes)
+- D guruh (enterokokklar)
+- Pnevmokokk (S. pneumoniae)
+- Viridans guruhi (S. mutans)
+! CAMP sinovi B guruh streptokokkni, PYR sinovi esa A guruhni aniqlashda qo'llanadi
+@ M JAW
+
+# 101
+
+? Pnevmokokklar Gram usulida qanday bo'yaladi va qanday ko'rinadi?
++ Gram-musbat, juft joylashgan kokklar
+- Gram-manfiy, juft joylashgan kokklar
+- Gram-musbat, uzum shingili ko'rinishidagi kokklar
+- Gram-manfiy, uzun ingichka tayoqchalar
+- Gram-musbat, spora hosil qiluvchi tayoqchalar
+! Pnevmokokklar Gram-musbat, ko'pincha juft (diplokokk) holda joylashadi
+@ M JAW
+
+? Pnevmokokklar harakat va spora hosil qilishiga ko'ra qanday?
++ Harakatsiz va spora hosil qilmaydi
+- Xivchinlari bor va spora hosil qiladi
+- Harakatchan, lekin spora hosil qilmaydi
+- Harakatsiz, lekin spora hosil qiladi
+- Harakatsiz, lekin ichida endospora bor
+! Pnevmokokklar harakatlanmaydi va spora hosil qilmaydi
+@ M JAW
+
+? Pnevmokokkning asosiy virulentlik omili qaysi?
++ Polisakkarid kapsula
+- Peptidoglikan qavat
+- Xivchinlar
+- Endospora
+- Pilli
+! Pnevmokokk kapsulasi polisakkarid tabiatli bo'lib, fagotsitozdan himoya qiladi va asosiy virulentlik omilidir
+@ M JAW
+
+? Kapsula polisakkaridlarining turlichaligi pnevmokokklarning nimaga bo'linishiga sabab bo'ladi?
++ 90 dan ortiq serotipga
+- 5 ta serotipga, A dan E gacha
+- 20 ta biovarga, geografik joyiga qarab
+- 3 ta turga, rangiga qarab
+- 40 ta fagovarga, faglarga sezgirligi bo'yicha
+! Kapsula polisakkaridlari xilma-xil bo'lgani uchun pnevmokokklar 90 dan ortiq serotipga bo'linadi
+@ M JAW
+
+? Pnevmokokklar qon agarida qanday koloniya hosil qiladi?
++ Kichik, markazi botiq ("umbilikal") koloniya
+- Yirik, qora rangli, yaltiroq koloniya
+- Yirik, quruq va tangachali koloniya
+- Pushti rangli, shilimshiq, mayin koloniya
+- Qizil rangli, tikanli, notekis koloniya
+! Pnevmokokk koloniyalari kichik, dumaloq bo'lib, ko'pincha markazi botiq (umbilikal) ko'rinishda bo'ladi
+@ M JAW
+
+? Pnevmokokklar qon agarida qanday gemoliz beradi?
++ Alfa-gemoliz, yashil zona
+- Beta-gemoliz, shaffof zona
+- Gamma-gemoliz, o'zgarishsiz
+- Delta-gemoliz, qorayish zonasi
+- Gemoliz bermaydi, rangsiz
+! Pnevmokokk qon agarida alfa-gemoliz beradi, lekin bu belgining o'zi boshqa streptokokklardan ajratish uchun yetarli emas
+@ M JAW
+
+? Optoxin sinovida pnevmokokk qanday natija beradi?
++ Optoxinga sezgir bo'ladi
+- Optoxinga chidamli bo'ladi
+- Optoxin ta'sirida ko'payadi
+- Optoxinni parchalab, rang hosil qiladi
+- Optoxinga javob bermaydi
+! Pnevmokokk optoxinga sezgir, ayrim viridans streptokokklar esa chidamli bo'ladi
+@ M JAW
+
+? Safro tuzlari eritish sinovida pnevmokokk qanday natija beradi?
++ Safro tuzlari ta'sirida eriydi
+- Safro tuzlariga chidamli, erimaydi
+- Safro tuzlari ta'sirida ko'payadi
+- Safro tuzlari ta'sirida qorayadi
+- Safro tuzlari ta'sirida gaz hosil qiladi
+! Pnevmokokk safro tuzlari ta'sirida eriydi, bu xususiyat boshqa alfa-gemolitik streptokokklarda kuzatilmaydi
+@ M JAW
+
+? Pnevmolizin qanday toksin hisoblanadi?
++ Xolesteringa bog'liq sitolizin
+- Eritrotsitlarni ivituvchi aglyutinin
+- Nerv uchlariga ta'sir qiluvchi neyrotoksin
+- Ichak epiteliysini buzuvchi enterotoksin
+- Teri qavatini ajratuvchi eksfoliatin
+! Pnevmolizin xolesteringa bog'liq sitolizin bo'lib, nafas yo'llari hujayralariga zarar yetkazadi va yallig'lanishni kuchaytiradi
+@ M JAW
+
+? Pnevmokokkdagi avtoliz fermenti nima qiladi?
++ Hujayra devorini parchalab, ichki komponentlarni ajratadi
+- Hujayra devorini sintez qilib, kapsulani qalinlashtiradi
+- Eritrotsitlarni parchalab, gemoglobinni ajratadi
+- Fibrin laxtasini eritib, qon ivishini kamaytiradi
+- Plazmadagi DNKni parchalab, yiringni suyultiradi
+! Avtoliz fermenti hujayra devorini parchalab, mikrob o'limidan keyin ichki komponentlarni ajratadi
+@ M JAW
+
+# 102
+
+? Pnevmokokk asosan qaysi yo'l bilan yuqadi?
++ Tomchi yo'li bilan, yo'talganda va aksirganda
+- Suv yo'li bilan, ifloslangan ichimlik orqali
+- Hasharot chaqishi bilan, bit va burga orqali
+- Jinsiy yo'l bilan, himoyalanmagan aloqada
+- Transplatsentar yo'l bilan, homiladorlikda
+! Pnevmokokk asosan yo'talganda yoki aksirganda ajraladigan nafas tomchilari orqali yuqadi
+@ M JAW
+
+? Kolonizatsiya nimani anglatadi?
++ Sog'lom odam burun-halqumida mikrob bo'lishini
+- Qon orqali mikrob butun tanaga tarqalishini
+- To'qimada yiring hosil qilinishini
+- Antibiotikka chidamli bo'lib qolishini
+- Laboratoriyada sun'iy ko'payishini
+! Ko'p odamning burun-halqum shilliq qavatida pnevmokokk sog'lom holatda uchrashi kolonizatsiya deyiladi; u kasallik emas
+@ M JAW
+
+? Pnevmokokk pnevmoniyasi nima uchun lobar deb ataladi?
++ O'pkaning bir bo'lagini egallagani uchun
+- O'pkaning ikkala uchini zararlagani uchun
+- Bronxlarga ta'sir qilgani uchun
+- Plevra bo'shlig'ida to'planib qolgani uchun
+- Yurak qopchasiga o'tib ketgani uchun
+! Pnevmoniya ko'pincha o'pkaning bir bo'lagini egallaydi, shuning uchun lobar pnevmoniya deb ataladi
+@ M JAW
+
+? Pnevmokokk pnevmoniyasining tipik belgilari qaysilar?
++ Yuqori isitma, yo'tal va ko'krak og'rig'i
+- Qorin og'rig'i, qon aralash ich ketish va tenezm
+- Bo'yin qotishi, tutqanoq va ko'z qorachig'i kengayishi
+- Sariqlik, jigar kattalashishi va qichishish
+- Bo'g'im shishishi, toshma va siydik qorayishi
+! Kasallik tez boshlanib, yuqori isitma, yo'tal va ko'krak og'rig'i bilan namoyon bo'ladi
+@ M JAW
+
+? Pnevmokokk bolalarda ko'pincha qaysi kasallikni keltirib chiqaradi?
++ O'rta quloq yallig'lanishini (otit media)
+- Siydik pufagi yallig'lanishini (sistit)
+- Jigar yallig'lanishini (gepatit)
+- Me'da yarasini (gastrit)
+- Suyak ko'migi shishini (leykoz)
+! Pnevmokokk o'rta quloq yallig'lanishining eng keng tarqalgan sabablaridan biri bo'lib, kichik yoshdagi bolalarda uchraydi
+@ M JAW
+
+? Sinusit nima?
++ Burun yon bo'shliqlarining yallig'lanishi
+- O'rta quloq bo'shlig'ining yallig'lanishi
+- Tomoq bodomsimon bezlarining yallig'lanishi
+- Miya pardalarining yallig'lanishi
+- Yurak ichki qavatining yallig'lanishi
+! Sinusit burun yon bo'shliqlarining yallig'lanishi bo'lib, burun bitishi, yuz og'rig'i va yiringli ajralma bilan kechadi
+@ M JAW
+
+? Invaziv pnevmokokk infeksiyasi qaysi holatni bildiradi?
++ Mikrobning steril qon yoki miya pardasiga o'tishi
+- Mikrobning faqat burun shilliq qavatida turishi
+- Mikrobning faqat teri yuzasida ko'payishi
+- Mikrobning ichakda toksin hosil qilishi
+- Mikrobning sog'lom odamda hech qachon uchramasligi
+! Invaziv infeksiya — mikrob odatda steril bo'lgan qon, miya pardasi yoki bo'shliqlarga o'tishi; bunga bakteriemiya, sepsis va meningit kiradi
+@ M JAW
+
+? Pnevmokokk meningitida qanday belgilar kuzatiladi?
++ Bosh og'rig'i, bo'yin qotishi, ong o'zgarishi
+- Qorin og'rig'i, ich ketish, suvsizlanish
+- Teri yarasi, pufakchalar, qichishish
+- Yo'tal xurujlari, qusish, nafas qisilishi
+- Sariqlik, jigar og'rig'i, qorin shishi
+! Meningitda bosh og'rig'i, bo'yin qotishi va ong o'zgarishi kuzatiladi
+@ M JAW
+
+? Otit va sinusit ko'pincha qanday holatdan keyin rivojlanadi?
++ Virus infeksiyasidan keyin ikkilamchi asorat sifatida
+- Ichak infeksiyasidan keyin birlamchi belgi sifatida
+- Teri jarohatidan keyin yagona sabab sifatida
+- Qon quyishdan keyin majburiy asorat sifatida
+- Vitamin tanqisligidan keyin yagona natija sifatida
+! Otit va sinusit ko'pincha virus infeksiyasidan keyin ikkilamchi bakterial asorat sifatida yuzaga keladi
+@ M JAW
+
+? Pnevmoniya og'irroq kechishi kimlarda ko'proq kuzatiladi?
++ Surunkali o'pka kasalligi bor bemorlarda
+- Sog'lom yosh sportchilarda, kasallik boshlanganda
+- Vitamin qabul qiluvchi bolalarda, hamma vaqt
+- Dam olish kunlari kasallanganlarda
+- Qishloq joylarda yashovchilarda, faqat shu sababli
+! Surunkali o'pka kasalliklari bo'lgan bemorlarda pnevmoniya ko'pincha og'irroq kechadi
+@ M JAW
+
+# 103
+
+? Pnevmokokkka qarshi tabiiy immunitetning birinchi to'sig'i qaysi?
++ Teri, shilliq qavat va kiprikli epiteliy
+- Antikapsular antitelalar, vaksinadan keyin
+- Maxsus T-xotira hujayralari
+- Antibiotikli profilaktika
+- Immun zardob yuborilishi
+! Teri, shilliq qavatlar, sekretlar va nafas yo'llaridagi kiprikli epiteliy bakteriya kirishiga tabiiy to'siq bo'ladi
+@ M JAW
+
+? Pnevmokokkka qarshi tug'ma immunitetning hujayra qismiga kim kiradi?
++ Neytrofillar va makrofaglar
+- Plazmatik hujayralar va B-xotira hujayralari
+- Eritrotsitlar va trombotsitlar
+- Gepatotsitlar va nefrotsitlar
+- Fibroblastlar va adipotsitlar
+! Neytrofillar va makrofaglar bakteriyani tutib olishda muhim rol o'ynaydi, ammo kapsula ularning ishini qiyinlashtiradi
+@ M JAW
+
+? Pnevmokokk kapsulasi immun himoyaga qanday ta'sir qiladi?
++ Fagotsitozdan himoya qiladi
+- Fagotsitozni kuchaytiradi
+- Komplementni faollashtirib mikrobni o'ldiradi
+- Antitela hosil bo'lishini tezlashtiradi
+- Mikrobni neytrofillarga ko'rinadigan qiladi
+! Kapsula bakteriyani fagotsitozdan himoya qiladi va himoya hujayralaridan qochishga yordam beradi
+@ M JAW
+
+? Antikapsular antitelalar qanday vazifani bajaradi?
++ Bakteriyani opsonizatsiya qilib, fagotsitozni osonlashtiradi
+- Kapsulani sintez qilib, qalinlashtiradi
+- DNKni parchalab, ko'payishini to'xtatadi
+- Bakteriyaning ribosomasini bog'lab, oqsil sintezini to'xtatadi
+- Bakteriya devorini eritib, uni darhol parchalaydi
+! Antikapsular antitelalar kapsulaga bog'lanib, bakteriyani opsonizatsiya qiladi va fagotsitlar tomonidan yutilishini osonlashtiradi
+@ M JAW
+
+? Kasallikdan keyingi pnevmokokk immuniteti qanday bo'ladi?
++ Serotipga xos, boshqa serotipdan himoya bermaydi
+- Barcha serotiplarga qarshi umrbod himoya beradi
+- Bir necha soatdan keyin butunlay yo'qoladi
+- Tuproq orqali yuqishdangina himoya qiladi
+- Bolalardagina hosil bo'ladi, kattalarda yo'q
+! Ko'p hollarda kasallikdan keyingi immunitet serotipga xos bo'lib, boshqa serotip bilan qayta yuqishdan to'liq himoya bermaydi
+@ M JAW
+
+? Pnevmokokk infeksiyasi qaysi yosh guruhlarida xavfliroq kechadi?
++ Ikki yoshgacha bolalarda va keksalarda
+- Maktab yoshidagi sog'lom bolalarda
+- O'rta yoshdagi sportchilarda
+- Yosh sog'lom kattalarda
+- Homiladorlikdan tashqari barcha ayollarda
+! Bolalarda, ayniqsa ikki yoshgacha bo'lganlarda, xavf yuqori; keksalarda esa pnevmoniya og'irroq kechishi mumkin
+@ M JAW
+
+? Pnevmokokk infeksiyasining umumiy profilaktikasiga qaysi chora kiradi?
++ Yo'talda og'izni yopish, qo'l yuvish, shamollatish
+- Qaynatilmagan sut ichish, qo'lni yuvmaslik
+- Hasharotlarni yo'q qilish, daryo suvini ichish
+- Tuproqda yalang oyoq yurish, zich yig'ilish
+- Xonalarni yopib qo'yish, odamlarni ko'paytirish
+! Yo'tal va aksirishda og'izni yopish, qo'l yuvish, xonani shamollatish va odamlar zichligini kamaytirish xavfni pasaytiradi
+@ M JAW
+
+? Kasal bo'lmagan tashuvchilar pnevmokokk epidemiologiyasida qanday ahamiyatga ega?
++ Bilmasdan boshqalarga bakteriya uzatishi mumkin
+- Hech qachon boshqalarga yuqtirmaydi
+- O'zlari kasallanadi, boshqalarga yuqtirmaydi
+- Boshqalarga emas, hayvonlarga yuqtirishi mumkin
+- Kasallik tarqalishini butunlay to'xtatib qo'yadi
+! Pnevmokokk tomchi orqali tarqaladi, kasal bo'lmagan tashuvchilar esa bakteriyani bilmasdan boshqalarga uzatishi mumkin
+@ M JAW
+
+? Kapsula polisakkaridlariga asoslangan konyugirlangan vaksina nima uchun bolalar uchun muhim?
++ Polisakkarid oqsilga bog'lanib, bolalarda javob hosil qiladi
+- Tarkibida tirik virulent mikroblar bo'lgani uchun kuchli
+- Antibiotik o'rnini bosib, mikrobni o'ldirgani uchun
+- Tomoq shilliq qavatini quritib, mikrobni to'sib qo'yadi
+- Faqat keksa odamlarda ishlagani va bolalarga kerak emasligi
+! Sof polisakkarid antigenlar ikki yoshgacha bolalarda yetarli javob bermaydi, konyugirlangan vaksinada esa polisakkarid oqsilga bog'lanib T-yordamchi javob hosil qiladi
+@ JAW WHOIMM
+
+? Zamonaviy pnevmokokk vaksinalari qaysi antigenlarga asoslanadi?
++ Kapsula polisakkarid antigenlariga
+- Xivchin oqsili antigenlariga (H-antigen)
+- Endospora po'sti antigenlariga
+- Endotoksin lipopolisaxarid antigenlariga
+- Ribosoma RNK antigenlariga
+! Antikapsular antitelalar eng muhim himoya omili bo'lgani uchun zamonaviy vaksinalar kapsula antigenlariga asoslanadi
+@ M JAW WHOIMM

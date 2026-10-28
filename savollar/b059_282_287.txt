@@ -1,0 +1,569 @@
+# 282
+
+? Enterobakteriyalar oilasining ko'pchilik a'zolari qanday xususiyatga ega?
++ Gram-manfiy sporasiz tayoqchalar, oksidaza manfiy
+- Gram-musbat sporali tayoqchalar, oksidaza musbat
+- Gram-manfiy kokklar, katalaza manfiy
+- Gram-musbat kokklar, koagulaza musbat
+- Gram-manfiy spiralsimon, oksidaza musbat
+! Enterobakteriyalar gram-manfiy, sporasiz tayoqchalar bo'lib, glyukozani bijg'itadi va oksidaza sinovida manfiy natija beradi
+@ M JAW
+
+? Surtmadan ichak bakteriyalarini ajratish uchun qaysi muhitlar qo'llanadi?
++ MakKonki, Endo yoki qizil-binafsha safro agari
+- Sabouraud, Chapek yoki kartoshkali agar
+- Manitolli tuzli, Baird-Parker yoki SPS agari
+- Qonli, shokoladli yoki zardobli agar
+- Levenshteyn-Yensen, Petragnani yoki Finn muhiti
+! Ekish uchun odatda MakKonki agari, Endo agari yoki qizil-binafsha safro agari kabi selektiv muhitlar qo'llanadi
+@ M JAW
+
+? Surtma tamponi ekishdan oldin nima qilinadi?
++ Tashish muhitida aralashtirilib, suyuqlikdan ekiladi
+- Qizdirilib, bevosita agarga bosib qo'yiladi
+- Quritilib, kukun holida agarga sepiladi
+- Spirtda yuvilib, keyin tashlab yuboriladi
+- Muzlatilib, bo'laklab muhitga qo'yiladi
+! Tampon tashish muhitida yaxshilab aralashtiriladi, mikroblar suyuqlikka o'tadi va undan selektiv muhitga ekiladi
+@ M
+
+? Ekilgan idishga qaysi ma'lumotlar yoziladi?
++ Namuna raqami, muhit nomi, ekish sanasi
+- Xodim yoshi, idish narxi, ob-havo
+- Muhit narxi, termostat markasi, soat
+- Tampon rangi, stol raqami, kassir ismi
+- Idish hajmi, rangi va ishlab chiqaruvchisi
+! Har bir idishda namuna raqami, muhit nomi va ekish sanasi yozib qo'yiladi, aks holda ularni chalkashtirib yuborish mumkin
+@ M
+
+? Inkubatsiya paytida idishlar nima uchun silkitilmaydi?
++ Koloniyalar tarqalib, sanash noaniq bo'ladi
+- Mikroblar sporaga aylanib ketadi
+- Muhit rangi o'zgarib qoladi
+- Termostat harorati ko'tarilib ketadi
+- Agar tezda erib ketadi
+! Silkitish koloniyalarning tarqalishiga va sanashning noaniq bo'lishiga olib keladi
+@ M
+
+? MakKonki agarida koloniyalar qanday ajratiladi?
++ Laktoza bijg'itadiganlar qizil, bijg'itmaydiganlar rangsiz
+- Laktoza bijg'itadiganlar rangsiz, bijg'itmaydiganlar qizil
+- Hammasi qora, farqi yo'q
+- Hammasi sariq, farqi yo'q
+- Laktoza bijg'itadiganlar yashil, boshqalari ko'k
+! MakKonki agarida laktozani bijg'itadigan bakteriyalar qizil koloniyalar, bijg'itmaydiganlar esa rangsiz koloniyalar hosil qiladi
+@ M JAW
+
+? Endo agarida laktozani bijg'itadigan koloniyalar qanday?
++ Metalik yaltiroqlik bilan ajralib turadi
+- Rangsiz va to'liq shaffof bo'ladi
+- Yashil va quruq, g'adir-budur bo'ladi
+- Sariq va shilimshiq, yopishqoq bo'ladi
+- Ko'k va mayda, nuqtasimon bo'ladi
+! Endo agarida laktozani bijg'itadigan koloniyalar metalik yaltiroqlik bilan ajralib turadi
+@ M JAW
+
+? Koloniyalar juda ko'p o'sgan bo'lsa nima qilinadi?
++ "Ko'p" deb belgilanib, suyultirib qayta ekiladi
+- Tashlab yuboriladi va jurnalga yozilmaydi
+- Bitta koloniya sanalib, qolgani tashlanadi
+- Natija nol deb yoziladi, tekshiruv tugaydi
+- Idish qizdirilib, yo'q qilinadi
+! Juda ko'p o'sish bo'lsa natija "ko'p" deb belgilanib, suyultirilgan namuna bilan qayta ekish o'tkaziladi
+@ M
+
+? Koliformlar enterobakteriyalarning qaysi xususiyati bilan ajralib turadi?
++ Laktozani bijg'itish qobiliyati bilan
+- Sporalar hosil qilish qobiliyati bilan
+- Oksidaza hosil qilish qobiliyati bilan
+- Koagulaza hosil qilish qobiliyati bilan
+- Kislotaga chidamlilik qobiliyati bilan
+! Koliformlar enterobakteriyalarning bir qismi bo'lib, laktozani bijg'itish qobiliyati bilan ajraladi va ichak ifloslanishining ko'rsatkichi
+@ M JAW
+
+? Enterobakteriyalar tabiatda qaerda uchraydi?
++ Suv, tuproq va o'simliklarda ham
+- Inson ichagida, boshqa joyda emas
+- Tog' muzliklari ostida
+- Quruq cho'l qumlarida
+- Chuqur okean tubida
+! Enterobakteriyalar keng tarqalgan; ko'pchiligi tabiatda suv, tuproq va o'simliklarda ham uchraydi
+@ M JAW
+
+# 283
+
+? Stafilokokklar mikroskopda qanday ko'rinadi?
++ Uzum shingili kabi tartibsiz to'plamlar
+- Uzun zanjirlar shaklidagi hujayralar
+- Juft lansetsimon shakldagi hujayralar
+- Palisad shaklida joylashgan tayoqchalar
+- Spiral burama shaklidagi hujayralar
+! Stafilokokklar mikroskopda uzum shingilini eslatuvchi tartibsiz to'plamlar holida joylashgan gram-musbat yumaloq hujayralar
+@ M JAW
+
+? Stafilokokklar katalaza-musbat degani nimani bildiradi?
++ Vodorod peroksidni parchalaydi
+- Plazmani ivitib qo'yadi
+- Mochevinani parchalaydi
+- Laktozani bijg'itib qo'yadi
+- Mannitni kislotaga aylantiradi
+! Katalaza-musbat stafilokokklar vodorod peroksidni parchalaydi, bu ularni streptokokklardan ajratishga yordam beradi
+@ M JAW
+
+? S. aureusni boshqa stafilokokklardan ajratuvchi asosiy belgi qaysi?
++ Koagulaza fermentini ishlab chiqarishi
+- Ureaza fermentini ishlab chiqarishi
+- Oksidaza fermentini ishlab chiqarishi
+- Gram-manfiy bo'yalishi
+- Sporalar hosil qilishi
+! Staphylococcus aureus koagulaza fermentini ishlab chiqarishi bilan boshqa turlardan farq qiladi
+@ M JAW
+
+? Stafilokokklar odamda qaerda yashashi mumkin?
++ Burun vestibyuli, teri va qo'llarda
+- Jigar va buyrak to'qimasi ichida
+- Miya va orqa miya to'qimasida
+- Suyak iligi va tog'ay to'qimasida
+- Ko'z gavhari va shox pardada
+! Stafilokokklar burun vestibyulida, teri yuzasida va qo'llarda doimiy yoki vaqtinchalik yashashi mumkin
+@ M JAW
+
+? Surtma tamponi quruq bo'lsa nima bo'ladi?
++ Mikroblarning yashovchanligi pasayadi
+- Mikroblar soni ikki baravar oshadi
+- Mikroblar sporaga aylanib ko'payadi
+- Natija aniqroq bo'lib qoladi
+- Namuna avtomatik sterillanadi
+! Quruq tampon mikroblarning yashovchanligini pasaytiradi, shuning uchun u steril fiziologik eritma yoki tashish muhiti bilan namlanadi
+@ M
+
+? Manitol-tuzli agarda S. aureus nima qiladi?
++ Manitolni parchalab, atrofida sariq halqa hosil qiladi
+- Laktozani parchalab, atrofida qizil halqa hosil qiladi
+- Glyukozani bijg'itib, atrofida yashil halqa hosil qiladi
+- Mannitni parchalamay, atrofida ko'k halqa hosil qiladi
+- Saxarozani parchalab, atrofida qora halqa hosil qiladi
+! S. aureus manitolni parchalab kislota hosil qiladi, shu sababli koloniya atrofida sariq halqa paydo bo'ladi
+@ M JAW
+
+? Baird-Parker agari qaysi belgilarga qarab tanlash uchun ishlatiladi?
++ Koloniya morfologiyasi va lesitinaza faolligiga
+- Laktozani bijg'itishi va indol hosil qilishiga
+- Ureaza hosil qilishi va sitratni o'zlashtirishiga
+- Oksidaza va nitratni qaytarish faolligiga
+- Sporalar hosil qilishi va xivchinlariga
+! Baird-Parker agari koloniya morfologiyasi va lesitinaza faolligiga qarab tanlash uchun ishlatiladi
+@ M JAW
+
+? Qon agarida stafilokokk koloniyalari nimasi bilan farqlanadi?
++ Gemoliz hosil qilishi yoki qilmasligi bilan
+- Pigmentsiz o'sishi yoki o'smasligi bilan
+- Anaerob sharoitda o'sishi bilan
+- Spirt eritmasida erishi bilan
+- Magnit maydonida harakatlanishi bilan
+! Qon agarida stafilokokk koloniyalari gemoliz hosil qilishi yoki qilmasligi bilan farqlanadi
+@ M JAW
+
+? Stafilokokk ekmalari odatda qanday inkubatsiya qilinadi?
++ 37 °C da 24–48 soat
+- 4 °C da 24–48 soat
+- 100 °C da 24–48 soat
+- 37 °C da 1–2 daqiqa
+- 60 °C da 24–48 soat
+! Ekilgan idishlar 37 °C haroratda 24–48 soat inkubatsiya qilinadi
+@ M
+
+? Gram-musbat uzum shingilisimon kokklar topilsa nima deyish mumkin?
++ Stafilokokk ehtimoli oshadi, lekin to'liq tasdiqlanmaydi
+- Stafilokokk to'liq tasdiqlangan deb hisoblanadi
+- Streptokokk to'liq tasdiqlangan deb hisoblanadi
+- Mikoplazma tasdiqlangan deb hisoblanadi
+- Tekshiruv bu yerda tugaydi va yakunlanadi
+! Gram-musbat uzum shingilisimon kokklar stafilokokk ehtimolini oshiradi, ammo uni to'liq tasdiqlamaydi; keyin katalaza va koagulaza testlari o'tkaziladi
+@ M
+
+# 284
+
+? Surtma tamponi nima uchun neytrallovchi eritma bilan namlanadi?
++ Dezinfeksiya qoldig'ini zararsizlantiradi
+- Mikroblarni o'ldirib yuboradi
+- Tampon rangini o'zgartirib qo'yadi
+- Tampon hidini yo'qotib yuboradi
+- Tamponni qotirib qo'yadi
+! Neytrallovchi muhit dezinfeksiya vositasi qoldig'ini zararsizlantiradi, aks holda mikroblar o'sishi noto'g'ri pasayishi mumkin
+@ M
+
+? Yuzadan surtma olishda odatda qanday maydon belgilanadi?
++ 100 sm² yuzali kvadrat
+- 1 sm² yuzali kvadrat
+- 1 m² yuzali kvadrat
+- 10 m² yuzali kvadrat
+- 0,1 sm² yuzali kvadrat
+! Ko'pincha 100 sm² yuzali kvadrat ajratiladi va tampon shu maydon bo'ylab ishqalanadi
+@ M
+
+? Tampon idishidagi suyuqlik nima uchun bevosita ekilmaydi?
++ Koloniyalar qo'shilib, sanab bo'lmaydi
+- Oziqa muhitini eritib yuborishi mumkin
+- Mikroblarni darhol o'ldirib qo'yishi mumkin
+- Idish rangini o'zgartirib yuborishi mumkin
+- Agarni qotirib, yaroqsiz qilib qo'yishi mumkin
+! Bevosita ekilsa koloniyalar bir-biriga qo'shilib, sanab bo'lmaydi, shuning uchun suyuqlik o'nlik qatorlar bo'yicha suyultiriladi
+@ M
+
+? Ekish uchun qaysi chashka usullari qo'llanadi?
++ Chuqur ekish va sirt ekish
+- Quritish va muzlatish
+- Qaynatish va filtrlash
+- Titrlash va neytrallash
+- Sentrifugalash va bo'yash
+! Aniq hajmdagi suyultirma oziqa agariga quyiladi (chuqur ekish) yoki sirtiga yoyiladi (sirt ekish)
+@ M
+
+? Sirt ekish nima uchun ko'pincha qulay hisoblanadi?
++ Koloniyalar yaxshi ko'rinadi
+- Mikroblar tezda o'lib ketadi
+- Agar muhit tez erib ketadi
+- Idish soni ikki baravar kamayadi
+- Inkubatsiya talab qilinmaydi
+! Sirt ekishda koloniyalar yaxshi ko'rinadi, shuning uchun u ko'pincha qulay hisoblanadi
+@ M
+
+? Surtma ekmalari odatda qanday inkubatsiya qilinadi?
++ 37 °C da 24–48 soat
+- 4 °C da 24–48 soat
+- 100 °C da 24–48 soat
+- 37 °C da 1–2 daqiqa
+- 60 °C da 24–48 soat
+! Chashkalar standart hisoblash agarida 37 °C haroratda 24–48 soat inkubatsiya qilinadi
+@ M
+
+? Hisoblash uchun qaysi chashka tanlanadi?
++ 30 dan 300 gacha koloniyali chashka
+- 3 dan 10 gacha koloniyali chashka
+- 1000 dan 5000 gacha koloniyali chashka
+- 1 dan 2 gacha koloniyali chashka
+- 10 000 dan ko'p koloniyali chashka
+! Odatda 30 dan 300 gacha koloniya bo'lgan chashka hisobga olinadi, chunki bu oraliqda natija eng ishonchli
+@ M
+
+? Surtma natijasi qanday birlikda chiqadi?
++ KHB/sm²
+- KHB/litr
+- KHB/m³
+- KHB/ml suv
+- KHB/kg go'sht
+! Natija suyultirish koeffitsiyentiga ko'paytirilib, yuzaga nisbatan hisoblanadi va KHB/sm² ko'rinishida chiqadi
+@ M
+
+? Dezinfeksiyadan keyingi past ko'rsatkich nimani bildirishi mumkin?
++ Dezinfektant qoldig'i mikrobni o'ldirgan bo'lishi
+- Yuza steril va hech qanday ehtiyot talab qilinmaydi
+- Xodim gigiyenasi ideal ekanligi aniq ko'rinadi
+- Tekshiruvni takrorlash umuman kerak emas
+- Mikroblar rangini o'zgartirib yuborgan bo'ladi
+! Past ko'rsatkich ham ogohlantirishi kerak: dezinfeksiya vositasi qoldig'i mikroblarni yo'q qilgan yoki neytrallash to'liq bo'lmagan bo'lishi mumkin
+@ M
+
+? Yuqori surtma ko'rsatkichi nimani ko'rsatishi mumkin?
++ Ishlov qoidalari yoki gigiyena buzilganini
+- Yuza ideal sterilligini va tozaligini
+- Dezinfeksiya juda yaxshi bajarilganini
+- Termostat harorati past bo'lganini
+- Muhit juda sifatli tayyorlanganini
+! Yuqori ko'rsatkich ishlov berish qoidalarining buzilganini, asbob sirtining iflosligini yoki xodim gigiyenasiga rioya qilmaganini ko'rsatishi mumkin
+@ M
+
+# 285
+
+? Kislotali konservalar (meva, sabzavot) qanday haroratda ishlanadi?
++ Past haroratda, chunki pH past
+- Yuqori haroratda, chunki pH past
+- Ishlov berilmaydi, chunki pH past
+- Sovuqda, chunki pH yuqori
+- Yuqori bosimda, chunki pH yuqori
+! Kislotali meva va sabzavot konservalari pH past bo'lgani uchun odatda past haroratda ishlanadi; kam kislotali go'sht va baliq yuqoriroq harorat va bosim talab qiladi
+@ M
+
+? Konserva ishlab chiqarishda asosiy maqsad nima?
++ Patogen sporalarni, ayniqsa C. botulinum sporalarini yo'qotish
+- Rangini o'zgartirib, yorqinlashtirib qo'yish
+- Ta'mini achchiqlashtirib, ko'rinishini yaxshilash
+- Hajmini ikki baravar oshirib, mo'l qilib berish
+- Idish rangini o'zgartirib, chiroyli ko'rinish berish
+! Maqsad patogen sporalarni, ayniqsa Clostridium botulinum sporalarini yo'q qilishdir
+@ M JAW
+
+? Konserva idishining bombaji nimani bildiradi?
++ Idish bo'rtgan, ichida gaz hosil bo'lgan
+- Idish ichi bo'sh, havo so'rilgan
+- Idish sovuq, muzlab qolgan
+- Idish steril, hech narsa o'smagan
+- Idish bo'yog'i o'zgargan
+! Bombaj — idish qopqog'ining bo'rtishi, ichida gaz hosil bo'lganidan darak beradi va mikroblar faoliyati natijasi bo'lishi mumkin
+@ M
+
+? Tashqi ko'rikda yana qaysi nuqsonlar qayd etiladi?
++ Chokning burishishi, zanglash, cho'kish
+- Rangining yorqinligi va yaltirashi
+- Yorliqning go'zalligi va shrifti
+- Tashqi o'lchamining kattaligi
+- Narxi va do'kon manzili
+! Chokning burishishi, zanglash, cho'kish va yorilish kabi nuqsonlar ham qayd etiladi, bunday idishlarning germetikligi buzilgan bo'lishi mumkin
+@ M
+
+? Konserva partiyasi deganda nima tushuniladi?
++ Bir xil sharoitda ishlab chiqarilgan bir xil belgili to'plam
+- Bir kunda sotilgan har xil mahsulotlar to'plami
+- Bitta do'konda saqlangan turli idishlar yig'indisi
+- Turli zavodlarda ishlab chiqarilgan idishlar jami
+- Bitta xaridor sotib olgan mahsulotlar soni
+! Partiya — bir xil sharoitda ishlab chiqarilgan va bir xil belgili mahsulotlar to'plami
+@ M
+
+? Konservalar termostatda odatda qaysi haroratlarda ushlanadi?
++ 37 °C va 55 °C
+- 4 °C va 10 °C
+- 100 °C va 121 °C
+- 20 °C va −18 °C
+- 60 °C va 90 °C
+! Odatda ikki harorat qo'llanadi: 37 °C (mezofillar) va 55 °C (termofillar)
+@ M
+
+? Termostatlashda 55 °C qaysi mikroblarni aniqlashga xizmat qiladi?
++ Termofil mikroblarni
+- Psixrofil mikroblarni
+- Mezofil mikroblarni
+- Viruslarni
+- Prionlarni
+! 37 °C mezofil mikroblarni, 55 °C esa termofil mikroblarni aniqlashga xizmat qiladi
+@ M BROCK
+
+? Namuna olishda konserva idishining tashqarisi nima uchun dezinfeksiya qilinadi?
++ Tashqi mikroblar natijani buzmasligi uchun
+- Idishning rangi o'zgarmasligi uchun
+- Idishning og'irligi kamayishi uchun
+- Mahsulotning ta'mi yaxshilanishi uchun
+- Yorliqning yaltirashi saqlanishi uchun
+! Idish tashqarisi dezinfeksiya qilinadi, shunda tashqi mikroblar ichkariga o'tib natijani buzmaydi
+@ M
+
+? Termostatlashdan keyin idish ochilganda nimalar tekshiriladi?
++ Hid, rang va konsistensiya
+- Narxi, yorlig'i va shtrix-kodi
+- Og'irligi, rangi va shakli
+- Do'kon manzili va sotuvchisi
+- Xodim ismi va lavozimi
+! Termostatlash tugagach idishlar ochilib, mazmuni organoleptik ko'rsatkichlar (hid, rang, konsistensiya) bo'yicha tekshiriladi
+@ M
+
+? Konserva mazmunida klostridiyalar uchun qanday sharoit yaratiladi?
++ Maxsus anaerob sharoit
+- Kislorodga boy aerob sharoit
+- Yuqori namlikdagi quruq sharoit
+- Past bosimdagi ochiq sharoit
+- Muzlatilgan holat sharoiti
+! Aerob mikroblar uchun standart agar, anaerob spora hosil qiluvchi klostridiyalar uchun esa maxsus anaerob sharoit yaratiladi
+@ M JAW
+
+? C. botulinum ajratilsa qo'shimcha nima tekshiriladi?
++ Uning toksini
+- Idish rangi
+- Idish hajmi
+- Yorliq matni
+- Termostat markasi
+! Clostridium botulinum izolyatsiya qilinsa, uning toksini ham tekshiriladi
+@ M JAW
+
+# 286
+
+? Jarrohlik bog'lov materiallariga nimalar kiradi?
++ Paxta, doka salfetka, bint, plastir
+- Dorilar, vitaminlar, malham va tomchilar
+- Metall asboblar, qaychi, pinset va igna
+- Shishalar, idishlar, probirka va pipetka
+- Kiyimlar, poyabzal, qo'lqop va niqob
+! Bog'lov materiallari orasida paxta, doka salfetkalar, bintlar, plastir va steril to'plamlar uchraydi
+@ M
+
+? Steril bog'lov materiali qadog'i qanday bo'lishi kerak?
++ Butun, muhri sinmagan, sterilizatsiya belgisi bor
+- Ochiq, muhri sinib ketgan, belgisiz holda
+- Qisman yirtilgan, belgisi o'chib ketgan holda
+- Namlangan, lekin muhri saqlangan holda
+- Ochilgan, ammo qayta o'ralgan holda
+! Qadoq butun bo'lishi, muhri sinmagan bo'lishi va sterilizatsiya belgisi bo'lishi kerak
+@ M
+
+? Steril mahsulot tekshiruvida nimalar baholanadi?
++ Tirik mikroblar yo'qligi va qadoq butunligi
+- Rangining yorqinligi va hidining yoqimliligi
+- Narxi va ishlab chiqarilgan joyi nomi
+- Vazni va qadoq o'lchami kattaligi
+- Muddati va sotuv joyi manzili
+! Steril mahsulotda tirik mikroblar bo'lmasligi kerak, tekshiruvda qadoq butunligi ham baholanadi
+@ M
+
+? Aseptik sharoit nimani anglatadi?
++ Mikroblar tushishini oldini oladigan muhit
+- Mikroblarni ko'paytiradigan qulay muhit
+- Havosiz va suvsiz, quruq muhit
+- Sovuq va qorong'i bo'lgan muhit
+- Yuqori namlikdagi ochiq muhit
+! Namuna olish aseptik sharoitda, ya'ni mikroblar tushishining oldini oladigan muhitda bajariladi
+@ M
+
+? Bog'lov materialidan namuna qanday olinadi?
++ Bir nechta qadoqdan, partiyaning turli joyidan
+- Bitta qadoqdan, uning chetidan olib
+- Oldin ochilgan qadoqdan, qoldig'idan
+- Eng ustki qadoqdan, tasodifiy olib
+- Namuna olinmaydi, faqat tashqi ko'riladi
+! Namuna bir nechta qadoqdan olinadi, shunda partiyaning turli qismlari tekshiriladi
+@ M
+
+? Qadoq ochilgach material nima bilan olinadi?
++ Steril pinset bilan, ichki yuzaga qo'l tegmasdan
+- Yalang qo'l bilan, tez va ehtiyotsiz holda
+- Oddiy qaychi bilan, tozalanmagan holda
+- Ishlatilgan pinset bilan, yuvilmay turib
+- Stol ustiga to'kib, qo'l bilan terib olib
+! Qadoq ochilgach material steril pinset yoki boshqa asbob bilan olinadi va uning ichki yuzasiga qo'l tegizilmaydi
+@ M
+
+? Yo'llanma xatda nimalar qayd etiladi?
++ Tashkilot, sana, joy, material, partiya
+- Bemor ismi, tashxis va davolash rejasi
+- Xodim oilaviy ahvoli va uy manzili
+- Idish narxi, rangi va do'kon nomi
+- Ob-havo, shamol tezligi va namlik
+! Xatda yuboruvchi tashkilot nomi, sana va vaqt, namuna olingan joy, material nomi, ishlab chiqaruvchi va partiya raqami qayd etiladi
+@ M
+
+? Namuna qanday sharoitda tashiladi?
++ Sovuq va quruq muhitda
+- Issiq va nam muhitda
+- Issiq va quruq muhitda
+- Quyosh nuri ostida
+- Ochiq havoda, qopqoqsiz
+! Namuna tashish paytida sovuq va quruq muhitda saqlanadi, haroratning keskin o'zgarishi mikroblar sonini o'zgartirishi mumkin
+@ M
+
+? Tashish paytida qadoq yorilsa nima qilinadi?
++ Namuna qayta olinadi yoki rad etiladi
+- Natija e'tiborsiz qoldiriladi
+- Yorilgan joy yopishtirib ishlatiladi
+- Namuna baribir tekshiriladi
+- Qadoq spirt bilan artilib ishlatiladi
+! Qadoq yorilgan yoki ifloslangan bo'lsa, namuna qayta olinishi yoki rad etilishi kerak
+@ M
+
+? Bog'lov materiallarining aniq me'yoriy raqamlari qaerdan olinadi?
++ Joriy sanitariya qoidalaridan
+- Yo'llanma xat matnidan olinadi
+- Qadoq rangidan aniqlab olinadi
+- Narx ro'yxatidan ko'chirib olinadi
+- Reklama varaqasidan topib olinadi
+! Mikroblar umumiy sonining yo'l qo'yiladigan chegarasi aniq raqamlari joriy sanitariya qoidalaridan olinadi
+@ M
+
+# 287
+
+? Sterillik tushunchasining mohiyati qanday?
++ Bitta tirik mikrob ham sterillikni buzadi
+- Kam miqdordagi mikroblar yo'l qo'yiladi
+- Patogen mikroblar yo'q bo'lishi yetarli
+- Sporalar bo'lishi mumkin
+- Viruslar bo'lishi mumkin
+! Sterillik mutlaq tushuncha: bitta tirik mikrob ham sterillikni buzadi
+@ M CDCSTER
+
+? Sterillikni ta'minlash darajasi (SAL) nimani bildiradi?
++ Mikroblar qolish ehtimoli kamaytirilishini
+- Mikroblar soni ikki baravar ko'paytirilishini
+- Mikroblar qolish ehtimoli yuqori bo'lishini
+- Sterilizatsiya vaqti qisqartirilishini
+- Sterilizatsiya harorati pasaytirilishini
+! SAL bo'yicha har bir sterilizatsiya partiyasida mikroblar qolish ehtimoli juda kichik qiymatgacha kamaytiriladi
+@ M CDCSTER
+
+? Bog'lov materiallari uchun eng ko'p qo'llanadigan sterilizatsiya usuli qaysi?
++ Issiq bug' bilan sterilizatsiya (avtoklav)
+- Qaynatish bilan sterilizatsiya qilish
+- Spirt bilan artib sterilizatsiya qilish
+- Quyoshda quritib sterilizatsiya qilish
+- Muzlatish bilan sterilizatsiya qilish
+! Bog'lov materiallari uchun eng ko'p qo'llanadigan usul issiq bug' bilan sterilizatsiya, ya'ni avtoklavlashdir
+@ M CDCSTER
+
+? Issiqlikka sezgir bog'lov materiallari qanday sterillanadi?
++ Etilen oksidi yoki gamma nurlanish bilan
+- Qaynoq suvda uzoq vaqt qaynatish bilan
+- Quruq issiqlik shkafida kuydirish bilan
+- Quyosh nurida uzoq vaqt quritish bilan
+- Sovuq suvda uzoq vaqt chayqash bilan
+! Issiqlikka sezgir materiallar uchun etilen oksidi bilan gazli sterilizatsiya yoki gamma nurlanish qo'llanadi
+@ M CDCSTER
+
+? Sterilizatsiya nazoratining asosiy vositalari qaysilar?
++ Kimyoviy va biologik indikatorlar
+- Idish rangi, hidi va og'irligi
+- Narx ro'yxati va reklama matni
+- Xodim yoshi va kasbi
+- Ob-havo va shamol tezligi
+! Kimyoviy indikatorlar, biologik indikatorlar va harorat yozuvi sterilizatsiya nazoratining asosiy vositalaridir
+@ M CDCSTER
+
+? Sterillik sinovida qaysi suyuq muhitlar qo'llanadi?
++ Tioglikolat muhiti va soya-kazein bulyoni
+- Endo agari va MakKonki agari
+- Sabouraud agari va Chapek agari
+- Qonli agar va shokoladli agar
+- Manitolli tuzli agar va SPS agari
+! Sterillik sinovida anaerob va aerob bakteriyalar uchun tioglikolat muhiti, aerob bakteriyalar va zamburug'lar uchun soya-kazein bulyoni qo'llanadi
+@ M PHARM
+
+? Tioglikolat muhiti sterillik sinovida qaysi haroratda inkubatsiya qilinadi?
++ Odatda 30–35 °C da
+- Odatda 4–10 °C da
+- Odatda 56–60 °C da
+- Odatda 100 °C da
+- Odatda 44–45 °C da
+! Tioglikolat muhiti odatda 30–35 °C da, soya-kazein bulyoni esa 20–25 °C da o'stiriladi
+@ M PHARM
+
+? Sterillik sinovida inkubatsiya muddati odatda qancha?
++ Odatda 14 kun
+- Odatda 1 soat
+- Odatda 24 soat
+- Odatda 3 kun
+- Odatda 6 oy
+! Inkubatsiya muddati farmakopeyada ko'rsatilgan muddat bo'yicha, odatda 14 kun
+@ M PHARM
+
+? Sterillik sinovida ijobiy nazorat nimani tasdiqlaydi?
++ Muhitning o'sishga qobiliyatini
+- Materialning sterilligini
+- Termostat quvvatini
+- Xodim malakasini
+- Idish hajmini
+! Ijobiy nazorat ma'lum miqdordagi tirik mikroblarni o'z ichiga oladi va muhitning o'sishga qobiliyatini tasdiqlaydi; o'sish bo'lmasa sinov yaroqsiz
+@ M PHARM
+
+? Sterillik sinovida manfiy nazorat nimani ko'rsatadi?
++ Tashqi ifloslanish yo'qligini
+- Muhit o'sishga qobiliyatini
+- Materialning yaroqsizligini
+- Termostat sozligini
+- Xodim yoshini
+! Manfiy nazorat steril muhit bo'lib, tashqi ifloslanish yo'qligini ko'rsatadi; unda o'sish topilsa tekshiruv davomida ifloslanish sodir bo'lgan
+@ M PHARM
+
+? Sterillik sinovi natijasi qachon "steril" deb baholanadi?
++ Namunalarda muhit loyqalanmagan bo'lsa
+- Birgina namunada muhit loyqalanmagan bo'lsa
+- Muhit rangi o'zgargan bo'lsa
+- Muhit cho'kma bergan bo'lsa
+- Nazorat namunasi o'smasa
+! Barcha namunalarda muhit loyqalanmagan bo'lsa material steril hisoblanadi
+@ M PHARM

@@ -1,0 +1,272 @@
+# 044
+? Patogen mikroblar qanday mikroorganizmlar hisoblanadi?
++ Organizmda kasallik chaqirish qobiliyatiga ega mikroorganizmlar
+- Tuproqda yashaydigan va odamga hech tegmaydigan mikroorganizmlar
+- Ichakda doimo yashab, vitamin sintez qiladigan mikroorganizmlar
+- Laboratoriya sharoitida o'stiriladigan mikroorganizmlar guruhi
+- Havo orqali tarqalib, hech qanday zarar bermaydigan mikroorganizmlar
+! Patogen mikroblar organizmda kasallik chaqirish qobiliyatiga ega mikroorganizmlardir
+@ M JAW
+
+? Patogenlik omillariga qaysi guruhlar kiradi?
++ Yopishish, himoyadan qochish, to'qimalarni zararlash va toksin ishlab chiqarish
+- Bo'yalish, ko'payish, harakatlanish va sporalar hosil qilish xususiyatlari
+- Muhit rangini o'zgartirish, hid chiqarish va gaz hosil qilish xususiyatlari
+- Kislotaga chidamlilik, sovuqqa moslashish va quritilishga bardoshlik
+- Fagga sezuvchanlik, bo'linish tezligi va koloniya shaklini o'zgartirish
+! Patogenlik omillariga yopishish, himoyadan qochish, to'qimalarni zararlash va toksin ishlab chiqarish kiradi
+@ M JAW
+
+? Mikrobni shilliq pardaga mahkamlaydigan tuzilmalar qaysilar?
++ Pililar va adhezinlar
+- Kapsula va spora
+- Ribosomalar va plazmidalar
+- Xivchin va nukleoid
+- Mezosoma va vakuolalar
+! Yopishish omillari, masalan pililar va adhezinlar, mikrobni shilliq pardaga mahkamlaydi
+@ M JAW
+
+? Mikrobni fagotsitozdan saqlaydigan himoyadan qochish omiliga qaysi biri misol bo'ladi?
++ Kapsula
+- Pilus
+- Ribosoma
+- Nukleoid
+- Mezosoma
+! Himoyadan qochish omillari, masalan kapsula, mikrobni fagotsitozdan saqlaydi
+@ M JAW
+
+? Virulentlik nima?
++ Mikrob patogenligining miqdoriy ko'rsatkichi
+- Turga xos sifat belgisi bo'lib, shtammga bog'liq emas
+- Oziqa muhitida o'sish tezligi ko'rsatkichi
+- Bo'yoqni qabul qilish darajasi
+- Antibiotikka sezuvchanlik darajasi ko'rsatkichi
+! Virulentlik — mikrob patogenligining miqdoriy ko'rsatkichi; u shtammdan shtammga farq qiladi
+@ M JAW
+
+? Shartli-patogen mikroblar qachon kasallik chaqiradi?
++ Himoya pasayganda yoki boshqa joyga ko'chganda
+- Organizm himoyasi mustahkam bo'lganda ham doimo
+- Oziqa muhitida o'stirilganda ham ular doimo
+- Ichak mikroflorasida joylashganda doimo
+- Tashqi muhitda uzoq vaqt saqlanganda ham
+! Shartli-patogen mikroblar normal mikroflora vakillari bo'lib, organizm himoyasi pasaygan yoki boshqa joyga ko'chganda kasallik chaqiradi
+@ M JAW
+
+? Bir xil mikrob qonda aniqlansa, bu qanday baholanadi?
++ Ichakda oddiy bo'lgani bilan qonda jiddiy belgi hisoblanadi
+- Ichakdagi kabi qonda ham oddiy holat hisoblanadi
+- Qonda mikroblar bo'lishi albatta normal hisoblanadi
+- Namuna turiga e'tibor berilmay, natija e'tiborsiz qoladi
+- Mikrobning soni emas, rangi baholanadi
+! Bir xil mikrob ichakda oddiy bo'lsa ham, qonda aniqlansa, bu jiddiy belgi hisoblanadi
+@ M JAW
+
+? Patogenlik belgilari bo'lgan gemoliz, koagulaza yoki toksin ishlab chiqarish qanday tekshiriladi?
++ Odatda oddiy laboratoriya testlari yordamida
+- Elektron mikroskopiya yordamida o'rganiladi
+- Inson organizmiga yuborish yordamida o'rganiladi
+- Kimyoviy sintez yordamida o'rganiladi
+- Radioaktiv nishonlash yordamida o'rganiladi
+! Laboratoriyada patogenlik belgilari, masalan gemoliz, koagulaza yoki toksin ishlab chiqarish, odatda oddiy testlar bilan tekshiriladi
+@ M JAW
+
+? Patogen mikroblar bilan ishlash qayerda bajariladi?
++ Maxsus sharoitda, bioxavfsizlik shkafida
+- Ochiq ish stolida, himoya vositalarisiz
+- Oddiy oshxona sharoitida
+- Dalada, quyosh nuri ostida
+- Sovutgich kamerasida, 4 °C da
+! Patogen mikroblar bilan ishlash yuqori xavfsizlik darajasini talab qiladi, shu sababli ish bioxavfsizlik shkafida bajariladi
+@ M WHOLBM
+
+? Patogen mikroblar bilan ishlashdan chiqqan chiqindi materiallar nima qilinadi?
++ Avtoklavda zararsizlantiriladi
+- Oddiy axlat qutisiga tashlanadi
+- Kanalizatsiyaga to'kiladi
+- Quyoshda quritib yuboriladi
+- Sovutgichda saqlanadi
+! Chiqindi materiallar avtoklavda zararsizlantiriladi, ish joyi esa tegishli dezinfektant bilan tozalanadi
+@ M WHOLBM
+
+# 045
+? Toksinlar qaysi ikki asosiy guruhga bo'linadi?
++ Ekzotoksinlar va endotoksinlar
+- Gemotoksinlar va neyrotoksinlar
+- Termolabil va termostabil toksinlar
+- Gram-musbat va gram-manfiy toksinlar
+- Tabiiy va sintetik toksinlar
+! Toksinlar ikki asosiy guruhga bo'linadi: ekzotoksinlar va endotoksinlar
+@ M JAW
+
+? Ekzotoksin va endotoksin o'rtasidagi farq asosan nimadan kelib chiqadi?
++ Joylashuvidan: ekzotoksin hujayradan tashqariga chiqariladi
+- Rangidan: ekzotoksin rangli, endotoksin rangsiz
+- Hajmidan: ekzotoksin yirik, endotoksin mayda
+- Hididan: ekzotoksin hidli, endotoksin hidsiz
+- Muhit pH ga ta'siridan: ekzotoksin nordon, endotoksin ishqoriy
+! Ekzotoksin hujayradan tashqariga chiqariladi, endotoksin esa hujayra devorining tarkibiy qismi bo'lib, bakteriya halokatga uchraganda ajraladi
+@ M JAW
+
+? Ekzotoksinlarning kimyoviy tabiati qanday?
++ Oqsil
+- Lipopolisaxarid
+- Fosfolipid
+- Polisaxarid
+- Nuklein kislota
+! Ekzotoksinlar oqsil tabiatiga ega va asosan gram-musbat bakteriyalar tomonidan ishlab chiqariladi
+@ M JAW
+
+? Endotoksin qaysi kimyoviy birikmadan iborat?
++ Lipopolisaxarid (LPS)
+- Oqsil (albumin)
+- Peptidoglikan (murein)
+- Teyxoy kislotasi
+- Flagellin oqsili
+! Endotoksinlar asosan gram-manfiy bakteriyalar tashqi membranasidagi lipopolisaxarid (LPS) qismidan iborat
+@ M JAW
+
+? Qaysi toksinlar nerv tizimiga kuchli ta'sir qiladi?
++ Qoqshol va botulizm toksinlari
+- Vabo va difteriya toksinlari
+- Stafilokokk va streptokokk toksinlari
+- Kuydirgi va sil toksinlari
+- Dizenteriya va ichak tayoqchasi toksinlari
+! Qoqshol va botulizm toksinlari nerv tizimiga kuchli ta'sir qiladi
+@ M JAW
+
+? Endotoksinning issiqlikka munosabati qanday?
++ Issiqlikka chidamli
+- Qizdirilganda tezda parchalanadi
+- 100 °C dagina faollashadi
+- Ekzotoksinga aylanadi
+- Isitilganda bakteriya sporasiga aylanadi
+! Endotoksinlar issiqlikka chidamli bo'lib, uzoq vaqt ta'sir qilishi mumkin
+@ M JAW
+
+? Endotoksin organizmda qanday belgilar keltirib chiqaradi?
++ Isitma, qon bosimining pasayishi va yallig'lanish
+- Qon bosimining oshishi va tana haroratining pasayishi
+- Terining kuchli quruqlashishi va soch to'kilishi
+- Ko'rish o'tkirligining oshishi va ishtaha ortishi
+- Mushaklarning kuchli qisqarishi va tutqanoq
+! Endotoksinning ta'siri ko'pincha isitma, qon bosimining pasayishi va yallig'lanish bilan namoyon bo'ladi
+@ M JAW
+
+? Endotoksinni aniqlash uchun qaysi test qo'llanishi mumkin?
++ Limulus lizati testi
+- Gram bo'yash usuli (qoldiq reaksiya)
+- Katalaza testi
+- Ureaza testi
+- Sitrat testi
+! Ekzotoksinni antitelo bilan aniqlash mumkin, endotoksinni esa Limulus lizati testi kabi usullar bilan tekshiriladi
+@ M JAW
+
+? Toksoid nima?
++ Zararsizlantirilgan toksin
+- Faollashtirilgan endotoksin
+- Toksinga qarshi antitelo
+- Toksin ishlab chiqaruvchi plazmida
+- Bakteriya sporasining bir turi
+! Toksoidlar — zararsizlantirilgan toksinlar bo'lib, ekzotoksinlarga qarshi emlash uchun qo'llanadi
+@ M JAW
+
+? Ekzotoksin va endotoksin immunologik jihatdan qanday farqlanadi?
++ Ekzotoksin antitelo bilan neytrallanadi, endotoksin neytrallanmaydi
+- Endotoksin antitelo bilan neytrallanadi, ekzotoksin neytrallanmaydi
+- Bir xil antitelo bilan neytrallanadi
+- Hech qanday antitelo hosil qilmaydi
+- Vaksina bilan yo'qotiladi
+! Ekzotoksin o'ziga xos antitelo bilan neytrallanadi, endotoksin esa neytrallanmaydi; shu sababli endotoksinga qarshi davolash murakkab
+@ M JAW
+
+# 046
+? Infeksion jarayon zanjiri qaysi uch bo'g'indan iborat?
++ Manba, yuqish yo'li va sezgir organizm
+- Mikrob, antibiotik va davolanayotgan bemor
+- Namuna, oziqa muhiti va termostat
+- Antitelo, antigen va komplement tizimi
+- Toksin, fag va plazmida zanjiri
+! Infeksion jarayon zanjiri infeksiya manbai, yuqish yo'li va sezgir organizmdan iborat; birortasi uzilsa, kasallik tarqalishi to'xtaydi
+@ M JAW
+
+? Infeksion kasallik paydo bo'lishi uchun nimalar bir vaqtda mavjud bo'lishi kerak?
++ Patogen mikrob, kirish yo'li va organizmning holati
+- Patogen mikrob, boshqa shart talab etilmaydi
+- Sezgir organizm bo'lsa yetarli, mikrob talab etilmaydi
+- Antibiotik, muhit va laboratoriya
+- Termostat, oziqa muhiti va steril idish
+! Infeksion kasallik uchun patogen mikrob, uning organizmga kirish yo'li va organizmning holati bir vaqtda mavjud bo'lishi kerak
+@ M JAW
+
+? Qaysi bemorlar infeksiyaga ko'proq moyil bo'ladi?
++ Bolalar, keksalar va surunkali kasallar
+- Sog'lom va yaxshi emlangan kattalar
+- Sportchilar va yaxshi tarbiyalangan o'smirlar
+- Tez-tez sayohat qiladigan odamlar
+- Antibiotik qabul qilmaydigan yoshlar
+! Immuniteti kuchsiz kishilar, masalan bolalar, keksalar va surunkali kasalligi bor bemorlar ko'proq xavf ostida bo'ladi
+@ M JAW
+
+? Teri va shilliq pardalar butunligi buzilsa, nima yuz beradi?
++ Mikrobga organizmga kirish yo'li ochiladi
+- Mikroblar organizmga kira olmay qoladi
+- Immunitet birdan mustahkamlanib ketadi
+- Infeksiya xavfi kamayib ketadi
+- Teri mikroflorasi to'liq yo'qoladi
+! Teri va shilliq pardalarning shikastlanishi mikrob organizmga kirishi uchun yo'l ochadi
+@ M JAW
+
+? Nafas yo'li orqali yuqadigan infeksiyalarda yuqish uchun qanday doza yetarli bo'lishi mumkin?
++ Ozgina miqdor ham yetarli bo'lishi mumkin
+- Juda katta miqdor talab etiladi
+- Hech qanday miqdor yetarli bo'lmaydi, doza ahamiyatsiz
+- Milliardlab hujayra kerak bo'ladi
+- Doza mutlaqo ahamiyatga ega emas, tezda yuqadi
+! Nafas yo'li orqali yuqadigan infeksiyalarda ozgina miqdor ham yetarli bo'lishi mumkin
+@ M
+
+? Quyidagilardan qaysi biri muhit omillariga kiradi?
++ Ifloslangan suv, oziq-ovqat va havo
+- Mikrob kapsulasining qalinligi
+- Bemorning qon guruhi va rezusi
+- Antibiotik disklarining diametri
+- Mikroskop okulyari kattalashtirishi
+! Harorat, namlik, ifloslangan suv, oziq-ovqat va havo sifati mikroblarning tarqalishi va organizmga kirishini belgilaydi
+@ M
+
+? Zoonoz infeksiyalar paydo bo'lishi qaysi omillar bilan bog'liq?
++ Hayvonlar bilan aloqa va tabiiy o'choqlar
+- Laboratoriya jihozlarining eskirib qolishi
+- Bemor kiyimining rangi va matosi
+- Mikroskop ishlatish tajribasi
+- Distillangan suv sifati va hajmi
+! Zoonoz infeksiyalar ekologik omillar, masalan hayvonlar bilan aloqa va tabiiy o'choqlar mavjudligi bilan bog'liq holda paydo bo'ladi
+@ M
+
+? Organizmning sezgirligini kamaytiruvchi eng samarali usul qaysi?
++ Emlash
+- Qaynatish
+- Quritish
+- Filtrlash
+- Kimyoviy dezinfeksiya
+! Emlash organizmning sezgirligini kamaytiruvchi eng samarali usuldir
+@ M WHOIMM
+
+? Emlash qamrovi past hududlarda nima yuz berishi mumkin?
++ Kasallik qayta paydo bo'lishi mumkin
+- Kasallik butunlay yo'qolib ketadi
+- Aholi immuniteti oshib ketadi
+- Infeksion kasalliklar kamayib ketadi
+- Epidemiyalar mutlaqo to'xtab qoladi
+! Emlash qamrovi past bo'lgan hududlarda kasallik qaytadan paydo bo'lishi mumkin
+@ M WHOIMM
+
+? Profilaktika choralari zanjirning qaysi bo'g'inlariga qaratiladi?
++ Manba, yuqish yo'li va sezgir organizm
+- Sezgir organizmning o'ziga
+- Laboratoriya jihozlari va idishlariga
+- Yuqish yo'lining o'ziga
+- Mikrob koloniyasi rangi va hajmiga
+! Profilaktika zanjirning har bir bo'g'inida: manbani aniqlash va bartaraf etish, yuqish yo'lini uzish va organizm himoyasini kuchaytirish orqali amalga oshiriladi
+@ M

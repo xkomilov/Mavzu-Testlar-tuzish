@@ -1,0 +1,459 @@
+# 210
+
+? Leptospirozning asosiy yuqish omili qaysi?
++ Ifloslangan suv va nam tuproq bilan kontakt
+- Havo-tomchi orqali odamdan odamga yuqish
+- Jinsiy aloqa orqali yuqish
+- Hasharot chaqishi orqali yuqish
+- Qon quyish orqali yuqish
+! Asosiy yuqish yo'li — ifloslangan suv va nam tuproq bilan kontakt; leptospiralar nam muhitda uzoq tirik qoladi
+@ M JAW WHODW
+
+? Leptospiralar organizmga qanday kiradi?
++ Shikastlangan teri, shilliq qavat orqali
+- Butun, sog'lom teri orqali oson o'tib
+- Havo orqali o'pka alveolasiga tushib
+- Tish orqali milkka o'tib kirib
+- Soch ildizi orqali teriga kirib
+! Infeksiya sog'lom teri orqali kam, shikastlangan teri va shilliq qavatlar (ko'z, og'iz) orqali oson kiradi
+@ M JAW WHODW
+
+? Leptospiroz qaysi mavsumda kuchayadi?
++ Suv toshqini, yomg'irli mavsumda
+- Sovuq qish mavsumida, quruq havoda
+- Issiq cho'l mavsumida, quruq havoda
+- Qorli qish mavsumida, quruq havoda
+- Seryog'in kuz mavsumida, quruq havoda
+! Ayniqsa suv toshqini va yomg'irli mavsumda kasallik kuchayadi
+@ M JAW WHODW
+
+? Qaysi kasb egalari leptospirozga ko'proq duchor bo'ladi?
++ Qishloq xo'jaligi, kanalizatsiya, shaxta
+- Maktab o'qituvchilari, kutubxonachilar
+- Bank xodimlari, dasturchilar
+- Haydovchilar, aktyorlar
+- Rassomlar, musiqachilar
+! Xavf guruhiga qishloq xo'jaligi, kanalizatsiya, shaxta va go'sht sanoatida ishlovchilar kiradi
+@ M JAW WHODW
+
+? Leptospiremiya nima?
++ Qonda leptospiralar aniqlanishi
+- Siydikda leptospiralar aniqlanishi
+- Likvorda leptospiralar aniqlanishi
+- Teri yuzasida leptospiralar topilishi
+- Najasda leptospiralar topilishi
+! Leptospiralar qon oqimiga o'tib, qonda ko'p miqdorda aniqlanadi — leptospiremiya
+@ M JAW
+
+? Qaysi a'zolar leptospirozda zararlanadi?
++ Jigar, buyrak, o'pka, mushak
+- Ko'z va quloq to'qimalari
+- Tish va milk to'qimalari
+- Soch va tirnoq to'qimalari
+- Suyak va bo'g'im to'qimalari
+! Qo'zg'atuvchi jigar, buyrak, o'pka, mushaklar va markaziy nerv tizimiga yetib boradi
+@ M JAW
+
+? Leptospirozda qaysi mushaklar og'rig'i kuchli bo'ladi?
++ Baldir mushaklari
+- Qorin mushaklari
+- Yuz mushaklari
+- Til mushaklari
+- Bilak mushaklari
+! Mushak og'rig'i, ayniqsa baldir mushaklarida kuchli bo'ladi
+@ M JAW
+
+? Boshlang'ich bosqich belgilari qaysilar?
++ Qattiq isitma, bosh va mushak og'rig'i
+- Yo'tal, burun bitishi, aksirish
+- Ich ketishi, qusish, qorin shishi
+- Teri qichishishi, toshma, shish
+- Quloq og'rig'i, eshitish pasayishi
+! Bu bosqichda bemorda qattiq isitma, bosh og'rig'i va mushak og'rig'i kuzatiladi
+@ M JAW
+
+? Leptospira organizmda nima tufayli tez tarqaladi?
++ Harakatchanligi, yopishishi tufayli
+- Sporasi tufayli tashqi muhitda
+- Kapsulasi tufayli qonda
+- Ekzotoksini tufayli to'qimada
+- Pili tufayli shilliq qavatda
+! Harakatchanlik va yopishish xususiyati tufayli qo'zg'atuvchi to'qimalarda tarqaladi
+@ M JAW
+
+? Immun bosqich leptospiremiyadan keyin nimani ko'rsatadi?
++ Antitelolar ishlab chiqarila boshlanishini
+- Qondagi qo'zg'atuvchi soni ortishini
+- Kasallik butunlay tugaganini ko'rsatadi
+- Vaksina ta'siri boshlanganini ko'rsatadi
+- Qo'zg'atuvchi sporalanganini ko'rsatadi
+! Leptospiremiya bosqichidan keyin immun tizim antitelolar ishlab chiqara boshlaydi
+@ M JAW
+
+# 211
+
+? Leptospira kulturasi uchun qaysi muhit ishlatiladi?
++ EMJH muhiti
+- Endo agari
+- Qon agari
+- Manitli tuzli agar
+- Sabouraud agari
+! Qon va siydik namunalari maxsus oziqa muhitiga, masalan EMJH muhitiga ekiladi
+@ M JAW
+
+? Kulturalar qaysi haroratda inkubatsiya qilinadi?
++ 28–30 °C da
+- 4–6 °C da
+- 37–38 °C da
+- 56–60 °C da
+- 42–45 °C da
+! Leptospira kulturalari 28–30 °C da inkubatsiya qilinadi va bir necha hafta davomida mikroskopda tekshiriladi
+@ M JAW
+
+? Kulturalar qancha vaqt kuzatiladi?
++ Bir necha hafta
+- Bir necha soat
+- Bir necha daqiqa
+- Bir necha soniya
+- Bir necha kun
+! O'sish sekin bo'lgani uchun kulturalar bir necha hafta davomida muntazam tekshiriladi
+@ M JAW
+
+? Muhitga begona florani cheklash uchun nima qo'shiladi?
++ Antibiotik, ftoruratsil
+- Glyukoza, osh tuzi
+- Qon, zardob qo'shimchasi
+- Agar, pepton qo'shimchasi
+- Kraxmal, yog' qo'shimchasi
+! Muhitga begona mikroorganizmlar o'sishini cheklash uchun antibiotik va ftoruratsil qo'shiladi
+@ M JAW
+
+? Qorong'i maydon mikroskopiyasining kamchiligi nima?
++ Sezgirligi past usul
+- Juda qimmat usul bo'lishi
+- Natija bir necha hafta kutilishi
+- O'lik hujayralar ko'rinishi
+- Sporalar ko'rinishi
+! Qorong'i maydon tez, ammo sezgirligi past bo'lgani uchun yagona tashxis usuli bo'la olmaydi
+@ M JAW
+
+? Qorong'i maydonda leptospira qanday ko'rinadi?
++ Harakatlanuvchi spiral shakl
+- Harakatsiz kokksimon shakl
+- Sporali tayoqchasimon shakl
+- Zanjirsimon kokksimon shakl
+- Shoxlangan ipsimon shakl
+! Qorong'i maydon mikroskopiyasi qon yoki siydikda harakatlanuvchi leptospiralarni ko'rishga yordam beradi
+@ M JAW
+
+? Qaysi bo'yash usullari leptospira uchun qo'llanishi mumkin?
++ Immunofluoressensiya, kumush bilan
+- Gram usuli, Ziel–Nilsen usuli
+- Neyser usuli, Burri usuli
+- Sudan usuli, Fontana usuli
+- Ojeshko usuli, Klett usuli
+! Immunofluoressensiya va kumush bilan bo'yash leptospiralarni aniqroq ko'rsatadi, ammo malaka talab qiladi
+@ M JAW
+
+? Mikroskopiyada nima uchun ehtiyot bo'lish kerak?
++ Begona zarra va kristallar o'xshab ko'rinadi
+- Leptospira hech qachon ko'rinmaydi, shuning uchun
+- Zarralarning hammasi leptospira hisoblanadi
+- Mikroskop faqat sporalarni ko'rsatadi, shuning uchun
+- Natija doim aniq bo'ladi, shuning uchun
+! Begona zarralar va kristallar leptospiralarga o'xshab ko'rinishi mumkin, shuning uchun ehtiyotkorlik zarur
+@ M JAW
+
+? Leptospirozda serologik tashxisning asosiy usuli qaysi?
++ MAT (mikroskopik agglyutinatsiya)
+- Vidal (zardob aglyutinatsiyasi)
+- Vasserman (komplement bog'lash)
+- Mantu (teri ichi sinamasi)
+- Shik (toksin sinamasi)
+! Mikroskopik agglyutinatsiya testi (MAT) leptospirozni serologik tashxislashning asosiy usuli
+@ M JAW WHODW
+
+? Kultura usulining ahamiyati qanday?
++ Sof ajratadi, lekin vaqt talab qiladi
+- Tez natija beradi va juda oson
+- Sezgirligi juda yuqori va tez
+- Hech qanday kamchiligi yo'q usul
+- O'lik hujayralarni ham topa oladi
+! Kultura qo'zg'atuvchini sof holda ajratish imkonini beradi, ammo vaqt talab qiladi
+@ M JAW
+
+# 212
+
+? Leptospirozning dastlabki bosqichida qaysi material ustun?
++ Qon (PCR va qon kulturasi)
+- Qon zardobi (antitela darajasi)
+- Najas (virus zarrasi)
+- Balg'am (bakteriya)
+- Teri qirindisi (zamburug')
+! Dastlabki kunlarda qo'zg'atuvchi qonda aniqlanadi, shuning uchun PCR va qon kulturasi ustun
+@ M JAW
+
+? Immun bosqichda qaysi testlar ishonchli?
++ Serologik testlar (MAT, ELISA)
+- Qon kulturasi
+- Qorong'i maydon mikroskopiyasi
+- Teri qirindisi bo'yash
+- Rentgen tekshiruvi
+! Immun bosqichda antitelolar hosil bo'ladi va qo'zg'atuvchi qondan yo'qoladi, shu davrda serologik testlar ishonchli
+@ M JAW
+
+? Immun bosqichda qo'zg'atuvchi qayerda aniqlanishi mumkin?
++ Siydikda
+- Qonda
+- Likvorda
+- Balg'amda
+- Najasda
+! Immun bosqichda qo'zg'atuvchi qondan yo'qoladi, ammo siydikda aniqlanishi mumkin
+@ M JAW
+
+? Leptospirozning ikki bosqichli kechishi nimani belgilaydi?
++ Birinchi qo'llanadigan testni
+- Davolash muddatini butunlay
+- Dori narxini va nomini
+- Bemorning yoshini va jinsini
+- Parhez turini va tarkibini
+! Ikki bosqichli kechish tashxis strategiyasini belgilaydi: bemor qaysi davrda murojaat qilganiga qarab test tanlanadi
+@ M JAW
+
+? Leptospirozdan qaysi kasalliklar farqlanadi?
++ Dengue, malyariya, gepatit
+- Qizamiq, suvchechak, tepki
+- Sil, zaxm, gonoreya
+- Qoqshol, botulizm, bo'g'ma
+- Vabo, o'lat, kuydirgi
+! Leptospirozni dengue isitmasi, malyariya, virusli gepatit, gripp va bakterial septitsemiyadan farqlash lozim
+@ M JAW
+
+? Virusli gepatit leptospirozdan nimasi bilan farqlanadi?
++ Leptospirozda buyrak, mushak belgisi ko'p
+- Gepatitda buyrak belgisi ko'proq bo'ladi
+- Ikkalasida sariqlik umuman bo'lmaydi
+- Ikkalasida jigar fermenti normal bo'ladi
+- Gepatitda mushak og'rig'i kuchli bo'ladi
+! Sariqlik va jigar fermentlari ko'rsatkichlari muhim, ammo leptospirozda buyrak va mushak belgilari ko'proq namoyon bo'ladi
+@ M JAW
+
+? Laboratoriya tashxisi qaysi usullarni o'z ichiga oladi?
++ Kultura, PCR, MAT
+- Gram bo'yash
+- Rentgen
+- Teri sinamasi
+- Harorat o'lchash
+! Laboratoriya tashxisi kultura, PCR, MAT va ELISA kabi usullarni o'z ichiga oladi
+@ M JAW WHODW
+
+? Dastlabki kunlarda qaysi usullar ustun?
++ PCR va qon kulturasi
+- MAT va ELISA tahlili
+- Siydik kulturasi usuli
+- Gram bo'yash usuli
+- Rentgen tekshiruvi
+! Dastlabki kunlarda PCR va qon kulturasi ustun, keyinchalik MAT va ELISA ishonchli
+@ M JAW
+
+? Meningit va gantavirus infeksiyasi bilan farqlashda nima aniqlashtiradi?
++ Epidemiologiya, maxsus testlar
+- Kiyim rangi va o'lchami
+- Sevimli ovqat va ichimlik
+- Yosh va jinsga ko'ra farq
+- Kasalxona manzili va nomi
+! Meningit va gantavirus infeksiyasi klinik jihatdan o'xshash bo'lishi mumkin, epidemiologik ma'lumotlar va maxsus testlar tashxisni aniqlashtiradi
+@ M JAW
+
+? Qaysi bosqichda tashxis uchun qo'zg'atuvchi qonda eng qulay?
++ Birinchi (leptospiremiya) bosqich
+- Ikkinchi (immun) bosqich
+- Sog'ayish bosqichi
+- Kasallikdan oldingi bosqich
+- Kasallikdan keyingi bosqich
+! Birinchi bosqichda qo'zg'atuvchi qonda aniqlanadi va tashxis uchun eng qulay davr hisoblanadi
+@ M JAW
+
+# 213
+
+? Leptospirozni davolashda an'anaviy samarali dori qaysi?
++ Penitsillin G
+- Gentamitsin
+- Izoniazid
+- Flukonazol
+- Metronidazol
+! Penitsillin G leptospirozni davolashda an'anaviy va samarali preparat hisoblanadi
+@ M JAW WHODW
+
+? Og'ir kechganda penitsillin qanday yuboriladi?
++ Tomir ichiga
+- Teri ustiga surtib
+- Og'iz orqali ichirib
+- Burunga tomizib
+- Ko'zga tomizib
+! Ayniqsa og'ir kechadigan, buyrak va nerv tizimi zararlangan bemorlarda penitsillin tomir ichiga yuboriladi
+@ M JAW WHODW
+
+? Yengil shakllarda og'iz orqali qaysi dorilar qo'llanadi?
++ Doksitsiklin, azitromitsin
+- Streptomitsin, kanamitsin
+- Izoniazid, rifampitsin
+- Flukonazol, nistatin
+- Metronidazol, tinidazol
+! Doksitsiklin va azitromitsin yengil va o'rtacha shakllarda og'iz orqali qo'llanadi
+@ M JAW WHODW
+
+? Penitsillinga allergiyada qaysi alternativ dori tanlanishi mumkin?
++ Seftriakson
+- Ampitsillin
+- Amoksitsillin
+- Oksasillin
+- Penitsillin V
+! Seftriakson leptospirozni davolashda alternativ preparat, penitsillinga allergiya bo'lgan bemorlarda tanlanishi mumkin
+@ M JAW WHODW
+
+? Leptospirozning og'ir shakli qanday nomlanadi?
++ Vil kasalligi
+- Bang kasalligi
+- Brill kasalligi
+- Lyme kasalligi
+- Pott kasalligi
+! Leptospirozning og'ir shakli Vil kasalligi nomi bilan ham tanilgan: sariqlik, buyrak yetishmovchiligi, o'pkada qon ketishi
+@ M JAW WHODW
+
+? Vil kasalligida qanday belgilar kuzatilishi mumkin?
++ Sariqlik, buyrak yetishmovchiligi
+- Teri toshmasi, bo'g'im shishi, ko'z qizarishi
+- Yo'tal, burun bitishi, tomoq og'rig'i
+- Ich ketishi, qusish, qorin shishi
+- Quloq og'rig'i, eshitish pasayishi
+! Og'ir shaklda sariqlik, buyrak yetishmovchiligi va o'pkada qon ketishi kuzatilishi mumkin
+@ M JAW WHODW
+
+? Vil kasalligida bemor qayerda kuzatiladi?
++ Reanimatsiya bo'limida
+- Uyda, oddiy rejimda
+- Oddiy palatada, kuzatuvsiz
+- Sanatoriyda
+- Poliklinikada, kuzatuvsiz
+! Bunday bemor reanimatsiya bo'limida nazorat qilinadi
+@ M JAW
+
+? Buyrak funksiyasi buzilsa nima qilinadi?
++ Elektrolit tiklanadi, gemodializ
+- Suyuqlik butunlay cheklab qo'yiladi
+- Antibiotik to'xtatib qo'yiladi
+- Vitamin berish bilan cheklanadi
+- Parhez buyurish bilan cheklanadi
+! Buyrak funksiyasi buzilganda suv-elektrolit muvozanati tiklanadi, kerak bo'lsa diuretiklar va gemodializ qo'llanadi
+@ M JAW
+
+? Davolash dozalari haqida material nima deydi?
++ Shifokor bemorga belgilaydi
+- Hamma uchun bir xil bo'ladi
+- Bemor ixtiyorida bo'ladi
+- Jadvalga ko'ra belgilanadi
+- Hech qachon o'zgarmaydi
+! Dozalar va davolash muddati aniq bemor uchun belgilanadi; ular klinik ko'rsatmalar bilan yangilanib turadi
+@ M JAW
+
+? Penitsillin leptospirozda qanday ahamiyatga ega?
++ An'anaviy va samarali preparat
+- Samarasiz preparat
+- Profilaktik preparat
+- Hayvonlar uchun preparat
+- Zaharli, qo'llanmaydigan preparat
+! Penitsillin G leptospirozni davolashda an'anaviy va samarali preparat hisoblanadi
+@ M JAW WHODW
+
+# 214
+
+? Rikketsiyalar Gram usulida qanday?
++ Gram-manfiy, lekin yomon bo'yaladi
+- Gram-musbat, yaxshi bo'yaladi
+- Bo'yalmaydi, umuman ko'rinmaydi
+- Kislotaga chidamli
+- Sporali ko'rinishda
+! Rikketsiyalar Gram-manfiy bakteriyalar qatoriga kiradi, ammo oddiy bo'yoqlar bilan yaxshi bo'yalmaydi
+@ M JAW
+
+? Rikketsiyalar qanday shaklda ko'rinadi?
++ Kokkobasillar shaklida
+- Spiral shaklida
+- Zanjirli kokk shaklida
+- Uzum shingili shaklida
+- Shoxlangan ip shaklida
+! Rikketsiyalar asosan kokkobasillar ko'rinishida bo'lib, shakli sharoitga qarab o'zgarishi mumkin
+@ M JAW
+
+? Rikketsiyalarni ko'rish uchun qaysi usul qo'llanadi?
++ Gimenez yoki Giemsa usuli
+- Ziel–Nilsen yoki Ojeshko usuli
+- Burri–Gins yoki Neyser usuli
+- Fontana yoki Klett usuli
+- Sudan yoki Gimenes usuli
+! Rikketsiyalarni mikroskopda ko'rish uchun Gimenez yoki Giemsa usuli qo'llanadi
+@ M JAW
+
+? Rikketsiyalar oddiy oziq muhitida nima uchun o'smaydi?
++ Hujayra ichida yashaydi
+- Juda tez ko'payib ketadi
+- Spora hosil qiladi
+- Kapsula hosil qiladi
+- Oddiy muhitda ham o'sadi
+! Rikketsiyalarni oddiy oziq muhitda o'stirib bo'lmaydi, chunki ular hujayra tashqarisida yashay olmaydi
+@ M JAW
+
+? An'anaviy kultivatsiya usuli qaysi?
++ Tuxum sariq xaltasi
+- Oddiy agar muhiti
+- Qon agari muhiti
+- Suyuq bulyon muhiti
+- Sabouraud muhiti
+! An'anaviy usul sifatida rikketsiyalar urug'langan tovuq tuxumining sariq xaltasiga yuboriladi
+@ M JAW
+
+? Zamonaviy kultivatsiya usuli qaysi?
++ Hujayra liniyalari
+- Oddiy go'sht-peptonli agar
+- Qon agari muhiti
+- Sabouraud agari muhiti
+- Tioglikolat bulyoni
+! Zamonaviy laboratoriyalarda rikketsiyalar to'qima kulturasi hujayra liniyalarida o'stiriladi
+@ M JAW
+
+? Rikketsiyalar nima uchun majburiy hujayra ichi parazit?
++ Hujayra tashqarisida yashay olmaydi
+- Hujayra tashqarisida tez ko'payadi
+- Oddiy muhitda o'sadi
+- Sporasi bor
+- Kapsulasi bor
+! Rikketsiyalar hujayra tashqarisida yashay olmaydi, shu sababli tirik hujayra tizimlari zarur
+@ M JAW
+
+? Rikketsiyalarning hujayra devori haqida qaysi gap to'g'ri?
++ Boshqa Gram-manfiylardan farq qiladi
+- Hujayra devori umuman yo'q
+- Gram-musbat devorga o'xshash
+- Mikolat kislotadan iborat
+- Polisaxarid kapsuladan iborat
+! Rikketsiya hujayra devoriga ega, uning tuzilishi boshqa Gram-manfiylardan ba'zi jihatlari bilan farq qiladi
+@ M JAW
+
+? Hujayra ichida ko'rinish qanday?
++ Mayda donachalar
+- Yirik qora sporalar
+- Zanjirli kokklar
+- Spiral ipchalar
+- Shoxlangan iplar
+! Gimenez yoki Giemsa usullarida hujayra ichidagi mayda, qizil yoki ko'k rangli donachalar yaxshi ajraladi
+@ M JAW
+
+? Rikketsiya xususiyatlari nimaning natijasi?
++ Hujayra ichida yashash moslashuvi
+- Spora hosil qilish xususiyati
+- Kapsula hosil qilish xususiyati
+- Toksin hosil qilish xususiyati
+- Xivchin hosil qilish xususiyati
+! Rikketsiya hujayra devori xususiyatlari hujayra ichida yashashga moslashishning natijasi
+@ M JAW

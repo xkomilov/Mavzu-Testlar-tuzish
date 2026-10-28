@@ -1,0 +1,464 @@
+# 082
+? Aralash tipdagi allergik reaksiya nima?
++ Bir vaqtda bir necha mexanizm ishtirok etadigan reaksiya
+- Bitta IgE mexanizmi ishtirok etadigan oddiy reaksiya
+- T-limfotsitlar ishtirok etadigan kechikkan reaksiya
+- Immun tizimi ishtirok etmaydigan kimyoviy reaksiya
+- Teri yuzasida kechadigan yengil mahalliy reaksiya
+! Aralash tipdagi reaksiya bir vaqtning o'zida bir nechta immunologik mexanizmdan iborat bo'lgan jarayondir
+@ M JAW
+
+? Aralash reaksiyalarda II va III tiplarda qaysi tizim markaziy rol o'ynaydi?
++ Komplement tizimi
+- Qon ivish tizimi
+- Hazm qilish tizimi
+- Nafas olish tizimi
+- Siydik chiqarish tizimi
+! II va III tip reaksiyalarda komplement tizimi faollashadi va bu jarayonda markaziy rol o'ynaydi
+@ M JAW
+
+? Aralash mexanizmlarga qaysi javobdagi misollar kiradi?
++ Zardob kasalligi, gemotransfuziya reaksiyalari, autoimmun kasalliklar
+- Qizilcha, suvchechak, gripp kabi virusli infeksiyalar guruhi
+- Tish kariesi, gastrit, meteorizm kabi hazm tizimi holatlari
+- Anemiya, raxit, semirish kabi almashinuv buzilishi kasalliklari
+- Miopiya, astigmatizm, gipermetropiya kabi ko'z ko'rish nuqsonlari
+! Zardob kasalligi, gemotransfuziya reaksiyalari va autoimmun kasalliklar aralash mexanizmlarga misol bo'ladi
+@ M JAW
+
+? II tip reaksiyada antitelolar nimani bog'laydi?
++ Hujayra yuzasidagi antigenni
+- Eriydigan antigenni qon plazmasida
+- Mast hujayralar yuzasidagi IgE ni
+- T-limfotsit retseptorini sitoplazmada
+- Mikrob toksinini hujayra ichida
+! II tip reaksiyada antitelolar hujayra yuzasidagi antigenni bog'lab, komplement tizimi yoki hujayralarning sitotoksik ta'siri orqali ularni zararlaydi
+@ M JAW
+
+? III tip reaksiyada qanday kompleks hosil bo'ladi?
++ Eriydigan antigen va antitelolardan immun kompleks
+- Mast hujayra va gistamin molekulasidan kompleks
+- Eritrotsit va gemoglobin molekulasidan kompleks
+- Bakteriya va fag zarrachasidan kompleks
+- Toksin va antibiotik molekulasidan kompleks
+! III tipda erigan antigen va antitelolar immun komplekslar hosil qilib, to'qimalarda to'planadi
+@ M JAW
+
+? Zardob kasalligi qaysi tipga kiradi?
++ III tip reaksiyasiga
+- I tip reaksiyasiga
+- II tip reaksiyasiga
+- IV tip reaksiyasiga
+- V tip reaksiyasiga
+! Zardob kasalligi III tipga kiruvchi aralash xarakterdagi reaksiya
+@ M JAW
+
+? Zardob kasalligi qachon yuzaga keladi?
++ Begona oqsil yuborilgandan keyin
+- Sovuq havoda uzoq yurgandan keyin
+- Ko'p ovqat iste'mol qilgandan keyin
+- Mikroskop bilan ishlagandan keyin
+- Quyosh nuri ta'sirida bo'lgandan keyin
+! Zardob kasalligi begona oqsil, masalan zardob yoki ba'zi dorilar yuborilgandan keyin yuzaga keladi
+@ M JAW
+
+? Zardob kasalligining belgilari odatda qachon boshlanadi?
++ Bir necha kun o'tgach
+- Bir necha soniyadan keyin
+- Bir necha daqiqadan keyin
+- Bir necha oy o'tgach
+- Yuborishdan oldin
+! Zardob kasalligi belgilari odatda begona oqsil yuborilgandan bir necha kun o'tgach boshlanadi
+@ M JAW
+
+? Immun komplekslar zardob kasalligida qaysi joylarda to'planishi mumkin?
++ Bo'g'imlar, teri va buyrak qon tomirlarida
+- Soch ildizlari, tirnoq plastinkalari va tishlarda
+- Ko'z gavhari, shox parda va tish emalida
+- Suyak ko'migi, taloq va jigar hujayralarida
+- Oshqozon shirasi, o't pufagi va ichak bo'shlig'ida
+! Immun komplekslar bo'g'imlar, teri va buyrak qon tomirlarida to'planishi mumkin
+@ M JAW
+
+? Zardob kasalligining klinik belgilari qaysilar?
++ Isitma, toshma, bo'g'im og'rig'i, limfa tugunlarining kattalashishi
+- Qon bosimining oshishi, ko'rishning yaxshilanishi, ishtaha ortishi
+- Soch to'kilishi, tirnoq sinishi, tish og'rig'i, charchoq
+- Mushaklarning kuchayishi, vaznning ortishi, tez yugurish
+- Tovush yo'qolishi, qulog'ning bitishi, hid sezmaslik
+! Klinikada isitma, toshma, bo'g'im og'rig'i va limfa tugunlarining kattalashishi kuzatiladi
+@ M JAW
+
+# 083
+? Infeksion allergiya nima?
++ Mikroblar yoki mahsulotlari chaqirgan allergik holat
+- Sun'iy dori vositalari chaqirgan allergik holat
+- Oziq-ovqat mahsulotlari chaqirgan allergik holat
+- Uy changi va gul changi chaqirgan allergik holat
+- Hasharot zahari va chaqishi chaqirgan allergik holat
+! Infeksion allergiya mikroblar yoki ularning mahsulotlari keltirib chiqaradigan allergik holatni anglatadi
+@ M JAW
+
+? Infeksion allergiya ko'pincha qaysi kasalliklar shakllarida kuzatiladi?
++ Surunkali yoki qayta-qayta kechadigan yuqumli kasalliklarda
+- O'tkir va bir kunda tugaydigan yuqumli kasalliklarda
+- Tug'ma immunodefitsit holatida kechadigan kasalliklarda
+- Yuqumli bo'lmagan teri kasalliklarining yengil shakllarida
+- Sog'lom odamlarda kasallik belgilarisiz kechadigan holatda
+! Bu holat ko'pincha yuqumli kasalliklarning surunkali yoki qayta-qayta kechadigan shakllarida kuzatiladi
+@ M JAW
+
+? Allergiya birinchi uchrashuvda nima uchun belgi bermaydi?
++ Organizm sensibilizatsiya bosqichini o'tadi
+- Organizm allergenni butunlay yo'qotib yuboradi
+- Antitelolar darhol parchalanib yo'q bo'ladi
+- Immunitet butunlay o'chirilgan bo'ladi
+- Allergen organizmga umuman kira olmaydi
+! Birinchi uchrashda organizm sensibilizatsiya bosqichini o'tadi, qayta kontaktda esa reaksiya paydo bo'ladi
+@ M JAW
+
+? Infeksion allergiyada allergen qanday bo'lishi mumkin?
++ Mikrob hujayrasi qismi, oqsili yoki metabolitlari
+- Organizmning o'z yog' kislotalari va lipidlari
+- Mineral tuzlar va metall ionlarining birikmalari
+- Sof suv va unda erigan gazlar aralashmasi
+- Sun'iy polimer moddalar va plastmassa zarralari
+! Infeksion allergiyada allergen mikrob hujayrasining bir qismi, mikrob tomonidan ajratilgan oqsil yoki ularning metabolitlari bo'lishi mumkin
+@ M JAW
+
+? Surunkali infeksiyada sensibilizatsiya nima uchun kuchayadi?
++ Mikrob uzoq qolib, antigenlari doimiy ta'sir qiladi
+- Mikrob tez yo'qolib, antigenlari bir marta ta'sir qiladi
+- Mikrob sporaga aylanib, immun tizimdan yashirinadi
+- Mikrob toksin ajratmay, immun tizimga ta'sir qilmaydi
+- Mikrob antitelolarni bloklab, ularni to'xtatib qo'yadi
+! Surunkali infeksiyada mikrob uzoq vaqt organizmda qoladi, antigenlari immun tizimga doimiy ta'sir qiladi va sensibilizatsiya kuchayadi
+@ M JAW
+
+? Gell va Kumbs tasnifida birinchi tur qanday reaksiya?
++ Tez yuzaga chiqadigan, IgE bilan bog'liq reaksiya
+- Kechikib yuzaga chiqadigan, T-limfotsitli reaksiya
+- Immun komplekslarning to'planishidan hosil bo'ladigan reaksiya
+- Hujayra yuzasidagi antigenga qarshi antitelo reaksiyasi
+- Komplement yetishmovchiligidan hosil bo'ladigan reaksiya
+! Birinchi tur tez yuzaga chiqadigan, IgE antitelalari bilan bog'liq reaksiyadir
+@ M JAW
+
+? Gell va Kumbs tasnifida to'rtinchi tur qanday reaksiya?
++ Kechikib chiqadigan, T-limfotsitlar vositachiligidagi reaksiya
+- Tez yuzaga chiqadigan, IgE antitelolari bilan bog'liq reaksiya
+- Immun komplekslar to'planishidan hosil bo'ladigan reaksiya
+- Hujayra yuzasidagi antigenga qarshi antitelo reaksiyasi
+- Mast hujayra mediatorlari ajralishi bilan boradigan reaksiya
+! To'rtinchi tur kechikib yuzaga chiqadigan, T-limfotsitlar vositachiligida boradigan reaksiyadir
+@ M JAW
+
+? Infeksion allergiyada ko'pincha qaysi tur kuzatiladi?
++ To'rtinchi tur, ya'ni kechikkan reaksiya
+- Birinchi tur, ya'ni anafilaktik reaksiya
+- Ikkinchi tur, ya'ni sitotoksik reaksiya
+- Uchinchi tur, ya'ni immun kompleks reaksiyasi
+- Turlar bir xil darajada
+! Infeksion allergiyada ko'pincha to'rtinchi tur, ya'ni kechikib yuzaga chiqadigan reaksiya kuzatiladi
+@ M JAW
+
+? Mikrob toksinlari to'qimalarga kirsa, nima yuz berishi mumkin?
++ To'qima oqsillari o'zgarib, yangi antigenga aylanadi
+- To'qima oqsillari mustahkamlanib, himoyalanib qoladi
+- To'qima oqsillari erib ketib, butunlay yo'qoladi
+- To'qima hujayralari tezlashib ko'payib ketadi
+- To'qima oqsillari antibiotikka aylanib qoladi
+! Mikrob toksinlari va hujayra qismlari to'qimalarga kirib, ularning tarkibini o'zgartirishi mumkin; o'zgargan to'qima oqsillari immun tizim uchun yangi antigenga aylanadi
+@ M JAW
+
+? Mikrob organizmga kirganda immun javob dastlab qaysi hujayralar ishtirokida boshlanadi?
++ Makrofaglar va T-yordamchi limfotsitlar
+- Eritrotsitlar va trombotsitlar guruhi
+- Neytrofillar va bazofillar guruhi
+- Epiteliy va yog' hujayralari guruhi
+- Mushak va nerv hujayralari guruhi
+! Mikrob organizmga kirganda immun javob asosan makrofaglar va T-yordamchi limfotsitlar ishtirokida boshlanadi
+@ M JAW
+
+# 084
+? Allergik reaksiyalar Gell va Kumbs tasnifiga ko'ra nechta turga bo'linadi?
++ To'rt turga
+- Ikki turga
+- Uch turga
+- Besh turga
+- Olti turga
+! Allergik reaksiyalar odatda Gell va Kumbs tasnifi bo'yicha to'rt turga ajratiladi
+@ M JAW
+
+? Birinchi, ikkinchi va uchinchi tur reaksiyalar nima ishtirokida rivojlanadi?
++ Antitelolar ishtirokida
+- T-limfotsitlar ishtirokida
+- Eritrotsitlar ishtirokida
+- Trombotsitlar ishtirokida
+- Fagotsitlar ishtirokida
+! Birinchi, ikkinchi va uchinchi turdagi reaksiyalar antitelalar ishtirokida rivojlanadi
+@ M JAW
+
+? To'rtinchi tur reaksiya nima bilan bog'liq?
++ T-limfotsitlar va hujayrali immunitet bilan
+- IgE antitelolari va mast hujayralar bilan
+- Immun komplekslar va komplement bilan
+- Hujayra yuzasidagi antitelolar va sitotoksiklik bilan
+- Eritrotsitlar va gemoglobin ajralishi bilan
+! To'rtinchi tur T-limfotsitlar vositachiligida boradi va asosan hujayrali immunitet bilan bog'liq
+@ M JAW
+
+? Darhol yuzaga chiqadigan reaksiyalar qachon namoyon bo'ladi?
++ Allergen bilan uchrashgandan so'ng daqiqa yoki soatda
+- Allergen bilan uchrashgandan so'ng bir necha hafta ichida
+- Allergen bilan uchrashgandan so'ng bir necha oy ichida
+- Allergen bilan uchrashishdan bir necha kun oldin
+- Allergen bilan uchrashgandan so'ng bir yil ichida
+! Darhol yuzaga chiqadigan reaksiyalar allergen bilan uchrashgandan so'ng bir necha daqiqa yoki soat ichida namoyon bo'ladi
+@ M JAW
+
+? Darhol reaksiyalar qanday belgilar bilan kechadi?
++ Qichishish, toshma, burun oqishi, nafas qisilishi
+- Yurak urishining sekinlashishi, uyqu va holsizlik
+- Ko'rishning yaxshilanishi, ishtaha va kuch ortishi
+- Soch o'sishining tezlashishi va tirnoq qalinlashuvi
+- Suyak og'rig'i, sinishi va bo'g'imlar qotishi
+! Darhol reaksiyalar IgE bilan bog'liq bo'lib, qichishish, toshma, burun oqishi va nafas qisilishi kabi belgilar bilan kechadi
+@ M JAW
+
+? Kechikib yuzaga chiqadigan reaksiyalar ko'pincha qanday ko'rinishda kuzatiladi?
++ Teri yallig'lanishi ko'rinishida
+- Qon bosimining oshishi ko'rinishida
+- Suyak sinishi ko'rinishida
+- Ko'rish pasayishi ko'rinishida
+- Eshitish yo'qolishi ko'rinishida
+! Kechikib yuzaga chiqadigan reaksiyalar T-limfotsitlar faolligi bilan bog'liq va ko'pincha teri yallig'lanishi ko'rinishida kuzatiladi
+@ M JAW
+
+? Anafilaktik shokni davolashda asosiy vosita nima?
++ Adrenalin
+- Penitsillin
+- Glyukoza
+- Vitamin C
+- Aspirin
+! Anafilaktik shokni davolashda asosiy vosita adrenalin hisoblanadi
+@ M WHOANA
+
+? Allergik sinamalar nima uchun tez yordam vositalari mavjud sharoitda o'tkaziladi?
++ Anafilaktik shok xavfi bo'lgani uchun
+- Sinama natijasi tezroq chiqishi uchun
+- Allergenlar tez buzilib qolishi uchun
+- Laboratoriya jihozlari tejalishi uchun
+- Bemor hech qachon reaksiya bermagani uchun
+! Allergik sinamalar har doim tez yordam vositalari mavjud bo'lgan sharoitda o'tkaziladi, chunki anafilaktik shok xavfi mavjud
+@ M JAW
+
+? Avval kuchli reaksiya bergan bemorga qayta sinama o'tkazish haqida qaysi fikr to'g'ri?
++ Xavfli bo'lishi mumkin, shifokor xavfni baholaydi
+- Hamisha xavfsiz, baholash talab qilinmaydi va o'tkaziladi
+- Bolalarda xavfli bo'ladi, kattalarda esa xavfsiz hisoblanadi
+- Keksalarda xavfli bo'ladi, yoshlarda esa xavfsiz hisoblanadi
+- Reaksiya tarixi hisobga olinmaydi va e'tiborsiz qoldiriladi
+! Avval kuchli reaksiya bergan bemorga qayta sinama o'tkazish xavfli bo'lishi mumkin, shuning uchun sinama oldidan shifokor xavfni baholaydi
+@ M JAW
+
+? Anafilaktik shokda qanday belgilar kuzatilishi mumkin?
++ Qon bosimining keskin pasayishi, nafas qiyinlashuvi, hushning buzilishi
+- Qon bosimining oshishi, nafas yengillashuvi, ongning tiniqlashuvi
+- Harorat pasayishi, ishtaha ortishi, uyquchanlik
+- Terining qurishi, tirnoq sinishi, soch to'kilishi
+- Mushak kuchining oshishi, ko'rish yaxshilanishi
+! Anafilaktik shokda qon bosimi keskin pasayishi, nafas olishda qiyinchilik va hushning buzilishi kuzatilishi mumkin
+@ M JAW
+
+? Darhol va kechikkan reaksiyalar farqini bilish nimaga yordam beradi?
++ Davolash taktikasini to'g'ri tanlashga
+- Mikroskop linzasini almashtirib qo'yishga
+- Oziqa muhiti rangini belgilab olishga
+- Reaktiv narxini hisoblab chiqishga
+- Termostat haroratini belgilab qo'yishga
+! Ikki turdagi reaksiyaning farqini bilish davolash taktikasini tanlashda muhim
+@ M JAW
+
+# 085
+? Kokklar qanday shaklga ega bakteriyalar?
++ Shar yoki tuxumsimon shaklli bakteriyalar
+- Tayoqchasimon uzun shaklli bakteriyalar
+- Spiral shaklli egilgan bakteriyalar
+- Vergulsimon shaklli bakteriyalar
+- Ipsimon tarmoqlangan shaklli bakteriyalar
+! Kokklar shar yoki tuxumsimon shaklga ega bo'lgan bakteriyalar guruhidir
+@ M JAW
+
+? Kokklarning diametri taxminan qancha?
++ 1 mkm atrofida
+- 10 mkm atrofida
+- 100 mkm atrofida
+- 1 mm atrofida
+- 10 nm atrofida
+! Kokklar odatda 1 mkm atrofida diametrga ega bo'lgan kichik, sharsimon hujayralardir
+@ M BROCK
+
+? Kokklarning ko'pchiligi qanday xususiyatga ega?
++ Harakatsiz va spora hosil qilmaydi
+- Harakatchan va spora hosil qiladi
+- Harakatsiz, lekin spora hosil qiladi
+- Harakatchan, lekin spora hosil qilmaydi
+- Xivchinli va kapsulasiz
+! Kokklarning ko'pchiligi harakatsiz bo'lib, spora hosil qilmaydi
+@ M JAW
+
+? Gram usulida Gram-musbat kokklar qanday rangga bo'yaladi?
++ Binafsha rangga
+- Qizil rangga
+- Yashil rangga
+- Sariq rangga
+- Ko'k-yashil rangga
+! Gram-musbat kokklar binafsha rangga, Gram-manfiy kokklar esa qizil rangga bo'yaladi
+@ M JAW
+
+? Qaysi kokklar Gram-manfiy hisoblanadi?
++ Neysseriyalar
+- Stafilokokklar
+- Streptokokklar
+- Pnevmokokklar
+- Mikrokokklar
+! Stafilokokklar va streptokokklar Gram-musbat, neysseriyalar esa Gram-manfiy kokklar
+@ M JAW
+
+? Neysseriyalar avlodiga qaysi patogenlar kiradi?
++ Meningokokk va gonokokk
+- Stafilokokk va streptokokk
+- Pnevmokokk va mikrokokk
+- Salmonella va shigella
+- Vabo vibrioni va brutsella
+! Neysseriyalar Gram-manfiy kokklar bo'lib, ularning ichida meningokokk va gonokokk kabi patogenlar bor
+@ M JAW
+
+? Stafilokokklar mikroskopda qanday joylashadi?
++ Uzum shingiliga o'xshash to'p bo'lib
+- Uzun zanjirga o'xshash qator bo'lib
+- Ikkitadan juft bo'lib, ketma-ket qator
+- Egilgan spiral shaklida bir-biriga o'ralib
+- Bir qatorli tayoqcha shaklida yonma-yon
+! Ba'zi kokklar uzum shingilidek to'p hosil qiladi, boshqalari zanjir yoki juft bo'lib joylashadi
+@ M JAW
+
+? Pnevmokokklar qaysi kasalliklarning sababchisi hisoblanadi?
++ Pnevmoniya, otit va meningit
+- Vabo, dizenteriya va qorin tifi
+- Qoqshol, botulizm va kuydirgi
+- Zaxm, sil va bo'g'ma
+- Gonoreya, ko'kyo'tal va o'lat
+! Pnevmokokklar pnevmoniya, otit va meningit kabi kasalliklarning sababchisi hisoblanadi
+@ M JAW
+
+? Meningokokk qaysi infeksiyaga sabab bo'ladi?
++ Miya qobig'ining yallig'lanishiga
+- Jinsiy yo'llar infeksiyasiga
+- Ichak yallig'lanishiga
+- Teri yiringli yallig'lanishiga
+- O'pka silini
+! Meningokokk miya qobig'ining yallig'lanishiga, gonokokk esa jinsiy yo'llarning infeksiyasiga sabab bo'ladi
+@ M JAW
+
+? Mikrokokklar asosan qayerda uchraydi va qanday xavf tug'diradi?
++ Atrof muhit va teri, odatda kam patogen
+- Ichakda yashab, doimo juda xavfli patogen
+- Qonda yashab, doimo juda xavfli patogen
+- Miyada yashab, doimo juda xavfli patogen
+- Siydik pufagida yashab, mutlaqo xavfsiz
+! Mikrokokklar asosan atrof muhitda uchraydi, odatda kam patogen bo'ladi; tuproq, havo va odam terisida ko'p uchraydi
+@ M JAW
+
+# 086
+? Stafilokokklar qanday bakteriyalar?
++ Gram-musbat kokklar
+- Gram-manfiy kokklar
+- Binafsha tayoqchalar
+- Qizil tayoqchalar
+- Egri spiroxetalar
+! Stafilokokklar odam va hayvon terisida, shilliq pardalarda va tashqi muhitda keng tarqalgan Gram-musbat kokklardir
+@ M JAW
+
+? Stafilokokk nomi qaysi belgidan kelib chiqqan?
++ Uzum shingiliga o'xshash joylashuvdan
+- Uzun zanjirga o'xshash joylashuvdan
+- Qizil rangli koloniyalar ko'rinishidan
+- Xivchinli harakatchan shakldan
+- Spora hosil qilish xususiyatidan
+! Stafilokokk nomi uzum shingiliga o'xshash hujayra joylashuvidan kelib chiqqan
+@ M JAW
+
+? Stafilokokklarning diametri taxminan qancha?
++ 1 mkm
+- 10 mkm
+- 100 nm
+- 1 mm
+- 5 mm
+! Stafilokokklar diametri taxminan 1 mkm bo'lgan sharsimon hujayralardir
+@ M JAW
+
+? Stafilokokklar nima uchun to'p hosil qiladi?
++ Bo'linish tekisliklari turlicha bo'lgani uchun
+- Bo'linish bitta tekislikda bo'lgani uchun
+- Xivchinlari bir-biriga o'ralib qolgani uchun
+- Sporalari bir-biriga yopishib qolgani uchun
+- Kapsulalari juda qalin bo'lib qolgani uchun
+! Stafilokokklar bo'linish tekisliklarining turli yo'nalishda bo'lishi tufayli uzum shingiliga o'xshash to'p hosil qiladi
+@ M JAW
+
+? Stafilokokklar harakat va spora xususiyatlari bo'yicha qanday?
++ Harakatsiz va spora hosil qilmaydi
+- Harakatchan va spora hosil qiladi
+- Harakatchan, lekin spora hosil qilmaydi
+- Harakatsiz, lekin spora hosil qiladi
+- Xivchinli va spora hosil qiluvchi
+! Stafilokokklar harakatsiz bo'lib, spora hosil qilmaydi
+@ M JAW
+
+? Stafilokokk hujayra devori nimadan iborat qatlamga ega?
++ Qalin peptidoglikan qatlamiga
+- Yupqa peptidoglikan va tashqi membranaga
+- Lipopolisaxarid qatlamiga
+- Devor umuman yo'q, faqat membrana
+- Kapsula polisaxaridiga
+! Stafilokokk hujayrasining devori qalin peptidoglikan qatlamidan iborat bo'lib, teyxo kislotalari ham bo'ladi
+@ M JAW
+
+? Stafilokokklarning optimal o'sish harorati qancha?
++ Taxminan 37 °C
+- Taxminan 4 °C
+- Taxminan 20 °C
+- Taxminan 56 °C
+- Taxminan 80 °C
+! Stafilokokklarning optimal o'sish harorati taxminan 37 °C
+@ M JAW
+
+? Stafilokokklar kislorodga munosabati bo'yicha qanday?
++ Aerob va fakultativ anaerob
+- Majburiy anaerob
+- Mikroaerofil
+- Atmosferada o'smaydi
+- Kislorodni zaharli deb biladi
+! Stafilokokklar aerob va fakultativ anaerob sharoitda ham o'sa oladi
+@ M JAW
+
+? Suyuq oziqa muhitida stafilokokklar qanday o'sadi?
++ Loyqalanish hosil qilib, ko'pincha cho'kma beradi
+- Muhitni tiniq qoldirib, umuman o'smaydi
+- Yuzada qalin parda hosil qilib, tubiga cho'kmaydi
+- Muhitni qizil rangga bo'yab, tiniq qoldiradi
+- Gaz pufakchalari bilan to'ldirib, ko'pirtiradi
+! Suyuq muhitda stafilokokklar loyqalanish hosil qiladi va ko'pincha cho'kma beradi
+@ M JAW
+
+? Stafilokokklar hujayra devori yuzasidagi oqsillar qanday vazifani bajaradi?
++ Odam organizmiga yopishishda ishtirok etadi
+- Hujayrani suyuq muhitda harakatlantiradi
+- Hujayra ichida energiya hosil qiladi
+- Hujayrani sporaga aylantirib saqlaydi
+- Hujayra ichida DNK nusxasini ko'paytiradi
+! Stafilokokklar hujayra devori yuzasidagi oqsillar odam organizmiga yopishishda ishtirok etadi
+@ M JAW
+

@@ -1,0 +1,363 @@
+# 008
+? Bakteriya xivchini qaysi uch qismdan iborat?
++ Filament, ilgak va bazal tana
+- Kapsula, ilgak va bazal tana
+- Filament, korteks va bazal tana
+- Filament, mezosoma va ilgak
+- Pilin, ilgak va nukleoid
+! Xivchin filament (tashqi spiral ip), ilgak (hook) va bazal tana (basal body) qismlaridan iborat
+@ M BROCK
+
+? Hujayra yuzasi bo'ylab ko'p sonli xivchin tarqalgan bo'lsa, bu qanday joylashuv deyiladi?
++ Peritrix
+- Monotrix
+- Lofotrix
+- Amfitrix
+- Atrix
+! Peritrix joylashuvda xivchinlar hujayra yuzasi bo'ylab ko'p sonli bo'ladi; Salmonella va Escherichia coli shunday xivchin tutadi
+@ M JAW
+
+? Vibrio cholerae odatda qanday xivchin joylashuviga ega?
++ Bir uchida bitta xivchin (monotrix)
+- Hujayra yuzasi bo'ylab ko'p xivchin (peritrix)
+- Ikki uchida bittadan xivchin (amfitrix)
+- Bir uchida bir necha xivchin (lofotrix)
+- Xivchinsiz, hujayra harakatsiz (atrix)
+! Vibrio cholerae odatda bir uchida joylashgan bitta xivchinga ega, ya'ni monotrix
+@ M JAW
+
+? Enterobakteriyalar serologik tasnifida xivchin antigeni qanday ataladi?
++ H-antigen
+- O-antigen
+- K-antigen
+- Vi-antigen
+- M-antigen
+! Xivchinning flagellin oqsili antigen xossaga ega bo'lib, H-antigen deyiladi va enterobakteriyalar serologik tasnifida muhim
+@ M JAW
+
+? Bakteriya xivchinini aylantiruvchi energiya qaysi manbadan olinadi?
++ Membrana orqali protonlar yoki natriy ionlari oqimidan
+- ATF gidrolizi bilan ishlaydigan miozin motoridan
+- Peptidoglikan qavatining ritmik qisqarishidan
+- Sitoplazmadagi glikogen donalarining parchalanishidan
+- Tashqi muhitdagi yorug'likni xivchin yutishidan
+! Xivchin harakati protonlar yoki natriy ionlarining membrana orqali oqimi hisobiga bazal tanadagi motorning aylanishi bilan amalga oshadi
+@ M BROCK
+
+? Bakteriyalarning oziqa moddalar tomon siljishi nima deb ataladi?
++ Ijobiy kemotaksis
+- Salbiy kemotaksis
+- Fagositoz
+- Plazmoliz
+- Germinatsiya
+! Oziqa moddalar tomon harakat ijobiy kemotaksis, zaharli moddalardan uzoqlashish esa salbiy kemotaksis deyiladi
+@ M BROCK
+
+? Osilgan tomchi usulida mikroskopda nima kuzatiladi?
++ Tirik bakteriyalarning harakati
+- Kapsula atrofidagi yorug' halo
+- Sporalarning yashil rangga bo'yalishi
+- Koloniyalarning rangi va chekkasi
+- Hujayra devorining Gram bo'yog'iga munosabati
+! Osilgan tomchi (hanging drop) usulida tirik bakteriyalar qopqoq oynasi ostida mikroskopda kuzatiladi va harakat tez, aniq ko'rinadi
+@ M JAW
+
+? Leyfson usuli nimani aniqlash uchun qo'llanadi?
++ Xivchinlarning soni va joylashuvini
+- Sporalarning shakli va joylashuvini
+- Kapsulaning qalinligi va tuzilishini
+- Kislotaga chidamli bakteriyalarni
+- Hujayra ichidagi volyutin donachalarini
+! Leyfson usulida xivchin maxsus bo'yoq bilan bo'yaladi va mikroskopda ularning soni hamda joylashuvi aniqlanadi
+@ M JAW
+
+? Yarim suyuq agarda harakatsiz bakteriyalar qanday o'sadi?
++ Ekish chizig'i bo'ylab o'sadi, chetga tarqalmaydi
+- Ekish chizig'idan har tomonga tarqalib, muhitni xiralashtiradi
+- Butun muhit bo'ylab tekis tarqalib, bulutsimon o'sadi
+- Muhit yuzasida yupqa parda hosil qilib o'sadi
+- Muhit tubida zich cho'kma hosil qilib o'sadi
+! Yarim suyuq agarda harakatchan bakteriyalar ekish chizig'idan tarqaladi, harakatsizlari esa faqat ekish chizig'i bo'ylab o'sadi
+@ M JAW
+
+? Xivchinsiz, harakatsiz mutant shtammlar haqida qaysi fikr to'g'ri?
++ Ko'pincha kasallik chaqirish qobiliyati pastroq bo'ladi
+- Kasallik chaqirish qobiliyati doimo yuqoriroq bo'ladi
+- Spora hosil qilishga majbur bo'ladi
+- Faqat anaerob sharoitda yashay oladi
+- Gram bo'yog'ini qabul qilmaydi
+! Xivchinsiz bakteriyalar harakatsiz bo'ladi va ko'pincha kasallik chaqirish qobiliyati pastroq bo'ladi
+@ M JAW
+
+# 009
+? Mikrob hujayrasi quruq moddasining katta qismini nima tashkil etadi?
++ Oqsillar
+- Lipidlar
+- Polisaxaridlar
+- Nuklein kislotalar
+- Noorganik tuzlar
+! Quruq moddaning katta qismi oqsillar bo'lib, ular ferment, tuzilma va transport oqsillari vazifasini bajaradi
+@ M BROCK
+
+? Kataboliz nima?
++ Murakkab moddalarni parchalab, energiya hosil qilish
+- Energiya sarflab, murakkab moddalarni sintez qilish
+- Moddalarni hujayra ichiga faol tashish
+- Hujayrani ikkiga bo'lib ko'paytirish
+- Oqsillarni denaturatsiyaga uchratish
+! Kataboliz murakkab moddalarni parchalab energiya va oddiy birikmalar hosil qiladi; anabolizm esa energiya sarflab sintez qiladi
+@ M BROCK
+
+? Konsentratsiya gradiyentiga qarshi, energiya sarflab moddalarni tashiydigan mexanizm qaysi?
++ Faollashgan transport
+- Passiv diffuziya yo'li
+- Oddiy osmos orqali o'tish
+- Pinotsitoz yo'li bilan yutish
+- Plazmoliz jarayoni orqali
+! Faollashgan transportda moddalar energiya sarflanib, konsentratsiya gradiyentiga qarshi tashiladi
+@ M BROCK
+
+? Kiruvchi modda kimyoviy o'zgarishga uchrab hujayra ichiga o'tadigan transport mexanizmi qaysi?
++ Guruh translokatsiyasi
+- Oddiy diffuziya
+- Faollashgan transport
+- Kapsula orqali filtrlanish
+- Endotsitoz
+! Guruh translokatsiyasida modda hujayraga kirishda kimyoviy o'zgarishga uchraydi
+@ M BROCK
+
+? Bakteriyalarning o'sish egri chizig'idagi fazalar qaysi tartibda keladi?
++ Lag-faza, logarifmik faza, statsionar faza, o'lim fazasi
+- Logarifmik faza, lag-faza, statsionar faza, o'lim fazasi
+- Lag-faza, statsionar faza, logarifmik faza, o'lim fazasi
+- Statsionar faza, lag-faza, logarifmik faza, o'lim fazasi
+- Lag-faza, logarifmik faza, o'lim fazasi, statsionar faza
+! O'sish egri chizig'ida lag-faza, logarifmik faza, statsionar faza va o'lim fazasi ketma-ket ajratiladi
+@ M BROCK
+
+? Bakteriyalar asosan qanday usulda ko'payadi?
++ Binar bo'linish (ikkiga bo'linish) orqali
+- Mitoz va meyoz orqali
+- Kurtaklanib, ona hujayradan bo'rtma hosil qilib
+- Zoospora hosil qilib
+- Gametalar qo'shilishi orqali, jinsiy yo'l bilan
+! Bakteriyalar asosan binar bo'linish orqali ko'payadi: DNK nusxalanadi, hujayra cho'ziladi va ko'ndalang septum bilan ikkita qiz hujayra hosil bo'ladi
+@ M BROCK
+
+? Kaliy, magniy, kalsiy, temir va fosfor kabi ionlar hujayrada qanday vazifa bajaradi?
++ Fermentlar faolligini ta'minlaydi va osmotik muvozanatni saqlaydi
+- Hujayra devorining asosiy qismini tashkil etib, shaklini belgilaydi
+- Genetik ma'lumotni kodlab, oqsil tuzilishini belgilaydi
+- Kapsula polisaxaridini hosil qilib, hujayrani o'rab oladi
+- Xivchin filamentini hosil qilib, harakatni ta'minlaydi
+! Noorganik ionlar fermentlar faolligini ta'minlaydi, membrana potensialini hosil qiladi va osmotik muvozanatni saqlaydi
+@ M BROCK
+
+? Ochlik sharoitida bakteriya hujayrasida qaysi zaxira moddalar to'planadi?
++ Glikogen yoki polifosfat
+- Peptidoglikan yoki teyxoy kislotasi
+- Flagellin yoki pilin
+- Lipopolisaxarid yoki kapsula
+- Kalsiy dipikolinat yoki ekzosporium
+! Oziq moddalar yetishmaganda hujayrada glikogen yoki polifosfat kabi zaxira moddalar to'planadi
+@ M BROCK
+
+? Bakteriyalar ichki muhitning neytral pH ini qanday saqlaydi?
++ Membrana orqali protonlarni chiqarib yoki qabul qilib
+- Hujayra devorini qalinlashtirib, ionlar o'tishini to'xtatib
+- Kapsulani sintez qilib, kislotani adsorbsiyalab
+- Spora hosil qilib, ichki muhitni butunlay almashtirib
+- Xivchinni aylantirib, atrofdagi muhitni aralashtirib
+! Bakteriyalar membrana orqali protonlarni chiqarib yoki qabul qilib, ichki muhitning neytral holatini ushlab turadi
+@ M BROCK
+
+? Dezinfeksiya va sterilizatsiya usullari ko'pincha nimaga asoslangan?
++ Oqsillarning denaturatsiyaga uchrashiga
+- Nuklein kislotalar sintezi tezlashishiga
+- Hujayra ichidagi suv miqdori ko'payishiga
+- Ionlar konsentratsiyasi oshib ketishiga
+- Plazmidalar sonining ortishiga
+! Harorat yoki kimyoviy ta'sirda oqsil denaturatsiyaga uchrasa, fermentlar faolligi yo'qoladi va hujayra nobud bo'ladi
+@ M BROCK
+
+# 010
+? Aerob nafas olishda oxirgi elektron akseptor nima?
++ Molekulyar kislorod (O₂)
+- Nitrat ioni (NO₃⁻)
+- Sulfat ioni (SO₄²⁻)
+- Fumarat ioni (organik)
+- Vodorod peroksid (H₂O₂)
+! Aerob nafasda oxirgi elektron akseptor molekulyar kislorod bo'lib, u suv hosil qilib qaytariladi
+@ M BROCK
+
+? Sulfatni qaytaruvchi bakteriyalar anaerob nafasda sulfatni nimagacha qaytaradi?
++ Vodorod sulfidigacha
+- Ammiakkacha
+- Azot gazigacha
+- Metangacha
+- Karbonat angidridgacha
+! Sulfatni qaytaruvchi bakteriyalar sulfatni vodorod sulfidigacha qaytaradi
+@ M BROCK
+
+? Bijg'ishning nafas olishdan asosiy farqi nimada?
++ Elektron transport zanjiri va tashqi akseptor ishlatilmaydi
+- Oxirgi elektron akseptor sifatida kislorod ishlatiladi
+- Energiya asosan proton gradiyenti hisobiga olinadi
+- Nitrat oxirgi elektron akseptor vazifasini bajaradi
+- Bitta glyukoza molekulasidan ko'p ATF hosil bo'ladi
+! Bijg'ishda oziq modda ham elektron donor, ham akseptor bo'ladi va energiya kam miqdorda, substrat darajasidagi fosforlanish orqali olinadi
+@ M BROCK
+
+? Lactobacillus kabi sut kislotali bakteriyalar sut shakarini nimaga aylantiradi?
++ Sut kislotasiga
+- Sirka kislotasiga
+- Etil spirtiga
+- Limon kislotasiga
+- Vodorod sulfidiga
+! Sut kislotali bakteriyalar sut shakarini sut kislotasiga aylantiradi, bu yogurt va boshqa fermentlangan mahsulotlar tayyorlashda ishlatiladi
+@ M BROCK
+
+? Fakultativ anaerob Escherichia coli kislorod yo'qolganda qanday yashaydi?
++ Bijg'ish orqali energiya olib yashaydi
+- Fotosintez orqali energiya olib yashaydi
+- Faqat havo kislorodi hisobiga yashaydi
+- Majburiy aerob kabi nobud bo'ladi
+- Sulfatni qaytarib, vodorod sulfidi ajratadi
+! Escherichia coli kislorodli muhitda nafas oladi, kislorod yo'qolganda esa bijg'ish orqali yashaydi
+@ M BROCK
+
+? Campylobacter va Helicobacter avlodlari qanday kislorod sharoitida yaxshi o'sadi?
++ Kislorodning past konsentratsiyasida
+- Kislorod mutlaqo bo'lmaganda
+- Havodagi 21 % kislorod muhitida
+- Toza kislorod atmosferasida
+- Faqat nitrat mavjud bo'lganda, kislorodsiz
+! Mikroaerofil bakteriyalar, jumladan Campylobacter va Helicobacter, kislorodning past konsentratsiyasini talab qiladi
+@ M JAW
+
+? Quyidagi bakteriyalardan qaysi biri qat'iy (obligat) aerob hisoblanadi?
++ Mycobacterium tuberculosis
+- Clostridium perfringens
+- Bacteroides thetaiotaomicron
+- Escherichia coli
+- Peptostreptococcus anaerobius
+! Mycobacterium tuberculosis qat'iy aerob hisoblanadi
+@ M JAW
+
+? Aerob bakteriyalar kislorodning zaharli shakllarini qaysi fermentlar yordamida parchalaydi?
++ Superoksid dismutaza va katalaza
+- Koagulaza va letsitinaza
+- Gialuronidaza va DNK-aza
+- Lipaza va amilaza
+- Beta-laktamaza va transpeptidaza
+! Superoksid anioni va vodorod peroksid aerob bakteriyalarda superoksid dismutaza va katalaza bilan parchalanadi; anaerob bakteriyalarda bu fermentlar kam
+@ M BROCK
+
+? Anaerob infeksiyalar uchun namuna qanday olinib, qanday tashiladi?
++ Anaerob sharoitda yig'ilib, transport muhitida tez yetkaziladi
+- Ochiq probirkada, xona haroratida bir necha kun saqlanib yetkaziladi
+- Havo bilan keng aloqada, quruq paxta tampon ichida yetkaziladi
+- Toza kislorod bilan to'ldirilgan idishda yetkaziladi
+- Qizdirib quritilgan holda, fiksatsiya qilib yetkaziladi
+! Havo ta'siri anaerob bakteriyalar tirikligini kamaytiradi, shuning uchun namuna anaerob sharoitda yig'iladi va tez tashiladi
+@ M JAW
+
+? Denitrifikatsiya qiluvchi bakteriyalar anaerob nafasda nitratni nimagacha qaytaradi?
++ Nitritgacha yoki azot gazigacha
+- Ammiak va mochevinagacha
+- Aminokislotalar va ammiakkacha
+- Nitrat kislotagacha oksidlab
+- Oqsil molekulalarigacha
+! Denitrifikatsiya qiluvchi bakteriyalar nitratni nitritgacha yoki azot gazigacha qaytaradi
+@ M BROCK
+
+# 011
+? Quyidagi qaysi elementlar mikroelementlar qatoriga kiradi?
++ Temir, marganets, rux, mis
+- Uglerod, vodorod, kislorod, azot
+- Kaliy, magniy, kalsiy, natriy
+- Fosfor, oltingugurt, azot, uglerod
+- Vodorod, kislorod, fosfor, kaliy
+! Temir, marganets, rux, mis, molibden va kobalt juda kam miqdorda talab qilinadi va mikroelementlar deyiladi
+@ M BROCK
+
+? Avtotroflar uglerodni qaysi manbadan oladi?
++ Noorganik manbadan, masalan karbonat angidriddan
+- Tayyor organik moddalardan, masalan glyukozadan
+- Boshqa organizmlar qoldiqlaridan, masalan oqsildan
+- Qon plazmasidan, to'g'ridan-to'g'ri hujayra ichida
+- Havodagi molekulyar azotdan
+! Avtotroflar karbonat angidrid kabi noorganik manbadan organik moddalarni sintez qiladi, geterotroflar esa tayyor organik moddalarni oladi
+@ M BROCK
+
+? Tibbiy ahamiyatga ega ko'pchilik bakteriyalar oziqlanish turi bo'yicha qaysi guruhga kiradi?
++ Geterotroflar
+- Fotoavtotroflar
+- Xemoavtotroflar
+- Avtotroflar
+- Metanogen arxeyalar
+! Tibbiy ahamiyatga ega ko'pchilik bakteriyalar geterotrofdir, ya'ni tayyor organik moddalardan foydalanadi
+@ M BROCK
+
+? Fototroflar energiyani qaysi manbadan oladi?
++ Yorug'likdan
+- Anorganik birikmalarning oksidlanishidan
+- Organik moddalarning bijg'ishidan
+- Issiqlik energiyasidan
+- Tayyor ATFni boshqa hujayradan
+! Fototroflar energiyani yorug'likdan, xemotroflar esa kimyoviy reaksiyalarda ajralgan energiyadan oladi
+@ M BROCK
+
+? Mikroblar o'sishi uchun zarur, lekin o'zi sintez qila olmaydigan vitamin va aminokislotalar nima deb ataladi?
++ O'sish omillari
+- Makroelementlar
+- Mikroelementlar
+- Virulentlik omillari
+- Agressiya omillari
+! Ayrim mikroblar tayyor vitamin yoki aminokislotalarga muhtoj bo'ladi, bunday moddalar o'sish omillari deyiladi
+@ M BROCK
+
+? Bir mikrobning chiqindisi boshqa mikrob uchun oziq bo'ladigan hamkorlik nima deb ataladi?
++ Sintrofiya
+- Antibioz
+- Parazitizm
+- Fagositoz
+- Konyugatsiya
+! Bir mikrobning chiqindisi boshqasi uchun oziq manbai bo'lgan hamkorlik sintrofiya deyiladi
+@ M BROCK
+
+? Bir tomon foyda oladigan, ikkinchisi zarar ham ko'rmaydigan munosabat qanday ataladi?
++ Kommensalizm
+- Simbioz (mutualizm)
+- Parazitizm
+- Antagonizm
+- Sintrofiya
+! Kommensalizmda bir tomon foyda oladi, ikkinchisi zarar ko'rmaydi; simbiozda ikkala organizm o'zaro foyda ko'radi
+@ M BROCK
+
+? Temir yetishmaydigan muhitda ayrim patogenlarda qanday o'zgarish yuz beradi?
++ Virulentlik omillari faollashadi
+- Virulentlik omillari butunlay yo'qoladi
+- Spora hosil qilish to'xtaydi
+- Gram bo'yog'iga munosabati o'zgaradi
+- Xivchinlari qayta tiklanadi
+! Temir yetishmaydigan muhitda ayrim patogenlar virulentlik omillarini faollashtiradi
+@ M JAW
+
+? Saprofitlar nimaning hisobiga yashaydi?
++ O'lik organik qoldiqlarni parchalash hisobiga
+- Tirik organizm hujayralari hisobiga, ularga zarar yetkazib
+- Quyosh nuri va karbonat angidrid hisobiga
+- Anorganik birikmalarni oksidlash hisobiga
+- Boshqa bakteriyalarni yutib yuborish hisobiga
+! Saprofitlar o'lik organik qoldiqlarni parchalaydi, parazitlar esa boshqa organizm hisobiga yashaydi
+@ M BROCK
+
+? Oddiy muhitda o'smaydigan ayrim patogen bakteriyalar qanday muhitda rivojlanadi?
++ Qon yoki boshqa boyitilgan muhitda
+- Oddiy distillangan suvda
+- Faqat osh tuzi va suvdan iborat eritmada
+- Sof glyukoza eritmasida
+- Kraxmal kleysteri muhitida
+! Ba'zi bakteriyalar oddiy muhitda o'smaydi va faqat qon yoki boshqa boyitilgan muhitda rivojlanadi, shu sababli laboratoriya bir nechta muhitdan foydalanadi
+@ M JAW

@@ -1,0 +1,459 @@
+# 144
+
+? Zoonozlar tabiatda qaerda saqlanadi?
++ Tabiiy o'choqlarda, hayvonlar orasida
+- Inson jamoalarida, katta shaharlarda
+- Issiq mintaqalardagi dengiz suvlarida
+- Kasalxona xonalari yuzalarida
+- Laboratoriya idishlari ichida
+! Zoonozlar tabiiy o'choqlarda saqlanadi va hayvonlar orasida uzoq vaqt aylanib yuradi
+@ M WHOLBM
+
+? Zoonozlar infeksiyasining asosiy tashuvchilari qaysilar?
++ Kemiruvchilar va burgalar kabi bo'g'imoyoqlilar
+- Baliqlar va suv o'tlari kabi suv jonzotlari
+- Qushlar va hasharotlarga o'xshash o'simliklar
+- Sutemizuvchi suv hayvonlari va ularning tuxumlari
+- Tuproq chuvalchanglari va bakteriofaglar
+! Kemiruvchilar va bo'g'imoyoqli tashuvchilar, masalan burgalar, ko'pincha infeksiyaning asosiy tashuvchisi bo'ladi
+@ M WHOLBM
+
+? Odam zoonoz infeksiyani qanday yuqtirishi mumkin?
++ Kasal hayvon bilan aloqa orqali
+- Faqat odamdan odamga nafas orqali
+- Suvni sovutib ichish orqali
+- Tashqi kiyim almashtirish orqali
+- Ilmiy nashrlarni o'qish orqali
+! Odam zoonoz infeksiyani kasal hayvon bilan to'g'ridan-to'g'ri aloqada yoki uning mahsulotlari (teri, go'sht, sut) orqali yuqtirishi mumkin
+@ M WHOLBM
+
+? Biologik xavfsizlik darajasi nimani belgilaydi?
++ Jihozlanish, malaka, ish tartibini
+- Bino rangi va ko'rinishini belgilaydi
+- Xodimlarning umumiy sonini belgilaydi
+- Joylashgan manzilini belgilaydi
+- Xodimlarning ish haqini belgilaydi
+! Biologik xavfsizlik darajasi laboratoriyaning jihozlanishi, xodimlarning malakasi va ish tartibini belgilaydi
+@ M WHOLBM
+
+? Yuqori xavfsizlik darajasidagi laboratoriyalarda nima qo'llanadi?
++ Manfiy bosimli xona, xavfsizlik shkaflari
+- Ochiq derazalar va tabiiy shamollatish
+- Umumiy kirish eshigi, nazoratsiz kirish
+- Oddiy stollar, himoyasiz holda ishlash
+- Qo'lqopsiz ishlash, niqobsiz kirish
+! Yuqori darajalarda havo bosimi manfiy xonalar, biologik xavfsizlik shkaflari va alohida kirish nazorati qo'llanadi
+@ M WHOLBM
+
+? Himoya kiyimining asosiy elementlari qaysilar?
++ Xalat, qo'lqop, respirator, ko'zoynak
+- Kostyum, galstuk, soat, shlyapa, zargarlik
+- Palto, sharf, qo'lqop, etik, shapka
+- Fartuk, tufli, bilaguzuk, kamar, ro'mol
+- Sport kiyimi, kepka, naushnik, sumka
+! Himoya kiyimining asosiy elementlari: xalat, qo'lqop, niqob yoki respirator, ko'zoynak yoki yuz qalqoni va bosh kiyimi
+@ M WHOLBM
+
+? Himoya kiyimini kiyishda dastlabki tartib qaysi?
++ Qo'l yuvish, so'ng xalat, so'ng respirator
+- Qo'lqop, so'ng xalat, so'ng ko'zoynak
+- Ko'zoynak, so'ng qo'lqop, so'ng xalat
+- Respirator, so'ng qo'lqop, so'ng qo'l yuvish
+- Bosh kiyim, so'ng poyabzal, so'ng qo'lqop
+! Kiyishdan oldin qo'llar yuviladi, so'ng xalat kiyiladi, keyin niqob yoki respirator o'rnatiladi, so'ng ko'zoynak va qo'lqop kiyiladi
+@ M WHOLBM
+
+? Qo'lqopning uchi xalat bilagiga nisbatan qanday o'tkaziladi?
++ Xalat bilagi ustidan o'tkaziladi
+- Xalat bilagi ostidan o'tkaziladi
+- Xalat bilagiga tegizilmaydi
+- Xalat bilagi bilan bog'lab qo'yiladi
+- Xalatdan alohida, uzoqroq tutiladi
+! Qo'lqoplar kiyilganda ularning uchi xalat bilagining ustidan o'tkaziladi
+@ M WHOLBM
+
+? Himoya kiyimini yechishda birinchi bo'lib nima yechiladi?
++ Tashqi qo'lqoplar yechiladi
+- Respirator yechiladi, orqa bog'ichidan
+- Xalat yechiladi, ichi tashqariga
+- Bosh kiyim yechiladi, qo'l bilan
+- Poyabzal yechiladi, qo'l bilan
+! Yechishda avval tashqi qo'lqoplar yechiladi, so'ng ko'zoynak yoki yuz qalqoni, keyin xalat; respirator eng oxirida
+@ M WHOLBM
+
+? Yechish tartibida respirator qachon yechiladi?
++ Eng oxirida, orqa bog'ichlardan ushlab
+- Eng birinchi bo'lib, old qismidan ushlab
+- Xalatdan oldin, old qismidan ushlab
+- Qo'lqopdan keyin, old qismidan ushlab
+- Ko'zoynakdan oldin, old qismidan ushlab
+! Niqob yoki respirator eng oxirida, orqadagi bog'ichlardan ushlab yechiladi va old qismiga tegilmaydi
+@ M WHOLBM
+
+# 145
+
+? Vabo qo'zg'atuvchisi morfologik jihatdan qanday?
++ Vergulsimon egilgan, harakatchan tayoqcha
+- Yumaloq, harakatsiz diplokokk
+- To'g'ri, sporali yo'g'on tayoqcha
+- Spiralsimon uzun, bir necha o'rali shakl
+- Ipsimon shoxlangan, zamburug'simon shakl
+! Vabo qo'zg'atuvchisi (Vibrio cholerae) vergulsimon egilgan, bir qutbli xivchinli harakatchan tayoqchadir
+@ M JAW
+
+? Vibrio cholerae Gram usulida qanday bo'yaladi?
++ Qizil rangga (Gram-manfiy)
+- Binafsha rangga (Gram-musbat)
+- Ko'k rangga (kislotaga chidamli)
+- Bo'yalmaydi (devor yo'qligi)
+- Yashil rangga (spora hosil qilgani)
+! Vabo qo'zg'atuvchisi Gram usulida qizil rang beradi, ya'ni Gram-manfiy
+@ M JAW
+
+? Vibrio cholerae spora va kapsula hosil qiladimi?
++ Spora hosil qilmaydi, odatda kapsulasiz
+- Spora hosil qiladi, kapsulasi bor
+- Spora hosil qilmaydi, qalin kapsulali
+- Spora hosil qiladi, kapsulasiz
+- Qulay sharoitda spora hosil qiladi
+! Vabo qo'zg'atuvchisi spora hosil qilmaydi va odatda kapsulasiz bo'ladi
+@ M JAW
+
+? Ishqoriy pepton suvining pH qiymati taxminan qancha?
++ 8,5 atrofida
+- 5,5 atrofida
+- 6,0 atrofida
+- 7,0 atrofida
+- 3,5 atrofida
+! Ishqoriy pepton suvining pH qiymati taxminan 8,5 atrofida bo'ladi va boshqa ichak mikroblari o'sishini cheklaydi
+@ M JAW
+
+? TCBS agarida V. cholerae qanday koloniya hosil qiladi?
++ Sariq, katta, silliq koloniya
+- Yashil, kichik, g'adir-budir koloniya
+- Qora, markazi bo'yalgan koloniya
+- Rangsiz, shaffof, yassi koloniya
+- Qizil, quruq, tangachali koloniya
+! TCBS agarida vabo qo'zg'atuvchisi saxarozani bijg'itib, sariq rangli, katta va silliq koloniyalar hosil qiladi
+@ M JAW
+
+? V. cholerae oksidaza sinamasida qanday natija beradi?
++ Musbat
+- Manfiy
+- Zaif manfiy
+- O'zgaruvchan
+- Sinama qo'llanmaydi
+! Vabo qo'zg'atuvchisi oksidaza-musbat, bu uni ko'pgina ichak bakteriyalaridan farqlashga yordam beradi
+@ M JAW
+
+? V. cholerae shakarlarni qanday bijg'itadi?
++ Glyukoza va saxarozani, laktozani emas
+- Laktoza va saxarozani, glyukozani emas
+- Laktozani, boshqalarni emas
+- Glyukoza va laktozani, saxarozani emas
+- Qaysini bijg'itmaydi
+! Mikrob glyukoza va saxarozani kislota hosil qilib bijg'itadi, laktozani esa bijg'itmaydi, odatda gaz hosil qilmaydi
+@ M JAW
+
+? Vabo toksini qanday tuzilishga ega?
++ AB5 tipidagi oqsil toksin
+- Lipopolisaxarid endotoksin
+- Peptidoglikan bo'lagi
+- Polisaxarid kapsula bo'lagi
+- Xivchin oqsili bo'lagi
+! Vabo kasalligining asosiy patogen omili AB5 tipidagi oqsil toksin hisoblanadi
+@ M JAW
+
+? Vabo toksini hujayrada qaysi moddani oshiradi?
++ Siklik AMF ni
+- Siklik GMF ni
+- ATF ni
+- Glyukozani
+- Kalsiy ionlarini
+! Toksin ta'sirida hujayrada siklik AMF miqdori oshib, suyuqlik va elektrolitlar ko'p miqdorda ajraladi
+@ M JAW
+
+? Vabo toksinini kodlovchi genlar qanday yetkaziladi?
++ CTX fagi orqali
+- Plazmid konyugatsiyasi orqali
+- Spora hosil qilish orqali
+- Xivchin harakati orqali
+- Kapsula almashinuvi orqali
+! Toksinni kodlovchi genlar CTX fagi orqali bakteriyaga o'tadi
+@ M JAW
+
+# 146
+
+? Vabo asosan qaysi yo'l bilan yuqadi?
++ Fekal-og'iz yo'li bilan
+- Havo-tomchi yo'li bilan
+- Jinsiy yo'l bilan
+- Qon orqali, transfuziya bilan
+- Teri jarohati orqali
+! Vabo asosan fekal-og'iz yo'li bilan yuqadi: mikrob axlat bilan chiqib, suv, oziq-ovqat yoki qo'l orqali boshqa odamga o'tadi
+@ M JAW WHODW
+
+? Vabo epidemiyasining eng keng tarqalgan sababi qaysi?
++ Ifloslangan ichimlik suvi
+- Qaynatilgan sut mahsulotlari
+- Pishirilgan go'sht taomlari
+- Yaxshi saqlangan non mahsulotlari
+- Toza quduq suvi
+! Ifloslangan ichimlik suvi vabo epidemiyasining eng keng tarqalgan sababidir
+@ M WHODW
+
+? Vabo qo'zg'atuvchisi tabiatda qaerda uchraydi?
++ Tabiiy suv havzalarida
+- Quruq cho'l qumlarida
+- Muz qatlamlari ostida
+- Yuqori tog' toshlarida
+- Quruq havo oqimida
+! Vabo qo'zg'atuvchisi tabiiy suv havzalarida ham uchraydi, bu suvni manba sifatida muhimroq qiladi
+@ M WHODW
+
+? Vabo qo'zg'atuvchisini oziq-ovqat orqali nima tashishi mumkin?
++ Dengiz mahsulotlari, xom sabzavot, mevalar
+- Qaynatilgan guruch va issiq sho'rva
+- Pishgan non va quruq mevalar hamda yong'oq
+- Shakar va tuz hamda quruq ziravorlar
+- O'simlik moyi va asal hamda choy
+! Dengiz mahsulotlari, xom sabzavotlar va mevalar, ayniqsa ifloslangan suv bilan sug'orilgan, vabo qo'zg'atuvchisini tashishi mumkin
+@ M WHODW
+
+? Vabo epidemiyalari qachon kuchayadi?
++ Mavsumda, yomg'ir va suv toshqini davrida
+- Quruq va sovuq qishda, muzlash davrida
+- Bahorda, gullash davrida, quruq paytda
+- Kuzda, hosil yig'ish davrida, quruq paytda
+- Cho'lda, quruq va issiq davrda
+! Epidemiyalar mavsumda, yomg'irli va suv toshqini davrida kuchayadi, chunki ichimlik suvi ifloslanish xavfi ortadi
+@ M WHODW
+
+? Oshqozon kislotaligining pasayishi vaboga nisbatan sezgirlikka qanday ta'sir qiladi?
++ Sezgirlikni oshiradi
+- Sezgirlikni kamaytiradi
+- Sezgirlikka ta'sir qilmaydi
+- Immunitetni umrbod kuchaytiradi
+- Xavfni butunlay yo'qotadi
+! Kislota mikroblarning katta qismini o'ldiradi, shuning uchun kislotalik pasayganda qo'zg'atuvchi ichakka osonroq yetib boradi
+@ M JAW WHODW
+
+? Vabo qo'zg'atuvchisini mexanik tashuvchilar qaysilar?
++ Hasharotlar
+- Qushlar tuxumi
+- Daraxt barglari
+- Tosh bo'laklari
+- Quyosh nurlari
+! Vabo qo'zg'atuvchisi hasharotlar orqali mexanik yo'l bilan ko'chishi mumkin
+@ M WHODW
+
+? Belgisiz tashuvchilar epidemiyada qanday ahamiyatga ega?
++ Epidemiya sezilmay boshlanishiga sabab bo'ladi
+- Epidemiyani to'xtatib, tarqalishini kamaytiradi
+- Kasallik tarqalishiga hech ta'sir ko'rsatmaydi
+- Hayvonlarga yuqtirib, odamga yuqtirmaydi
+- Kasallik og'irligini kamaytirib, yengillashtiradi
+! Belgisiz tashuvchilar kasallik belgilarisiz yurgani uchun epidemiya sezilarli bo'lmagan holda boshlanishi mumkin
+@ M WHODW
+
+? Epidemiologik tekshiruvda vabo bo'yicha nimaga e'tibor beriladi?
++ Suv quvuri va kanalizatsiya holatiga
+- Havoning namligi va harorati ko'rsatkichlariga
+- Transport harakati va yo'l tirbandligiga
+- Tashqi savdo hajmi va narxlariga
+- Aholining kiyim turi va rangiga
+! Suv quvuri va kanalizatsiya tizimlarining holati epidemiologik tekshiruvning muhim qismi hisoblanadi
+@ M WHODW
+
+? Vaboning yuqish yo'li qachon kuchayadi?
++ Shaxsiy gigiyena buzilganda
+- Qo'l yuvish muntazam bajarilganda
+- Suv qaynatib ichilganda
+- Xonalar shamollatilganda
+- Oziq-ovqat yopiq saqlanganda
+! Fekal-og'iz yo'li odatda shaxsiy gigiyena qoidalari buzilganda kuchayadi
+@ M WHODW
+
+# 147
+
+? O'ta xavfli laboratoriya qanday zonalarga bo'linadi?
++ Tashqi, o'rta va ichki zonaga
+- Shimoliy, janubiy va markaziy zonaga
+- Yuqori, pastki va yon zonaga
+- Ochiq, yopiq va yarim ochiq zonaga
+- Ofis, ombor va oshxona zonasiga
+! O'ta xavfli laboratoriya tashqi, o'rta va ichki zonalarga bo'linadi, ichki zonada eng qattiq nazorat o'rnatiladi
+@ M WHOLBM
+
+? Ichki xonalarning devor va polleri qanday bo'lishi kerak?
++ Silliq, oson tozalanadigan materialdan
+- G'ovak, changni yutuvchi materialdan
+- Yog'ochdan, g'adir-budir sirtli
+- Gilamli, yumshoq qoplamali
+- Bo'yalmagan, namni shimuvchi
+! Ichki xonaning devor, pol va shiftlari silliq va oson tozalanadigan materialdan qilinadi
+@ M WHOLBM
+
+? Ichki xonada keraksiz jihoz va qog'ozlar nima uchun saqlanmaydi?
++ Tozalashni qiyinlashtirgani uchun
+- Xonani isitib yuborgani uchun
+- Xonani yoritib yuborgani uchun
+- Havoni namlab yuborgani uchun
+- Tovushni kuchaytirib yuborgani uchun
+! Keraksiz jihoz va qog'ozlar tozalash va zararsizlantirishni qiyinlashtiradi
+@ M WHOLBM
+
+? Ventilyatsiya tizimida havo qanday yo'naltiriladi?
++ Ichki xonadan tashqariga filtrlanib chiqariladi
+- Tashqaridan ichki xonaga filtrsiz kiritiladi
+- Ichki xonada aylanib turadi
+- Binoning umumiy koridoriga yuboriladi
+- Derazalardan tabiiy ravishda chiqariladi
+! Ventilyatsiya havoning bir tomonlama oqimini ta'minlaydi: havo ichki xonadan tashqariga filtrlanib chiqariladi
+@ M WHOLBM
+
+? Laboratoriyaga kirish kimlarga beriladi?
++ Ruxsatli, o'qitilgan, tekshiruvdan o'tgan xodimlarga
+- Tashrif buyuruvchilarga, ruxsatsiz va nazoratsiz
+- Qo'shni muassasa xodimlariga, ruxsatsiz
+- Ixtiyoriy talabalarga, ruxsatsiz va nazoratsiz
+- Ma'muriyat vakillariga, himoyasiz va ruxsatsiz
+! Kirish faqat ruxsat etilgan, o'qitilgan va tibbiy tekshiruvdan o'tgan xodimlarga beriladi, har bir kirish va chiqish qayd etiladi
+@ M WHOLBM
+
+? Kirish eshiklari qanday tashkil etiladi?
++ Ketma-ket ochiladigan tambur orqali
+- Doimo ochiq qoldiriladigan eshik orqali
+- Bitta oddiy eshik orqali
+- Deraza orqali, zarur bo'lganda
+- Umumiy yo'lak orqali, erkin
+! Kirish eshiklari ketma-ket ochiladigan tambur orqali tashkil etiladi
+@ M WHOLBM
+
+? Ish zonasida nima taqiqlanadi?
++ Ovqatlanish, ichish, chekish, kosmetika
+- Qo'l yuvish va himoya kiyimi kiyish
+- Hujjatlarni to'ldirish va jurnalga yozish
+- Dezinfeksiya qilish va chiqindi yig'ish
+- Biologik xavfsizlik shkafida ishlash
+! Ovqatlanish, ichish, chekish va kosmetika ishlatish ish zonasida taqiqlanadi, bu mikroblarning og'iz orqali kirishini oldini oladi
+@ M WHOLBM
+
+? Ishni tugatgandan keyin qanday tartibda chiqiladi?
++ Joy dezinfeksiya qilinib, qo'l yuviladi
+- Darhol chiqiladi, qo'llar yuvilmaydi
+- Ish joyi tozalanmay qoldiriladi
+- Himoya kiyimida tashqariga chiqiladi
+- Chiqindi ish joyida qoldiriladi
+! Ishni tugatgandan keyin ish joyi dezinfeksiya qilinadi, qo'llar yuvilib, shundan keyingina ishchi zonadan chiqiladi
+@ M WHOLBM
+
+? Aerozol hosil qiladigan muolajalar qayerda bajariladi?
++ Biologik xavfsizlik shkafida
+- Ochiq ish stolida, bemalol
+- Koridorda, shamol ostida
+- Derazaga yaqin stolda, tez
+- Umumiy xonada, odamlar yonida
+! Sentrifugalash va aralashtirish kabi aerozol hosil qiladigan muolajalar biologik xavfsizlik shkafida bajariladi
+@ M WHOLBM
+
+? Ishni boshlashdan oldin ish stoli bilan nima qilinadi?
++ Dezinfeksiya qilinib, jihozlar tekshiriladi
+- Ortiqcha narsalar bilan to'ldirib qo'yiladi
+- Bo'sh qoldiriladi, hech narsa tekshirilmaydi
+- Namlanib, quritilmasdan qoldiriladi
+- Shaxsiy buyumlar qo'yib qo'yiladi
+! Ishni boshlashdan oldin ish stoli dezinfeksiyalanadi, jihozlar tekshiriladi va ortiqcha narsalar olib tashlanadi
+@ M WHOLBM
+
+# 148
+
+? Vabo tekshiruvida namuna qanday sharoitda olinadi?
++ Antibiotik qabul qilinishidan oldin, steril idishga
+- Antibiotik kursi tugagach, ochiq idishga
+- Antibiotik dozasi oshirilgandan keyin, oddiy idishga
+- Antibiotikdan mustaqil, nam idishga
+- Antibiotik boshlanganidan bir hafta o'tgach
+! Namuna antibiotikdan oldin steril idishga olinadi; bemor nomi, sanasi va joyi yorliqqa yoziladi
+@ M WHOLBM
+
+? Vabo namunalari qanday transport muhitida tashiladi?
++ Mikroblarni tirik saqlovchi muhitda
+- Qaynatilgan distillangan suvda, tez
+- Quruq steril idishda, issiq holda
+- Formalin eritmasida, uzoq muddat
+- Spirt eritmasida, uzoq muddat
+! Tashish uchun maxsus transport muhiti ishlatiladi, bu mikroblarning tirik qolishini ta'minlaydi
+@ M WHOLBM
+
+? Boyitish bosqichida namuna qaysi muhitga solinadi?
++ Ishqoriy pepton suviga
+- Manitli tuzli bulyonga
+- Safroli bulyonga
+- Sutli muhitga
+- Selenit bulyoniga
+! Namuna ishqoriy pepton suviga solinadi va 37 °C da 6–8 soat inkubatsiya qilinadi
+@ M JAW
+
+? Boyitish qancha vaqt davom etadi?
++ Taxminan 6–8 soat, 37 °C da
+- Taxminan 2–3 kun, 22 °C da
+- Taxminan 30 daqiqa, 56 °C da
+- Taxminan 1 hafta, 4 °C da
+- Taxminan 1 oy, 37 °C da
+! Ishqoriy pepton suvida namuna taxminan 6–8 soat 37 °C da inkubatsiya qilinadi va qo'zg'atuvchi soni oshadi
+@ M JAW
+
+? Boyitilgan namuna surtmasida qanday morfologiya shubhali hisoblanadi?
++ Gram-manfiy vergulsimon tayoqchalar
+- Gram-musbat zanjirsimon kokklar
+- Gram-manfiy juft kokklar
+- Gram-musbat sporali tayoqchalar
+- Gram-manfiy spiralsimon uzun shakllar
+! Gram-manfiy, vergulsimon tayoqchalar topilsa, ular vabo qo'zg'atuvchisiga shubhali deb baholanadi
+@ M JAW
+
+? Boyitishdan so'ng namuna qaysi selektiv muhitga ekiladi?
++ TCBS agariga
+- Endo agariga
+- Qon agariga
+- Manitli tuzli agarga
+- Shokoladli agarga
+! Namuna TCBS agariga ekilib, 37 °C da bir kecha-kunduz o'stiriladi
+@ M JAW
+
+? Serologik tekshiruvda qaysi antiserumlar ishlatiladi?
++ O1 va O139 antiserumlari
+- A va B antiserumlari
+- Vi va H antiserumlari
+- K1 va K2 antiserumlari
+- Rh va Kell antiserumlari
+! Serologik tekshiruvda O1 va O139 antiserumlari bilan aglyutinatsiya reaksiyasi o'tkaziladi
+@ M JAW WHODW
+
+? PCR usuli vaboda nimani aniqlaydi?
++ Toksin genlarini
+- Koloniya rangini
+- Mikrob xivchinlari sonini
+- Kapsula qalinligini
+- Spora hajmini
+! PCR toksin genlarini aniqlash orqali vabo qo'zg'atuvchisini tez va aniq tasdiqlaydi
+@ M JAW
+
+? Tezkor immunoxromatografik testlarda manfiy natija nimani bildiradi?
++ Tashxisni butunlay rad etmaydi
+- Tashxisni to'liq rad etadi
+- Kasallik yo'qligini kafolatlaydi
+- Bemor sog'lom ekanini tasdiqlaydi
+- Tashuvchilik yo'qligini isbotlaydi
+! Tezkor testlar O1 va O139 antigenlarini aniqlaydi, ammo manfiy natija tashxisni butunlay rad etmaydi
+@ M JAW
+
+? Vabo tashxisi qo'yilganda nima qilinadi?
++ Epidemiologik xizmatga darhol xabar beriladi
+- Bir hafta o'tgach, xabar qilinadi, xolos
+- Xabar qilinmaydi, sir saqlanadi, xolos
+- Faqat qarindoshlariga aytib qo'yiladi
+- Hisobotda tilga olib o'tilib qo'yiladi
+! Vabo tashxisi qo'yilganda kasallik sanitariya-epidemiologik xizmatga darhol xabar qilinadi
+@ M WHODW

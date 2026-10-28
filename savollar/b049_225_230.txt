@@ -1,0 +1,587 @@
+# 225
+
+? Bakteriologik laboratoriya qaysi yo'nalishlarda ishlaydi?
++ Klinik, sanitar-gigiyenik va ilmiy
+- Veterinariya, geologik va kosmik
+- Kimyoviy, mexanik va elektrotexnik
+- Moliyaviy, huquqiy va ma'muriy
+- Harbiy, sport va san'at
+! Bakteriologik laboratoriya klinik, sanitar-gigiyenik va ilmiy-tadqiqot yo'nalishlarida ishlaydi
+@ M WHOLBM
+
+? Klinik laboratoriyaning asosiy vazifasi nima?
++ Bemor namunalarini tashxis uchun tekshirish
+- Oziq-ovqat zavodlarida ishlab chiqarishni boshqarish
+- Suv quvurlari qurilishini nazorat qilish
+- Dori vositalarini sanoat miqyosida ishlab chiqarish
+- Tibbiyot xodimlariga diplom berish
+! Klinik laboratoriya bemor namunalarini tekshirib, shifokorga tashxis uchun ma'lumot beradi
+@ M
+
+? Sanitar-gigiyenik laboratoriya nimani nazorat qiladi?
++ Suv, oziq-ovqat, havo va sirtlar sifatini
+- Bemorlarga retsept yozish va dori berishni
+- Jarrohlik amaliyotlarini o'tkazish va kuzatishni
+- Chaqaloqlarni emlash va parvarish qilishni
+- Tish protezlarini tayyorlash va o'rnatishni
+! Sanitar-gigiyenik laboratoriya suv, oziq-ovqat, havo va sirtlarni nazorat qilib, ifloslanishni erta aniqlaydi
+@ M
+
+? Laboratoriya xonalarini funksional zonalarga bo'lishdan maqsad nima?
++ Ifloslanish xavfini kamaytirish
+- Xonalar sonini ortiqcha ko'paytirish
+- Xodimlar maoshini oshirib borish
+- Jihozlar narxini pasaytirish
+- Laboratoriya hajmini kichraytirish
+! Zonalarga bo'lish namunalar oqimini tartibga soladi va ifloslanish xavfini kamaytiradi
+@ M WHOLBM
+
+? Namunalarni qabul qilish xonasida nima bajariladi?
++ Holati tekshirilib, tartib raqami beriladi
+- Oziqa muhitlari tayyorlanib, avtoklavlanadi
+- Bemorlarga jarrohlik amaliyoti o'tkaziladi
+- Xodimlar kiyim almashtirib, dam oladi
+- Chiqindilar ko'milib, tuproqqa aralashtiriladi
+! Qabul zonasida namunaning holati tekshiriladi, tartib raqami beriladi va yetkazilgan vaqti qayd etiladi
+@ M
+
+? Laboratoriyada havo oqimi qaysi yo'nalishda bo'lishi kerak?
++ Toza zonadan ifloslangan zonaga qarab
+- Ifloslangan zonadan toza zonaga qarab
+- Doim tashqaridan ichkariga bir tomonlama
+- Havo almashinuvi mutlaqo bo'lmasligi kerak
+- Ikkala zonaga bir xil aralash tarzda
+! Havo oqimi toza zonadan ifloslangan zonaga yo'naltirilsa, xodim va atrof-muhit himoyalanadi
+@ M WHOLBM
+
+? Bakteriologik laboratoriyaning asosiy jihozlariga qaysilar kiradi?
++ Termostat, avtoklav va quruq issiqlik shkafi
+- Rentgen apparati, MRT va EKG apparati
+- Elektr payvandlash va metall tokarlik stanogi
+- Tegirmon, bug' qozoni va kompressor
+- Teleskop, radar va seysmograf
+! Asosiy jihozlar: termostat, avtoklav, quruq issiqlik shkafi, mikroskop va sentrifuga
+@ M
+
+? Biologik xavfsizlik shkafi nima vazifani bajaradi?
++ Aerozol xavfidan xodimni himoya qiladi
+- Oziqa muhitlarini yuqori bosimda sterillaydi
+- Mikroblar o'sishi uchun harorat saqlaydi
+- Preparatlarni bo'yash uchun bo'yoq tayyorlaydi
+- Namunalarni minus haroratda muzlatadi
+! Biologik xavfsizlik shkafi havo oqimini nazorat qilib, infeksiyali materiallar bilan ishlashda xodimni aerozoldan himoya qiladi
+@ M WHOLBM
+
+? Biologik xavfsizlik darajalari (BSL) qanday belgilanadi?
++ Mikroorganizmning xavf darajasiga qarab
+- Xona maydonining kvadrat metriga qarab
+- Xodimlar soni va yoshiga qarab
+- Jihozlar chiqarilgan yilga qarab
+- Laboratoriya joylashgan qavat raqamiga qarab
+! BSL-1 dan BSL-4 gacha darajalar mikroorganizmning xavf darajasiga qarab belgilanadi, daraja oshgan sari talablar qat'iylashadi
+@ M JAW
+
+? BSL-3 va BSL-4 darajalari qaysi mikroblar bilan ishlashda talab etiladi?
++ Havo orqali yuqadigan xavfli mikroblar bilan
+- Tibbiy ahamiyati kam mikroblar bilan
+- Oddiy sut kislotali bakteriyalar bilan
+- Tajriba maqsadidagi xamirturushlar bilan
+- Muzlatilgan dori namunalari bilan
+! BSL-3 va BSL-4 odatda havo orqali yuqadigan yoki davosi qiyin xavfli mikroblar bilan ishlashda talab etiladi
+@ M JAW
+
+? Laboratoriya sirtlari qanday bo'lishi kerak?
++ Silliq, yuvilishi oson va kimyoviy chidamli
+- G'adir-budur, g'ovak va yog'ochdan yasalgan
+- Chang to'planadigan to'qimali yuzali
+- Yuvib bo'lmaydigan qog'ozli qoplamali
+- Kimyoviy vositalardan tez shikastlanuvchi
+! Sirtlar silliq, yuvilishi oson va kimyoviy vositalarga chidamli bo'lishi kerak, shunda dezinfeksiya samarali bo'ladi
+@ M WHOLBM
+
+# 226
+
+? Laboratoriyaning ishchi xonalarida nima qat'iyan man etiladi?
++ Ovqat yeyish, ichimlik ichish va chekish
+- Qo'lqop kiyish, xalat kiyish va niqob taqish
+- Mikroskopda ishlash va surtma tayyorlash
+- Qo'lni yuvish va ish joyini tozalash
+- Jurnalni to'ldirish va natijani yozish
+! Ishchi xonalarda ovqat yeyish, ichimlik ichish, chekish va kosmetika ishlatish ifloslanish yo'lini ochgani uchun man etiladi
+@ M WHOLBM
+
+? Qo'lqop bilan laboratoriyadan tashqariga chiqish nima uchun taqiqlanadi?
++ Ifloslanish boshqa joylarga tarqalishi mumkin
+- Sovuqda qo'lqop qattiq bo'lib, sinib ketadi
+- Quyoshda qo'lqop rangini yo'qotib qo'yadi
+- Tashqi havoda qo'lqop statik zaryad oladi
+- Eshik tutqichini qo'lqop buzib qo'yadi
+! Qo'lqopdagi ifloslanish boshqa xonalar va buyumlarga o'tishi mumkin, shu sababli ishdan keyin qo'lqop yechilib, qo'l yuviladi
+@ M WHOLBM
+
+? Aerozol hosil bo'ladigan ishlarda ko'zni himoya qilish uchun nima ishlatiladi?
++ Maxsus ko'zoynak yoki qalqon
+- Quyoshdan saqlovchi oddiy ko'zoynak
+- Kontakt linzalar va ko'z tomchisi
+- Qog'oz salfetka va paxtali niqob
+- Yengil shifoxona qo'lqopi
+! Aerozol hosil bo'ladigan ishlarda ko'zni himoya qilish uchun maxsus ko'zoynak yoki qalqon ishlatiladi
+@ M WHOLBM
+
+? Pipetkani og'iz orqali so'rishga munosabat qanday?
++ Qat'iy taqiqlanadi, chunki xavfli yo'l
+- Steril pipetkada ruxsat etilgan hisoblanadi
+- Qo'lqop kiyilgan taqdirda mumkin sanaladi
+- Qisqa muddatga ruxsat berilishi mumkin
+- Oddiy suv bilan ishlaganda joiz bo'ladi
+! Pipetka bilan og'iz orqali so'rish eng xavfli yuqish yo'llaridan biri bo'lgani uchun qat'iy taqiqlanadi
+@ M WHOLBM
+
+? Ish tugagach ish joyi nima bilan artiladi?
++ Alkogol yoki boshqa dezinfeksiya vositasi bilan
+- Sovuq suv va sovun ko'pigi bilan
+- Quruq lattada changni ko'chirish yo'li bilan
+- Hidli sprey bilan havoni xushbo'ylash orqali
+- Namlangan oddiy qog'oz salfetka orqali
+! Ish joyi alkogol yoki boshqa dezinfeksiya vositasi bilan artiladi; sirtga namuna tushsa, darhol qayta tozalanadi
+@ M WHOLBM CDCSTER
+
+? Namunani ochish, ekish va pipetkalash ishlari qaerda bajarilishi tavsiya etiladi?
++ Biologik xavfsizlik shkafida
+- Umumiy yo'lakdagi ochiq stolda
+- Ovqatlanish xonasidagi stolda
+- Sovutgich yonidagi javon ustida
+- Deraza oldidagi keng peshtaxtada
+! Biologik xavfsizlik shkafi havo oqimi orqali aerozolni ushlab qoladi, shuning uchun ochish, ekish va pipetkalash shu yerda bajariladi
+@ M WHOLBM
+
+? Sentrifugadan keyin rotor qachon ochiladi?
++ Rotor to'liq to'xtaguncha kutilgach
+- Tezlik pasaya boshlashi bilan darhol
+- Tezlikni tekshirish uchun aylanish paytida
+- Naychalar ochilgandan keyin yopish uchun
+- Motor qizib ketganda sovitish maqsadida
+! Namunalar yopiq rotorda aylantiriladi va rotor to'xtaguncha kutiladi, shunda aerozol tarqalmaydi
+@ M WHOLBM
+
+? Namuna to'kilganda birinchi qanday harakat qilinadi?
++ Ish to'xtatilib, zona yopiladi
+- Namuna tezda quruq mato bilan artiladi
+- Ish tezlashtirilib, tez yakunlanadi
+- Namuna boshqa idishga qayta quyiladi
+- Joy tashlab ketilib, izoh yozilmaydi
+! Namuna to'kilsa, ish darhol to'xtatiladi, zona yopiladi, xodimlar xabardor qilinadi, so'ng joy dezinfeksiya qilinadi
+@ M WHOLBM
+
+? Xodimning terisi yoki ko'zi ifloslansa nima qilinadi?
++ Antiseptik bilan yuvilib, shifokorga murojaat qilinadi
+- Quruq salfetka bilan artilib, ish davom etadi
+- Ish tugagunicha kutilib, keyin sovunlanadi
+- Chora ko'rilmaydi, o'z-o'zidan o'tib ketadi
+- Bir kundan keyin rahbariyatga so'z yuritiladi
+! Ifloslangan teri yoki ko'z zudlik bilan antiseptik bilan yuviladi, tibbiy yordamga murojaat qilinadi va rahbariyatga xabar beriladi
+@ M WHOLBM
+
+? Ishlatilgan namunalar va oziqa muhitlari qanday yo'q qilinadi?
++ Avtoklavda sterillanganidan keyin
+- Oddiy axlat qutisiga tashlanganidan keyin
+- Kanalizatsiya orqali suvga to'kilganidan keyin
+- Ochiq hovlida yoqib yuborilganidan keyin
+- Qo'shni xonaga yig'ib qo'yilganidan keyin
+! Ishlatilgan namunalar va oziqa muhitlari avtoklavda sterillangandan keyin yo'q qilinadi, rejim har partiya uchun nazorat qilinadi
+@ M CDCSTER WHOLBM
+
+? Igna va shisha siniqlari qanday yig'iladi?
++ Maxsus qutiga solinadi, qo'lda egilmaydi
+- Qo'lda egilib, oddiy idishga solinadi
+- Qopqoqqa qaytarilib, qayta ishlatiladi
+- Chiqindi savatiga ochiq tashlanadi
+- Stol tortmasiga keyinroq yig'ish uchun solinadi
+! O'tkir buyumlar maxsus qutiga solinadi va qo'lda egilmaydi, bu sanchilish va kesilish xavfini kamaytiradi
+@ M WHOLBM
+
+# 227
+
+? Klinik tekshiruvda qaysi materiallar ishlatiladi?
++ Qon, siydik, najas, balg'am va yiring
+- Tuproq, havo, suv va oziq-ovqat
+- Metall, shisha, plastmassa va rezina
+- Yog'och, qog'oz, mato va teri
+- Neft, benzin, gaz va mineral yog'lar
+! Klinik tekshiruvda qon, siydik, najas, balg'am, yiring, likvor va boshqa biologik suyuqliklar ishlatiladi
+@ M JAW
+
+? Sanitar-gigiyenik tekshiruvda qaysi materiallardan namuna olinadi?
++ Suv, oziq-ovqat, tuproq, havo va sirtlar
+- Qon, siydik, likvor va yiring
+- Balg'am, najas, safro va bo'g'im suyuqligi
+- Ona suti, so'lak va ko'z yoshi
+- Teri qirindisi, soch va tirnoq
+! Sanitar-gigiyenik tekshiruvda suv, oziq-ovqat, tuproq, havo va jihozlar sirtidan namunalar olinadi
+@ M
+
+? Qon namunasi qaysi maqsadda tekshiriladi?
++ Bakteriemiyani aniqlashda
+- Ichak infeksiyalarini tashxislashda
+- Nafas yo'llari infeksiyasini aniqlashda
+- Teri mikozlarini aniqlashda
+- Tish kariesi sababini aniqlashda
+! Qon namunasi bakteriemiyani aniqlashda, najas ichak infeksiyalarida, balg'am esa nafas yo'llari infeksiyalarida qo'llanadi
+@ M JAW
+
+? Namunalar nima uchun antibiotik qabul qilishdan oldin olinadi?
++ Dori o'sishni bostirib, natijani buzishi mumkin
+- Namuna rangi antibiotik tufayli o'zgaradi
+- Oziqa muhiti dori ta'sirida kislotali bo'ladi
+- Dori namuna hajmini ikki baravar oshiradi
+- Bemorning qon guruhi dori bilan o'zgaradi
+! Antibiotiklar mikroblar o'sishini bostiradi, shu sababli antibiotikdan keyin olingan namuna noto'g'ri natija berishi mumkin
+@ M JAW
+
+? Namuna olishdan oldin teri yoki shilliq qavat bilan nima qilinadi?
++ Namunadan oldin dezinfeksiya qilinadi
+- Dezinfeksiya qilinmasdan, to'g'ridan-to'g'ri olinadi
+- Namuna olinganidan keyingina dezinfeksiya qilinadi
+- Qaynoq suvda yuvilib, yog'langan holda olinadi
+- Sovunsiz suv bilan oddiy chayib olinadi
+! Teri yoki shilliq qavat avval dezinfeksiya qilinadi, so'ng material olinadi; bu begona mikroblar tushishini oldini oladi
+@ M WHOLBM
+
+? Yorliqsiz namunaga munosabat qanday?
++ Qabul qilinmaydi, egasini aniqlab bo'lmaydi
+- Qabul qilinadi va tezda tekshiriladi
+- Taxminiy egasiga qarab tekshirib yuboriladi
+- Eng tezkor usulda sinov o'tkaziladi
+- Boshqa bemor nomi bilan qayd etiladi
+! Har bir idishga ism, sana va material turi yozilgan yorliq yopishtiriladi; yorliqsiz namuna qabul qilinmaydi
+@ M WHOLBM
+
+? Namuna laboratoriyaga qanday yetkaziladi?
++ Imkon qadar tez va yopiq idishda
+- Bir necha kundan so'ng ochiq idishda
+- Quyoshda qizigan sumkada ochiq holda
+- Boshqa namunalar bilan aralashtirib solingan
+- Qaynoq suvda saqlab, kechasi yetkazilgan
+! Namuna imkon qadar tez yetkaziladi, idishlar ochilib ketmasligi va aralashmasligi ta'minlanadi
+@ M WHOLBM
+
+? Mikroskopik usulning asosiy afzalligi nima?
++ Qisqa vaqt ichida ma'lumot beradi
+- Turni aniq va to'liq aniqlab beradi
+- Sof kulturani o'stirishga imkon beradi
+- Antibiotiklarga sezuvchanlikni ko'rsatadi
+- Genetik materialni to'liq o'qib beradi
+! Mikroskopik usul tez natija beradi, lekin turni aniq aniqlay olmaydi va kultural usulni to'liq almashtirmaydi
+@ M JAW
+
+? Gram usulida bo'yash mikroblarni qanday ajratadi?
++ Ikki katta guruhga: gram-musbat va gram-manfiy
+- Sporali va sporasiz hujayralarga
+- Kislotaga chidamli va chidamsiz hujayralarga
+- Xivchinli va xivchinsiz hujayralarga
+- Kapsulali va kapsulasiz hujayralarga
+! Gram usuli bakteriyalarni gram-musbat va gram-manfiy guruhlarga ajratadi va tashxisda eng ko'p qo'llanadigan usullardan biri
+@ M JAW GRAM
+
+? Kultural usulning asosiy natijasi nima?
++ Sof kultura ajratib olinadi
+- Zardobdagi antitanachalar titri aniqlanadi
+- Qo'zg'atuvchi DNK ketma-ketligi o'qiladi
+- Bemorning qon guruhi aniqlanadi
+- Preparatdagi hujayralar sanalib baholanadi
+! Kultural usulda koloniyalar o'rganilib, sof kultura ajratiladi va identifikatsiya uchun toza material olinadi
+@ M JAW
+
+? Serologik usullar qaysi mikroorganizmlar uchun ayniqsa foydali?
++ Sekin o'sadigan yoki hujayra ichida yashovchi
+- Tez o'sadigan va oddiy muhitda ko'payuvchi
+- Sporali va issiqqa chidamli anaerob
+- Tuproqda erkin yashovchi sodda jonivor
+- Suvda yashovchi va xivchinli aerob
+! Serologik usullar kultura bilan aniqlash qiyin bo'lgan, sekin o'sadigan yoki hujayra ichida yashovchi mikroblarni tashxislashda foydali
+@ M JAW
+
+# 228
+
+? Zich muhitdagi kulturadan surtma tayyorlashda buyum oynasiga dastlab nima tomiziladi?
++ Steril distillangan suv yoki fiziologik eritma
+- Steril o'simlik moyi yoki glitserin eritmasi
+- Konsentrlangan sulfat kislota eritmasi
+- Metilen ko'ki bo'yog'ining to'yingan eritmasi
+- Ko'p miqdorda spirt va efir aralashmasi
+! Oyna markaziga steril distillangan suv yoki fiziologik eritma tomiziladi; tomchi katta bo'lmasligi kerak
+@ M JAW
+
+? Surtma uchun buyum oynasi qanday bo'lishi kerak?
++ Yog'siz va toza
+- Yog'langan va sirti g'adir-budur
+- Namlangan va chang bosgan
+- Sirti qirilgan va qizdirilgan
+- Qog'oz bilan o'ralgan va nam
+! Yog' qoldig'i suyuqlikning yoyilishiga xalaqit beradi, shu sababli oyna yog'siz va toza bo'lishi kerak
+@ M JAW
+
+? Buyum oynasi yog'dan qanday tozalanadi?
++ Spirt yoki spirt-efir bilan artiladi
+- Yog'li latta bilan artilib, quritiladi
+- Sirka kislotasi bilan artilib, yuviladi
+- Gazeta qog'ozi bilan qattiq ishqalanadi
+- Qaynoq moyga botirib, tozalab olinadi
+! Yog'siz oyna olish uchun uni spirt yoki spirt-efir aralashmasi bilan artish kerak
+@ M
+
+? Ekish ilmog'i koloniyaga tekkizishdan oldin nima qilinadi?
++ Sovitiladi, shunda koloniyani kuydirmaydi
+- Qizdirilib, qizigan holda ishlatiladi
+- Spirtga botirib, yoqilgan holda tutiladi
+- Quruq mato bilan artilib ishlatiladi
+- Kislotaga botirilib, aralashtirib ishlatiladi
+! Ilmoq alangada sterillangandan so'ng sovitiladi; qizigan ilmoq hujayralarni o'ldiradi va morfologiyani buzadi
+@ M WHOLBM
+
+? Sifatli surtma qanday bo'lishi kerak?
++ Yupqa, bir xil va yorqin
+- Qalin, oq dog'li va xira
+- Chetida zich, markazida siyrak
+- Ko'pikli va yirik bo'laklarga bo'lingan
+- Ko'p qavatli va yopishqoq tuzilishli
+! Tayyor surtma yupqa, bir xil va yorqin bo'lishi kerak; qalin qatlam mikroblar shaklini ko'rishga to'sqinlik qiladi
+@ M
+
+? Surtma qatlami yetarlicha yupqa ekanligi qanday tekshiriladi?
++ Oyna orqasidan yozuv o'qilishi kerak
+- Oq dog' hosil bo'lishi kerak
+- Ko'zga umuman ko'rinmasligi kerak
+- Oynani butunlay qoplashi kerak
+- Ko'p qavatli bo'lishi lozim
+! Material shunday yupqa yoyiladiki, oynaning orqa tomonidan yozuv o'qilsin, lekin qalin oq dog' hosil bo'lmasin
+@ M
+
+? Surtma quriguncha harakatlantirilsa nima bo'lishi mumkin?
++ Yorilishi yoki bir tomonga siljishi mumkin
+- Mikroblar sporaga aylanib ketishi mumkin
+- Oyna rangi qizarib o'zgarishi mumkin
+- Mikroblar tezlashib ko'payishi mumkin
+- Bakteriyalar yangi koloniyalar hosil qilishi mumkin
+! Harakat yoki urilish natijasida surtma yorilishi yoki siljishi mumkin va preparat yaroqsiz bo'ladi
+@ M
+
+? Surtma uchun nima sababdan yosh kultura afzal ko'riladi?
++ Eski kulturada shakl va bo'yalish o'zgaradi
+- Yosh kulturada sporalar ko'proq bo'ladi
+- Eski kultura juda tez qurib ketadi
+- Yosh kulturada koloniyalar ko'rinmaydi
+- Eski kultura bo'yoqni o'tkazmaydi
+! Juda eski kulturada ayrim mikroblar shaklini o'zgartiradi yoki bo'yash xususiyatini yo'qotadi
+@ M JAW
+
+? Nima uchun surtma uchun toza, aralashmagan koloniya olinadi?
++ Aralash kulturadan noaniq natija chiqadi
+- Aralash kulturadan surtma tez quriydi
+- Toza koloniya bo'yoqni kam talab qiladi
+- Aralash koloniya oynaga yopishmaydi
+- Aralash kultura ilmoqni qizdirib yuboradi
+! Aralash kulturadan olingan surtma noaniq natija beradi, shuning uchun koloniyalar toza va aralashmagan bo'lishi lozim
+@ M
+
+? Oynaning yorlig'ida nima ko'rsatiladi?
++ Kultura nomi, sana va tayyorlovchi belgisi
+- Bemorning oilaviy ahvoli va shifokor ismi
+- Bo'yoq nomi va ishlab chiqarilgan zavod
+- Mikroskop markasi va ob'ektiv kattalashtirishi
+- Laboratoriya qurilgan yil va bino maydoni
+! Yorliqda kultura nomi, sana va tayyorlovchining belgisi ko'rsatilib, natijalar adashtirilmaydi
+@ M
+
+# 229
+
+? Suyuq oziqa muhitida mikroblar o'sishining belgisi nima?
++ Loyqalanish yoki cho'kma hosil bo'lishi
+- Rangining butunlay shaffof qolishi
+- Hajmining ikki baravar kamayishi
+- Probirka pastki qismining muzlashi
+- Ustida kristall qatlam hosil bo'lishi
+! Suyuq muhitda mikroblar loyqalanish yoki cho'kma hosil qilib o'sishini ko'rsatadi
+@ M JAW
+
+? Suyuq kulturadagi loyqalik va cho'kma miqdori nimaning belgisi bo'lishi mumkin?
++ Mikroblar soni va turining belgisi
+- Sterillikning kafolati bo'lgan belgi
+- Bo'yoq sifatini ko'rsatuvchi belgi
+- Oynadagi yog' qoldig'ini bildiruvchi belgi
+- Ilmoq materiali turini bildiruvchi belgi
+! Loyqalanish va cho'kma miqdori mikroblar soni va turining belgisi bo'lishi mumkin, shu sababli jurnalga qayd etiladi
+@ M
+
+? Ba'zi bakteriyalar suyuq muhitda qanday o'sish beradi?
++ Yuza pardaga o'xshash o'sish
+- Zich quruq koloniyalar hosil qilish
+- Rangli gaz pufakchalari hosil qilish
+- Oyna yuzasida kristall hosil qilish
+- Muzlagan qatlam shaklida o'sish
+! Ba'zi bakteriyalar suyuq muhitda yuza pardaga o'xshash o'sish beradi, boshqalari muhit ichida tarqalib o'sadi
+@ M JAW
+
+? Surtmadan oldin suyuq kultura bilan nima qilinadi?
++ Yaxshi, lekin kuchli bo'lmagan aralashtiriladi
+- Kuchli chayqatilib, ko'pik hosil qilinadi
+- Aralashtirilmay, cho'kindi ustidan olinadi
+- Qizdirilib, qaynash darajasiga yetkaziladi
+- Muzlatilib, qayta eritiladi
+! Kultura aralashtirilib mikroblar bir tekis taqsimlanadi; juda kuchli aralashtirish aerozol hosil qiladi
+@ M
+
+? Suyuq kulturani juda kuchli aralashtirish nimaga olib kelishi mumkin?
++ Aerozol hosil bo'lishiga
+- Mikroblar sonining kamayishiga
+- Muhit sterilligi oshishiga
+- Bo'yoq tez o'zlashtirilishiga
+- Oyna yuzasi yog'lanishiga
+! Kuchli aralashtirishda aerozol hosil bo'lishi mumkin va ish xavfsizligi buziladi
+@ M WHOLBM
+
+? Suyuq kulturadan to'g'ridan-to'g'ri surtma tayyorlashda suv qo'shishga munosabat qanday?
++ Odatda suv qo'shish talab etilmaydi
+- Har doim bir tomchi suv qo'shiladi
+- Albatta konsentrlangan kislota qo'shiladi
+- Doim spirt bilan suyultirib olinadi
+- Majburiy ravishda glitserin qo'shiladi
+! Suyuq kulturadan to'g'ridan-to'g'ri surtma tayyorlanganda suv qo'shish odatda talab qilinmaydi, zich muhitdagi surtmadan farqi shu
+@ M
+
+? Ilmoq haddan tashqari to'ldirilsa nima bo'ladi?
++ Surtma haddan tashqari qalinlashadi
+- Surtma juda yupqa bo'lib qoladi
+- Surtma oynadan darhol tushib ketadi
+- Surtma rangsizlanib yo'qoladi
+- Mikroblar o'lib, yo'q bo'lib ketadi
+! Ilmoqda ortiqcha material surtmani qalinlashtiradi, shuning uchun ilmoqni haddan tashqari to'ldirmaslik kerak
+@ M
+
+? Juda zich yoki aralash suyuq kulturadan surtma uchun nima olinadi?
++ Sentrifugalashdan keyingi cho'kindi
+- Filtrlashdan keyingi shaffof suyuqlik
+- Qaynatishdan keyingi ko'pik qatlami
+- Muzlatishdan keyingi muz kristallari
+- Quritishdan keyingi kukun qoldig'i
+! Zich yoki aralash kultura avval sentrifugalanadi, cho'kindidan tomchi olinib surtma tayyorlanadi
+@ M
+
+? Cho'kindidan surtma tayyorlashning afzalligi nima?
++ Mikroblar konsentratsiyasini oshiradi
+- Mikroblar sonini keskin kamaytiradi
+- Bo'yoqsiz ko'rishga imkon beradi
+- Surtmani qalinroq va xiraroq qiladi
+- Sterilizatsiyani keraksiz qilib qo'yadi
+! Cho'kindidan tayyorlangan surtmada mikroblar konsentratsiyasi oshadi va ular aniqroq ko'rinadi
+@ M
+
+? Sentrifugalashda naychalar qanday holatda bo'ladi?
++ Aerozol tarqalmasligi uchun yopiq
+- Havo kirishi uchun ochiq qoldiriladi
+- Tezroq aylanishi uchun yarim ochiq
+- Namuna ko'rinishi uchun qopqog'i olinadi
+- Sovishi uchun tashqariga chiqarib qo'yiladi
+! Aerozol hosil bo'lishi va tarqalishi xavfi bor, shu sababli naychalar yopiq holda ishlatiladi
+@ M WHOLBM
+
+# 230
+
+? Surtmani quritishning vazifasi nima?
++ Suyuqlikni bug'latib, mikroblarni joylashtirish
+- Mikroblarni o'ldirib, rangsizlantirish
+- Bo'yoq qatlamini surtmaga yopishtirish
+- Oynani sovitib, kristallashtirish
+- Mikroblar sonini ikki baravar oshirish
+! Quritish suyuqlikni bug'latib, mikroblarni oynaga joylashtiradi va surtmani bo'yoqni qabul qilishga tayyorlaydi
+@ M JAW
+
+? Qaysi quritish usuli hujayra shaklini eng kam buzadi?
++ Havoda tabiiy sharoitda quritish
+- Alanga ustida tez qizdirib quritish
+- Termostatda yuqori haroratda quritish
+- Fen yordamida isitilgan havoda quritish
+- Quritish shkafida kuchli qizdirib quritish
+! Havoda quritish sekin bo'lsa-da hujayralar shaklini eng kam buzadi va ishonchli natija beradi
+@ M
+
+? Havoda quritishni tezlashtirish uchun nima tavsiya etiladi?
++ Qizdirish o'rniga sabr qilish tavsiya etiladi
+- Alanga ustiga tutib quritish tavsiya etiladi
+- Kuchli fen bilan puflab quritish tavsiya etiladi
+- Termostatga solib tezlatish tavsiya etiladi
+- Spirt lampasi yonida isitish tavsiya etiladi
+! Tez qizdirish hujayralarni o'zgartiradi, shu sababli jadallashtirish o'rniga sabr qilish tavsiya etiladi
+@ M
+
+? Issiqlik bilan fiksatsiyada quritilgan surtma qanday ishlanadi?
++ Alanga ustidan tez, bir necha marta o'tkaziladi
+- Qaynoq suvga bir daqiqa botirib qo'yiladi
+- Alangada uzoq vaqt qizitib saqlanadi
+- Termostatda bir sutka davomida ushlanadi
+- Muzlatgichda minus haroratda qotiriladi
+! Oyna alanga ustidan qisqa vaqt, bir necha marta o'tkaziladi va haddan tashqari qizdirilmaydi
+@ M JAW
+
+? Issiqlik fiksatsiyasining natijasi nima?
++ Hujayralar oynaga mahkam yopishadi
+- Hujayralar oynadan butunlay ajralib ketadi
+- Hujayralar tezda parchalanib ketadi
+- Hujayralar bo'yoqni qabul qilmay qoladi
+- Hujayralar o'sib, ko'payib ketadi
+! Issiqlik oqsillarni qisman qaytmas o'zgartirib, hujayralarni oynaga mahkam yopishtiradi
+@ M JAW
+
+? Kimyoviy fiksatsiya qanday bajariladi?
++ Metanolga qisqa botirilib, quritiladi
+- Konsentrlangan kislotada uzoq saqlanadi
+- Suvli glitserinda bir kun ushlanadi
+- Benzinga botirilib, yoqib quritiladi
+- Yog'li eritmada qaynatilib quritiladi
+! Kimyoviy fiksatsiyada surtma metanol kabi fiksatorga qisqa vaqt botiriladi va keyin quritiladi
+@ M JAW
+
+? Metanol bilan ishlashda nimani hisobga olish kerak?
++ Yonuvchanligini va alangadan uzoqligini
+- Suvda erimasligini va og'irligini
+- Hidsiz, rangsizligini va bo'yalishini
+- Muzlash haroratini va zichligini
+- Kislotali reaksiyasini va qovushqoqligini
+! Metanol bug'lari yonishi mumkin, shuning uchun u alangadan uzoqda ishlatiladi
+@ M
+
+? Surtmani juda qizdirib kuydirishning oqibati qanday?
++ Mikroblar qorayib, shaklini yo'qotadi
+- Mikroblar yorqin sariq rangga bo'yaladi
+- Mikroblar ikki barobar yirik bo'lib qoladi
+- Mikroblar bo'yoqni kuchli o'zlashtiradi
+- Mikroblar tiniq va aniq ko'rinadi
+! Haddan tashqari qizdirilsa mikroblar qorayib ketadi, ichki tuzilishi ko'rinmay qoladi va shakli buziladi
+@ M
+
+? Surtma to'liq quriguncha fiksatsiya qilinsa nima bo'ladi?
++ Pufakchalar yoki yorilishlar paydo bo'ladi
+- Surtma bir tekis va yorqin chiqadi
+- Surtma qattiq tosh kabi qotib qoladi
+- Mikroblar ikkiga bo'linib ko'payadi
+- Preparat shaffof va rangsiz bo'lib qoladi
+! Namlik bug'langanda surtmada pufakchalar yoki yorilishlar paydo bo'lib, preparat yaroqsiz bo'ladi
+@ M
+
+? Tayyor fiksatsiya qilingan preparatlar qanday saqlanadi?
++ Toza, changsiz quti yoki stendda
+- Ochiq deraza yonida namlikda
+- Oshxonaning issiq burchagida bug' ichida
+- Suv to'ldirilgan idish ichida
+- Muzlatgich devorida muz orasida
+! Quritilgan va fiksatsiya qilingan preparatlar toza, changsiz quti yoki stendda va yorliqlangan holda saqlanadi
+@ M
+
+? Surtma quritish tezligiga qaysi omil ta'sir qiladi?
++ Xonaning harorati va havo namligi
+- Xonaning rangi va devor materiali
+- Oyna ishlab chiqargan zavod nomi
+- Ilmoq ushlagichining uzunligi
+- Mikroskop ob'ektivining kattalashtirishi
+! Nam havoda surtma sekin, quruq va issiq havoda tez quriydi; quritish xonasining harorati va namligi tezlikka ta'sir qiladi
+@ M

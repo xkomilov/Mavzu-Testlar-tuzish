@@ -1,0 +1,367 @@
+# 104
+
+? Pnevmokokk tekshiruvida eng ko'p olinadigan respirator material qaysi?
++ Balg'am (yo'tal bilan chiqqan)
+- Najas (ichakdan chiqqan)
+- Siydik (buyrakdan chiqqan)
+- Teri tangachasi (yuzadan olingan)
+- So'lak (quruq tampondan olingan)
+! Pnevmoniya gumon qilinganda asosiy tekshiriladigan material balg'amdir
+@ M JAW
+
+? Balg'amda ko'p yassi epiteliy hujayralari bo'lishi nimani bildiradi?
++ Og'iz bo'shlig'i tupuri bilan ifloslanganini
+- Namuna yuqori sifatli va steril ekanini
+- Pnevmokokk infeksiyasi aniq tasdiqlanganini
+- Bemorda o'tkir virusli infeksiya borligini
+- Namunada bakteriya mutlaqo yo'q ekanini
+! Ko'p yassi epiteliy hujayralari namunaning og'iz bo'shlig'i tupuri bilan ifloslanganini, natija esa noaniq bo'lishini ko'rsatadi
+@ M JAW
+
+? Balg'amda ko'p polimorf yadroli leykotsitlar nimani ko'rsatadi?
++ Yallig'lanish jarayoni borligini
+- Namuna tupurik bilan ifloslanganini
+- Bemor to'liq sog'lomligini
+- Allergik reaksiya borligini
+- Zamburug' infeksiyasi borligini
+! Ko'p polimorf yadroli leykotsitlar yallig'lanish jarayonini ko'rsatadi
+@ M JAW
+
+? Nima uchun balg'am namunasini uzoq saqlab bo'lmaydi?
++ Pnevmokokk avtolizga uchrab, boshqa flora ko'payadi
+- Pnevmokokk sovuqda tez ko'payib, balg'amni to'ldiradi
+- Balg'am saqlanganda sterillanib, tekshirib bo'lmaydi
+- Pnevmokokk sporaga aylanib, ko'payishdan to'xtaydi
+- Balg'amda antibiotik moddasi hosil bo'ladi
+! Pnevmokokk tez avtolizga uchraydi va boshqa flora ko'payib ketadi, shuning uchun namuna tez yetkaziladi
+@ M JAW
+
+? Qon kulturasi uchun qon qanday olinadi?
++ Odatda ikki marta, turli venadan
+- Odatda bir marta, bitta venadan va juda sekin
+- Odatda uch hafta ichida, bir venadan
+- Odatda bir marta, barmoqdan tomizib
+- Odatda faqat tungi vaqtda, bir joydan
+! Qon odatda ikki marta, turli venadan olinadi va bakteriemiyani ishonchli aniqlashga yordam beradi
+@ M JAW
+
+? Qon olishdan oldin teri nima uchun antiseptik bilan ishlanadi?
++ Begona mikroblar tushishini kamaytirish uchun
+- Qon ivishini tezlashtirib, laxta olish uchun
+- Qondagi pnevmokokkni oldindan o'ldirish uchun
+- Qon tarkibini suyultirib, hajmini oshirish uchun
+- Bemor og'rig'ini yo'qotib, tinchlantirish uchun
+! Dezinfeksiya begona mikroblar tushishini kamaytiradi va noto'g'ri musbat natijalarni pasaytiradi
+@ M JAW
+
+? Likvor qanday usulda olinadi?
++ Bel punksiyasi orqali, qat'iy steril sharoitda
+- Venaga igna sanchib, oddiy sharoitda
+- Burun orqali tampon bilan, steril bo'lmagan holda
+- Quloq pardasini kesib, oddiy sharoitda
+- Teri ostidan ignada, kasallik tugagach
+! Likvor meningit gumonida bel punksiyasi orqali, qat'iy steril sharoitda olinadi
+@ M JAW
+
+? Pnevmokokk meningitida likvor tarkibi qanday o'zgaradi?
++ Hujayra, oqsil va glyukoza tarkibi o'zgaradi
+- Tarkibi o'zgarmay, normal holatda qoladi
+- Rangi o'zgarib, tarkibi saqlanib qoladi
+- Hajmi kamayib, tarkibi saqlanib qoladi
+- Harorati o'zgarib, tarkibi saqlanib qoladi
+! Pnevmokokk meningitida likvorning hujayra, oqsil va glyukoza tarkibi o'zgaradi; ko'p neytrofillar yiringli meningit belgisidir
+@ M JAW
+
+? Burun-halqum surtmasi pnevmokokk tekshiruvida nima uchun olinadi?
++ Tashuvchilikni aniqlash va epidemiologiya uchun
+- Qon bosimini va yurak urishini aniqlash uchun
+- Siydik tarkibini va buyrak ishini baholash uchun
+- Jigar fermentlari va bilirubinni o'lchash uchun
+- Oshqozon kislotaligini va fermentlarini aniqlash uchun
+! Burun-halqum surtmasi pnevmokokk tashuvchiligini aniqlashda ishlatiladi, bu epidemiologik tekshiruvlarda muhim
+@ M JAW
+
+? Plevra va bo'g'im suyuqligidan pnevmokokk ajratilsa, bu qanday ahamiyatga ega?
++ Katta tashxisiy ahamiyatga ega, chunki bu suyuqliklar steril
+- Ahamiyatsiz, chunki bu suyuqliklarda mikroblar doim bo'ladi
+- Normal flora belgisi, chunki bu suyuqliklar steril emas
+- Tashxis uchun foydasiz, chunki mikrob tashqaridan tushgan
+- Laboratoriya xatosi, chunki bu suyuqliklarda mikrob bo'lmaydi
+! Plevra, bo'g'im va boshqa steril suyuqliklarda bakteriya topilishi katta tashxisiy ahamiyatga ega
+@ M JAW
+
+# 105
+
+? Pnevmokokk tekshiruvining preanalitik bosqichiga nima kiradi?
++ Namuna olish, yorliqlash va tashish
+- Antibiogramma natijasini rasmiylashtirish
+- Serotip aniqlash va tasnif
+- Koloniyalarni sanash va hisob-kitob
+- Natijani bemorga yetkazish
+! Preanalitik bosqichga namuna olish, yorliqlash, tashish vaqti va harorati kiradi
+@ M
+
+? Sifatli balg'am olishga nima yordam beradi?
++ Bemorga chuqur nafas olib yo'talishni o'rgatish
+- Bemorga ko'p miqdorda suyuqlik ichirish
+- Bemorni yotqizib, tampon bilan olish
+- Bemorning og'zini antiseptik bilan chayqatmaslik
+- Balg'amni bir kun yig'ib, so'ng yuborish
+! Chuqur nafas olib yo'talishni o'rgatish tupurik aralashmasini kamaytirib, sifatli balg'am olishga yordam beradi
+@ M
+
+? Yorliq ma'lumoti va yo'llanma mos kelmasa, nima qilinadi?
++ Namuna qayta tekshiruvga yuboriladi
+- Namuna baribir tekshirilib, natija beriladi
+- Namuna tashlab yuborilib, hech narsa yozilmaydi
+- Yo'llanma yo'qotilgan deb hisoblanadi
+- Yorliq laboratoriya xodimi tomonidan o'zgartiriladi
+! Yorliq va yo'llanma mos kelmasa, namuna qayta tekshiruvga yuboriladi
+@ M
+
+? Namuna qabul qilingandan keyin birlamchi ishlovda nima bajariladi?
++ Suyuq material bir jinsli qilinadi
+- Avtoklavda sterillab olinadi
+- Quritilib, kukun holiga keltiriladi
+- Formalinda saqlab qo'yiladi
+- Muzlatilib, uzoq saqlab qo'yiladi
+! Birlamchi ishlovda balg'am yoki boshqa suyuq material homogenlashtiriladi, bu keyingi bo'yash va ekish uchun tayyorgarlik
+@ M
+
+? Namuna biologik xavfsizlik nuqtai nazaridan qayerda ochiladi?
++ Biologik xavfsizlik shkafida
+- Ochiq stol ustida, oddiy sharoitda
+- Koridorda, shamollatiladigan joyda
+- Bemor yaqinida, palata ichida
+- Ish stoli yonida, deraza oldida
+! Ishlov jarayonida namuna biologik xavfsizlik shkafida ochiladi, ishlatilgan materiallar tartib bilan zararsizlantiriladi
+@ M
+
+? Gram bo'yalgan surtmada pnevmokokk qanday ko'rinadi?
++ Gram-musbat lansetsimon diplokokklar
+- Gram-manfiy loviyasimon diplokokklar
+- Gram-musbat uzum shingilsimon kokklar
+- Gram-manfiy ingichka egri tayoqchalar
+- Gram-musbat uzun tayoqchalar zanjiri
+! Gram-musbat lansetsimon (nayzasimon) diplokokklar ko'rinishi pnevmokokk ehtimolini oshiradi
+@ M JAW
+
+? Pnevmokokk ekmalari qanday sharoitda inkubatsiya qilinadi?
++ 5 % CO2 sharoitida 35–37 °C da
+- Anaerob sharoitda 55–60 °C da
+- Quruq havoda 4–6 °C da
+- Vakuum sharoitida 22 °C da
+- Kislorodsiz muhitda 42–44 °C da
+! Ekilgan muhit 5 % CO2 sharoitida 35–37 °C da inkubatsiya qilinadi, natija odatda 24 soatdan keyin baholanadi
+@ M CLSI
+
+? Pnevmokokk uchun qon agari bilan birga yana qaysi muhit ishlatilishi mumkin?
++ Shokoladli agar
+- Endo agari
+- Ploskirev agari
+- Levin agari
+- Vismut-sulfit agari
+! Qon agari bilan birga shokoladli agar ham ishlatilishi mumkin
+@ M JAW
+
+? Pnevmokokk identifikatsiyasida qaysi sinamalar qo'llanadi?
++ Optoxin sezgirligi va safroda erish
+- Indol hosil qilish va ureaza sinamasi
+- Oksidaza va nitratni qaytarish sinamasi
+- Koagulaza va manit bijg'ishi sinamasi
+- Vidal reaksiyasi va gemokultura sinamasi
+! Pnevmokokk optoxinga sezgir bo'ladi va safro tuzlarida eriydi, bu belgilar uni viridans streptokokklardan ajratadi
+@ M JAW
+
+? Mikroskopiya natijasi kultura natijasiga mos kelmasa, nima qilinadi?
++ Namuna qayta olinib tekshiriladi
+- Mikroskopiya natijasi yakuniy deb qabul qilinadi
+- Kultura natijasi bekor qilinadi
+- Bemorga davo boshlanmaydi
+- Natija rasmiylashtirilmaydi
+! Mos kelmaslik ko'pincha namunaning noto'g'ri olinishi yoki tashilishi bilan bog'liq, shuning uchun namuna qayta olinadi
+@ M
+
+# 106
+
+? Pnevmokokk serotipi qaysi tuzilma antigeniga qarab belgilanadi?
++ Kapsula polisakkaridiga qarab
+- Xivchin oqsili tuzilishiga qarab
+- Spora po'sti tuzilishiga qarab
+- Ribosoma RNKsi tuzilishiga qarab
+- Hujayra yadrosi tuzilishiga qarab
+! Serotiplar kapsula polisakkaridlarining xilma-xilligiga ko'ra ajratiladi
+@ M JAW
+
+? Serotiplashning klassik usuli qaysi?
++ Kvelling reaksiyasi
+- Vidal aglyutinatsiya reaksiyasi
+- Mantu teri sinamasi
+- Shik teri sinamasi
+- Rayt aglyutinatsiyasi
+! Kvelling reaksiyasi serotiplashning klassik usulidir
+@ M JAW
+
+? Kvelling reaksiyasida antiserum ta'sirida nima ko'rinadi?
++ Kapsula kattalashib, aniq ko'rinadi
+- Kapsula butunlay yo'qolib ketadi
+- Hujayra devori qizarib ketadi
+- Xivchinlar uzayib ketadi
+- Hujayra ichida spora hosil bo'ladi
+! Maxsus antiserum ta'sirida kapsula kattalashib, mikroskopda aniq ko'rinadi
+@ M JAW
+
+? Kvelling reaksiyasida kapsula chegarasini aniqroq ko'rsatish uchun nima ishlatiladi?
++ Metilen ko'ki kabi bo'yoq
+- Yod eritmasi kabi indikator
+- Fuksin kabi kislotali bo'yoq
+- Lakmus kabi indikator
+- Sudan kabi lipid bo'yog'i
+! Usulda metilen ko'ki kabi bo'yoq kapsulaning chegarasini aniqroq ko'rsatadi
+@ M JAW
+
+? Kvelling reaksiyasining kamchiligi qaysi?
++ Natijani baholash tajribali xodimni talab qiladi
+- Natijani baholash to'liq avtomatik bo'ladi
+- O'lik material bilan umuman ishlab bo'lmaydi
+- Faqat kapsulasiz shtammlarni aniqlay oladigan reaksiya
+- Natija bir necha soniyada tayyor bo'ladi
+! Tasvirni talqin qilish subyektiv bo'lishi mumkin, shuning uchun tajribali xodim talab etiladi
+@ M JAW
+
+? Latex-aglyutinatsiya usuli qanday zarrachalarga asoslangan?
++ Serotipga xos antitelali lateks zarrachalar
+- DNK bilan qoplangan magnit zarrachalar
+- Glyukoza bilan qoplangan shisha zarrachalar
+- Antibiotik bilan qoplangan polimer zarrachalar
+- Fibrinogen bilan qoplangan metall zarrachalar
+! Serotipga xos antitelalar bilan qoplangan lateks zarrachalari kapsula bilan bog'langanda ko'rinadigan aglyutinatsiya hosil qiladi
+@ M JAW
+
+? Latex-aglyutinatsiya usulining afzalligi nima?
++ Tez, sodda va arzon
+- Sekin, murakkab va qimmat
+- Tajribali olimlar ishlata oladi
+- Kam sezgir, lekin juda qimmat
+- Serotiplarni to'liq qamrab oladi
+! Latex usuli tez, sodda va arzon, ammo tijorat to'plamlari barcha serotiplarni qamrab olmaydi
+@ M JAW
+
+? Multiplex PCR serotiplashda qaysi genlarni nishonga oladi?
++ Kapsula biosintezi genlarini
+- Xivchin sintezi genlarini
+- Spora hosil qilish genlarini
+- Pili tuzilishi genlarini
+- Antibiotik parchalovchi genlarni
+! PCR kapsula biosintezi genlarini nishonga oladi: har bir serotip uchun o'ziga xos gen belgisi tanlanadi
+@ M JAW
+
+? Kapsulasiz pnevmokokk shtammlari serotiplashda qanday natija beradi?
++ Serotiplash usullari bilan aniqlanmaydi
+- Barcha serotiplash usullarida aniq belgilanadi
+- Kvelling reaksiyasida eng aniq belgilanadi
+- Latex-aglyutinatsiyada mos serotip beradi
+- PZR yordamida kapsula serotipi topiladi
+! Kapsulasiz shtammlar serotiplash usullari bilan aniqlanmaydi, bu laboratoriya tomonidan hisobga olinishi kerak
+@ M JAW
+
+? Serotiplarni aniqlash nima uchun muhim?
++ Kuzatuv va vaksina tanlash uchun
+- Bemor ismini qayd etish uchun
+- Laboratoriya jihozini tekshirib olish uchun
+- Oziqa muhiti tarkibini belgilash uchun
+- Bemorning qon guruhini belgilash uchun
+! Serotiplar virulentligi, tarqalishi va antibiotikka chidamliligi bilan farq qiladi, shuning uchun epidemiologik kuzatuv va vaksina uchun muhim
+@ M JAW
+
+# 107
+
+? Meningokokklar Gram usulida qanday bo'yaladi va qanday ko'rinadi?
++ Gram-manfiy, juft joylashgan diplokokklar
+- Gram-musbat, juft joylashgan diplokokklar
+- Uzun ingichka tayoqchalar, Gram-manfiy
+- Uzum shingilsimon kokklar, Gram-musbat
+- Zanjirsimon kokklar, Gram-musbat
+! Meningokokk Gram-manfiy diplokokk bo'lib, loviyasimon shaklda juft joylashadi
+@ M JAW
+
+? Meningokokklar likvor surtmasida qayerda joylashgan holda ko'rinadi?
++ Ko'pincha neytrofillar ichida
+- Ko'pincha eritrotsitlar ichida
+- Ko'pincha limfotsitlar ichida
+- Ko'pincha hujayralardan tashqarida zanjir bo'lib
+- Ko'pincha faqat tomir devorida
+! Meningokokk likvor surtmasida ko'pincha neytrofillar ichida joylashgan holda ko'rinadi
+@ M JAW
+
+? Meningokokk harakat va spora hosil qilishiga ko'ra qanday?
++ Harakatsiz, spora hosil qilmaydi
+- Harakatchan, spora hosil qiladi
+- Harakatchan, spora hosil qilmaydi
+- Harakatsiz, lekin spora hosil qiladi
+- Xivchinli, spora ichida kapsula hosil qiladi
+! Meningokokk harakatsiz bakteriya bo'lib, spora hosil qilmaydi va tashqi muhitda uzoq yashay olmaydi
+@ M JAW
+
+? Meningokokk tashqi muhitga qanday munosabatda bo'ladi?
++ Tashqi muhitda uzoq yashay olmaydi
+- Tashqi muhitda yillab yashaydi
+- Tuproqda sporaga aylanib saqlanadi
+- Quritilganda ham uzoq tirik qoladi
+- Suvda ko'payib, tarqalib ketadi
+! Meningokokk tashqi muhitda uzoq yashamaydi, shuning uchun tashish va saqlash qoidalari qat'iy talab etiladi
+@ M JAW
+
+? Meningokokk kapsulasi qaysi tabiatga ega?
++ Polisaxarid
+- Lipid
+- Oqsil
+- Nuklein kislota
+- Peptid
+! Meningokokk kapsulasi polisaxarid tabiatli bo'lib, fagotsitozdan himoya qiladi
+@ M JAW
+
+? Meningokokk qaysi serogruppalari odamlarda kasallik bilan ko'p bog'liq?
++ A, B, C, W, Y va X
+- D, E, F, G, H va K
+- O, H va K
+- 1, 2, 3 va 4
+- M, N, P va R
+! Odamlarda kasallik ko'pincha A, B, C, W, Y va X serogruppalari bilan bog'liq
+@ M JAW WHOLBM
+
+? Meningokokkning pililari qanday vazifani bajaradi?
++ Shilliq qavatga yopishishga yordam beradi
+- Bakteriyani suyuq muhitda harakatlantiradi
+- Sporani hosil qilib, uni saqlab turadi
+- Antibiotikni parchalab, chidamlilik beradi
+- Toksin ajratib, ichak hujayralarini buzadi
+! Pililar bakteriyaning shilliq qavat hujayralariga yopishishida (adgeziyada) ishtirok etadi, bu tanaga kirishning birinchi bosqichi
+@ M JAW
+
+? Pililarning antigen o'zgaruvchanligi nimaga olib keladi?
++ Immun tizimdan qochishga va vaksina yaratishning qiyinlashuviga
+- Immun tizimni kuchaytirishga va vaksinani osonlashtirishga
+- Bakteriyaning tezda nobud bo'lishiga
+- Bakteriyaning spora hosil qilishiga
+- Kapsula yo'qolishiga
+! Pililarning antigen o'zgaruvchanligi bakteriyaga immun tizimdan qochish imkonini beradi va vaksina ishlab chiqishni qiyinlashtiradi
+@ M JAW
+
+? Meningokokk lipopolisaxaridi (LPS) qanday ahamiyatga ega?
++ Endotoksin; qonga chiqib septik holat og'irligini oshiradi
+- Ekzotoksin; faqat ichakka ta'sir qiladi
+- Neyrotoksin; nerv-mushak o'tkazuvchanligini to'xtatadi
+- Enzim; qon laxtasini eritadi
+- Kapsula; fagotsitozdan himoya qiladi
+! LPS gram-manfiy bakteriyalarning endotoksini bo'lib, meningokokk parchalanganda qonga chiqib yallig'lanish va septik holatni kuchaytiradi
+@ M JAW
+
+? IgA1 proteaza qanday vazifani bajaradi?
++ IgA antitelalarini parchalab, mahalliy himoyani susaytiradi
+- IgA antitelalarini sintez qilib, mahalliy himoyani oshiradi
+- Eritrotsit membranasini parchalab, gemolizni chaqiradi
+- Fibrin laxtasini eritib, qonni suyultirib yuboradi
+- Penitsillinni parchalab, unga chidamlilik beradi
+! IgA1 proteaza shilliq qavat IgA antitelalarini parchalab, mahalliy immun himoyani zaiflashtiradi
+@ M JAW

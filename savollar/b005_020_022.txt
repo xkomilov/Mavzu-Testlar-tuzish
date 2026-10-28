@@ -1,0 +1,272 @@
+# 020
+? Saxarolitik xossa nima?
++ Mikroorganizmning uglevodlarni, ya'ni shakar va qand moddalarini parchalash qobiliyati
+- Mikroorganizmning oqsillarni peptid va aminokislotalargacha parchalash qobiliyati
+- Mikroorganizmning eritrotsitlarni parchalab, gemoglobinni chiqarish qobiliyati
+- Mikroorganizmning yog'larni glitserin va yog' kislotalariga ajratish qobiliyati
+- Mikroorganizmning vodorod peroksidni suv va kislorodga ajratish qobiliyati
+! Saxarolitik xossa — mikroorganizmning uglevodlarni, ya'ni shakar va boshqa qand moddalarini parchalash qobiliyati
+@ M JAW
+
+? Uglevod kislotagacha parchalanib, gaz hosil bo'lmasa, natija qanday belgilanadi?
++ A (kislota)
+- AG (kislota va gaz)
+- Minus belgisi (manfiy)
+- G (faqat gaz)
+- K (ishqor)
+! "Kislota" uchun A, "kislota va gaz" uchun AG, manfiy natija uchun esa minus belgisi qo'llanishi mumkin
+@ M
+
+? Durham naychasi saxarolitik testda nima uchun qo'yiladi?
++ Gaz hosil bo'lishini aniqlash uchun
+- Muhit pH ini aniq o'lchash uchun
+- Hosil bo'lgan kislota miqdorini titrlash uchun
+- Muhitni qo'shimcha sterillash uchun
+- Koloniyalarni sanab chiqish uchun
+! Durham naychasi ichida gaz yig'ilsa, u pufakcha ko'rinishida qayd etiladi; bu usul gaz hosil bo'lganini ko'rsatadi, lekin miqdorini bermaydi
+@ M
+
+? Saxarolitik testda har bir uglevod nima uchun alohida idishda sinaladi?
++ Bitta muhitdagi bir nechta uglevod natijani chalkashtirishi mumkinligi uchun
+- Uglevodlar bir-biri bilan reaksiyaga kirishib, muhitni buzishi mumkinligi uchun
+- Har bir idishda har xil mikrob turi o'sishi kerakligi uchun
+- Indikator faqat bitta uglevodga ta'sir qilishi mumkinligi uchun
+- Alohida idishlar muhitni sterillashni osonlashtirgani uchun
+! Bitta muhitda bir nechta uglevod bo'lsa, natija chalkashadi, shuning uchun har biri alohida idishda sinaladi
+@ M
+
+? Mannitni parchalash qaysi mikroblarni ajratishda ishlatiladi?
++ Stafilokokk turlarini
+- Mikobakteriya turlarini
+- Spiroxeta turlarini
+- Rikketsiya turlarini
+- Klostridiya turlarini
+! Mannitni ayrim stafilokokk turlari bijg'itadi, boshqalari bijg'itmaydi, shuning uchun u stafilokokk turlarini ajratishda ishlatiladi
+@ M JAW
+
+? Ichak bakteriyalarini tekshirishda ko'p ishlatiladigan uglevodlar qaysilar?
++ Laktoza, glukoza, saxaroza va manit
+- Kraxmal, selluloza, xitin va pektin
+- Kollagen, keratin, gialuron kislotasi va elastin
+- Triptofan, sistein, glitsin va alanin
+- Xolesterin, lesitin, ergosterin va lipaza
+! Ichak bakteriyalarini tekshirishda laktoza, glukoza, saxaroza va manit kabi uglevodlar ko'p ishlatiladi
+@ M JAW
+
+? Muhit o'zgarmasa, saxarolitik test qanday baholanadi?
++ Manfiy deb baholanadi
+- Musbat deb baholanadi
+- Kislota-gaz natijasi deb baholanadi
+- Kuchli musbat deb baholanadi
+- Gazli musbat deb baholanadi
+! Agar muhit o'zgarmasa, ya'ni kislota ham, gaz ham hosil bo'lmasa, test manfiy hisoblanadi
+@ M
+
+? Ayrim ichak bakteriyalarining kislota va gaz hosil qilishi nimani ko'rsatishi mumkin?
++ Namunaning fekal ifloslanganini
+- Namunaning radioaktiv ifloslanganini
+- Namuna tarkibida og'ir metallar borligini
+- Namunaning juda yangi ekanligini
+- Namunada viruslar yo'qligini
+! Ayrim ichak bakteriyalarining kislota va gaz hosil qilishi namunaning fekal ifloslanganini ko'rsatishi mumkin, shu sababli test sanitar nazoratda muhim
+@ M
+
+? Saxarolitik test uchun muhit odatda necha soat inkubatsiya qilinadi?
++ 24–48 soat davomida
+- Atigi 1–2 soat davomida
+- Taxminan 3–5 soat davomida
+- Bir hafta, ya'ni 7–10 kun davomida
+- Bir oy, ya'ni 30 kun davomida
+! Muhitga toza kultura ekilib, odatda 24–48 soat inkubatsiya qilinadi
+@ M
+
+? Saxarolitik testda qanday nazorat shtammlari ishlatiladi?
++ Uglevodni parchalovchi va parchalamaydigan shtammlar
+- Faqat uglevodni parchalovchi shtammlarning o'zi
+- Spora hosil qiluvchi va sporasiz shtammlar
+- Nazorat shtammlari ishlatilmaydi, muhit tekshirilmaydi
+- Gemolitik va gemolitik bo'lmagan shtammlar
+! Nazorat sifatida ma'lum uglevodni parchalaydigan va parchalamaydigan shtammlar ishlatiladi; shunda natijaning to'g'riligi va muhit partiyasining yaroqliligi tasdiqlanadi
+@ M
+
+# 021
+? Proteolitik xossa nima?
++ Mikroorganizmning oqsillarni gidrolizlab parchalash qobiliyati
+- Mikroorganizmning uglevodlarni kislota va gazgacha parchalash qobiliyati
+- Mikroorganizmning eritrotsitlarni parchalab, zona hosil qilish qobiliyati
+- Mikroorganizmning yog'larni lipaza yordamida parchalash qobiliyati
+- Mikroorganizmning vodorod peroksidni parchalab, kislorod ajratish qobiliyati
+! Proteolitik xossa — mikroorganizmning oqsillarni proteazalar yordamida parchalash qobiliyati
+@ M JAW
+
+? Jelatin muhitida proteolitik mikrob nima qiladi?
++ Jelatinni parchalab, muhitni suyuq holatga o'tkazadi
+- Jelatinni qotirib, muhitni yanada zichlashtiradi
+- Jelatinni bo'yab, muhitni qizil rangga o'tkazadi
+- Jelatin yuzasida gaz pufakchalari hosil qilib qoladi
+- Jelatinga ta'sir qilmasdan, muhit pH ini oshiradi
+! Jelatinni parchalaydigan mikrob muhitni suyuq holatga o'tkazadi; muhit sovitilganda suyultirilgan joy qotmaydi
+@ M JAW
+
+? Jelatinni suyultirish testi odatda qancha vaqt kuzatiladi?
++ Bir necha kun davomida
+- Bir necha daqiqa davomida
+- Bir soatdan oshmaydigan vaqt davomida
+- Bir necha oy davomida
+- Ekilgan zahoti baholanadi
+! Test odatda bir necha kun kuzatiladi, chunki sekin ishlaydigan fermentlar uchun vaqt kerak bo'ladi
+@ M
+
+? Sut muhitida proteolitik mikroblar qaysi oqsilni parchalaydi?
++ Kazeinni
+- Gemoglobinni
+- Keratinni
+- Kollagenni
+- Flagellinni
+! Sut muhitida o'sadigan mikroblar kazein oqsilini parchalashi mumkin
+@ M JAW
+
+? Vodorod sulfid hosil bo'lishi qanday aniqlanadi?
++ Qo'rg'oshin asetat yoki temir tuzlari bilan qora cho'kma orqali
+- Lakmus qog'ozining qizarishi va muhit loyqalanishi orqali
+- Durham naychasida gaz yig'ilishi va muhitning qotishi orqali
+- Muhitning sariq rangga o'tishi va koloniya yaltirashi orqali
+- Koloniya atrofida eritrotsitlar zonasi hosil bo'lishi orqali
+! Hosil bo'lgan H₂S qo'rg'oshin asetat yoki temir tuzlari bilan qora cho'kma hosil qiladi
+@ M JAW
+
+? Vodorod sulfid hosil qilish belgisi qaysi turni tekshirishda foydali?
++ Salmonella
+- Staphylococcus
+- Streptococcus
+- Neisseria
+- Corynebacterium
+! Vodorod sulfid hosil bo'lishi Salmonella kabi turlarni tekshirishda foydali belgi hisoblanadi
+@ M JAW
+
+? Proteolitik mikroblar ko'p bo'lib, mahsulot sifatini pasaytiradigan tez buziluvchi mahsulotlar qaysilar?
++ Sut va go'sht mahsulotlari
+- Quruq tuz va shakar
+- Mineral suv va soda
+- O'simlik yog'i va margarin
+- Quruq makaron va guruch
+! Tez buziladigan sut va go'sht mahsulotlarida proteolitik mikroblar ko'p bo'ladi, shuning uchun test mahsulot sifatining ko'rsatkichi hisoblanadi
+@ M
+
+? Proteolitik testda zaif musbat natija olinsa, nima tavsiya etiladi?
++ Takrorlash yoki qo'shimcha test o'tkazish
+- Musbat deb qabul qilib, jurnalga yozib qo'yish
+- Manfiy deb yozib qo'yib, tekshirmasdan qoldirish
+- Natijani jurnaldan o'chirib, namunani tashlash
+- Test muhitini qaynatib, qayta sovitib ishlatish
+! Zaif natija aniq xulosaga yetmasligi mumkin, shuning uchun uni takrorlash yoki qo'shimcha test o'tkazish tavsiya etiladi
+@ M
+
+? Proteolitik faollikning kvantitativ usulida parchalangan oqsil miqdori qanday aniqlanadi?
++ Spektrofotometrik usulda
+- Mikroskopik sanash usulida
+- Muhit pH ini titrlash orqali
+- Koloniyalarni sanash orqali
+- Rangsiz bo'yoq yordamida
+! Kvantitativ usulda parchalangan oqsil miqdori spektrofotometrik usulda aniqlanadi; u aniq, lekin uskuna talab qilgani uchun kam ishlatiladi
+@ M
+
+? Patogen mikroblarda proteazalar qanday rol o'ynashi mumkin?
++ To'qimalarni parchalab, mikrobning tarqalishiga yordam beradi
+- Mikrobni fagositozdan himoya qiluvchi qavat hosil qiladi
+- Mikrobga harakat berib, xivchin motorini aylantiradi
+- Mikrob DNKsini ultrabinafsha nurdan saqlab turadi
+- Antibiotik molekulasini ribosomadan chiqarib yuboradi
+! Patogen mikroblarda ba'zi proteazalar to'qimalarni parchalab, mikrobning organizmda tarqalishiga yordam beradi
+@ M JAW
+
+# 022
+? Gemolizinlar eritrotsitlarga qanday ta'sir qiladi?
++ Eritrotsit membranasini teshib, gemoglobinni muhitga chiqaradi
+- Eritrotsitlarni bir-biriga yopishtirib, mayda cho'kma hosil qiladi
+- Eritrotsit yadrosini parchalab, hujayrani ikkiga bo'lib yuboradi
+- Eritrotsitlarni faollashtirib, ularning ko'payishini tezlashtiradi
+- Eritrotsit ichidagi temirni o'zlashtirib, shaklini o'zgartirmaydi
+! Gemolizinlar eritrotsit membranasini teshib, hujayra ichidagi gemoglobinning muhitga chiqishiga olib keladi
+@ M JAW
+
+? Gamma-gemolizda koloniya atrofida nima kuzatiladi?
++ Koloniya atrofida o'zgarish kuzatilmaydi
+- Yashil rangli zona hosil bo'ladi
+- Rangsiz va shaffof zona hosil bo'ladi
+- Qon pigmenti qorayib ketadi
+- Koloniya atrofida ko'k halqa paydo bo'ladi
+! Gamma-gemolizda hech qanday o'zgarish bo'lmaydi, ya'ni eritrotsitlar parchalanmaydi
+@ M JAW
+
+? Beta-gemoliz nimani ko'rsatadi?
++ Eritrotsitlarning to'liq parchalanganini
+- Eritrotsitlarning umuman parchalanmaganini
+- Eritrotsitlarning qisman parchalanib, gemoglobin oksidlanganini
+- Eritrotsitlarning ko'payib ketganini
+- Leykotsitlarning to'liq parchalanganini
+! Beta-gemoliz to'liq rangsiz va shaffof zona hosil qilib, eritrotsitlarning to'liq parchalanganini ko'rsatadi
+@ M JAW
+
+? Staphylococcus aureus qon agarida odatda qanday gemoliz ko'rsatadi?
++ Beta-gemoliz
+- Alfa-gemoliz
+- Gamma-gemoliz
+- Epsilon-gemoliz
+- Sigma-gemoliz
+! Staphylococcus aureus odatda beta-gemolizni ko'rsatadi, bu uning ko'plab toksinlar ishlab chiqarish qobiliyati bilan bog'liq
+@ M JAW
+
+? Qon agari tayyorlovchi laboratoriya qon manbasi bilan bog'liq qanday ish qiladi?
++ Qon manbasini hujjatlashtiradi, partiyani nazorat shtammi bilan sinaydi
+- Qon manbasini qayd etmasdan, partiyani sinamasdan ishlatadi
+- Qon turini har safar o'zgartirib, hech qanday hujjat yuritmaydi
+- Qonni qaynatib, nazoratsiz holda muhitga qo'shib, partiyani tekshirmaydi
+- Qon o'rniga distillangan suv qo'shib, muhitni tayyorlaydi
+! Qon turli hayvonlardan yoki odamdan olinishi mumkin va gemoliz turlicha ko'rinishi mumkin; shu sababli qon manbasi hujjatlashtiriladi va har partiya nazorat shtammlari bilan tekshiriladi
+@ M
+
+? Gemolizni tekshirishdan oldin muhit yuzasi qanday bo'lishi kerak?
++ Quruq bo'lishi kerak
+- Nam, suv bosgan bo'lishi kerak
+- Muzlagan holatda bo'lishi kerak
+- Kondensat bilan qoplangan bo'lishi kerak
+- Suv tomchilari bilan qoplangan bo'lishi kerak
+! Juda nam yuzada koloniyalar yoyilib, gemoliz zonasi noaniq ko'rinadi, shuning uchun muhit yuzasi quruq bo'lishi kerak
+@ M
+
+? Gemoliz testi odatda qaysi haroratda o'tkaziladi?
++ 35–37 °C haroratda
+- 4–8 °C sovitgich haroratida
+- 20–22 °C xona haroratida
+- 56–60 °C yuqori haroratda
+- 100 °C qaynash haroratida
+! Ko'pgina mikroblar 35–37 °C da kuchli gemolizin hosil qiladi, past harorat jarayonni sekinlashtiradi, shu sababli test standart haroratda o'tkaziladi
+@ M
+
+? Gemoliz zonalari sekin paydo bo'lgani uchun nima qilinadi?
++ Kuzatish bir necha soat yoki bir kun davomida takrorlanadi
+- Kuzatish faqat ekilgan zahoti bir marta bajariladi
+- Kuzatish bir marta, 10 daqiqadan so'ng bajariladi
+- Natija taxminan yoziladi, kuzatish o'tkazilmaydi
+- Muhit qaynatilib, zona sun'iy ravishda hosil qilinadi
+! Ba'zi zonalar sekin paydo bo'ladi, shuning uchun kuzatish bir necha soat yoki bir kun davomida takrorlanadi
+@ M
+
+? Beta-gemolitik streptokokklar va stafilokokklar ko'pincha qanday baholanadi?
++ Ko'pincha kuchli patogen deb baholanadi
+- Doimo normal mikroflora vakili deb baholanadi
+- Zararsiz saprofit deb baholanadi
+- Faqat o'simlik patogeni deb baholanadi
+- Ichakdagi komensal anaerob deb baholanadi
+! Beta-gemolitik streptokokklar va stafilokokklar ko'pincha kuchli patogen hisoblanadi, lekin natija klinik kontekst bilan birga talqin qilinadi
+@ M JAW
+
+? Stafilokokklarda gemoliz belgisi virulentlik haqida to'liqroq tasavvur berishi uchun qaysi test bilan birga ko'riladi?
++ Plazmakoagulaza testi bilan
+- Ureaza va indol testi bilan
+- Indol va sitrat testi bilan
+- Sitrat va oksidaza testi bilan
+- Oksidaza va katalaza testi bilan
+! Stafilokokkning plazmakoagulaza testi bilan birgalikda gemoliz belgisi virulentlik haqida to'liqroq tasavvur beradi
+@ M JAW

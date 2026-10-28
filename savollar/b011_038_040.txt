@@ -1,0 +1,272 @@
+# 038
+? Antibiotiklarga chidamlilik qanday ikki asosiy ko'rinishda bo'ladi?
++ Tabiiy va orttirilgan chidamlilik
+- Birlamchi va ikkilamchi sezuvchanlik
+- Mahalliy va umumiy bakteritsid ta'sir
+- Tor va keng spektrli chidamlilik
+- Aerob va anaerob chidamlilik
+! Antibiotiklarga chidamlilik ikki asosiy ko'rinishda bo'ladi: tabiiy va orttirilgan
+@ M JAW
+
+? Tabiiy chidamlilik haqida qaysi fikr to'g'ri?
++ U tur belgisi bo'lib, avloddan avlodga o'tadi
+- U bakteriya hayoti davomida tasodifan paydo bo'ladi
+- U faqat plazmidalar orqali bir hujayradan ikkinchisiga o'tadi
+- U faqat antibiotik uzoq qo'llangandan so'ng rivojlanadi
+- U sporali shakllarga xos bo'lib, vegetativ hujayrada bo'lmaydi
+! Tabiiy chidamlilik tur belgisi hisoblanadi va avloddan avlodga o'tadi; masalan, gram-manfiy bakteriyalar tashqi membranasi ayrim dorilarni o'tkazmaydi
+@ M JAW
+
+? Orttirilgan chidamlilik qanday paydo bo'ladi?
++ Hayot davomida, fermentlar yoki nishon o'zgarishi bilan
+- Tug'ilgan paytdan har doim tabiiy ravishda mavjud bo'ladi
+- Dori ichilgandan so'ng bir soat ichida yo'qolib ketadi
+- Bemor yoshining oshishi tufayli paydo bo'lib qoladi
+- Oziqa muhitining pH i o'zgarishi tufayli yuz beradi
+! Orttirilgan chidamlilik bakteriyaning hayoti davomida paydo bo'ladi: dorining faolligini kamaytiradigan fermentlar ishlab chiqarish yoki dori ta'sir qiladigan joyni o'zgartirish bilan bog'liq
+@ M JAW
+
+? Beta-laktamazalar qanday ta'sir qiladi?
++ Penitsillin va sefalosporinlar halqasini ochib, ularni faolsizlantiradi
+- Ribosomaning 30S birligiga bog'lanib, oqsil sintezini buzadi
+- DNK-girazani bloklab, replikatsiyani to'xtatadi
+- Antibiotikni hujayradan chiqarib yuboruvchi nasos vazifasini bajaradi
+- Hujayra devorini qalinlashtirib, dori kirishini to'xtatadi
+! Beta-laktamazalar penitsillin va sefalosporinlar halqasini ochib, dorini faolsizlantiradi
+@ M JAW
+
+? Beta-laktamaza ingibitorlari qanday qo'llanadi?
++ Antibiotik bilan birga qo'llanib, fermentni bloklaydi
+- Antibiotikdan keyin qo'llanib, uni organizmdan chiqaradi
+- Antibiotiksiz alohida qo'llanib, bakteriyani o'ldiradi
+- Antibiotikni oldindan ichak mikroflorasida parchalaydi
+- Bakteriyaning ribosomasini bloklab, ko'payishini to'xtatadi
+! Beta-laktamaza ingibitorlari antibiotik bilan birga qo'llanib, fermentni bloklaydi
+@ M JAW
+
+? Antibiotiklarga chidamlilik genlari ko'pincha qayerda joylashadi?
++ Plazmidalarda
+- Ribosomalarda
+- Kapsula polisaxaridida
+- Xivchin filamentida
+- Spora po'stida
+! Antibiotiklarga chidamlilik genlari ko'pincha plazmidalarda joylashadi va konyugatsiya, transformatsiya yoki transduksiya orqali o'tadi
+@ M JAW
+
+? Chidamlilik genlari plazmidalar orqali qaysi jarayonlar bilan bir bakteriyadan ikkinchisiga o'tadi?
++ Konyugatsiya, transformatsiya yoki transduksiya
+- Transkripsiya, translatsiya yoki replikatsiya
+- Fagositoz, pinotsitoz yoki endotsitoz
+- Sporulyatsiya, germinatsiya yoki lizis
+- Fiksatsiya, bo'yash yoki dekolorizatsiya
+! Plazmidalar konyugatsiya, transformatsiya yoki transduksiya orqali bir bakteriyadan ikkinchisiga o'tadi
+@ M BROCK
+
+? Bir necha antibiotikka birdaniga chidamlilik holati qanday ataladi?
++ Ko'p dori chidamliligi
+- Tabiiy sezuvchanlik
+- Cheklangan chidamlilik
+- Bir martalik sezuvchanlik
+- Qo'shimcha spektr
+! Ba'zi turlarda chidamlilik bir necha antibiotikka birdaniga namoyon bo'ladi; bu holat ko'p dori chidamliligi deyiladi
+@ M JAW
+
+? Chidamlilikni kamaytirish uchun antibiotik qanday qo'llanishi tavsiya etiladi?
++ Zarur hollarda, to'g'ri doza va muddatda
+- Har qanday shamollashda, kichik dozada va qisqa muddatda
+- Shifokorsiz, o'zi tanlagan dozada va uzoq muddatda
+- Simptomlar yo'qolishi bilan darhol to'xtatib, qayta ishlatmay
+- Oila a'zolariga bir xil dozada va muddatda
+! Chidamlilikni kamaytirish uchun antibiotikni faqat zarur hollarda, to'g'ri doza va muddatda qo'llash tavsiya etiladi
+@ M WHOAMR
+
+? Chidamlilik evolyutsion nuqtai nazardan qanday izohlanadi?
++ Sezgir hujayralar nobud bo'ladi, chidamlilari omon qolib ko'payadi
+- Antibiotik sezgir hujayralarni chidamli hujayralarga aylantiradi
+- Antibiotik bakteriya DNKsini yo'naltirilgan tarzda o'zgartiradi
+- Chidamlilik faqat antibiotik qo'llanmagan muhitda rivojlanadi
+- Chidamli hujayralar sezgir hujayralardan tezroq nobud bo'ladi
+! Antibiotik populyatsiyaga tushganda sezgir hujayralar nobud bo'ladi, chidamli variantlar esa omon qolib ko'payadi — bu tabiiy tanlov mexanizmi
+@ M BROCK
+
+# 039
+? Disbakterioz nima?
++ Normal mikroflora tarkibining miqdoriy va sifatiy o'zgarishi
+- Mikroflora tarkibining o'zgarmasdan saqlanishi
+- Bakteriyalarning qonda ko'payishi va tarqalishi
+- Normal mikrofloraning ko'payib, patogenlarni yo'qotishi
+- Mikroflora o'rnida zamburug'lar yo'qolishi
+! Disbakterioz — normal mikroflora tarkibining miqdoriy va sifatiy o'zgarishi: foydali bakteriyalar kamayadi, shartli-patogen va patogenlar ko'payadi
+@ M JAW
+
+? Disbakteriozning eng ko'p uchraydigan ko'rinishi qaysi?
++ Ichak mikroflorasining buzilishi
+- Teri mikroflorasining buzilishi
+- Siydik pufagi mikroflorasining buzilishi
+- Quloq mikroflorasining buzilishi
+- Ko'z mikroflorasining buzilishi
+! Disbakteriozning eng ko'p uchraydigan ko'rinishi ichak mikroflorasi buzilishidir
+@ M JAW
+
+? Disbakteriozning asosiy sababi nima?
++ Antibiotiklarni keng spektrda va asossiz qo'llash
+- Antibiotiklarni to'g'ri tanlab, qisqa kursda qo'llash
+- Sovuq suv ichish va yengil kiyinish
+- Yetarli uxlash va toza havoda yurish
+- Probiotik mahsulotlarni muntazam iste'mol qilish
+! Disbakteriozning asosiy sababi antibiotiklarni keng spektrda va asossiz qo'llashdir
+@ M JAW
+
+? Antibiotiklarning toksik ta'siri qaysi organlarda namoyon bo'lishi mumkin?
++ Jigar, buyrak, eshitish va ichak
+- Soch, tirnoq va teri osti yog' qatlami
+- Teri, suyak va tog'ay to'qimasi
+- Ko'z gavhari va og'iz bo'shlig'i
+- Qalqonsimon bez va ayrisimon bez
+! Antibiotiklarning toksik ta'siri jigar, buyrak, eshitish va ichak organlarida namoyon bo'lishi mumkin
+@ M JAW
+
+? Antibiotiklarning allergik reaksiyalari qanday namoyon bo'ladi?
++ Toshma, qichishish va og'ir hollarda anafilaktik shok
+- Qon bosimining pasayishi, toshmasiz va qichishishsiz
+- Bakteriyalarning ko'payishi tezlashishi sifatida
+- Tana haroratining doimiy pasayishi sifatida
+- Soch to'kilishi va tirnoq sinishi
+! Ayrim antibiotiklar allergik reaksiyalarga sabab bo'ladi: toshma, qichishish va og'ir hollarda anafilaktik shok paydo bo'lishi mumkin
+@ M JAW
+
+? Buyrak yoki jigar yetishmovchiligi bo'lgan bemorlarda antibiotik dozasi odatda qanday o'zgartiriladi?
++ Ko'pincha kamaytirib, nazorat ostida beriladi
+- Doimo bir necha baravar oshirib beriladi
+- O'zgartirilmasdan, standart dozada beriladi
+- Kechqurun beriladigan qilib o'zgartiriladi
+- Davolash to'xtatilib, probiotik beriladi
+! Buyrak yoki jigar yetishmovchiligi bo'lgan bemorlarda doza ko'pincha kamaytiriladi
+@ M JAW
+
+? Toksik ta'sir belgilarini erta aniqlashga yordam beradigan tekshiruvlar qaysilar?
++ Qon va siydik laboratoriya tahlillari
+- Tashqi ko'rik va tarozida tortish
+- Hujayra devorini bo'yash va mikroskopiya
+- Muhitning pH ini o'lchash
+- Oziqa muhitida koloniyalarni sanash
+! Davolash davomida laborator tahlillar, masalan qon va siydik tekshiruvi, toksik ta'sir belgilarini erta aniqlashga yordam beradi
+@ M
+
+? Disbakteriozni laboratoriyada aniqlash uchun qaysi tahlil o'tkaziladi?
++ Najas tahlili o'tkaziladi
+- Siydik cho'kmasi tahlili o'tkaziladi
+- Balg'am surtmasi tahlili o'tkaziladi
+- Yurak qon tomir tekshiruvi o'tkaziladi
+- Teri qirindisi tahlili o'tkaziladi
+! Laboratoriyada disbakteriozni aniqlash uchun najas tahlili o'tkaziladi; u foydali mikroblar miqdori va patogen turlarning borligini ko'rsatadi
+@ M JAW
+
+? Antibiotik ta'sirida ichakda ko'payib ketishi mumkin bo'lgan va psevdomembranoz kolitga sabab bo'ladigan bakteriya qaysi?
++ Clostridioides difficile
+- Escherichia coli K-12
+- Lactobacillus acidophilus
+- Bifidobacterium longum
+- Streptococcus salivarius
+! Ichakda Clostridioides difficile antibiotik ta'sirida ko'payib ketishi mumkin; bu holat psevdomembranoz kolit deb ataladi
+@ M JAW
+
+? Probiotiklar haqida qaysi fikr to'g'ri?
++ Mikroflorani tiklashga yordam berishi mumkin, samarasi baholanadi
+- Har qanday holatda ham antibiotik o'rnini to'liq bosadi, tavsiya
+- Barcha bemorlarda ham doimo bir xil samara beradi
+- Sog'lom odamlar uchun tavsiya etiladi
+- Disbakteriozni tashxislashning asosiy usuli hisoblanadi, tahlil
+! Probiotik preparatlar normal mikroflorani tiklashga yordam berishi mumkin, ammo ularning samaradorligi har bir holatda alohida baholanadi
+@ M
+
+# 040
+? Diffuz (disk) usulining asosiy tamoyili nima?
++ Antibiotikli qog'oz disk atrofida o'sish to'xtash zonasi hosil bo'lishi
+- Antibiotikning seriyali suyultirishlarida loyqalanish kuzatilishi
+- Antibiotik ta'sirida koloniyalar rangining o'zgarishi
+- Disk atrofida gaz pufakchalari hosil bo'lishi
+- Disk bilan eritrotsitlar yopishib qolishi
+! Usulda antibiotik shimdirilgan qog'oz disk ekilgan muhitga qo'yiladi; bakteriya sezgir bo'lsa, disk atrofida o'sish to'xtaydi va zona hosil bo'ladi
+@ M EUCAST
+
+? Diffuz usulda katta zona nimani ko'rsatadi?
++ Dorining kuchli ta'sirini bildiradi
+- Bakteriyaning chidamliligini bildiradi
+- Muhit sterilligi buzilganini bildiradi
+- Diskning muddati o'tganini bildiradi
+- Bakteriya soni kamligini bildiradi
+! Zona kattaligi bakteriyaning sezuvchanligi bilan to'g'ridan-to'g'ri bog'liq: katta zona dorining kuchli ta'sirini, kichik yoki yo'q zona chidamlilikni ko'rsatadi
+@ M EUCAST
+
+? Diffuz usulda qaysi oziqa muhiti standart sifatida ishlatiladi?
++ Myuller–Xinton agari muhiti
+- Endo agari muhiti
+- Sabura agari (zamburug' muhiti)
+- Levin agari muhiti
+- Vismut-sulfit agari muhiti
+! Usul uchun standart Myuller–Xinton agari yoki shu kabi muhit ishlatiladi
+@ M EUCAST CLSI
+
+? Ekish uchun bakteriya suspenziyasi nimaga solishtirilib, zichligi tenglashtiriladi?
++ Standart shkala (0,5 Mak-Farland) bilan
+- Muhit rangi shkalasi bilan taqqoslab
+- Haroratga mos jadval bilan taqqoslab
+- Disk diametri bilan taqqoslab
+- Termostat vaqti bilan taqqoslab
+! Suspenziya bir xil zichlikka ega bo'lishi uchun standart shkala bilan solishtiriladi (odatda 0,5 McFarland)
+@ M EUCAST CLSI
+
+? Diffuz usulda Petri idishi odatda qaysi haroratda va qancha vaqt inkubatsiya qilinadi?
++ 35–37 °C da 16–18 soat
+- 4–8 °C da 1–2 soat
+- 20–22 °C da 30–40 daqiqa
+- 56 °C da 4–5 soat
+- 60–65 °C da 2–3 kun
+! Disk qo'yilgan Petri idishi 35–37 °C da, odatda 16–18 soat inkubatsiya qilinadi
+@ M EUCAST CLSI
+
+? Diskni muhitga qo'yilgandan keyin siljitish mumkinmi?
++ Yo'q, chunki bu zonani buzadi
+- Mumkin, zonani to'g'rilash uchun siljitiladi
+- Mumkin, ammo faqat inkubatsiyadan keyin
+- Yo'q, faqat disk qalinroq bo'lsa
+- Majburiy, har bir yangi partiyada
+! Diskni bir marta qo'yilgandan keyin siljitish mumkin emas, chunki bu zonani buzadi
+@ M
+
+? Zona diametri qaysi birlikda o'lchanadi va natija qanday toifalarga bo'linadi?
++ Millimetrda; sezgir, o'rtacha yoki chidamli
+- Santimetrda; kuchli, o'rtacha yoki kuchsiz
+- Mikrometrda; yirik, o'rta yoki mayda
+- Nanometrda; qizil, sariq yoki yashil
+- Grammda; og'ir, yengil yoki o'rtacha
+! Zona diametri millimetrda o'lchanadi va natija sezgir, o'rtacha chidamli yoki chidamli deb belgilanadi
+@ M EUCAST CLSI
+
+? Diffuz usulning asosiy cheklovi nimada?
++ Dorining aniq minimal konsentratsiyasini bermaydi
+- Bir vaqtda bir nechta dorini sinashga imkon bermaydi
+- Juda murakkab va qimmat jihoz talab qiladi
+- Faqat viruslar uchun qo'llanadi
+- Sof kultura talab qilmaydi
+! Usulning cheklovi shundaki, u dorining aniq minimal konsentratsiyasini bermaydi; shu sababli miqdoriy natija uchun seriyali suyultirish qo'llanadi
+@ M EUCAST
+
+? Sifat nazorati uchun diffuz usulda nima ishlatiladi?
++ Sezuvchanligi ma'lum nazorat shtammlari
+- Faqat yangi, nazoratsiz bakteriya shtammlari
+- Bemor namunasining o'zi
+- Disksiz muhitning rangi
+- Termostat jurnali
+! Sifat nazorati uchun ma'lum sezuvchanlikka ega nazorat shtammlari ishlatiladi; natija kutilgan qiymatdan chetga chiqsa, butun seriya qayta tekshiriladi
+@ M EUCAST CLSI
+
+? Bir Petri idishiga bir nechta disk qo'yilganda nimaga e'tibor beriladi?
++ Disklar orasidagi masofa yetarli bo'lishi kerak
+- Disklar bir-biriga tegib turishi kerak
+- Disklar faqat idish chetiga qo'yilishi kerak
+- Disklar bir nechta qavat qilib joylashtiriladi
+- Disklar orasidagi masofa e'tiborga olinmaydi
+! Disklar orasidagi masofa standart bo'lishi kerak: juda yaqin disklar zonalarni bir-biriga qo'shib yuborishi mumkin
+@ M EUCAST

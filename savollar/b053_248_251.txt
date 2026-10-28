@@ -1,0 +1,385 @@
+# 248
+
+? Majburiy anaeroblar kislorodga qanday munosabatda bo'ladi?
++ Kislorodli muhitda o'smaydi
+- Havo mavjud bo'lganda tez ko'payadi
+- Aerob kabi kislorodni nafas oladi
+- Muhit sharoitiga bog'liq bo'lmay o'sadi
+- Kislorod yetishmasa tezda nobud bo'ladi
+! Majburiy anaeroblar kislorodda o'smaydi, fakultativ anaeroblar esa kislorod bilan ham, kislorodsiz ham yashay oladi
+@ M BROCK
+
+? Fakultativ anaeroblar qanday yashaydi?
++ Kislorod bilan ham, kislorodsiz ham yashaydi
+- Kislorodsiz yashaydi, kislorodda nobud bo'ladi
+- Kislorod bo'lsagina ko'payadi
+- Yuqori bosimli karbonat angidridda ko'payadi
+- Suvsiz muhitda ko'payadi
+! Fakultativ anaeroblar kislorod bilan ham, kislorodsiz ham yashay oladi
+@ M BROCK
+
+? Majburiy anaeroblar qaerda ko'proq uchraydi?
++ Tuproq, chuqur qatlam va inson ichagida
+- Quyosh nuri tushadigan quruq sirtlarda
+- Havo bilan to'la ochiq tog' havosida
+- Kislorodga boy tez oquvchi suvda
+- Teri yuzasi va tirnoq ostidagi quruq joyda
+! Majburiy anaeroblar ko'pincha tuproq, chuqur qatlam va inson hamda hayvon ichagida uchraydi
+@ M BROCK
+
+? Anaeroblar nima uchun havoga chidamsiz?
++ Zaharsizlantiruvchi fermentlari yetarli emas
+- Hujayra devori kislorodni o'tkazmaydi
+- Kislorod ularning ribosomalarini eritadi
+- Havo harorati hujayrani muzlatib qo'yadi
+- Kislorod oziqa muhitini rangsizlantiradi
+! Anaeroblarda kislorodning zaharli oraliq mahsulotlarini yo'qotadigan fermentlar yetarli bo'lmaydi, shuning uchun havoga chidamsiz
+@ M BROCK JAW
+
+? Kislorod hujayrada nima hosil qiladi?
++ Reaktiv kislorod turlarini hosil qiladi
+- Qo'shimcha energiyani ortiqcha beradi
+- Hujayra devorini mustahkamlovchi moddalar beradi
+- Spora qobig'ini qalinlashtiradi
+- Yangi ribosomalarni sintez qiladi
+! Kislorod reaktiv kislorod turlarini hosil qiladi, ular oqsil, lipid va nuklein kislotalarni zararlaydi
+@ M BROCK
+
+? Anaerob sharoitni hosil qilishning fizikaviy usuli nimaga asoslangan?
++ Havo so'rib olinib, inert gaz yuboriladi
+- Kimyoviy modda bilan kislorod bog'lanadi
+- Aerob bakteriya kislorodni iste'mol qiladi
+- Muhit qaynatilib, kislorod haydab chiqariladi
+- Idish muzlatilib, havo qotiriladi
+! Fizikaviy usulda kislorod fizik yo'l bilan olib tashlanadi: havo so'riladi va uning o'rniga inert gaz yuboriladi
+@ M
+
+? Anaerostatdan havoni so'rib olish uchun nima ishlatiladi?
++ Vakuum nasosi
+- Sentrifuga rotori
+- Termostat isitgichi
+- Magnitli aralashtirgich
+- Bunsen gorelkasi
+! Havoni so'rib olish uchun vakuum nasosi ishlatiladi
+@ M
+
+? Fizikaviy usulda idishga qanday gazlar yuboriladi?
++ Azot, CO2 yoki vodorod aralashmasi
+- Kislorod va ozon aralashmasi
+- Xlor va ammiak aralashmasi
+- Metan va propan aralashmasi
+- Geliy va argon aralashmasi
+! Idishga azot, karbonat angidrid yoki vodorod va karbonat angidrid aralashmasi kabi inert gaz yuboriladi
+@ M
+
+? Havo so'rish va gaz yuborish takrorlansa nima bo'ladi?
++ Qoldiq kislorod miqdori kamayadi
+- Idishdagi bosim doimiy ortadi
+- Mikroblar o'sishi to'xtaydi
+- Oziqa muhiti qurib qoladi
+- Kislorod miqdori ko'payadi
+! Jarayon bir necha marta takrorlanganda qoldiq kislorod miqdori eng kam darajaga tushadi
+@ M
+
+? Anaerostat (anaerob jar) qanday idish?
++ Rezina halqali zich qopqoqli germetik idish
+- Havo o'tkazuvchi to'rsimon qopqoqli idish
+- Qopqog'i ochiq keng og'izli stakan
+- Teshikli devorli bug'li idish
+- Rangsiz shishali ochiq tigel
+! Anaerostat mustahkam korpus va rezina halqa bilan yopiladigan zich qopqoqdan iborat germetik idish
+@ M
+
+? Anaerob sharoitning yetarliligi qanday tekshiriladi?
++ Oksidlanish-qaytarilish indikatori yordamida
+- pH-metr va termometr yordamida
+- Mikroskopda sanash kamerasi yordamida
+- Bosim o'lchagich va soat yordamida
+- Spirtli bo'yoq eritmasi yordamida
+! Oksidlanish-qaytarilish indikatorlari kislorod bilan aloqada rangini o'zgartiradi, kislorod bo'lmasa rangsiz bo'ladi
+@ M
+
+# 249
+
+? Anaerob sharoit hosil qilishning kimyoviy usuli nimaga asoslangan?
++ Kislorod kimyoviy reaksiya bilan bog'lanadi
+- Havo vakuum nasosi bilan so'riladi
+- Aerob bakteriya kislorodni iste'mol qiladi
+- Idish azot gazi bilan to'ldiriladi
+- Kislorod suvda eritilib chiqariladi
+! Kimyoviy usulda havo so'rib olinmaydi, kislorod kimyoviy reaksiya orqali bog'lanadi
+@ M BROCK
+
+? Kimyoviy usulning qulayligi nimada?
++ Qimmat asbob talab qilinmaydi
+- Kislorodni mutlaqo to'liq yo'qotadi
+- Qimmat vakuum nasosi talab qilinadi
+- Gaz ballonlari zarur bo'ladi
+- Natija har doim bir xil aniq chiqadi
+! Kimyoviy moddalar qadoqda tayyor sotiladi, shuning uchun qimmat asbob talab qilinmaydi va usul tez, sodda
+@ M
+
+? Kimyoviy usulda nazorat indikatori nima uchun qo'llanadi?
++ Anaerob sharoit hosil bo'lganini isbotlash uchun
+- Idish ichidagi haroratni o'lchash uchun
+- Mikroblar sonini hisoblab chiqish uchun
+- Paketning narxini aniqlash uchun
+- Oziqa muhitining rangini o'zgartirish uchun
+! Qoldiq kislorod qolishi mumkin, shuning uchun indikator anaerob sharoit haqiqatan hosil bo'lganini ko'rsatadi
+@ M
+
+? Pirogallol ishqor bilan birga nima qiladi?
++ Kislorodni bog'lab, havoni tozalaydi
+- Karbonat angidridni bog'lab, chiqaradi
+- Azotni bog'lab, kislorodga aylantiradi
+- Vodorodni hosil qilib, havoni siqadi
+- Namlikni bog'lab, havoni quritadi
+! Pirogallol ishqor bilan birga kislorodni bog'laydi va idish ichidagi havoni tozalashga yordam beradi
+@ M BROCK
+
+? Temir kukuni kabi moddalar qanday sharoitda faollashadi?
++ Nam sharoitda faollashadi
+- Quruq va issiq sharoitda faollashadi
+- Muzlatilgan sharoitda faollashadi
+- Vakuum ostida faollashadi
+- Yorug' va quruq joyda faollashadi
+! Temir kukuni kabi oksidlanuvchi moddalar nam sharoitda faollashadi, shuning uchun ularni quruq joyda saqlash kerak
+@ M
+
+? Oziqa muhitiga qo'shiladigan qaytaruvchi moddalar qaysilar?
++ Tioglikolat, sisteiin va askorbin kislota
+- Glyukoza, laktoza va saxaroza
+- Natriy xlorid, kaliy xlorid va sulfat
+- Pepton, pepsin va ekstrakt
+- Agar, jelatin va kraxmal
+! Qaytaruvchi moddalar qatoriga tioglikolat, sisteiin va askorbin kislota kiradi
+@ M JAW
+
+? Qaytaruvchi moddalar oziqa muhitida nima qiladi?
++ Oksidlanish-qaytarilish potensialini pasaytiradi
+- pH ni kuchli kislotali darajaga tushiradi
+- Muhitdagi kislorodni ko'paytiradi
+- Muhit zichligini oshirib qotiradi
+- Osmotik bosimni sezilarli oshiradi
+! Qaytaruvchi moddalar muhitdagi kislorodni bog'laydi va oksidlanish-qaytarilish potensialini pasaytiradi
+@ M JAW
+
+? Anaerob muhit tayyorlashda muhit nima uchun qaynatiladi?
++ Erigan kislorod miqdorini kamaytirish uchun
+- Muhitdagi oqsilni cho'ktirish uchun
+- Muhit rangini o'zgartirish uchun
+- Agar zichligini oshirish uchun
+- Muhitga kislorod qo'shish uchun
+! Muhit qaynatilib, so'ng sovitiladi; bu jarayon erigan kislorod miqdorini kamaytiradi
+@ M
+
+? Gaz generatorli paket qanday vazifani bajaradi?
++ Kislorodni yutadi yoki CO2 va H2 hosil qiladi
+- Idishga suv bug'ini haydab, namlikni oshiradi
+- Idishni qizdirib, muhitni sterillaydi
+- Idishni sovitib, muhitni muzlatadi
+- Idishdagi azotni yutib yuboradi
+! Paket idish ichiga joylashtirilib, kislorodni yutadi yoki karbonat angidrid va vodorod hosil qilib anaerob muhit yaratadi
+@ M
+
+? Muddati o'tgan gaz generatorli paket ishlatilsa nima bo'ladi?
++ Samarasiz bo'lib, anaerob sharoit hosil bo'lmaydi
+- Anaerob sharoit ikki baravar tez hosil bo'ladi
+- Idishdagi bosim keskin pasayadi
+- Mikroblar rangini o'zgartirib qo'yadi
+- Paket o'z-o'zidan faollashib ketadi
+! Gaz generatorli paketlarning ishlash vaqti cheklangan, muddati o'tgan paket anaerob sharoitni ta'minlamaydi
+@ M
+
+? Inkubatsiya davomida anaerob idish nima uchun ochilmaydi?
++ Kislorod qayta kirmasligi uchun
+- Bosim pasayib ketmasligi uchun
+- Harorat tushib ketmasligi uchun
+- Paket sovib qolmasligi uchun
+- Likopchalar qurib qolmasligi uchun
+! Inkubatsiya davomida idish ochilsa, kislorod qayta kirib anaerob sharoit buziladi
+@ M
+
+# 250
+
+? Anaerob sharoit hosil qilishning biologik usuli nimaga asoslangan?
++ Aerob bakteriya kislorodni iste'mol qiladi
+- Kislorod kimyoviy reaksiya bilan bog'lanadi
+- Havo vakuum nasosi bilan so'riladi
+- Muhit azot bilan to'ldiriladi
+- Kislorod qaytaruvchi modda bilan yo'qotiladi
+! Biologik usulda aerob bakteriya nafas olish jarayonida kislorodni sarflaydi va anaeroblar uchun sharoit yaratadi
+@ M BROCK
+
+? Biologik usulning kamchiligi nima?
++ Kislorod miqdorini aniq boshqarib bo'lmaydi
+- Juda qimmat asbob talab qilinadi
+- Zaharli gazlar ajralib chiqadi
+- Kislorod har doim to'liq yo'qoladi
+- Natija bir necha soniyada tayyor bo'ladi
+! Biologik usulda kislorod miqdorini aniq boshqarish qiyin, shu sababli usul asosan sifat jihatdan baholanadi
+@ M
+
+? Klassik biologik usulda ekish qanday bajariladi?
++ Pastki qatlamga anaerob, yuqoriga aerob ekiladi
+- Pastki qatlamga aerob, yuqoriga anaerob ekiladi
+- Ikkala mikroorganizm bitta nuqtaga ekiladi
+- Ikkala qatlamga ham anaerob ekiladi
+- Pastga ekilmay, yuqoriga chiziqli ekiladi
+! Oziqa muhiti ikki qatlamga bo'linadi: pastki qatlamga anaerob, yuqori qatlamga aerob mikroorganizm ekiladi
+@ M
+
+? Biologik usul uchun aerob tur qanday bo'lishi kerak?
++ Patogen bo'lmagan va tez o'sadigan
+- Patogen, sekin o'sadigan, kislorodsiz yashovchi
+- Xavfli, anaerob o'sishga to'sqinlik qiluvchi
+- Aralash, begona mikroblar bilan ifloslangan
+- Spora hosil qiluvchi patogen tur
+! Aerob tur patogen bo'lmasligi, tez o'sishi va kislorodni samarali iste'mol qilishi kerak
+@ M
+
+? Biologik usulda aerob kultura nima uchun tekshiriladi?
++ Begona mikroblar natijani buzmasligi uchun
+- Kultura narxini aniqlab olish uchun
+- Kislorod miqdorini o'lchab ko'rish uchun
+- Muhit rangini o'zgartirib qo'yish uchun
+- Likopcha hajmini hisoblab chiqish uchun
+! Begona mikroblar aralashsa natija noto'g'ri talqin qilinishi mumkin, shu sababli faqat toza shtammlar ishlatiladi
+@ M
+
+? Aerob mikroblar juda kam bo'lsa nima bo'ladi?
++ Kislorod yetarli iste'mol qilinmaydi
+- Kislorod tezda to'liq yo'qoladi
+- Anaerob sharoit darhol hosil bo'ladi
+- Anaerob koloniyalar keskin ko'payadi
+- Muhit rangi o'zgarmay shaffof bo'ladi
+! Aerob mikroblar kam bo'lsa kislorod yetarli darajada iste'mol qilinmaydi, shuning uchun ekish miqdori oldindan tanlanadi
+@ M
+
+? Biologik usul ko'proq qaysi maqsadda qo'llanadi?
++ Eksperimental, anaerob fiziologiyani kuzatish uchun
+- Sanoat miqyosida katta hajmli sterilizatsiya uchun
+- Klinik namunalarni ommaviy tezkor tashxislash uchun
+- Sut mahsulotlarini kundalik ishlab chiqarish uchun
+- Rentgen suratlarini tahlil qilish uchun
+! Biologik usul ko'pincha eksperimental maqsadlarda, anaerob mikroblarning fiziologiyasini kuzatish uchun qo'llanadi
+@ M
+
+? Inkubatsiyada anaerob mikroorganizm muhitning qaerida o'sadi?
++ Ekma chuqurligida o'sadi
+- Muhit yuzasida o'sadi
+- Idish qopqog'ida o'sadi
+- Aerob koloniya ustida o'sadi
+- Idish tashqarisida o'sadi
+! Aerob organizm kislorodni yutadi, anaerob esa ekma chuqurligida o'sadi
+@ M
+
+? Biologik usulning afzalligi nimada?
++ Qimmat asbob va kimyoviy paket talab qilinmaydi
+- Kislorod miqdori aniq o'lchanadi
+- Natija bir necha soatda tayyor bo'ladi
+- Vakuum nasosi kerakli bo'ladi
+- Kimyoviy paketlar zarur bo'ladi
+! Biologik usul arzon va oddiy, qimmat asbob yoki kimyoviy paketlarni talab qilmaydi
+@ M
+
+? Aerob tur anaerobning o'sishiga nisbatan qanday bo'lishi kerak?
++ To'sqinlik qiluvchi modda ajratmasligi kerak
+- Kislorodni juda kam iste'mol qilishi kerak
+- Juda sekin ko'payishi lozim bo'ladi
+- Muhit rangini o'zgartirishi shart bo'ladi
+- Hujayralari mikroskopda ko'rinmasligi kerak
+! Aerob tur anaerob mikroblarning o'sishiga to'sqinlik qiladigan moddalar ajratmasligi lozim
+@ M
+
+# 251
+
+? Ochiq havzadan namuna nega bir necha nuqtadan olinadi?
++ Mikroblar tarkibi joyga qarab keskin farqlanadi
+- Suv sifati hamma joyda bir xil bo'ladi
+- Idish soni ko'p bo'lsa arzonroq tushadi
+- Bitta nuqta suvni ikki marta ifloslantiradi
+- Namuna idishi qopqog'i yo'qolishi mumkin
+! Ochiq havzada suv harakati, harorat va yorug'lik o'zgaruvchan, shuning uchun bitta nuqta butun havzani ko'rsatmaydi
+@ M WHODW
+
+? Ochiq havzalar nima sababdan tashqi ifloslanishga ochiq?
++ Yomg'ir, chang va chiqindi suvlar tushadi
+- Suv doimo muzlab turadi
+- Havzalar yopiq quvur ichida bo'ladi
+- Suv chuqur yer ostida joylashgan
+- Havzada mikroblar bo'lmaydi
+! Yomg'ir suvi, shamol olib kelgan chang, qishloq xo'jaligi va chiqindi suvlari havzaga tushishi mumkin
+@ M WHODW
+
+? Namuna olish nuqtasi qanday joyda bo'lmasligi kerak?
++ Oqava suv quvurining bevosita ta'sirida
+- Havzaning kirish va chiqish joyida
+- Qirg'oqdan uzoqroq toza suv qatlamida
+- Havzaning o'rta qismida
+- Sohil yaqinidagi zonada
+! Chiqindi suv quvuri ta'siridagi nuqtadan olingan namuna ifloslanish darajasini noto'g'ri ko'rsatishi mumkin
+@ M WHODW
+
+? Namuna odatda suv yuzasidan qancha chuqurlikdan olinadi?
++ Taxminan 20–30 sm
+- Taxminan 5–10 m
+- Taxminan 2–3 m
+- Taxminan 1–2 mm
+- Taxminan 10–15 m
+! Namuna odatda suv yuzasidan taxminan 20–30 sm chuqurlikdan olinadi
+@ M
+
+? Namuna idishi qanchagacha to'ldiriladi?
++ Taxminan to'rtdan uch qismigacha
+- Butunlay to'ldirib, havosiz
+- Taxminan o'ndan bir qismigacha
+- Bir necha tomchigacha
+- Taxminan yigirmadan bir qismigacha
+! Idishning qariyb to'rtdan uch qismi to'ldirilgach, u suv ostida yopiladi
+@ M
+
+? Namuna olishda idish qopqog'i qanday ushlanadi?
++ Ichki tomoni pastga qaratiladi
+- Ichki tomoni yuqoriga qaratib stolga qo'yiladi
+- Qo'lqopsiz ichki tomonidan ushlanadi
+- Namuna olish davomida yerga tashlanadi
+- Og'ziga solib ushlanadi
+! Qopqoq ehtiyotkorlik bilan ochilib, ichki tomoni pastga qaratiladi; ichki yuzaga ifloslanish tegishi taqiqlanadi
+@ M
+
+? Idish suvga botirilganda og'zi qanday yo'naltiriladi?
++ Oqim qarshisiga yo'naltiriladi
+- Oqim bo'ylab pastga qaratiladi
+- Qirg'oqqa qarab yo'naltiriladi
+- Yuqoriga qaratib suvga tushiriladi
+- Idish tubiga uriladi
+! Idishning og'zi oqim qarshisiga yo'naltirilganda havo pufakchalari hosil bo'lmaydi va ifloslanish kamayadi
+@ M
+
+? Namuna laboratoriyaga qanday tashiladi?
++ Sovitilgan qutida, quyoshdan himoyalab
+- Quyoshda qizdirilgan idishda ochiq holda
+- Ochiq idishda, yo'lda ochib ko'rib
+- Iliq joyda bir necha kun saqlab
+- Muzlatilgan holda uzoq vaqt saqlab
+! Namuna iloji boricha tez yetkaziladi, sovitilgan qutida tashiladi va to'g'ridan-to'g'ri quyosh nuri tushmasligi ta'minlanadi
+@ M WHODW
+
+? Yo'llanma xatda qaysi ma'lumotlar ko'rsatiladi?
++ Namuna raqami, sana, joy va chuqurlik
+- Shifokorning shaxsiy telefoni va manzili
+- Namuna idishi narxi va markasi
+- Oilaviy ahvol va ish staji
+- Tashuvchi mashina raqami va rangi
+! Yo'llanma xatda namuna raqami, sana va soat, joy nomi, havza turi va chuqurligi, harorat, ob-havo va namuna oluvchi ismi yoziladi
+@ M
+
+? Yo'llanma xatda tekshirish turi sifatida nima ko'rsatiladi?
++ Umumiy mikrob soni, koli-indeks yoki koli-titr
+- Qon guruhi, rezus omil yoki gemoglobin
+- Siydik zichligi, shakar yoki oqsil
+- Rentgen suratining sifati yoki yorqinligi
+- Balg'am rangi, hidi yoki zichligi
+! Xatda tekshirish turi, masalan umumiy mikroblar soni, koli-indeks yoki koli-titr, hamda maqsad (monitoring yoki epidemiologik) ko'rsatiladi
+@ M WHODW

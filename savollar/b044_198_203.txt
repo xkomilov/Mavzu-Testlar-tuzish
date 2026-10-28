@@ -1,0 +1,551 @@
+# 198
+
+? Treponema pallidum nima uchun oddiy bo'yoqlar bilan bo'yalmaydi?
++ Juda ingichka bo'lgani uchun
+- Juda yo'g'on bo'lgani uchun
+- Kapsulasi qalin bo'lgani uchun
+- Sporasi bor bo'lgani uchun
+- Xivchini yo'q bo'lgani uchun
+! Treponema pallidum juda ingichka bo'lgani uchun uni odatdagi bo'yoqlar bilan bo'yash deyarli mumkin emas
+@ M JAW
+
+? Zaxm qo'zg'atuvchisini aniqlashning asosiy mikroskopik usuli qaysi?
++ Qorong'i maydon mikroskopiyasi
+- Oddiy Gram mikroskopiyasi
+- Ziel–Nilsen mikroskopiyasi
+- Romanovskiy mikroskopiyasi
+- Burri–Gins mikroskopiyasi
+! Qorong'i maydon mikroskopiyasida tirik spiroxetalar oqish, yorqin va harakatchan ko'rinadi
+@ M JAW
+
+? Qorong'i maydonda spiroxetalar qanday ko'rinadi?
++ Oqish, yorqin va harakatchan
+- Qora, xira va harakatsiz
+- Qizil, yirik va harakatsiz
+- Ko'k, mayda va harakatsiz
+- Yashil, tarqoq va harakatsiz
+! Qorong'i maydon mikroskopida tirik spiroxetalar oqish, yorqin va harakatchan ko'rinadi
+@ M JAW
+
+? DFA-TP usuli nimaga asoslangan?
++ Maxsus antitelalar bilan belgilash
+- Oddiy bo'yoq bilan bo'yash usuli
+- Gram usulida bo'yash usuli
+- Koloniyalarni sanash usuli
+- Antibiotik sezuvchanligini o'lchash
+! Immunofluoressensiya (DFA-TP) qo'zg'atuvchini maxsus antitelalar bilan belgilaydi
+@ M JAW
+
+? Lezyon materialini nima uchun darhol tekshirish kerak?
++ Quriganda harakati to'xtaydi
+- Quriganda tez ko'payib ketadi
+- Sovigan paytda sporalanadi
+- Isiganda kapsula hosil qiladi
+- Saqlanganda toksin chiqaradi
+! Material quritilsa yoki sovib ketsa, qo'zg'atuvchi harakati tez to'xtaydi va uni aniqlash qiyinlashadi
+@ M JAW
+
+? T. pallidum qayerda ko'paya oladi?
++ Tirik to'qimada, majburiy parazit
+- Qon agarida, tez va yaxshi
+- Endo agarida, laktozali muhitda
+- Sabouraud agarida, kislotali muhitda
+- Pepton suvida, ishqoriy muhitda
+! T. pallidum majburiy parazit bo'lib, odatdagi oziqa muhitlarida ko'paymaydi
+@ M JAW
+
+? Tarixiy ravishda T. pallidum qayerda ko'paytirilgan?
++ Quyon moyagi to'qimasida
+- Tovuq embrioni tuxumida
+- Sichqon jigari to'qimasida
+- Baliq tuxumi ichida
+- Qoramol buyragi to'qimasida
+! Tarixiy ravishda qo'zg'atuvchi tirik to'qimalarda, masalan quyon moyaklarida, ko'paytirilgan
+@ M JAW
+
+? T. pallidum tashqi membranasi haqida qaysi gap to'g'ri?
++ Yuzasida oqsillar kam, immunitetga kam ko'rinadi
+- Yuzasida oqsillar ko'p, immunitetga yaxshi ko'rinadi
+- Tashqi membranasi yo'q
+- Qalin kapsula bilan qoplangan
+- Spora po'sti bilan qoplangan
+! Tashqi membrana yuzasidagi oqsillar kam, bu qo'zg'atuvchining immun tizimga kam ko'rinishiga yordam beradi
+@ M JAW
+
+? Zaxm tashxisi nimaga asoslanadi?
++ Asosan serologik testlarga
+- Asosan oddiy ekishga
+- Asosan Gram bo'yashga
+- Asosan koloniya sanashga
+- Asosan antibiotikogrammaga
+! Kulturada kam ko'payganligi sababli zaxm tashxisi asosan serologik testlarga tayanadi
+@ M JAW
+
+? DFA-TP usuli qayerda qo'llanadi?
++ Asosan maxsus laboratoriyalarda
+- Har bir oddiy laboratoriyada
+- Uyda, o'z-o'zini tekshirishda
+- Dalada, jihozsiz
+- Maktabda, o'quv jarayonida
+! DFA-TP maxsus jihozlar va tajribali xodim talab qiladi, shu sababli asosan maxsus laboratoriyalarda qo'llanadi
+@ M JAW
+
+# 199
+
+? Zaxm qo'zg'atuvchisining eng keng tarqalgan yuqish yo'li qaysi?
++ Jinsiy aloqa
+- Havo-tomchi
+- Fekal-oral
+- Transmissiv
+- Maishiy idish
+! Jinsiy aloqa zaxm qo'zg'atuvchisining eng keng tarqalgan yuqish yo'lidir
+@ M JAW CDCSTI
+
+? Qo'zg'atuvchi organizmga qanday kiradi?
++ Teri, shilliq qavat mikrojarohatidan
+- Butun teri orqali o'tib tushib
+- Oshqozon kislotasi orqali o'tib
+- Qon quyish yo'li orqali kirib
+- In'ektsiya orqali kirib tushib
+! Qo'zg'atuvchi teri va shilliq qavatdagi mikrojarohatlar orqali organizmga kiradi
+@ M JAW CDCSTI
+
+? Birlamchi zaxmdagi qattiq shankr qanday?
++ Og'riqsiz yara, qo'zg'atuvchisi ko'p
+- Og'riqli yara, qo'zg'atuvchisi yo'q
+- Qichiydigan toshma, qo'zg'atuvchisi yo'q
+- Suvli pufak, qo'zg'atuvchisi yo'q
+- Yiringli abssess, qo'zg'atuvchisi yo'q
+! Birlamchi bosqichdagi qattiq shankr — og'riqsiz yara bo'lib, qo'zg'atuvchini ko'p saqlaydi
+@ M JAW CDCSTI
+
+? Prezervativ haqida qaysi gap to'g'ri?
++ Xavfni kamaytiradi, to'liq emas
+- Xavfni to'liq yo'qotib yuboradi
+- Xavfni deyarli ikki baravar oshiradi
+- Hech qanday ta'sir ko'rsatmaydi
+- Ayollarni himoya qilib turadi
+! Prezervativ xavfni kamaytiradi, ammo lezyonlar qoplamagan joyda qolishi mumkin, shuning uchun yetarli emas
+@ M JAW CDCSTI
+
+? Tug'ma zaxm qanday yuqadi?
++ Platsenta orqali onadan homilaga
+- Ona suti orqali chaqaloqqa
+- Havo orqali chaqaloqqa
+- Hasharot orqali chaqaloqqa
+- Suv orqali chaqaloqqa
+! Davolanmagan homilador ayoldan homilaga qo'zg'atuvchi platsenta orqali o'tadi — tug'ma zaxm
+@ M JAW CDCSTI
+
+? Tug'ma zaxm qanday oqibatlarga olib kelishi mumkin?
++ Abort, o'lik tug'ilish, organ zarari
+- Yengil toshma va tez tuzalish
+- Yengil isitma va tez tuzalish
+- Yo'tal va burun bitishi bilan
+- Hech qanday oqibatsiz o'tib ketish
+! Tug'ma zaxm abort, o'lik tug'ilish yoki chaqaloqda og'ir organ zararlanishi (suyak, jigar, taloq, asab tizimi) bilan kechishi mumkin
+@ M JAW CDCSTI
+
+? Tug'ma zaxm profilaktikasi nimadan iborat?
++ Homiladorlikda erta tekshiruv va davolash
+- Tug'ruqdan keyin vaksina qilish
+- Chaqaloqqa antibiotiksiz kuzatish
+- Ona suti bilan boqish
+- Vitamin berish
+! Tug'ma zaxmning oldini olish uchun homiladorlik davrida erta tekshiruv va davolash muhim
+@ M JAW CDCSTI
+
+? Jinsiy sheriklar haqida nima tavsiya etiladi?
++ Ularni ham tekshirib, davolash
+- Ularni tekshirmasdan qoldirish
+- Ularni faqat kuzatib turish
+- Ularga faqat vitamin berish
+- Ularga hech narsa qilmaslik
+! Jinsiy sheriklar ham tekshirilishi va davolanishi muhim
+@ M JAW CDCSTI
+
+? Homiladorlik davrida zaxm tekshiruvi nima uchun tavsiya etiladi?
++ Tug'ma zaxmning oldini olish uchun
+- Homiladorlikni to'xtatish uchun
+- Chaqaloq jinsini aniqlash uchun
+- Qon guruhini aniqlash uchun
+- Vazn nazorat qilish uchun
+! Homiladorlik davrida zaxm tekshiruvi tug'ma zaxmning oldini olishga yordam beradi
+@ M JAW CDCSTI
+
+? Infeksiya homiladorlikning qaysi bosqichida yuzaga kelishi mumkin?
++ Istalgan bosqichida
+- Birinchi oyida
+- Oxirgi oyida
+- Tug'ruq paytida
+- Tug'ruqdan keyin
+! Infeksiya homiladorlikning istalgan bosqichida yuzaga kelishi mumkin
+@ M JAW CDCSTI
+
+# 200
+
+? Zaxmda lezyon materialini olayotgan xodim nima qiladi?
++ Himoya vositalarini ishlatadi
+- Himoyasiz, oddiy kiyimda ishlaydi
+- Qo'lqopsiz, shoshilib ishlaydi
+- Niqobsiz, yaqin turib ishlaydi
+- Ochiq xonada, himoyasiz ishlaydi
+! Lezyon materialini olishda tekshiruvchi himoya vositalaridan foydalanishi shart, chunki qon va suyuqlik bilan kontakt xavf tug'diradi
+@ M JAW CDCSTI
+
+? Serologik tekshiruvning asosiy materiali qaysi?
++ Qon zardobi
+- Siydik cho'kmasi
+- Najas namunasi
+- Tupurik namunasi
+- Balg'am namunasi
+! Qon zardobi serologik tekshiruvlarning asosiy materiali hisoblanadi
+@ M JAW CDCSTI
+
+? Serologik tekshiruvda testlar qanday ketma-ketlikda o'tkaziladi?
++ Avval skrining, so'ng tasdiqlovchi
+- Avval tasdiqlovchi, so'ng skrining
+- Skrining
+- Tasdiqlovchi
+- Testlar o'tkazilmaydi
+! Odatda avval skrining testi, so'ngra tasdiqlovchi test o'tkaziladi
+@ M JAW CDCSTI
+
+? Zardob bilan birga laboratoriyaga nima yetkaziladi?
++ Anamnez va klinik ma'lumot
+- Sevimli ovqat ro'yxati
+- Kiyim o'lchami haqida ma'lumot
+- Sport yutuqlari haqida ma'lumot
+- Ish haqi haqida ma'lumot
+! Serologik natija bosqichga va davolanish tarixiga bog'liq, shuning uchun anamnez va klinik ma'lumotlar yetkaziladi
+@ M JAW
+
+? MOMS qachon tekshiriladi?
++ Asab tizimi shubhasida
+- Teri toshmasi bo'lganda, shunda
+- Faqat homiladorlikda, shunda
+- Bolalikda, tug'ilganda, shunda
+- Shankr paydo bo'lganda, shunda
+! Asab tizimi zararlangan shubhali holatlarda miya-orqa miya suyuqligi tekshiriladi, bu neyrozaxmni tashxislashda muhim
+@ M JAW CDCSTI
+
+? MOMS qanday usulda olinadi?
++ Steril sharoitda bel teshish
+- Venadan, oddiy sharoitda olish
+- Teridan, oddiy sharoitda olish
+- Burundan, oddiy sharoitda olish
+- Quloqdan, oddiy sharoitda olish
+! MOMS steril usulda, bel teshish orqali olinadi
+@ M JAW
+
+? MOMS da nimalar baholanadi?
++ Hujayralar soni, oqsil miqdori
+- Qon guruhi, rezus, gemoglobin
+- Qand, xolesterin, bilirubin
+- Soch, tirnoq, teri holati
+- Tish, milk, til holati
+! MOMS da hujayralar soni, oqsil miqdori va serologik testlar baholanadi
+@ M JAW CDCSTI
+
+? Tug'ma zaxm shubhasida qaysi materiallar tekshirilishi mumkin?
++ Platsenta, kindik qoni
+- Siydik, najas, tupurik namunalari
+- Soch, tirnoq, ter namunalari
+- Sut, safro, balg'am namunalari
+- Teri, tish, suyak namunalari
+! Tug'ma zaxm shubhasida platsenta, kindik qoni yoki chaqaloq qoni tekshirilishi mumkin
+@ M JAW CDCSTI
+
+? Qon qanday olinadi?
++ Venadan, steril sharoitda
+- Barmoqdan, oddiy sharoitda
+- Quloqdan, oddiy sharoitda
+- Sondan, oddiy sharoitda
+- Qo'ltiqdan, oddiy sharoitda
+! Qon venadan steril sharoitda olinadi, so'ngra zardob ajratiladi
+@ M JAW
+
+? Zardob namunasi qanday saqlanadi?
++ Tez tekshiriladi yoki sovutiladi
+- Issiq joyda bir hafta saqlanadi
+- Quyoshda quritib qo'yib saqlanadi
+- Muzlatilib, qayta eritib saqlanadi
+- Ochiq qoldirib, xonada saqlanadi
+! Namuna iloji boricha tez tekshirilishi yoki sovutgichda saqlanishi kerak
+@ M JAW
+
+# 201
+
+? Zaxm tashxisida nima asosiy vosita?
++ Laboratoriya tashxisi
+- Bemor shikoyati
+- Tashqi ko'rinish
+- Harorat o'lchash
+- Qon bosimi o'lchash
+! Zaxmda belgilar ko'pincha bo'lmaydi yoki o'ziga xos emas, shu sababli laboratoriya tashxisi asosiy vosita
+@ M JAW CDCSTI
+
+? Birlamchi zaxmda tashxis qanday tasdiqlanadi?
++ Qorong'i maydon yoki DFA, serologiya
+- Gram bo'yash orqali oddiy mikroskopiya
+- Oddiy oziqa muhitiga ekish orqali
+- Rentgenologik tekshiruv o'tkazish orqali
+- Hech qanday tekshiruvsiz, so'rov orqali
+! Birlamchi zaxmda yara materialining qorong'i maydon mikroskopiyasi yoki immunofluoressensiya va serologik testlar bilan tasdiqlanadi
+@ M JAW CDCSTI
+
+? Birlamchi bosqichda serologik test qanday bo'lishi mumkin?
++ Hali manfiy bo'lishi mumkin
+- Doim musbat bo'ladi
+- Doim kuchli musbat bo'ladi
+- Test o'tkazilmaydi
+- Natija chiqmaydi
+! Serologik test birlamchi bosqichda hali manfiy bo'lishi mumkin, shuning uchun takroriy tekshiruv o'tkaziladi
+@ M JAW CDCSTI
+
+? Ikkilamchi zaxmda serologik testlar qanday?
++ Deyarli har doim musbat
+- Doim manfiy
+- Zaif musbat
+- Natija chiqmaydi
+- Ba'zan musbat, ba'zan manfiy
+! Ikkilamchi zaxmda serologik testlar deyarli har doim musbat bo'ladi
+@ M JAW CDCSTI
+
+? Ikkala test (nontreponemal va treponemal) musbat bo'lsa nima?
++ Zaxm ehtimoli yuqori
+- Zaxm ehtimoli yo'q
+- O'tgan infeksiya
+- Test xato
+- Vaksina
+! Nontreponemal va treponemal testlar ikkalasi musbat bo'lsa, zaxm infeksiyasi ehtimoli yuqori deb baholanadi
+@ M JAW CDCSTI
+
+? Faqat treponemal test musbat bo'lsa nima bo'lishi mumkin?
++ O'tgan yoki davolangan zaxm
+- Faol yangi infeksiya, hozirgi
+- Test xatosi, laboratoriya xatosi
+- Virus infeksiyasi, hozirgi
+- Allergik reaksiya, hozirgi
+! Agar faqat treponemal test musbat bo'lsa, o'tgan infeksiya yoki davolangan zaxm bo'lishi mumkin
+@ M JAW CDCSTI
+
+? Nontreponemal titr davolashdan keyin kamaysa nimani bildiradi?
++ Davolanish samaradorligini
+- Davo samarasizligini ko'rsatadi
+- Qayta infeksiya borligini
+- Laboratoriya xatosini
+- Immunitet yo'qolishini
+! Nontreponemal testning titri davolashdan keyin kamayishi davolanish samaradorligini ko'rsatadi
+@ M JAW CDCSTI
+
+? Titrning qayta ko'tarilishi nimani bildirishi mumkin?
++ Qayta infeksiya, kam davo
+- Sog'ayish jarayonining tugashini
+- Immunitet kuchayishini bildiradi
+- Laboratoriya test xatosini
+- Vaksina ta'sirining natijasini
+! Titrning qayta ko'tarilishi qayta infeksiya yoki davolashning yetarli emasligini bildiradi
+@ M JAW CDCSTI
+
+? Uchlamchi zaxm qaysi tizimlarni zararlaydi?
++ Yurak, aorta, asab tizimi
+- Ichak va jigar tizimini
+- Teri va soch qismini
+- Tish va tirnoq qismini
+- Ko'z va quloq qismini
+! Uchlamchi zaxmda yurak, aorta yoki asab tizimi belgilari paydo bo'ladi, ko'pincha yillar o'tgach
+@ M JAW CDCSTI
+
+? Yashirin zaxmda qaysi ma'lumot muhim?
++ Oldingi serologiya, kontaktlar
+- Sevimli ranglar va kiyimlar
+- Kiyim o'lchami va rangi
+- Sport yutuqlari va natijalari
+- Ish haqi va lavozimi
+! Yashirin zaxmda bemorning oldingi serologik natijalari va kontaktlari muhim
+@ M JAW CDCSTI
+
+# 202
+
+? Zaxmda davolashning asosiy dorisi qaysi?
++ Benzatin penitsillin G
+- Gentamitsin sulfat eritmasi
+- Streptomitsin sulfat eritmasi
+- Izoniazid tabletkasi
+- Flukonazol kapsulasi
+! Zaxmda penitsillin asosiy dori; erta bosqichda benzatin penitsillin G mushak ichiga yuboriladi
+@ M JAW CDCSTI
+
+? Erta zaxmda standart doza qancha?
++ Bir martada 2,4 million birlik
+- Har kuni 1 million birlik
+- Haftada 6 million birlik
+- Bir martada 100 ming birlik
+- Har soatda 500 ming birlik
+! Erta zaxmda odatda bir martalik benzatin penitsillin G 2,4 million birlik mushak ichiga yuboriladi
+@ M JAW CDCSTI
+
+? Kech yashirin zaxmda davolash qanday?
++ Uch hafta, haftada bir marta
+- Bir martalik inyeksiya
+- Uch kun, kuniga bir marta
+- Uch oy, kuniga ikki marta
+- Davolash talab qilinmaydi
+! Kech yashirin yoki davomiyligi noma'lum zaxmda ketma-ket uch hafta davomida haftada bir marta dori yuboriladi
+@ M JAW CDCSTI
+
+? Neyrozaxmda qaysi shakl penitsillin qo'llanadi?
++ Vena ichiga suvli penitsillin G
+- Mushak ichiga benzatin penitsillin
+- Og'iz orqali penitsillin V
+- Teri ustiga surtma
+- Burunga tomchi
+! Uchlamchi va asab tizimi zaxmida vena ichiga yuboriladigan suvli penitsillin G qo'llanadi
+@ M JAW CDCSTI
+
+? Neyrozaxmda dori nima uchun vena ichiga yuboriladi?
++ MOMS ga yetib borishi kerak
+- Teri orqali so'rilishi kerak
+- Ichakda so'rilishi kerak
+- Bolalarga qulay
+- Narxi arzon bo'lgani uchun
+! Dori miya-orqa miya suyuqligiga yetib borishi kerak, shuning uchun davolash uzoq va intensiv
+@ M JAW CDCSTI
+
+? Penitsillinga allergiyada qaysi muqobil dorilar ko'rib chiqiladi?
++ Doksitsiklin, seftriakson
+- Streptomitsin, kanamitsin
+- Izoniazid, rifampitsin
+- Flukonazol, nistatin
+- Metronidazol, tinidazol
+! Penitsillinga allergiyada doksitsiklin, seftriakson yoki azitromitsin muqobil sifatida ko'rib chiqiladi
+@ M JAW CDCSTI
+
+? Muqobil dorilarning samaradorligi haqida nima deyiladi?
++ Penitsillinga nisbatan kam o'rganilgan
+- Penitsillindan ancha ustun hisoblanadi
+- Penitsillin bilan bir xil o'rganilgan
+- Mutlaqo ishonchli deb hisoblanadi
+- Faqat bolalarda ishlaydi deb hisoblanadi
+! Muqobil dorilar samaradorligi penitsillinga nisbatan kam o'rganilgan yoki kamroq ishonchli hisoblanadi
+@ M JAW CDCSTI
+
+? Homiladorlikda zaxm uchun qaysi dori xavfsiz va samarali?
++ Penitsillin
+- Doksitsiklin
+- Tetratsiklin
+- Streptomitsin
+- Gentamitsin
+! Homiladorlikda penitsillin eng xavfsiz va samarali deb hisoblanadi
+@ M JAW CDCSTI
+
+? Haftalik dozalar orasidagi tanaffusni uzaytirish nimaga olib keladi?
++ Davo samaradorligining pasayishiga
+- Davo samaradorligining oshishiga
+- Yon ta'sirlarning yo'qolishiga
+- Tezroq sog'ayishga
+- Narxning arzonlashishiga
+! Haftalik dozalar orasidagi tanaffusni uzaytirish davo samaradorligini pasaytirishi mumkin
+@ M JAW CDCSTI
+
+? Inyeksiyadan keyin bemorga nima tavsiya etiladi?
++ Qisqa muddatli kuzatuv
+- Kuzatuvsiz uyga ketish
+- Darhol og'ir mehnat
+- Sovuq vanna
+- Alkogolli ichimliklar
+! Bemorga inyeksiyadan keyin qisqa muddat kuzatuv o'tkazish tavsiya etiladi
+@ M JAW
+
+# 203
+
+? Vasserman reaksiyasi qaysi reaksiyaga kiradi?
++ Komplementni bog'lash reaksiyasiga
+- Aglyutinatsiya reaksiyasiga
+- Presipitatsiya reaksiyasiga
+- Neytrallash reaksiyasiga
+- Lateks-aglyutinatsiya reaksiyasiga
+! Vasserman reaksiyasi zaxm uchun komplementni bog'lash reaksiyasi (KBR)
+@ M JAW
+
+? Vasserman reaksiyasining musbat natijasi nimani ko'rsatadi?
++ Eritrositlar erimaydi
+- Eritrositlar to'liq eriydi
+- Muhit qizarib ketadi
+- Gaz pufakchalari paydo bo'ladi
+- Koloniyalar hosil bo'ladi
+! Musbat natijada komplement antigen–antitana kompleksiga bog'lanadi, indikator eritrositlar erimaydi
+@ M JAW
+
+? Indikator tizim nimalardan iborat?
++ Qo'y eritrositlari va gemolizin
+- Odam eritrositlari va zardobi
+- Quyon eritrositlari va toksin
+- Bakteriya va antibiotik
+- Virus va fagotsit
+! Indikator tizim qo'y eritrositlari va ularga qarshi hosil qilingan antitelalar (gemolizin)dan iborat
+@ M JAW
+
+? Vasserman reaksiyasida bemor zardobi qanday ishlanadi?
++ 56 °C da 30 daqiqa qizdiriladi
+- 100 °C da 30 daqiqa qaynatiladi
+- 4 °C da 30 daqiqa saqlanadi
+- 22 °C da 30 daqiqa qoldiriladi
+- 70 °C da 3 daqiqa qizdiriladi
+! Zardob 56 °C da 30 daqiqa qizdirilib, o'z komplementi inaktivatsiya qilinadi
+@ M JAW
+
+? Zardobni qizdirishdan maqsad nima?
++ O'z komplementini inaktivatsiyalash
+- Antitelalarni ko'paytirib yuborish
+- Antigenni ko'paytirib yuborish
+- Eritrositlarni eritib yuborish
+- Zardobni sovutib yuborish
+! Qizdirish zardobdagi o'z komplementini inaktivatsiya qiladi, testda faqat tashqaridan qo'shilgan komplement ishtirok etadi
+@ M JAW
+
+? Dastlabki antigen nimadan tayyorlangan?
++ Sifilisli homila jigari ekstrakti
+- Sog'lom odam qoni ekstrakti
+- Quyon moyagi to'qimasi ekstrakti
+- Qo'y suti oqsili ekstrakti
+- Sigir jigari sharbati ekstrakti
+! Dastlabki variantda antigen sifatida sifilisga chalingan homila jigarining alkogolli ekstrakti ishlatilgan
+@ M JAW
+
+? Sintetik antigen tarkibi qanday?
++ Kardiolipin, lesitin va xolesterin
+- Glyukoza, tuz va suv
+- Agar, pepton va tuz
+- Albumin, globulin va fibrinogen
+- DNK, RNK va oqsil
+! Keyinchalik kardiolipin, lesitin va xolesterin aralashmasidan iborat sintetik antigen ishlab chiqilgan
+@ M JAW
+
+? Sintetik antigenning afzalligi nima?
++ Standart, takrorlanuvchan natija
+- Partiyalar orasida farq qilishi
+- Narxi juda yuqori bo'lishi
+- Tayyorlash juda qiyin bo'lishi
+- Faqat hayvonlarga mos bo'lishi
+! Sintetik antigen standartlashtirilgan bo'lib, reaksiyaning takrorlanuvchanligini oshirdi
+@ M JAW
+
+? Test necha bosqichda o'tkaziladi?
++ Ikki bosqichda
+- Bir bosqichda
+- Uch bosqichda
+- To'rt bosqichda
+- Besh bosqichda
+! Test odatda ikki bosqichda o'tkaziladi: serum, antigen va komplement aralashtiriladi, so'ng sensibilizatsiyalangan eritrositlar qo'shiladi
+@ M JAW
+
+? Komplementning ish faolligi qanday aniqlanadi?
++ Har seriyada titrlash orqali
+- Rangiga qarab aniqlash orqali
+- Hidiga qarab aniqlash orqali
+- Hajmiga qarab aniqlash orqali
+- Taxminan, ko'z bilan aniqlash
+! Komplementning ish faolligi har bir seriyada titrlash orqali aniqlanadi
+@ M JAW

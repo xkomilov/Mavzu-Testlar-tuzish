@@ -1,0 +1,614 @@
+# 252
+
+? Yopiq suv xavzalariga nimalar kiradi?
++ Quvurlar, rezervuarlar va chiqish nuqtalari
+- Daryolar, ko'llar va suv omborlari
+- Dengizlar, okeanlar va ko'rfazlar
+- Botqoqlar, soylar va yomg'ir ariqlari
+- Sel suvlari, qor va muz qatlamlari
+! Yopiq suv xavzalariga suv ta'minoti tarmog'idagi quvurlar, rezervuarlar va ularga ulangan chiqish nuqtalari kiradi
+@ M WHODW
+
+? Yopiq tizimlarning mikroflorasi nima uchun ochiq havzalardan barqarorroq?
++ Suv tashqi muhit bilan aloqada emas
+- Suvga quyosh nuri doimiy ta'sir qiladi
+- Suvga yomg'ir suvi tez-tez aralashadi
+- Suv oqimi tez va o'zgaruvchan bo'ladi
+- Hayvonlar chiqindisi bevosita tushib turadi
+! Yopiq tizimlarda suv tashqi muhit bilan to'g'ridan-to'g'ri aloqada bo'lmaydi, shuning uchun mikroflora barqaror
+@ M WHODW
+
+? Rezervuarda suvning turib qolishi nimaga olib kelishi mumkin?
++ Mikroblarning qayta ko'payishiga
+- Mikroblarning to'liq yo'qolishiga
+- Suvning o'z-o'zidan sterillanishiga
+- Xlor miqdorining keskin ortishiga
+- Suv sovishining tezlashishiga
+! Rezervuar va basseynda suv turib qolsa, mikroblar qayta ko'payishi mumkin, shuning uchun idishlar muntazam tozalanadi
+@ M WHODW
+
+? Suv ta'minoti tarmog'ida namuna odatda qaerdan olinadi?
++ Iste'molchiga yaqin musluklardan
+- Suv minorasining yuqori qismidan
+- Daryo irmog'ining quyi oqimidan
+- Kanalizatsiya kollektoridan
+- Suv ombori tubidagi loyqadan
+! Namuna odatda iste'molchiga yaqin musluklardan olinadi, bu aholiga yetib boradigan suv sifatini aks ettiradi
+@ M WHODW
+
+? Quduqdan namuna olishdan oldin nima qilinadi?
++ Turib qolgan suv chiqarib yuboriladi
+- Og'ziga xlor eritmasi to'kib qo'yiladi
+- Bir hafta davomida yopib qo'yiladi
+- Tubidagi loyqa ko'tarib yuboriladi
+- Suvi avval qaynatib olinadi
+! Quduq bir muddat ishlatilib, turib qolgan eski suv yangi suv bilan almashtiriladi
+@ M WHODW
+
+? Rezervuardan namuna havzaning tubidan nega olinmaydi?
++ U yerda cho'kindi to'planadi
+- U yerda suv doimiy muzlab turadi
+- U yerda xlor miqdori nolga teng bo'ladi
+- U yerda yorug'lik juda kuchli bo'ladi
+- U yerda suv harorati juda yuqori bo'ladi
+! Havzaning tub qismida cho'kindi to'planadi, shuning uchun namuna chiqish klapanlari va tekshirish nuqtalaridan olinadi
+@ M WHODW
+
+? Musluk og'zi namuna olishdan oldin nima bilan ishlanadi?
++ Spirt bilan artiladi yoki kuydiriladi
+- Sovun ko'pigi bilan yaxshilab yuviladi
+- Quruq mato bilan qattiq artib qo'yiladi
+- Sovuq suv oqimi bilan chayib qo'yiladi
+- Moy surtib, yaltiratib qo'yiladi
+! Musluk og'zi spirt bilan artiladi yoki alanga yordamida zararsizlantiriladi
+@ M WHODW
+
+? Musluk namuna olishdan oldin suv nima uchun bir necha daqiqa oqiziladi?
++ Quvurda turib qolgan suv chiqib ketishi uchun
+- Muslukni sovitish va tozalab olish uchun
+- Suvga xlor qo'shilishini ta'minlash uchun
+- Idish ichini oldindan namlab olish uchun
+- Suv bosimini kamaytirib qo'yish uchun
+! Oqizish quvurdagi turib qolgan suvni chiqarib yuboradi, shunda namuna tizim suvini ifodalaydi
+@ M WHODW
+
+? Xlorlangan suv uchun namuna idishiga nima solinadi?
++ Xlorni neytrallovchi natriy tiosulfat
+- Xlorni kuchaytiruvchi natriy xlorid
+- Mikroblarni bo'yovchi kristall binafsha
+- Oqsilni cho'ktiruvchi sulfosalitsil kislota
+- Suvni qotiruvchi agar kukuni
+! Idishda xlorni neytrallovchi modda (masalan, natriy tiosulfat) bo'lishi kerak, shunda xlor ta'siri namuna olingandan keyin to'xtaydi
+@ M WHODW
+
+? Yopiq manbadan olingan namunaning yo'llanma xatida qo'shimcha nima ko'rsatiladi?
++ Manba turi: musluk, quduq yoki rezervuar
+- Havza turi va qirg'oq chuqurligi o'lchami
+- Qushlar soni va ularning uyalar joyi
+- Suvdagi baliq turlari va ularning hajmi
+- Daryo kengligi va oqim tezligi qiymati
+! Xatda suv manbaining turi (musluk, quduq, rezervuar), tizim tavsifi va xlor qoldig'i (o'lchangan bo'lsa) qayd etiladi
+@ M WHODW
+
+# 253
+
+? Suvning sanitar ko'rsatkichlari sifatida odatda nima ishlatiladi?
++ Umumiy mikroblar soni va ichak tayoqchasi
+- Harorati va tiniqligi darajasi bo'yicha
+- Qattiqligi va tuzliligi darajasi bo'yicha
+- Hidi va rangi bo'yicha baholash
+- Zichligi va qovushqoqligi bo'yicha
+! Sanitar ko'rsatkich sifatida odatda umumiy mikroblar soni va ichak tayoqchasi (Escherichia coli) ishlatiladi
+@ M WHODW
+
+? Suvda ichak tayoqchasining topilishi nimani ko'rsatadi?
++ Yaqinda fekal ifloslanish bo'lganini
+- Mineral boyligi yuqori ekanini
+- Yumshoq suv ekanini
+- Kislorodi yetarli ekanini
+- Radioaktiv ifloslanganini
+! Ichak tayoqchasi odam va issiqqonli hayvonlar ichagida doimiy yashaydi, shuning uchun suvda topilishi yaqinda fekal ifloslanishni bildiradi
+@ M WHODW
+
+? Yaxshi sanitar-ko'rsatkich organizmning xususiyati qanday bo'lishi kerak?
++ Ichakda ko'p, suvda ko'paymaydi
+- Ichakda kam, suvda tez ko'payadi
+- Aniqlash usuli murakkab va qimmat
+- Sporali va tashqi muhitda ko'payuvchi
+- Natijasini takrorlab bo'lmaydi
+! Yaxshi indikator ichakda ko'p bo'ladi, suvda ko'paymaydi va uni aniqlash usullari oddiy, arzon va takrorlanuvchan
+@ M WHODW
+
+? Umumiy mikroblar soni nimani bildiradi?
++ 1 ml suvdagi o'stiriladigan mikroblar sonini
+- 1 litr suvdagi barcha viruslar sonini
+- 100 ml suvdagi ichak tayoqchalari sonini
+- 1 ml suvdagi erigan kislorod miqdorini
+- 1 litr suvdagi mineral tuzlar miqdorini
+! Umumiy mikroblar soni 1 ml suvdagi o'stiriladigan mikroorganizmlar miqdorini bildiradi
+@ M
+
+? Koli-titr nima?
++ Bitta E. coli topiladigan eng kam suv hajmi
+- 1 litr suvdagi koli-bakteriyalar soni
+- Bitta mikrob o'sadigan eng ko'p suv hajmi
+- 1 ml suvdagi umumiy mikroblar soni
+- Koloniyalar yig'indisining og'irligi
+! Koli-titr — suvda bitta ichak tayoqchasi topiladigan eng kam suv hajmi (ml hisobida)
+@ M
+
+? Koli-indeks nima?
++ 1 litr suvdagi koli-bakteriyalar soni
+- Bitta E. coli topiladigan eng kam hajm
+- 1 ml suvdagi barcha mikroblar soni
+- 100 ml suvdagi sporalar soni
+- 1 m³ havodagi koli-bakteriyalar soni
+! Koli-indeks 1 litr suvdagi koli-bakteriyalar soni bilan ifodalanadi
+@ M
+
+? Umumiy mikroblar sonining keskin oshishi nimani bildiradi?
++ Ifloslanish yoki saqlash buzilishini
+- Suv ideal tozalanganini bildiradi
+- Suv sifati yaxshilanganini bildiradi
+- Mikroblar yo'qolganini bildiradi
+- Tekshiruv xato bo'lmaganini bildiradi
+! Umumiy sonning keskin oshishi suvning ifloslanganini yoki saqlash sharoiti buzilganini ko'rsatadi
+@ M
+
+? Yer osti suvlari nima uchun mikroblarga kam boy bo'ladi?
++ Tuproq qatlamlaridan filtrlanib o'tadi
+- Quyosh nuri bevosita ta'sir qiladi
+- Shamol bilan doimiy aralashadi
+- Chiqindi suvlar bilan to'qnashadi
+- Yomg'ir tomchilari to'g'ri tushadi
+! Yer osti suvlari tuproq qatlamlaridan filtrlanib o'tgani uchun odatda mikroblarga kam boy bo'ladi
+@ M WHODW
+
+? Suv dezinfeksiyasi qaysi usullar bilan amalga oshiriladi?
++ Xlorlash, ozonlash yoki UB nur ishlovi
+- Tindirish, dimlash yoki sovitish
+- Bo'yash, quritish yoki muzlatish
+- Aralashtirish, chayqatish yoki isitish
+- Tuzlash, sho'rlash yoki achitish
+! Dezinfeksiya odatda xlorlash, ozonlash yoki ultrabinafsha nur bilan ishlov berish orqali amalga oshiriladi
+@ M WHODW
+
+? Dezinfeksiyadan keyin qoldiq xlor nima uchun nazorat qilinadi?
++ Kam bo'lsa himoya qilmaydi, ko'p bo'lsa zararli
+- Suvning rangi o'zgarib qolgani uchun
+- Mineral tuzlar ko'payib ketgani uchun
+- Suv qotib qolishiga olib kelgani uchun
+- Suv ta'mi yaxshilangani uchun
+! Juda kam xlor himoya qilmaydi, juda ko'p xlor esa inson salomatligiga zarar yetkazishi mumkin
+@ M WHODW
+
+? Ichak tayoqchasi indikatorining cheklovi nima?
++ Patogenlarni qamrab olmaydi
+- Suvda juda tez ko'payib ketadi
+- Aniqlash usuli murakkab va qimmat
+- Odam ichagida uchramaydi
+- Suvda umuman saqlanmaydi
+! Ichak tayoqchasi barcha patogenlarni qamrab olmaydi, shuning uchun amaliyotda bir necha ko'rsatkich birga qo'llanadi
+@ M WHODW
+
+# 254
+
+? Umumiy mikroblar sonini aniqlash uchun qaysi muhit qo'llanadi?
++ Go'sht-pepton agari
+- Endo agari
+- Levenshteyn-Yensen muhiti
+- Sabouraud agari
+- Qonli agar
+! Umumiy sonni aniqlash uchun odatda go'sht-pepton agari yoki standart ozuqali agar qo'llanadi
+@ M WHODW
+
+? Namunani suyultirish uchun nima ishlatiladi?
++ Steril fiziologik eritma yoki pepton suvi
+- Distillangan suv yoki spirt eritmasi
+- Konsentrlangan tuz eritmasi
+- Kislotali bufer eritmasi
+- Glitserin va efir aralashmasi
+! Suyultirish uchun steril fiziologik eritma yoki steril pepton suvi ishlatiladi, bu eritmalar tirik hujayralarga zarar yetkazmaydi
+@ M
+
+? Sanash uchun qulay bo'lgan koloniyalar soni bir likopchada qancha?
++ 30 dan 300 gacha
+- 3 dan 10 gacha
+- 500 dan 1000 gacha
+- 1 dan 5 gacha
+- 2000 dan 5000 gacha
+! Bir Petri likopchasida 30 dan 300 gacha koloniya bo'lishi sanash uchun qulay hisoblanadi
+@ M WHODW
+
+? Quyma usulda likopchaga 1 ml suyultirilgan suv ustidan qanday agar quyiladi?
++ Erigan, 45 °C gacha sovutilgan agar
+- Qaynoq, 100 °C li agar
+- Muzdek, 4 °C li qotgan agar
+- Qotgan, xona haroratidagi agar
+- Bo'sh, agarsiz fiziologik eritma
+! Quyma usulda 1 ml suyultirilgan suv Petri likopchasiga solinadi va ustiga 45 °C gacha sovutilgan erigan agar quyiladi
+@ M
+
+? Yuzaki ekish usulida qancha namuna tomiziladi?
++ 0,1 ml namuna tomiziladi
+- 10 ml namuna tomiziladi
+- 5 ml namuna tomiziladi
+- 50 ml namuna tomiziladi
+- 100 ml namuna tomiziladi
+! Yuzaki ekishda qotgan agar yuzasiga 0,1 ml namuna tomizilib, steril shpatel bilan taqsimlanadi
+@ M
+
+? Umumiy sonni aniqlashda odatdagi inkubatsiya rejimi qanday?
++ 37 °C da 24 soat
+- 37 °C da 5 daqiqa
+- 100 °C da 24 soat
+- 4 °C da 1 soat
+- 60 °C da 3 soat
+! Ekilgan likopchalar termostatda odatda 37 °C da 24 soat inkubatsiya qilinadi
+@ M
+
+? Tabiiy suv mikroblarini aniqlash uchun qanday inkubatsiya harorati qo'llanishi mumkin?
++ Past harorat, masalan 22 °C
+- Yuqori harorat, masalan 60 °C
+- Qaynash harorati, 100 °C
+- Muzlash harorati, −20 °C
+- Yuqori harorat, 44,5 °C
+! Tabiiy suv mikroblarini aniqlash uchun past harorat (masalan 22 °C) va uzoqroq muddat qo'llanishi mumkin
+@ M
+
+? Inkubatsiyada likopchalar nega ag'darilgan holda saqlanadi?
++ Kondensat koloniyalarga tushmasligi uchun
+- Agar tezroq qotib, qurib qolishi uchun
+- Koloniyalar yuqoriga qarab o'sishi uchun
+- Havo o'tishi to'xtatilib bug'lanishi uchun
+- Likopchalar tezroq qizib ketishi uchun
+! Ag'darilgan likopchalarda kondensat tomchilari koloniyalarga tushmaydi va sanash aniqroq bo'ladi
+@ M
+
+? Namunada mikroblar juda ko'p bo'lsa nima qilinadi?
++ O'nlik suyultirish qatorida kamaytiriladi
+- Namuna hajmi 100 baravar oshiriladi
+- Inkubatsiya muddati 10 baravar uzaytiriladi
+- Agar miqdori ikki baravar kamaytiriladi
+- Likopcha soni bitta qoldiriladi
+! Mikroblar juda ko'p bo'lsa, koloniyalar qo'shilib ketmasligi uchun namuna o'nlik suyultirish qatorida kamaytiriladi
+@ M
+
+? Har bir suyultirish bosqichida nima almashtiriladi?
++ Steril pipetka
+- Termostat
+- Yorliq
+- Mikroskop
+- Buyum oynasi
+! Har bir suyultirish bosqichida steril pipetka almashtiriladi va eritma yaxshilab aralashtiriladi
+@ M
+
+? Umumiy mikroblar soni qaysi mikroblarni hisobga oladi?
++ Tanlangan muhit va sharoitda o'sadiganlarni
+- Suvdagi hamma mikroorganizmlarni to'liq
+- Tirik va o'lik hujayralarning hammasini
+- Hamma viruslar va sodda jonivorlarni
+- Mikroskopda ko'rinadigan hammasini
+! Ko'rsatkich faqat tanlangan oziqa muhitida va belgilangan haroratda o'sadigan mikroblarni hisobga oladi
+@ M
+
+# 255
+
+? Bijg'itish usulida koliform bakteriyalar nima qiladi?
++ Laktozani bijg'itib, kislota va gaz hosil qiladi
+- Glyukozani yemirib, spirt va qand hosil qiladi
+- Oqsilni parchalab, indol va ammiak beradi
+- Kraxmalni gidrolizlab, dekstrin hosil qiladi
+- Jelatinani suyultirib, rangsizlantiradi
+! Koliform bakteriyalar laktozani bijg'itib kislota va gaz hosil qiladi, bu muhit rangi va hajmida ko'rinadi
+@ M WHODW
+
+? Durham naychasi nima uchun ishlatiladi?
++ Gaz hosil bo'lishini ko'rsatish uchun
+- Haroratni o'lchash uchun
+- Muhit pH ini sozlash uchun
+- Suvni steril ushlab turish uchun
+- Namuna hajmini o'lchash uchun
+! Gaz hosil bo'lishi naychaga o'rnatilgan Durham naychasida ko'rinadi
+@ M
+
+? Dastlabki musbat natija qanday naychalarda kuzatiladi?
++ Gaz hosil bo'lgan va rangi o'zgargan
+- Cho'kma bor, gaz yo'q, rang o'zgarmagan
+- Shaffof qolgan, gaz chiqmagan naychalarda
+- Qorayib ketgan, gaz chiqmagan naychalarda
+- Muzlab qolgan, hajmi kamaygan naychalarda
+! Dastlabki ijobiy natija gaz hosil bo'lgan va muhit rangi o'zgargan naychalarda kuzatiladi
+@ M
+
+? Durham naychasida havo pufakchasi qolsa nima bo'ladi?
++ Gaz hosil bo'lishini taqlid qilib
+- Muhit tezroq sterillanadi
+- Bakteriyalar o'sishi to'xtaydi
+- Indikator rangi o'zgarmaydi
+- Natija aniqroq chiqadi
+! Havo pufakchasi gaz hosil bo'lishini taqlid qilib, xato natija beradi, shuning uchun naychalar tekshiriladi
+@ M
+
+? Bijg'itish usulida namuna odatda qaysi hajmlarda ekiladi?
++ 10 ml, 1 ml va 0,1 ml
+- 500 ml, 250 ml va 100 ml
+- 1 litr, 2 litr va 5 litr
+- 0,001 ml, 0,0001 ml va 0,00001 ml
+- 50 ml, 100 ml va 200 ml
+! Namuna odatda 10 ml, 1 ml va 0,1 ml hajmlarda ekiladi, har biri uchun bir necha parallel naycha tayyorlanadi
+@ M WHODW
+
+? Katta hajmdagi namuna uchun qanday muhit ishlatiladi?
++ Ikki karra kuchli muhit
+- Ikki karra suyultirilgan muhit
+- Muhitsiz distillangan suv
+- Yarim konsentratsiyali muhit
+- Eskirgan muhit
+! Katta hajm muhitni suyultiradi, shuning uchun ikki karra kuchli muhit ishlatiladi
+@ M
+
+? Bijg'itish usulida naychalar qanday inkubatsiya qilinadi?
++ 37 °C da 24 soat
+- 10 °C da 24 soat
+- 56 °C da 24 soat
+- 37 °C da 30 soniya
+- 37 °C da 10 sutka
+! Ekilgan naychalar 37 °C da 24 soat termostatda saqlanadi, ayrim hollarda o'qish 48 soatgacha uzaytiriladi
+@ M WHODW
+
+? Tasdiqlash bosqichida dastlabki musbat naychadan qaysi muhitga ekiladi?
++ Brilliant-yashil o't laktozali bulyon
+- Qonli agar va shokoladli agar muhiti
+- Levenshteyn-Yensen yoki Sabouraud muhiti
+- Sabouraud va Chapek ozuqa muhiti
+- Shokoladli agar va sariq-tuzli agar
+! Dastlabki musbat naychalardan kultura brilliant-yashil o't laktozali bulyonga ekiladi; bu selektiv muhit
+@ M WHODW
+
+? Ichak tayoqchasini aniq ajratish uchun qanday sinov o'tkaziladi?
++ 44,5 °C da o'sish va gaz hosil bo'lishi
+- 22 °C da o'sish va gaz hosil bo'lishi
+- 4 °C da o'sish va gaz hosil bo'lishi
+- 60 °C da o'sish va gaz hosil bo'lishi
+- 37 °C da 1 soatlik o'sish
+! Ichak tayoqchasi uchun yuqori haroratda (44,5 °C) o'sish va gaz hosil bo'lishi tekshiriladi, bu issiqqa chidamli koliformlarni ajratadi
+@ M WHODW
+
+? Tasdiqlangan koliform bakteriyalar qaysi agarga ekiladi?
++ Endo agariga
+- Sabouraud agariga
+- Levenshteyn-Yensen agariga
+- Qonli agarga
+- Shokoladli agarga
+! Tasdiqlangan koliformlar Endo agariga ekilib, sof koloniyalar olinadi
+@ M
+
+? Bijg'itish usulida natija qanday hisoblanadi?
++ Naychalar kombinatsiyasi bo'yicha EHS jadvalidan
+- Koloniyalar og'irligini o'lchab hisoblanadi
+- Hamma naychalar o'rtachasi olinib hisoblanadi
+- Bitta naycha natijasi ikki barobar oshiriladi
+- Mikroskopda hujayralar sanalib hisoblanadi
+! Ijobiy va manfiy naychalarning kombinatsiyasiga mos eng ehtimoliy son jadvaldan olinadi
+@ M WHODW
+
+# 256
+
+? Membrana filtrlarining g'ovak o'lchami koliformlar uchun odatda qancha?
++ Taxminan 0,45 mkm
+- Taxminan 4,5 mkm
+- Taxminan 45 mkm
+- Taxminan 0,045 mkm
+- Taxminan 450 mkm
+! Koliform bakteriyalarni ushlab qolish uchun odatda diametri 0,45 mkm bo'lgan g'ovakli filtr qo'llanadi
+@ M WHODW
+
+? Qora membrana filtr nima uchun ba'zan afzal ko'riladi?
++ Koloniyalar bilan kontrastni oshiradi
+- Suvni tezroq filtrlaydi
+- Mikroblarni o'ldirib yuboradi
+- Bakteriyalarni rangsizlantiradi
+- Muhitni tezroq qizdiradi
+! Qora filtr koloniyalar bilan kontrastni oshiradi, bu sanashni osonlashtiradi
+@ M
+
+? Ishlatilgan membrana filtr bilan nima qilinadi?
++ Ifloslangan deb xavfsiz utilizatsiya qilinadi
+- Yuvilib, keyingi ishlarda qayta ishlatiladi
+- Quritilib, keyingi ishda foydalanishga qo'yiladi
+- Spirtga solib, uzoq vaqt saqlab qo'yiladi
+- Oddiy chiqindiga tashlab yuboriladi
+! Filtrlar bir martalik ishlatiladi; ishlatilgan filtrda tirik mikroblar bo'lishi mumkin, shuning uchun xavfsiz utilizatsiya qilinadi
+@ M WHOLBM
+
+? Membrana filtrlash uchun qaysi jihozlar ishlatiladi?
++ Steril voronka va vakuum nasos
+- Sentrifuga va rotor
+- Termostat va magnit
+- Mikroskop va immersiya moyi
+- Avtoklav va quruq shkaf
+! Filtrlash uchun maxsus steril voronka va vakuum nasos ishlatiladi
+@ M
+
+? Qaysi suvdan katta hajm filtrlanadi?
++ Toza suvdan katta hajm filtrlanadi
+- Ifloslangan suvdan katta hajm filtrlanadi
+- Oqava suvdan katta hajm filtrlanadi
+- Chiqindi suvdan katta hajm filtrlanadi
+- Loyqa suvdan katta hajm filtrlanadi
+! Toza suvdan katta, ifloslangan suvdan kichikroq hajm filtrlanadi, shunda koloniyalar sanaladigan darajada bo'ladi
+@ M
+
+? Filtr qanday olinadi?
++ Pinset bilan, chetidan ushlab
+- Qo'l bilan, o'rtasidan ushlab
+- Voronkani ag'darib, tushirib
+- Qaychi bilan kesib olib
+- Spatula bilan qirib olib
+! Filtr pinset yordamida chetidan ushlab olinadi, shunda yuzasidagi koloniyalar buzilmaydi
+@ M
+
+? Membrana filtrlar qaysi muhitga qo'yiladi?
++ m-Endo agari yoki m-FC agari
+- Levenshteyn-Yensen yoki Ploskirev muhiti
+- Sabouraud yoki Chapek agari
+- Qonli yoki shokoladli agar
+- Sariq-tuzli yoki Baird-Parker agari
+! Filtr koliform bakteriyalar uchun selektiv muhitga, masalan m-Endo agari yoki m-FC agariga qo'yiladi
+@ M WHODW
+
+? m-Endo agarida koliform koloniyalar qanday ko'rinadi?
++ Qizil rangda va metall yaltirashli
+- Oq rangda, shaffof va yaltiramaydi
+- Yashil rangda, quruq va g'adir-budur
+- Sariq rangda, shilimshiq va yopishqoq
+- Qora rangda, yumshoq va xira
+! Koliform koloniyalar m-Endo agarida qizil rangda va metall yaltirash bilan ko'rinadi
+@ M WHODW
+
+? m-Endo agaridagi rangsiz koloniyalar nima deb hisoblanadi?
++ Koliform bo'lmagan, sanashdan chiqariladi
+- Koliform, sanashga qo'shiladi
+- Ichak tayoqchasi, doim hisoblanadi
+- Patogen, darhol yo'q qilinadi
+- Fekal ifloslanish belgisi
+! Rangsiz koloniyalar koliform bo'lmagan mikroblar hisoblanadi va sanashdan chiqariladi
+@ M
+
+? Filtrdan 100 ml suv o'tkazilgan bo'lsa, koli-indeks qanday topiladi?
++ Koloniyalar soni 10 ga ko'paytiriladi
+- Koloniyalar soni 100 ga bo'linadi
+- Koloniyalar soni 100 ga ko'paytiriladi
+- Koloniyalar soni 2 ga ko'paytiriladi
+- Koloniyalar soni o'zgarishsiz qoldiriladi
+! Koli-indeks 1 litrga hisoblanadi, shuning uchun 100 ml dan topilgan koloniyalar soni 10 ga ko'paytiriladi
+@ M
+
+? Filtrda koliform koloniyalar topilmasa nima yoziladi?
++ Koli-indeks nol, koli-titr eng katta hajmdan katta
+- Koli-indeks bir, koli-titr esa nolga teng
+- Koli-indeks cheksiz katta, koli-titr nolga teng
+- Natija yozilmaydi, tekshiruv bekor qilinadi
+- Koli-indeks 10 ga, koli-titr 100 ga teng
+! Koloniya topilmasa koli-indeks nol, koli-titr esa filtrlangan eng katta hajmdan katta deb ko'rsatiladi
+@ M
+
+? 44,5 °C da inkubatsiya nimani ajratishga yordam beradi?
++ Issiqqa chidamli koliformlar, fekal kelib chiqish
+- Sovuqsevar bakteriyalar, tuproq kelib chiqishi
+- Zamburug'lar, o'simlik kelib chiqishi
+- Viruslar, havo kelib chiqishi
+- Sporalar, suv o'tlari kelib chiqishi
+! 44,5 °C harorat issiqqa chidamli koliformlarni ajratadi va fekal kelib chiqishni ko'rsatadi
+@ M WHODW
+
+# 257
+
+? Kislotali sharbatlarda qaysi mikroorganizmlar yaxshi rivojlanadi?
++ Xamirturush va mog'orlar
+- Sporali anaerob tayoqchalar
+- Gram-manfiy ichak tayoqchalari
+- Spiroxeta va rikketsiyalar
+- Mikoplazma va xlamidiyalar
+! Kislotali muhit ko'pchilik bakteriyalarni cheklaydi, lekin xamirturush va mog'orlar yaxshi rivojlanadi
+@ M
+
+? Karbonat angidrid gazlangan ichimlikda mikroblarga qanday ta'sir qiladi?
++ Ko'p bakteriyalarni cheklaydi, himoya to'liq emas
+- Bakteriyalar o'sishini tezlashtirib yuboradi
+- Hamma mikroblarni to'liq yo'q qilib yuboradi
+- Xamirturushlarni butunlay o'ldirib yuboradi
+- Mikroblarga mutlaqo ta'sir ko'rsatmaydi
+! Karbonat angidrid ko'p bakteriyalarni cheklaydi, ammo himoya to'liq emas va ayrim mikroorganizmlar omon qoladi
+@ M
+
+? Ichimlik namunasi qaysi holatda olinadi?
++ Asl qadoqda, yaxlit holda
+- Boshqa idishga quyilgan holda
+- Ochilgan va aralashtirilgan holda
+- Qaynatib olingan holda
+- Muzlatilib erigan holda
+! Namuna asl qadoqda (shisha yoki plastik idishda) olinadi, qadoq yaxlit va zararlanmagan bo'lishi kerak
+@ M
+
+? Qadoq ochilishidan oldin nima qilinadi?
++ Yuzasi spirt bilan artiladi
+- Qaynoq suvga solib qo'yiladi
+- Silkitib chayqatib qo'yiladi
+- Ochib, bir kun qoldiriladi
+- Ustiga yog' surtib qo'yiladi
+! Qadoq yuzasi spirt bilan artiladi, bu tashqi ifloslanishni kamaytiradi
+@ M
+
+? Gazlangan ichimlik nima uchun to'g'ridan-to'g'ri ekilmaydi?
++ Gaz pufakchalari noto'g'ri natija beradi
+- Gaz mikroblarni ko'paytirib yuboradi
+- Gaz agarning erib ketishiga olib keladi
+- Gaz muhit rangini o'zgartiradi
+- Gaz idishni sterillab qo'yadi
+! Gaz pufakchalari Petri likopchasida noto'g'ri natija beradi va koloniyalarni yopib qo'yishi mumkin, shuning uchun avval gaz chiqariladi
+@ M
+
+? Gazlangan ichimlikdan gazni chiqarishning qaysi usuli qo'llanadi?
++ Ultratovush yoki qattiq chayqatish
+- Qaynatish yoki uzoq qizdirish
+- Muzlatish yoki bug'latish
+- Filtrlash yoki sentrifugalash
+- Kislota qo'shish yoki neytrallash
+! Degazatsiya ultratovush yoki qattiq chayqatish yordamida, ortiqcha qizdirmasdan bajariladi
+@ M
+
+? Gazlangan ichimlik tashishda qizib ketsa nima bo'ladi?
++ Gaz miqdori o'zgarib, tahlil qiyinlashadi
+- Gaz miqdori ikki baravar kamayib tozalanadi
+- Mikroblar to'liq yo'qoladi
+- Ichimlik rangi o'zgarmay qoladi
+- Qadoq sterillanadi
+! Gazlangan ichimliklar tashishda qizib ketmasligi kerak, aks holda gaz miqdori o'zgarib, tahlil qiyinlashadi
+@ M
+
+? Yo'llanma xatga nimalar yoziladi?
++ Vaqt, mahsulot nomi, partiya raqami, sana
+- Sotuvchi ismi, mahsulot narxi, chegirma
+- Iste'molchi yoshi, jinsi, kasbi, manzili
+- Idish rangi, hajmi va vazni, shakli
+- Xarid joyi, kassir ismi va chek raqami
+! Namuna olish vaqti, mahsulot nomi, partiya raqami va ishlab chiqarilgan sana yo'llanma xatga yoziladi
+@ M
+
+? Ichimlikda koliformlar topilsa nimani bildiradi?
++ Sanitar holat buzilganini
+- Mahsulot sifati ideal ekanini
+- Ichimlik kislotaligi yuqori ekanini
+- Gaz miqdori yetarli ekanini
+- Shakar miqdori ko'p ekanini
+! Koliformlarning mavjudligi ichimlikning sanitar holati buzilganini ko'rsatadi; ular odatda suv manbai yoki ishlab chiqarish uskunalari orqali tushadi
+@ M WHODW
+
+? Ichimlikda koliformlar aniqlansa nima qilinadi?
++ Sabab aniqlanmaguncha partiya sotilmaydi
+- Partiya darhol sotuvga chiqariladi
+- Natija e'tiborsiz qoldiriladi
+- Mahsulot rangi o'zgartiriladi
+- Idish hajmi kattalashtiriladi
+! Koliformlar aniqlansa ishlab chiqarish, suv manbai va idish tozaligi qayta tekshiriladi va sabab aniqlanmaguncha partiya sotilmaydi
+@ M
+
+? Xamirturush va mog'orlar sharbat sifatiga qanday ta'sir qiladi?
++ Ta'mi, hidi va ko'rinishini buzadi
+- Sterilligini oshirib beradi
+- Gazini ko'paytirib yuboradi
+- Tiniqlashtirib beradi
+- Sifatiga ta'sir qilmaydi
+! Xamirturush va mog'orlar kislotali muhitda yaxshi o'sib, mahsulotning ta'mi, hidi va ko'rinishini buzadi
+@ M
+
+? Shakar ko'p bo'lgan ichimlikda osmotik bosim nima qiladi?
++ Ko'p mikroblar o'sishini cheklaydi
+- Hamma mikroblar o'sishini tezlashtiradi
+- Hamma mikroblarni darhol o'ldiradi
+- Xamirturushni butunlay yo'q qiladi
+- Mikroblarga ta'sir qilmaydi
+! Shakar miqdori yuqori bo'lsa osmotik bosim ko'pchilik mikroblar o'sishini cheklaydi, ammo ayrim xamirturushlar moslashadi
+@ M

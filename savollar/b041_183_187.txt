@@ -1,0 +1,459 @@
+# 183
+
+? Bo'g'ma tashxisida tomoqdan namuna qanday olinadi?
++ Steril tampon bilan, o'zgargan joydan
+- Oddiy paxta bilan, sog'lom joydan
+- Metall asbob bilan, sog'lom joydan
+- Quruq qog'oz bilan, sog'lom joydan
+- Steril bo'lmagan cho'p bilan, til ustidan
+! Surtma steril tampon bilan tomoq devori va bodomsimon bezlardagi o'zgargan shilliq qavatdan olinadi
+@ M JAW CDCPINK
+
+? Burun-halqum surtmasi nima uchun alohida tampon bilan olinadi?
++ Qo'zg'atuvchi ko'pincha shu sohada joylashadi
+- Qo'zg'atuvchi shu sohada umuman uchramaydi
+- Qo'zg'atuvchi faqat ichakda joylashadi
+- Qo'zg'atuvchi shu sohada tez nobud bo'ladi
+- Tampon uzunligi shu sohaga mos keladi
+! Bo'g'ma qo'zg'atuvchisi ko'pincha burun-halqum sohasida joylashadi, shu sababli u alohida tampon bilan olinadi
+@ M JAW
+
+? Surtma olishdan oldin bemor og'zini ko'p yuvishi haqida nima deyiladi?
++ Tavsiya etilmaydi
+- Tavsiya etiladi, bakteriyalar ko'payadi
+- Majburiy, namuna toza bo'ladi
+- Sovuq suv bilan majburiy
+- Antiseptik bilan majburiy
+! Og'zini ko'p yuvdirish tavsiya etilmaydi, chunki shilliq qavatdagi bakteriyalarni yuvib yuborishi mumkin
+@ M JAW
+
+? Namuna qachon olinishi afzal?
++ Antibiotikdan oldin olinishi afzal
+- Davo kursi oxirida olinishi afzal
+- Dozasi oshirilgach olinishi afzal
+- Kurs tugagandan bir oy keyin
+- Istalgan vaqtda, mustaqil olinadi
+! Namuna iloji boricha antibiotik qabul qilinishidan oldin olinadi
+@ M JAW
+
+? Olingan tampon qayerga joylanadi?
++ Tashish muhitli probirkaga
+- Quruq, bo'sh probirkaga
+- Formalinli shisha idishga
+- Spirtli shisha idishga
+- Qaynoq suvli shisha idishga
+! Tampon darhol maxsus tashish muhiti solingan probirkaga joylanadi, bu uning qurib qolishini oldini oladi
+@ M JAW
+
+? Namuna tashishda nima himoyalanadi?
++ Quyosh nuri va issiqdan
+- Sovuq havo va qordan
+- Yomg'ir va shamoldan
+- Tovush va shovqindan
+- Yorug' xona va chiroqdan
+! Tashish vaqtida material quyosh nuri va yuqori haroratdan himoyalanadi
+@ M JAW
+
+? Laboratoriyaga material qanday muddatda yetkaziladi?
++ Qisqa vaqt ichida yetkaziladi
+- Haftalar ichida yetkaziladi
+- Oylar ichida yetkaziladi
+- Ixtiyoriy muddatda yetkaziladi
+- Yillar ichida yetkaziladi
+! Material laboratoriyaga qisqa vaqt ichida yetkaziladi, chunki uzoq saqlash hayotchanlikni pasaytiradi
+@ M JAW
+
+? Qaysi joylardan qo'shimcha namuna olinishi mumkin?
++ Burun va konyunktiva
+- Qo'l va oyoq tirnoqlari
+- Soch va bosh terisi
+- Tish emali va milk
+- Tovon va barmoqlar terisi
+! Burun, konyunktiva va quloq yo'llaridan olingan materiallar kamroq uchraydigan holatlarda klinik vaziyatga qarab tekshiriladi
+@ M JAW
+
+? Tampon olinayotganda nima muhim?
++ Til bosilmaydi, flora aralashmaydi
+- Til doim bosiladi, og'iz yopiladi
+- Og'iz ko'p marta chayiladi, tampon quriydi
+- Namuna ochiq qoldiriladi, tampon quriydi
+- Tampon bir necha marta ishlatiladi
+! Tampon bemorning tilini bosmasdan olinadi va og'iz bo'shlig'idagi begona mikroflora aralashmasligi uchun harakat qilinadi
+@ M JAW
+
+? Yo'llanma xatida nima qayd etiladi?
++ Olingan vaqt va davolanish holati
+- Bemorning sevimli ovqati va ichimligi
+- Bemorning kiyim rangi va o'lchami
+- Xodimning shaxsiy telefoni va manzili
+- Idishning rangi va hajmi
+! Yo'llanmada material olingan vaqt, tashish sharoiti va bemor davolanayotgan bo'lsa, shu fakt qayd etiladi
+@ M JAW
+
+# 184
+
+? Bo'g'maning tipik klinik belgilari qaysilar?
++ Tomoqda oq-kulrang parda, bo'yin shishi
+- Burunda suvli ajralma, aksirish, qichishish
+- Quloqda og'riq, eshitish pasayishi, shovqin
+- Teri toshmasi, bo'g'im og'rig'i, isitma
+- Ichakda og'riq, qon aralash najas, qusish
+! Tomoqdagi oq-kulrang parda, bo'yin to'qimalarining shishishi va umumiy holsizlik bo'g'maning tipik belgilari
+@ M JAW CDCPINK
+
+? "Buqa bo'yni" belgisi nimani bildiradi?
++ Bo'yin to'qimalarining shishishini
+- Bo'yin mushaklarining qotishini, meningitni
+- Bo'yin terisining qurishini, allergiyani
+- Bo'yin limfa tugunining kichrayishini
+- Bo'yin umurtqasining egilishini, jarohatni
+! Bo'yin to'qimalarining shishishi "buqa bo'yni" deyiladi va toksinning kuchli ta'siridan dalolat beradi
+@ M JAW CDCPINK
+
+? Bo'g'ma pardasi nimasi bilan xarakterli?
++ Shilliq qavatga mahkam yopishadi
+- Shilliq qavatdan oson ajraladi, qon ketmaydi
+- Suvdek tiniq, qon ketmaydi
+- Qora rangli, quruq tushadi
+- Qizil rangli, o'z-o'zidan tushadi
+! Tomoq va halqumdagi bo'g'ma pardasi shilliq qavatga mahkam yopishadi va olib tashlanganda qon ketishi mumkin
+@ M JAW CDCPINK
+
+? Epidemiologik tekshiruvda nima aniqlanadi?
++ Yashash joyi
+- Sevimli ovqati va kiyim rangi
+- Sport turi va ish haqi
+- Ta'til rejasi va hobbi
+- Kitob o'qish odati va uyqu vaqti
+! Epidemiologik tekshiruvda bemorning yashash joyi, oldingi kontaktlari va emlanganlik holati aniqlanadi
+@ M JAW
+
+? Qaysi guruhlar xavf ostida?
++ Emlanmagan bolalar va kattalar
+- To'liq emlangan bolalar va kattalar
+- Emlangan, toksinga immun kattalar
+- Keksa kishilar, emlanganlik e'tiborsiz
+- Sportchilar, emlanganlik e'tiborsiz
+! Emlanmagan bolalar va kattalar xavf guruhiga kiradi, chunki ularda toksinga qarshi immunitet yetarli bo'lmaydi
+@ M JAW WHODIPH
+
+? Shubhali holat aniqlansa, kontaktlar bilan nima qilinadi?
++ Yaqin kontaktlar tekshiriladi
+- Tekshirilmaydi, e'tiborsiz qoladi
+- Bemor bilan yashayveradi, kuzatilmaydi
+- Faqat kuzatiladi, tekshirilmaydi
+- Uyiga qaytariladi, tekshirilmaydi
+! Shubhali holat aniqlansa, yaqin kontaktlar ham tekshiruvdan o'tkaziladi, bu keyingi tarqalishni oldini oladi
+@ M JAW WHODIPH
+
+? Bakteriologik tashxisda qaysi muhitda qora koloniyalar tekshiriladi?
++ Tellurit saqlovchi muhitda
+- Endo agari muhitida
+- Qon agari muhitida
+- Manitli tuzli agarda
+- Sabouraud agari muhitida
+! Bo'g'ma tashxisi uchun tellurit saqlovchi muhitlarda o'sgan qora koloniyalar dastlab tekshiriladi
+@ M JAW
+
+? Bakteriologik ekish nimalarga asoslanadi?
++ O'sish, koloniya, biokimyoviy xossa
+- Bemorning kayfiyati va yoshiga
+- Tashqi havo harorati va namligiga
+- Idishning rangi va hajmiga
+- Xodimning yoshi va jinsiga
+! Ekish natijasi bakteriyaning o'sishi, koloniya shakli va biokimyoviy xossalari bo'yicha baholanadi
+@ M JAW
+
+? Tomoq shaklida qanday belgilar kuzatiladi?
++ Og'riq, yutishning qiyinlashishi
+- Yo'tal, qon tupurish, ko'krak og'rig'i
+- Bosh og'rig'i, ko'rish pasayishi
+- Qorin og'rig'i, ich ketishi
+- Teri qichishishi, toshma
+! Tomoq shaklida tomoqda og'riq, yutishning qiyinlashishi va bodomsimon bezlarning shishishi kuzatiladi
+@ M JAW
+
+? Emlash daftarchasi nima uchun muhim?
++ Emlanganlikni hisobga olish uchun
+- Qon guruhini aniqlab olish uchun
+- Ish joyini aniqlab olish uchun
+- Dori narxini aniqlab olish uchun
+- Kiyim o'lchamini aniqlab olish uchun
+! Emlash daftarchasi tashxisning muhim qismi, chunki emlanmagan odamlar xavf guruhiga kiradi
+@ M JAW
+
+# 185
+
+? Bo'g'ma davolash qaysi uch yo'nalishda olib boriladi?
++ Toksinni neytrallash
+- Vitamin berish, parhez, dam olish
+- Jarrohlik, massaj, fizioterapiya
+- Sovuq muhit, issiq vanna, uyqu
+- Sayr, ichimlik, tinchlik
+! Davolash uch yo'nalishda: toksinni neytrallash, bakteriyani yo'qotish va asoratlarning oldini olish
+@ M JAW WHODIPH CDCPINK
+
+? Antitoksik zardob nimadan tayyorlanadi?
++ Ot zardobidan
+- Sigir sutidan
+- Tovuq tuxumidan
+- Baliq yog'idan
+- O'simlik ildizidan
+! Antitoksik zardob ot zardobidan tayyorlangan difteriya antitoksini
+@ M JAW WHODIPH CDCPINK
+
+? Antitoksin qaysi toksinni neytrallaydi?
++ Qonda aylanayotgan erkin toksinni
+- Hujayraga bog'langan toksinni to'liq
+- Spora po'stidagi oqsil toksinni
+- Kapsula qobig'idagi polisaxaridni
+- Xivchin tolasidagi oqsil toksinni
+! Antitoksin qonda aylanayotgan erkin toksinni neytrallaydi, hujayralarga allaqachon bog'langan toksinga ta'siri cheklangan
+@ M JAW WHODIPH CDCPINK
+
+? Antitoksik zardob qachon berilishi kerak?
++ Iloji boricha erta
+- Laboratoriya natijasidan keyin, kechroq
+- Sog'ayganda
+- Bir hafta o'tgach
+- Asoratdan keyin
+! Hujayralarga bog'langan toksinga ta'siri cheklangani uchun zardob iloji boricha erta beriladi
+@ M JAW WHODIPH CDCPINK
+
+? Zardob qanday yo'llar bilan yuboriladi?
++ Vena yoki mushak ichiga
+- Teri ustiga surtib qo'yiladi
+- Og'iz orqali ichirib yuboriladi
+- Burunga tomizib yuboriladi
+- Ko'zga tomizib yuboriladi
+! Zardob tezkor ravishda, odatda vena ichiga yoki mushak ichiga yuboriladi
+@ M JAW
+
+? Zardob yuborishdan oldin nima tekshiriladi?
++ Ot zardobiga allergiya
+- Qon guruhi aniqlanadi
+- Qand miqdori aniqlanadi
+- Qon bosimi aniqlanadi
+- Siydik rangi aniqlanadi
+! Zardob yuborishdan oldin bemorning ot zardobiga allergiyasi tekshiriladi, chunki anafilaktik reaksiya mumkin
+@ M JAW
+
+? Allergiya musbat bo'lsa nima qilinadi?
++ Desensibilizatsiya qilinadi
+- Zardob ikki baravar ko'paytiriladi
+- Zardob berish davom ettiriladi
+- Bemor uyga jo'natiladi
+- Davolash butunlay to'xtatiladi
+! Tekshiruv natijasi musbat bo'lsa, desensibilizatsiya choralari ko'riladi
+@ M JAW
+
+? Bo'g'ma antibiotiklari nima uchun qo'llanadi?
++ Qo'zg'atuvchini yo'qotish uchun
+- Toksinni neytrallab yuborish uchun
+- Zardob o'rnini bosib olish uchun
+- Immunitetni yo'qotib yuborish uchun
+- Vaksina o'rnini bosib olish uchun
+! Antibiotiklar qo'zg'atuvchini organizmdan yo'qotish va bakteriya tashishni tugatish uchun qo'llanadi
+@ M JAW WHODIPH CDCPINK
+
+? Bo'g'mada keng qo'llanadigan antibiotiklar qaysilar?
++ Penitsillin va eritromitsin
+- Izoniazid va rifampitsin
+- Gentamitsin va streptomitsin
+- Flukonazol va nistatin
+- Metronidazol va tinidazol
+! Penitsillin va eritromitsin bo'g'mada keng qo'llaniladigan preparatlar
+@ M JAW WHODIPH CDCPINK
+
+? Antibiotiklar antitoksik zardob o'rnini nima uchun bosa olmaydi?
++ Toksin ishlab chiqarishni to'xtatmaydi
+- Toksinni to'liq neytrallab yuboradi
+- Zardobdan kuchliroq ta'sir ko'rsatadi
+- Bolalarda zardob o'rnini to'liq bosadi
+- Kattalarda zardob o'rnini to'liq bosadi
+! Antibiotiklar toksin ishlab chiqarishni to'xtatmaydi, shuning uchun antitoksik zardobning o'rnini bosa olmaydi
+@ M JAW WHODIPH
+
+# 186
+
+? Bo'g'ma toksini qanday tuzilishga ega?
++ A va B fragmentli oqsil
+- Lipopolisaxarid zanjiri
+- Polisaxarid kapsula
+- Teyxoy kislota bo'lagi
+- Peptidoglikan bo'lagi
+! Bo'g'ma toksini A va B fragmentlardan iborat; B fragment hujayra yuzasiga birikib, A ning hujayra ichiga kirishiga yordam beradi
+@ M JAW WHODIPH
+
+? Toksinning A fragmenti qanday ta'sir qiladi?
++ EF-2 ni ADP-ribozillab
+- Adenilatsiklazani faollashtiradi
+- Membranada teshik hosil qiladi
+- Atsetilxolin ajralishini to'xtatadi
+- Qon ivishini tezlashtiradi
+! A fragment elongatsiya omili 2 ni ADP-ribozillab, oqsil sintezini to'xtatadi va hujayra nobud bo'ladi
+@ M JAW WHODIPH
+
+? Toksigenlik nima bilan bog'liq?
++ Toksin geni (tox) fagi bilan
+- Plazmid konyugatsiyasi bilan
+- Spora hosil bo'lishi bilan
+- Kapsula hosil bo'lishi bilan
+- Xivchin hosil bo'lishi bilan
+! Toksigenlik fag bilan bog'liq xususiyat: tox geni fag orqali bakteriya xromosomasiga o'rnashadi
+@ M JAW WHODIPH
+
+? Elek usuli qanday usul?
++ Gel diffuziyasida toksinni aniqlash
+- Gram bo'yash orqali toksinni aniqlash
+- Tirik hayvonda toksin sinash
+- Qon ivish tezligini o'lchash
+- Koloniya rangini baholash
+! Elek usuli bo'g'ma toksinini gel diffuziyasi yordamida aniqlashga asoslangan an'anaviy laboratoriya usuli
+@ M JAW WHODIPH
+
+? Elek usulida muhit yuzasiga nima qo'yiladi?
++ Antitoksin singdirilgan filtr qog'oz bo'lagi
+- Bo'yoq singdirilgan filtr qog'oz bo'lagi
+- Antibiotik singdirilgan metall disk
+- Tuz singdirilgan paxta bo'lagi
+- Shakar singdirilgan sellofan bo'lagi
+! Oziqa muhiti yuzasiga antitoksin singdirilgan filtr qog'oz bo'lagi qo'yiladi
+@ M JAW
+
+? Elek usulida shtamm qanday ekiladi?
++ Qog'ozga perpendikulyar ravishda
+- Qog'ozga parallel ravishda
+- Qog'oz ustiga to'g'ridan-to'g'ri
+- Muhit chetiga alohida
+- Muhit tagiga chuqur
+! Tekshiriladigan shtamm qog'oz bo'lagiga perpendikulyar ravishda ekiladi va 37 °C da 24–48 soat inkubatsiya qilinadi
+@ M JAW
+
+? Elek usulida musbat natija qanday ko'rinadi?
++ Cho'kma yo'lakchalari paydo bo'ladi
+- Koloniya atrofida yashil zona bo'ladi
+- Koloniya atrofida shaffof zona bo'ladi
+- Muhit rangi qizarib ketadi
+- Gaz pufakchalari hosil bo'ladi
+! Toksin antitoksin bilan birikib yo'lakchalar ko'rinishida cho'kma hosil qiladi, bu musbat natija
+@ M JAW
+
+? PZR bo'g'ma tashxisida nimani aniqlaydi?
++ Toksin geni (tox) mavjudligini
+- Toksin miqdorini aniq o'lchaydi
+- Gen ishlayotganini aniq ko'rsatadi
+- Koloniya rangini aniqlab beradi
+- Hujayra devori qalinligini aniqlaydi
+! PZR tox genining mavjudligini aniqlaydi, lekin gen ishlayotganligi yoki toksin miqdorini ko'rsatmaydi
+@ M JAW
+
+? PZR natijasi nima uchun fenotipik usullar bilan tasdiqlanadi?
++ Gen toksin hosil bo'lishini kafolatlamaydi
+- Doim noto'g'ri natija beradigani uchun xolos
+- Hech qachon gen topolmaydigani uchun xolos
+- Hayvonlardagina ishlaydigani uchun xolos
+- Sporadagina ishlaydigani uchun xolos
+! PZR toksin genining mavjudligini ko'rsatadi, gen ishlayotganini emas, shuning uchun natija fenotipik usullar bilan tasdiqlanadi
+@ M JAW
+
+? Elek usulida natija qachon o'qiladi?
++ 24–48 soat ichida
+- Daqiqalar ichida
+- Soatlar ichida
+- Kunlar va haftalar ichida
+- Oylar ichida
+! Natijani 24–48 soat inkubatsiyadan keyin o'qish kerak; kech o'qilgan natija noto'g'ri talqin qilinishi mumkin
+@ M JAW
+
+# 187
+
+? B. pertussis qaysi muhitda o'stiriladi?
++ Bordet–Jangu (qon, glitserin) muhitida
+- Endo (laktoza, fuksin) agarida
+- Manitli tuzli (sho'r) agarda
+- Sabouraud (kislotali) agarida
+- Oddiy go'sht-peptonli (oddiy) agarda
+! B. pertussis oddiy oziqa muhitlarida o'smaydi, shu sababli maxsus qon va kartoshka asosidagi Bordet–Jangu muhitida ekiladi
+@ M JAW WHOPERT
+
+? Bordet–Jangu muhitiga nima qo'shiladi?
++ Glitserin va qon
+- Safro va tuz
+- Laktoza va fuksin
+- Manitol va tuz
+- Tellurit va sulfit
+! Bordet–Jangu muhitiga glitserin va qon qo'shiladi, bu bakteriyaning o'sishi uchun zarur
+@ M JAW WHOPERT
+
+? B. pertussis koloniyalari qanday ko'rinadi?
++ Kichik, yaltiroq
+- Yirik, qora, g'adir-budir
+- Qizil, shilimshiq, tikanli
+- Yassi, sariq, quruq
+- Yashil, kulrang, tangachali
+! Koloniyalar kichik, yaltiroq va tomchi simobga o'xshash bo'ladi — xarakterli belgi
+@ M JAW WHOPERT
+
+? B. pertussis ekmalari qanday inkubatsiya qilinadi?
++ 35–37 °C da bir necha kun
+- 22 °C da bir necha soat
+- 4 °C da bir necha daqiqa
+- 56 °C da bir necha soat
+- 42 °C da bir necha daqiqa
+! Ekinlar 35–37 °C da bir necha kun davomida inkubatsiya qilinadi
+@ M JAW WHOPERT
+
+? Selektiv Regan–Lou muhitiga qaysi antibiotik qo'shiladi?
++ Sefaleksin
+- Penitsillin
+- Gentamitsin
+- Streptomitsin
+- Tetratsiklin
+! Namunada begona flora ko'p bo'lsa, sefaleksin qo'shilgan Regan–Lou selektiv muhiti qo'llanadi
+@ M JAW WHOPERT
+
+? B. pertussis uglevodlarga munosabati qanday?
++ Glyukoza va boshqa uglevodlarni bijg'itmaydi
+- Glyukozani kislota va gaz bilan bijg'itadi
+- Laktozani tez bijg'itadi
+- Saxarozani gaz bilan bijg'itadi
+- Uglevodni faol bijg'itadi
+! B. pertussis biokimyoviy jihatdan faol emas: glyukoza va boshqa uglevodlarni bijg'itmaydi
+@ M JAW WHOPERT
+
+? B. pertussis oksidaza va katalaza testlarida qanday natija beradi?
++ Ikkalasida ham musbat
+- Ikkalasida ham manfiy
+- Oksidaza manfiy, katalaza musbat
+- Oksidaza musbat, katalaza manfiy
+- Natija o'zgaruvchan bo'ladi
+! Bakteriya oksidaza va katalaza testlarida musbat natija beradi, ureaza hosil qilmaydi
+@ M JAW WHOPERT
+
+? B. pertussis ureaza testida qanday natija beradi?
++ Manfiy
+- Musbat
+- Kuchli musbat
+- Zaif musbat
+- Natija o'zgaruvchan
+! B. pertussis ureaza hosil qilmaydi, shu sababli biokimyoviy profil bo'yicha tez aniqlanishi mumkin
+@ M JAW WHOPERT
+
+? B. pertussis morfologiyasi qanday?
++ Mayda, Gram-manfiy
+- Yirik, Gram-musbat, harakatchan tayoqcha
+- Mayda, Gram-musbat, sporali kokk
+- Spiralsimon, Gram-manfiy, harakatchan
+- Ipsimon, Gram-musbat, shoxlangan
+! B. pertussis kichik, Gram-manfiy, harakatsiz va sporasiz kokk-tayoqcha shaklidagi bakteriya
+@ M JAW WHOPERT
+
+? Ko'kyo'tal qo'zg'atuvchisi kislorodga munosabati bo'yicha qanday?
++ Qat'iy aerob
+- Qat'iy anaerob
+- Fakultativ anaerob
+- Mikroaerofil
+- Kapnofil
+! B. pertussis qat'iy aerob bakteriya bo'lib, o'sishi sekin va talabchan
+@ M JAW WHOPERT

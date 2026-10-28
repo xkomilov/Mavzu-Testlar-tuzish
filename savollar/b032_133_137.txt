@@ -1,0 +1,459 @@
+# 133
+
+? Shigellalar epiteliy hujayralariga kirishini qaysi tizim ta'minlaydi?
++ III tip sekretsiya tizimi (plazmida kodlangan)
+- IV tip sekretsiya tizimi (konyugatsiya uchun)
+- Xivchin harakat tizimi (chemotaksis uchun)
+- Spora hosil qilish tizimi (tinimga o'tish)
+- Kapsula sintezi tizimi (himoya uchun)
+! Shigellalar invazion genlari plazmidda kodlangan bo'lib, III tip sekretsiya tizimi orqali epiteliyga kiradi
+@ M JAW
+
+? Shigelloz klinik ko'rinishi odatda qanday boshlanadi?
++ Qorin og'rig'i, isitma, suyuq ichburug' bilan
+- Teri toshmasi, bo'g'im shishi, ko'z qizarishi bilan
+- Yo'tal, burun bitishi, tomoq og'rig'i bilan
+- Sariqlik, jigar kattalashishi, qichishish bilan
+- Bosh aylanishi, ko'rish buzilishi, falaj bilan
+! Klinik ko'rinish tez boshlanadigan qorin og'rig'i, isitma va suyuq ichburug'dan iborat, keyin najasda qon va shilliq paydo bo'ladi
+@ M JAW
+
+? Shigelloz bilan kasallanishdan keyingi immunitet qanday?
++ Serotipga xos, boshqa serotipdan himoya bermaydi
+- Barcha serotiplarga qarshi umrbod himoya beradi
+- Hosil bo'lmaydi, har safar yangidan kasallanadi
+- Bolalarda hosil bo'ladi, kattalarda hosil bo'lmaydi
+- Ayollarda hosil bo'ladi, erkaklarda hosil bo'lmaydi
+! Shigellyozdan keyingi immunitet odatda serotipga xos bo'lib, boshqa serotip bilan qayta kasallanish mumkin
+@ M JAW
+
+? Yengil yoki subklinik kechgan shigellyozdan keyin himoya qanday bo'ladi?
++ Zaif bo'lishi mumkin
+- Umrbod mustahkam bo'ladi
+- Turlarga to'liq bo'ladi
+- Sovuq mavsumda bo'ladi
+- Qachon zaif bo'lmaydi
+! Kasallik yengil yoki subklinik o'tganda himoya zaif bo'lishi mumkin, shu sababli to'liq himoyalangan deb hisoblash noto'g'ri
+@ M JAW
+
+? Shigellyozda mahalliy immunitetda qaysi antitela muhim rol o'ynaydi?
++ Sekretor IgA
+- Sekretor IgE
+- Qondagi IgD
+- Qondagi IgM
+- Teridagi IgG
+! Sekretor IgA ichak shilliq qavati yuzasida bakteriyalarning epiteliyga yopishishini cheklaydi
+@ M JAW
+
+? Shigellalar makrofaglarga qanday ta'sir qiladi?
++ Makrofaglarni o'ldirib, yallig'lanishni kuchaytiradi
+- Makrofaglarni ko'paytirib, yallig'lanishni to'xtatadi
+- Makrofaglarga kapsula hosil qilishda yordam beradi
+- Makrofaglar ichida sporaga aylanib qoladi
+- Makrofaglarni faqat toksin yordamida faollashtiradi
+! Shigellalar makrofaglarni o'ldirish xususiyatiga ega, bu esa yallig'lanishning kuchayishiga olib kelishi mumkin
+@ M JAW
+
+? Shigellyoz qaysi jamoalarda qayta-qayta uchrashi mumkin?
++ Bolalar jamoalari va yopiq muassasalarda
+- Yolg'iz yashovchi keksalar orasida
+- Baliqchilar va dengizchilar orasida
+- Tog'li hududlarda yashovchilar orasida
+- Sportchilar va harbiylar orasida
+! Shigellyoz bolalar jamoalari va yopiq muassasalarda qayta-qayta uchrashi mumkin; bu sanitariya sharoitlari bilan ham bog'liq
+@ M JAW
+
+? Shigelloz tarqalishini kamaytirishda nima muhim?
++ Sanitariya sharoiti va manbani bartaraf etish
+- Antibiotikni oldindan ichib yurish choralari
+- Qo'shni jamoalarni yopib qo'yish choralari
+- Bemorni uzoq muddat xonaga qamash choralari
+- Suvni muzlatib iste'mol qilish choralari
+! Epidemiologik nazoratda faqat individual immunitet emas, sanitariya sharoitlari va infeksiya manbaini bartaraf etish ham muhim
+@ M JAW WHODW
+
+? Shigelloz og'ir shaklida Shiga toksin qaysi tur bilan bog'liq?
++ Shigella dysenteriae 1-tur
+- Shigella sonnei turi, yengil kasallik beradi
+- Shigella flexneri turi, keng tarqalgan
+- Shigella boydii turi, kam uchraydi
+- Salmonella Typhi turi, qorin tifi beradi
+! Shigella dysenteriae 1 turi Shiga toksinini ishlab chiqaradi, u og'ir shakllarda ichak va boshqa a'zolarga ta'sir qiladi
+@ M JAW
+
+? Qondagi antitelalar shigelloz diagnostikasida qanday ahamiyatga ega?
++ Yordamchi ahamiyatga ega, asosiy usul bakteriologiya
+- Asosiy usul bo'lib, bakteriologiyani almashtiradi
+- Qanday ahamiyatga ega emas
+- Toksin neytrallanishda ishlatiladi
+- Bolalarda qo'llanadi
+! Qondagi antitelalar diagnostikada yordamchi ahamiyatga ega; shigellozda asosiy usul bakteriologik tekshiruv
+@ M
+
+# 134
+
+? Najas yetarli bo'lmasa, qaysi material olinadi?
++ Rektal surtma (ichak shilliq qavatidan)
+- Burun surtmasi (burun shilliq pardasidan)
+- Tomoq surtmasi (bodomsimon bezlardan)
+- Teri surtmasi (qo'l yuzasidan olingan)
+- Siydik surtmasi (uretra shilliq pardasidan)
+! Najas yetarli bo'lmasa rektal surtma olinadi, u ichak shilliq qavatidan yig'ilib, tashish muhitiga joylanadi
+@ M JAW
+
+? Najas namunasi qanday idishga olinadi?
++ Toza, quruq va steril idishga
+- Ifloslangan, nam va ochiq idishga
+- Siydik aralashgan, qopqoqli idishga
+- Suv qo'shilgan, yarim to'la idishga
+- Ochiq, qopqoqsiz va ifloslangan idishga
+! Idishga siydik yoki suv aralashmasligi kerak, chunki bu mikroblarning tirik qolishiga salbiy ta'sir qiladi
+@ M JAW
+
+? Najas namunasi qanday tashiladi?
++ Sovutilgan, lekin muzlatilmagan holda
+- Muzlatilgan holda, qattiq qotirib qo'yib
+- Qaynoq suvda, issiq holda saqlab qo'yib
+- Quyoshda, quritilgan holda tashib borib
+- Xona haroratida, bir hafta saqlab qo'yib
+! Tashish davomida namuna sovutilgan holda saqlanadi, lekin muzlatilmaydi, chunki shigellalar soni kamayishi mumkin
+@ M JAW
+
+? Shigella uchun tashish muhitiga qaysi misol keltiriladi?
++ Cary-Blair muhiti
+- Levenshteyn–Yensen muhiti
+- Sabouraud muhiti
+- Tioglikolli muhit
+- Kitt–Tarotstsi muhiti
+! Cary-Blair kabi tashish muhitlari mikroblarni tirik saqlashga yordam beradi
+@ M JAW
+
+? Namuna antibiotik qabul qilishga nisbatan qachon olinadi?
++ Davo boshlanishidan oldin
+- Antibiotik kursi oxirida, davo tugagach
+- Antibiotik dozasi oshirilgandan keyin
+- Sog'ayganidan bir oy o'tgandan keyin
+- Davo tugaganidan keyin bir yil o'tib
+! Antibiotiklar mikroblar sonini kamaytirib, salbiy natija berishi mumkin, shu sababli namuna davo boshlanishidan oldin olinadi
+@ M JAW
+
+? Shigella ekmalari uchun qaysi selektiv muhitlar qo'llanadi?
++ Endo, Ploskirev, SS agar, XLD va Hektoen
+- Qon agari, shokoladli agar va Tayer–Martin
+- Manitli tuzli agar, Beyrd–Parker va SDA
+- Levenshteyn–Yensen, Finn va Petragnani
+- Kitt–Tarotstsi, tioglikolli va Vilson–Bler
+! Shigella ajratish uchun Endo, Ploskirev, SS agar, XLD va Hektoen muhitlari ko'p qo'llanadi
+@ M JAW
+
+? Boyitish muhiti sifatida qaysi muhit qo'llanishi mumkin?
++ Selenit bulyoni
+- Qon bulyoni
+- Safroli bulyon
+- Kartoshka bulyoni
+- Tuxum bulyoni
+! Ba'zi hollarda namuna avval selenit kabi boyitish muhitiga solinadi, bu shigellalar sonini oshiradi
+@ M JAW
+
+? Shigella ekmalari qanday inkubatsiya qilinadi?
++ 37 °C da 18–24 soat
+- 22 °C da 1–2 soat
+- 4 °C da 5–7 kun
+- 56 °C da 30 daqiqa
+- 42 °C da 3 kun
+! Ekilgan muhitlar 37 °C da, odatda 18–24 soat inkubatsiya qilinadi
+@ M JAW
+
+? Shigella koloniyalari Endo agarida qanday ko'rinadi?
++ Rangsiz (laktoza bijg'itmaydi)
+- Qizil, metall yaltiroq (laktoza bijg'itadi)
+- Qora (vodorod sulfid hosil qiladi)
+- Yashil (oksidaza hosil qiladi)
+- Sariq (manit bijg'itadi)
+! Shigellalar laktozani parchalamagani uchun Endo agarida rangsiz koloniyalar hosil qiladi
+@ M JAW
+
+? Yo'llanma xatda nima ko'rsatilishi zarur?
++ Namuna turi, olingan vaqt va klinik ma'lumot
+- Xodimning ismi va yoshi, boshqa ma'lumotsiz
+- Bino qavati va xona raqami, boshqa ma'lumotsiz
+- Idish ishlab chiqaruvchisining nomi, boshqasisiz
+- Bemor qarindoshlarining ro'yxati, boshqasisiz
+! Yo'llanma xatda namunaning turi, olingan vaqti va klinik ma'lumotlar to'liq ko'rsatilishi zarur
+@ M
+
+# 135
+
+? Najas surtmasini Gram bo'yog'i bilan tekshirish nimani ko'rsatishi mumkin?
++ Leykotsitlarni ko'rsatadi, shigellani aniqlamaydi
+- Shigellani aniq tur darajasida aniqlab beradi
+- Shigella serotipini to'liq aniqlab beradi
+- Antibiotikka sezuvchanlikni aniqlab beradi
+- Toksin turini aniq aniqlab beradi
+! Gram surtmasi leykotsitlar va boshqa hujayralarni ko'rsatishi mumkin, ammo shigellalarni aniq aniqlamaydi, shuning uchun yordamchi
+@ M
+
+? Namunaga biologik xavfsizlik nuqtai nazaridan qanday ishlov beriladi?
++ Biologik xavfsizlik shkafida ishlanadi
+- Ochiq stol ustida, oddiy sharoitda ishlanadi
+- Koridorda, shamollatiladigan joyda ishlanadi
+- Bemor yonida, palata ichida ishlanadi
+- Umumiy kutish xonasida ishlanadi
+! Ishlash xavfsizlik talablari asosida, biologik xavfsizlik shkafida amalga oshiriladi
+@ M WHOLBM
+
+? Birlamchi ekishda namuna qaysi muhitlarga ekiladi?
++ Endo, Ploskirev va SS agarga
+- Qon, shokoladli va Tayer–Martin agarga
+- Manitli tuzli va Beyrd–Parker agarga
+- Sabouraud va Chapek agarga
+- Levenshteyn–Yensen va Finn muhitiga
+! Namuna bir nechta selektiv muhitga, masalan Endo, Ploskirev va SS agarga ekiladi
+@ M JAW
+
+? Shigella ekmalarida sifat nazorati shtammlari nima uchun ekiladi?
++ Natija ishonchliligini oshirish uchun
+- Natijani buzib, farqini ko'rish uchun
+- Muhitni to'liq steril qilib qo'yish uchun
+- Antibiotikni sinab ko'rib tanlash uchun
+- Koloniyalar sonini ko'paytirib olish uchun
+! Sifat nazorati shtammlari bir vaqtda ekilib, natija ishonchliligini oshiradi
+@ M
+
+? Shubhali koloniyalardan bir nechtasini tanlash nima uchun tavsiya etiladi?
++ Aralash o'sish bo'lishi mumkin
+- Koloniyalar doim bir xil bo'ladi
+- Boshqa koloniyalar zaharli bo'ladi
+- Bitta koloniya yetarli bo'lmaydi
+- Koloniyalar tezda quriydi
+! Bir turdagi bir nechta koloniya tanlash tavsiya etiladi, chunki aralash o'sish bo'lishi mumkin
+@ M
+
+? Tanlangan koloniyalar qaysi skrining muhitiga ekiladi?
++ TSI (uch shakarli temir agari)
+- Qon agari (gemoliz uchun)
+- Shokoladli agar (neysseriya uchun)
+- Manitli tuzli agar (stafilokokk uchun)
+- Sabouraud agari (zamburug' uchun)
+! Tanlangan koloniyalar TSI va boshqa skrining muhitlarga ekiladi; H2S, gaz va laktoza fermentatsiyasi kuzatiladi
+@ M JAW
+
+? Shigella uchun TSI da tipik natija qanday?
++ Qiya qism qizil, tub qism sariq, gaz va H2S yo'q
+- Qiya qism sariq, tub qism sariq, gaz va H2S bor
+- Qiya qism qizil, tub qism qizil, gaz bor
+- Qiya qism sariq, tub qism qora, H2S bor
+- Qiya qism qizil, tub qism qora, gaz bor
+! Shigellalar uchun TSI da qiya qism qizil (ishqoriy), tub qism sariq (kislotali), gaz va H2S yo'q
+@ M JAW
+
+? Shigella koloniyalari ichak tayoqchasidan nimasi bilan farq qiladi?
++ Laktozani ferment qilmasligi (rangsiz koloniya)
+- Laktozani tez ferment qilishi (qizil koloniya)
+- Gaz va H2S ko'p hosil qilishi (qora koloniya)
+- Harakatchanligi va xivchinlari (tarqoq o'sish)
+- Spora hosil qilishi (quruq koloniya)
+! Shigellalar laktozani ferment qilmagani sababli rangsiz koloniya hosil qiladi, E. coli esa laktozani bijg'itadi
+@ M JAW
+
+? Muhitda o'sish bo'lmasa yoki juda kam bo'lsa nima qilinadi?
++ Namuna qayta ekiladi, sharoit ko'riladi
+- Natija manfiy deb yakuniy qabul qilinadi
+- Namuna tashlab yuboriladi va yozilmaydi
+- Bemorga davo darhol to'xtatib qo'yiladi
+- Natija avtomatik musbat deb yoziladi
+! O'sish yo'q yoki kam bo'lsa, namuna qayta ekiladi yoki bemorning sharoiti qayta ko'rib chiqiladi
+@ M
+
+? Skrining natijasi nimaga imkon beradi?
++ Shigellaga shubhali koloniyalarni ajratishga
+- Koloniyalarni birdaniga yo'q qilishga
+- Antibiotik dozasini avtomatik belgilashga
+- Bemor qon guruhini aniqlashga
+- Mikrob xivchinlari sonini hisoblashga
+! Skrining natijasi shigellaga shubhali koloniyalarni ajratishga imkon beradi, ular keyingi identifikatsiyaga o'tkaziladi
+@ M
+
+# 136
+
+? Ovqatdan zaharlanishning keng tarqalgan belgilari qaysilar?
++ Qusish, ich ketishi va qorin og'rig'i
+- Yo'tal, burun bitishi va tomoq og'rig'i
+- Teri toshmasi, bo'g'im shishi va qichishish
+- Sariqlik, jigar og'rig'i va qorong'i siydik
+- Bosh aylanishi, quloq shang'illashi va ko'z qizarishi
+! Ovqatdan zaharlanish ko'pincha qusish, ich ketishi va qorin og'rig'i bilan namoyon bo'ladi
+@ M JAW
+
+? Ovqatdan zaharlanish sabablari orasida nima ko'p uchraydi?
++ Noto'g'ri saqlash va yetarli pishirmaslik
+- Juda yaxshi pishirib, darhol iste'mol qilish
+- Qaynoq holda darhol iste'mol qilinishi
+- Steril idishda saqlanib, toza yeyilishi
+- Sovutgichda to'g'ri saqlanib, toza yeyilishi
+! Ovqatning noto'g'ri saqlanishi, yetarli pishmasligi yoki ifloslangan qo'l va asboblar mikrob ko'payishi va toksin to'planishi uchun sharoit yaratadi
+@ M JAW WHODW
+
+? Stafilokokk ovqat zaharlanishini nima keltirib chiqaradi?
++ Ovqatda oldindan hosil bo'lgan enterotoksin
+- Ichakda sekin hosil bo'ladigan ekzotoksin
+- Mikrobning qon orqali tarqalishi
+- Mikrobning spora hosil qilishi
+- Virus zarrachalarining ko'payishi
+! S. aureus ovqatda oldindan ishlab chiqarilgan enterotoksin orqali kuchli qusishni keltirib chiqaradi
+@ M JAW
+
+? Clostridium perfringens toksinni qachon ajratadi?
++ Ichakda sporalanish davrida
+- Ovqatda ko'payish davrida
+- Qonda tarqalish davrida
+- Teri yuzasida o'sish davrida
+- Oshqozonda hazm bo'lish davrida
+! Clostridium perfringens ichakda sporalanish davrida toksin ajratadi
+@ M JAW
+
+? Bacillus cereus haqida qaysi gap to'g'ri?
++ Spora hosil qiladi, ikki xil zaharlanish beradi
+- Spora hosil qilmaydi, bitta zaharlanish beradi
+- Gram-manfiy kokk, kapsulali
+- Harakatsiz spirillum, toksinsiz
+- Zamburug', ergosterolli
+! Bacillus cereus spora hosil qiladi va ikki xil ko'rinishdagi zaharlanishni keltirib chiqarishi mumkin
+@ M JAW
+
+? Salmonellalar va ayrim ichak tayoqchalari ovqatdan zaharlanishni qanday keltirib chiqaradi?
++ Ichakda ko'payib, kasallik chaqiradi
+- Ovqatda oldindan hosil bo'lgan toksin orqali
+- Sporalar orqali, toksin hosil qilmasdan
+- Virus zarrachalari orqali ichakda ko'payib
+- Ovqat rangini o'zgartirib, zaharlash orqali
+! Salmonellalar va diarreya qo'zg'atuvchi ichak tayoqchalari tirik hujayra sifatida ichakda ko'payib kasallikni chaqiradi, toksin asosiy emas
+@ M JAW
+
+? Nosokomial infeksiya nima?
++ Yotqizilgandan keyin rivojlanadigan infeksiya
+- Kasalxonaga kelganda bor bo'lgan infeksiya
+- Hayvonlardan yuqadigan, kasalxonaga aloqasiz
+- Ovqatdan yuqadigan, kasalxonaga aloqasiz
+- Tug'ma bo'lgan, kasalxonaga aloqasiz
+! Nosokomial infeksiya bemor tibbiy muassasaga yotqizilgandan keyin rivojlanadi, kelgan paytda mavjud bo'lmagan infeksiyadir
+@ M WHOLBM
+
+? Nosokomial infeksiyalar qanday holatlarda ko'p uchraydi?
++ Immunitet pasayganda va jarrohlikdan keyin
+- Sog'lom odamlarda, tashqi muhitda uchraydi
+- Bolalar bog'chasida o'yin vaqtida uchraydi
+- Qishloqda chorva bilan ishlaganda uchraydi
+- Sayohat paytida, dengiz bo'yida uchraydi
+! Bu infeksiyalar immunitet pasayganda, invaziv tibbiy asboblar qo'llanganda yoki jarrohlikdan keyin ko'p uchraydi
+@ M WHOLBM
+
+? Kasalxonada mikroblar qanday tarqalishi mumkin?
++ Bemordan bemorga, qo'l va yuzalar orqali
+- Uzoq masofadan, havo oqimi bilan tarqaladi
+- Suv ichish orqali, tashqaridan tarqaladi
+- Hasharot chaqishi orqali tarqalib ketadi
+- Tuproq orqali, hovlidan tarqalib ketadi
+! Kasalxonada mikroblar bemordan bemorga, xodimlar qo'lidan yoki atrof-muhit yuzalaridan tarqalishi mumkin
+@ M WHOLBM
+
+? Nosokomial infeksiya qo'zg'atuvchilari ko'pincha qanday xususiyatga ega?
++ Antibiotiklarga chidamli shtammlar bo'lishi
+- Antibiotiklarga sezgir shtammlar bo'lishi
+- Viruslar bo'lishi
+- Zamburug'lar bo'lishi
+- Sodda jonivorlar bo'lishi
+! Nosokomial infeksiyalar ko'pincha antibiotiklarga chidamli shtammlar bilan bog'liq
+@ M WHOAMR
+
+# 137
+
+? S. aureus qon agarida odatda qanday koloniya hosil qiladi?
++ Sariq-oltinrang, beta-gemolizli koloniya
+- Qora yaltiroq, gemolizsiz koloniya
+- Rangsiz shaffof, alfa-gemolizli koloniya
+- Yashil quruq, gemolizsiz koloniya
+- Pushti shilimshiq, gemolizsiz koloniya
+! Qon agarida stafilokokklar yorqin sariq yoki oltinrang koloniya hosil qiladi va odatda beta-gemoliz ko'rsatadi
+@ M JAW
+
+? Manitol tuzli agarda S. aureus nima qiladi?
++ Manitolni parchalab, muhitni sarg'aytiradi
+- Manitolni parchalamay, muhitni qizartiradi
+- Manitolni parchalab, muhitni qoraytiradi
+- Tuzga chidamsiz bo'lib, o'smaydi
+- Manitolni parchalab, muhitni yashillatadi
+! Manitol tuzli agarda S. aureus manitolni parchalab, muhitni sariq rangga bo'yaydi
+@ M JAW
+
+? S. aureus ni koagulaza-manfiy turlardan farqlashda asosiy belgi qaysi?
++ Koagulaza testi (plazmani ivitishi)
+- Katalaza testi (peroksidni parchalashi)
+- Oksidaza testi (sitoxrom bo'yicha)
+- Indol testi (triptofandan)
+- Ureaza testi (mochevinadan)
+! Koagulaza testi plazmani ivitish qobiliyatini aniqlaydi va S. aureus ni boshqa koagulaza-manfiy turlardan farqlaydi
+@ M JAW
+
+? S. aureus enterotoksinlarining eng mashhur turlari qaysilar?
++ SEA dan SEE gacha
+- SPE-A dan SPE-C gacha
+- LT va ST
+- Stx1 va Stx2
+- CT va PT
+! S. aureus enterotoksinlarining eng ko'p tanilganlari SEA dan SEE gacha bo'lgan turlar
+@ M JAW
+
+? Enterotoksinlar issiqlikka qanday munosabatda?
++ Issiqlikka chidamli, qaynatishda saqlanadi
+- Issiqlikka sezgir, 50 °C da parchalanadi
+- Qaynatilganda faolligi keskin oshadi
+- Sovuqda tez parchalanib ketadi
+- Kislotali muhitda tez parchalanadi
+! Enterotoksinlar issiqqa chidamli bo'lib, ovqatni qaynatish bilan to'liq yo'q qilinmaydi
+@ M JAW
+
+? TSST-1 qaysi sindrom bilan bog'liq?
++ Toksik shok sindromi
+- Haemolytic-uremik sindrom
+- Reyter sindromi
+- Gilen–Barre sindromi
+- Vaterxauzen–Fridrixsen sindromi
+! TSST-1 stafilokokk toksik shok sindromi toksini bo'lib, sepsis va yuqori isitma bilan kechadigan og'ir holatlarda ishtirok etadi
+@ M JAW
+
+? S. aureus kapsula polisaxaridlarining qaysi tiplari klinik shtammlarda ko'p uchraydi?
++ 5 va 8
+- 1 va 2
+- 3 va 4
+- 6 va 7
+- 9 va 10
+! Kapsula polisaxaridlarining 5 va 8 tiplari klinik shtammlarda ko'proq uchraydi
+@ M JAW
+
+? Clostridium perfringens morfologiyasi qanday?
++ Yo'g'on Gram-musbat, harakatsiz, anaerob tayoqcha
+- Ingichka Gram-manfiy, harakatchan, aerob tayoqcha
+- Yumaloq Gram-musbat, harakatchan kokk
+- Spiralsimon Gram-manfiy, harakatchan shakl
+- Ipsimon Gram-musbat, aerob zamburug'
+! C. perfringens yo'g'on, Gram-musbat, harakatsiz va anaerob tayoqchadir
+@ M JAW
+
+? C. perfringens sutda qanday bijg'ish beradi?
++ Kuchli gaz ajratib, "bo'ron" tipidagi bijg'ish
+- Tiniq qoldirib, gaz ajratmaydigan bijg'ish
+- Qizil rangga bo'yab, achitadigan bijg'ish
+- Qora rangga bo'yab, qotiradigan bijg'ish
+- Shilimshiq qilib, hidsiz qoldiradigan bijg'ish
+! Sutda C. perfringens kuchli gaz ajratib, sut lahtasini ko'taradigan "bo'ron" tipidagi bijg'ish beradi
+@ M JAW
+
+? Ovqatdan zaharlanish asosan C. perfringens ning qaysi turi bilan bog'liq?
++ A turi, sporalanishda enterotoksin ajratadi
+- B turi, sporalanishda enterotoksin ajratadi
+- C turi, sporalanishda enterotoksin ajratadi
+- D turi, sporalanishda enterotoksin ajratadi
+- E turi, sporalanishda enterotoksin ajratadi
+! Ovqatdan zaharlanish asosan A turi bilan bog'liq: u sporalanish paytida ichakda enterotoksin ishlab chiqaradi
+@ M JAW

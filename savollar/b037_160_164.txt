@@ -1,0 +1,477 @@
+# 160
+
+? Kuydirgi qo'zg'atuvchisi sporalari qanday shaklga ega?
++ Oval, hujayra hajmini oshirmaydi
+- Yumaloq, hujayrani bo'rttirib yuboradi
+- Cho'zinchoq, hujayrani ikkiga bo'ladi
+- Uchburchak, hujayrani butunlay to'ldiradi
+- Spiralsimon, hujayrani o'rab turadi
+! Sporalar oval shaklda bo'lib, hujayraning o'rtasida yoki bir uchiga yaqin joylashadi va hujayra hajmini oshirmaydi
+@ M JAW
+
+? Kuydirgi sporalari asosan qayerda hosil bo'ladi?
++ Tashqi muhitda, tuproqda, kislorod bor sharoitda
+- Odam to'qimasi ichida, kislorodsiz sharoitda
+- Hayvon qoni ichida, kislorodsiz sharoitda
+- Ichak shilliq qavatida, kislorodsiz sharoitda
+- Limfa tugunlari ichida, kislorodsiz sharoitda
+! Sporalar asosan tashqi muhitda, tuproqda va kislorod ta'siridagi sharoitda hosil bo'ladi; organizm ichida vegetativ shaklda bo'ladi
+@ M JAW
+
+? Kuydirgi qo'zg'atuvchisi Gram usulida qanday bo'yaladi?
++ Musbat, katta zanjirsimon tayoqcha
+- Manfiy, mayda juft joylashgan kokk
+- Musbat, uzum shingilsimon kokk shakli
+- Manfiy, vergulsimon egilgan tayoqcha
+- Musbat, spiralsimon uzun shakllar
+! Kuydirgi qo'zg'atuvchisi Gram-musbat bo'lib, katta, zanjirlashgan tayoqchalar shaklida oson ko'rinadi
+@ M JAW
+
+? Kuydirgi kapsulasi qaysi moddadan iborat?
++ Poli-D-glutamin kislota
+- Gialuron kislotadan iborat
+- Teyxoy kislotadan iborat
+- Mikolat kislotadan iborat
+- Sialil kislotadan iborat
+! Qo'zg'atuvchi kapsulasi poli-D-glutamin kislota tuzilishiga ega bo'lib, to'qimada yaxshi shakllanadi
+@ M JAW
+
+? Kapsulani ko'rsatish uchun qaysi usul ishlatiladi?
++ M'Fadyean usuli (metilen ko'ki)
+- Burri–Gins usuli (tush bilan)
+- Ziel–Nilsen usuli (karbol fuksin)
+- Ojeshko usuli (sporalar uchun)
+- Neyser usuli (donachalar uchun)
+! Kapsulani ko'rsatish uchun M'Fadyean usuli, ya'ni metilen ko'ki bilan bo'yash ishlatiladi, kapsula pushti rangda ko'rinadi
+@ M JAW
+
+? Kuydirgi kapsulasi qanday vazifa bajaradi?
++ Fagotsitozdan himoya qiladi
+- Fagotsitozni kuchaytiradi
+- Toksin ishlab chiqaradi
+- Harakatchanlikni ta'minlaydi
+- Sporalarni hosil qiladi
+! Kapsula qo'zg'atuvchini fagotsitoz qilinishdan himoya qiladi, shuning uchun virulentlikning muhim omilidir
+@ M JAW
+
+? Qo'y qoni agarida kuydirgi koloniyalari qanday ko'rinadi?
++ Katta, kulrang-oq, chetlari soch o'ralganday
+- Mayda, qora, chetlari silliq yaltiroq
+- Yirik, qizil, chetlari tikanli quruq
+- O'rta, yashil, chetlari tekis shilimshiq
+- Yassi, sariq, chetlari tekis yumshoq
+! Koloniyalar katta, kulrang-oq, notekis, chetlari o'ralgan sochlarga o'xshaydi ("meduza boshi")
+@ M JAW
+
+? Kuydirgi qo'zg'atuvchisi qon agarida gemolizga qanday munosabatda?
++ Gemoliz hosil qilmaydi
+- Beta-gemoliz hosil qiladi
+- Alfa-gemoliz hosil qiladi
+- Kuchli ikki zonali gemoliz beradi
+- Gemolizni faqat 56 °C da beradi
+! Koloniyalar gemoliz hosil qilmaydi, bu belgi uni gemolitik B. cereus dan ajratishga yordam beradi
+@ M JAW
+
+? Suyuq muhitda kuydirgi qo'zg'atuvchisi qanday o'sadi?
++ Uzun zanjir hosil qilib, cho'kadi
+- Muhitni bir tekis loyqalatib o'sadi
+- Yuzada qalin parda hosil qilib o'sadi
+- Muhitni qizil rangga bo'yab o'sadi
+- Gaz pufakchalari hosil qilib o'sadi
+! Suyuq muhitda uzun zanjirlar hosil qilib, cho'kma shaklida o'sadi; harakatsiz bo'lgani uchun muhit bir tekis loyqalanmaydi
+@ M JAW
+
+? Kuydirgi qo'zg'atuvchisi kislorodga munosabati bo'yicha qanday?
++ Aerob va fakultativ anaerob, 37 °C
+- Qat'iy anaerob sharoitda, 55 °C da
+- Mikroaerofil sharoitda, 4 °C da
+- Kapnofil sharoitda, 22 °C da
+- Qat'iy aerob sharoitda, 56 °C da
+! Kuydirgi qo'zg'atuvchisi aerob va fakultativ anaerob sharoitda o'sadi, optimal harorat 37 °C atrofida
+@ M JAW
+
+# 161
+
+? Kuydirgi qo'zg'atuvchisi uchun tabiiy rezervuar qaysi?
++ Tuproq
+- Daryo suvi
+- Havo oqimi
+- Hasharot tanasi
+- Dengiz suvi
+! Tuproq kuydirgi qo'zg'atuvchisi uchun tabiiy rezervuar hisoblanadi, kasallik endemik hududlarda uchraydi
+@ M JAW WHODW
+
+? O'lgan hayvonni yorish nima uchun qat'iyan taqiqlanadi?
++ Sporalar chiqib, tuproqni ifloslaydi
+- Go'sht tez buzilib, hidlanib ketadi
+- Terisi qimmatini yo'qotib qo'yadi
+- Qoni tezda ivib, quyuqlashadi
+- Ichagi kengayib, shishib qoladi
+! O'lik hayvon yorilganda sporalar tashqariga chiqib, tuproqni ifloslantiradi va yangi o'choq yaratadi
+@ M JAW WHODW
+
+? Bacillus anthracis sporalari tuproqda qancha saqlanishi mumkin?
++ O'nlab yillargacha
+- Soatlar davomida saqlanadi
+- Kunlar davomida saqlanadi
+- Haftalar davomida saqlanadi
+- Oylar davomida saqlanadi
+! Sporalar quruq tuproqda va hayvon mahsulotlarida uzoq vaqt, ba'zan o'nlab yillar davomida tirik qolishi mumkin
+@ M JAW
+
+? Sporalar tuproq yuzasiga qanday ko'tariladi?
++ Yomg'ir, shudgor va qurilish bilan
+- Sovuq havo oqimi va qor yog'ishi bilan
+- Quyosh nuri va kuchli issiqlik bilan
+- Kuchsiz shamol va tuman havosi bilan
+- Hayvonlar nafasi va terlashi bilan
+! Yomg'ir, suv oqimi, shudgorlash yoki qurilish ishlari sporalarni yuzaga ko'taradi va yangi yuqish xavfini tug'diradi
+@ M JAW
+
+? Kuydirgining eng ko'p uchraydigan shakli qaysi?
++ Teri shakli
+- Nafas yo'li shakli
+- Ichak shakli
+- Meningeal shakl
+- Ko'z shakli
+! Teri orqali yuqish kuydirgining eng ko'p uchraydigan shakli hisoblanadi
+@ M JAW WHODW
+
+? Teri kuydirgisida yara qanday ko'rinadi?
++ Pufakchadan og'riqsiz yara va qora qobiq
+- Og'riqli yiringli yara va sariq qobiq
+- Qizil shishgan dog' va oq qobiq
+- Suvli yirik pufak va ko'k qobiq
+- Tubi chuqur yara va yashil qobiq
+! Qichishish yoki qizil dog'dan pufakcha, so'ng og'riqsiz yara va qora qobiq paydo bo'ladi, shu sababli "qora yara" deyiladi
+@ M JAW WHODW
+
+? Kuydirgining eng xavfli shakli qaysi?
++ Nafas yo'li shakli
+- Teri orqali yuqish shakli
+- Ichak orqali yuqish shakli
+- Ko'z orqali yuqish shakli
+- Quloq orqali yuqish shakli
+! Nafas yo'li orqali yuqish kuydirgining eng xavfli shakli hisoblanadi
+@ M JAW WHODW
+
+? "Junchilar kasalligi" nomi qaysi shaklga berilgan?
++ Nafas yo'li kuydirgisiga
+- Teri kuydirgisiga
+- Ichak kuydirgisiga
+- Miya pardasi shakliga
+- Qon zaharlanishi shakliga
+! Jun tarash paytida sporalar aerozol holida nafas yo'liga kirishi mumkin; tarixda bu "junchilar kasalligi" deyilgan
+@ M JAW WHODW
+
+? Nafas yo'li kuydirgisida sporalar o'pkaga tushgach qayerga boradi?
++ Makrofagga, so'ng limfa tuguniga
+- Jigarga tushib, o't pufagiga
+- Buyrakka o'tib, siydik pufagiga
+- Miyaga o'tib, miya qorinchasiga
+- Taloqqa o'tib, suyak iligiga
+! Sporalar o'pkada makrofaglar tomonidan yutiladi va limfa yo'llari orqali mediastinal limfa tugunlariga yetib boradi
+@ M JAW
+
+? Sporalarni yo'q qilish uchun nima kerak?
++ Maxsus dezinfeksiya rejimi
+- Oddiy sovun bilan yuvish
+- Oddiy suv bilan chayish
+- Spirt bilan artib chiqish
+- Shamollatib quritib qo'yish
+! Oddiy dezinfeksiyalovchi vositalar sporalarga ta'sir qilmasligi mumkin, shu sababli maxsus dezinfeksiya rejimlari kerak
+@ M JAW CDCSTER
+
+# 162
+
+? Kuydirgi meningiti belgilarida qaysi material olinadi?
++ Likvor (orqa miya suyuqligi)
+- Siydik namunasi (buyrakdan olingan)
+- Najas namunasi (ichakdan olingan)
+- Balg'am namunasi (o'pkadan olingan)
+- Tupurik namunasi (og'izdan olingan)
+! Meningit belgilari bo'lsa, orqa miya suyuqligi (likvor) olinadi
+@ M JAW
+
+? Ichak kuydirgisida qaysi namunalar tekshirilishi mumkin?
++ Axlat va qusuq namunalari
+- Teri yarasi qirindisi namunasi
+- Siydik va likvor namunalari
+- Balg'am va qon namunalari
+- Soch va tirnoq namunalari
+! Oshqozon-ichak shaklida axlat va qusuq namunalari tekshirilishi mumkin
+@ M JAW
+
+? Kasallikning dastlabki davrida qaysi material muhim?
++ Qon kulturasi
+- Najas kulturasi
+- Siydik kulturasi
+- Soch namunasi
+- Tupurik namunasi
+! Qon kulturasi kasallikning dastlabki davrida muhim, chunki bu paytda bakteriemiya kuchli bo'lishi mumkin
+@ M JAW
+
+? Namuna olishda antibiotik haqida qaysi qoida?
++ Antibiotikdan oldin olinadi
+- Davo tugagandan keyin olinadi
+- Dozasi oshgach olinadi
+- Hisobga olinmay olinadi
+- Bir hafta o'tib olinadi
+! Namuna olish bemorga antibiotik berilishidan oldin amalga oshirilishi afzal
+@ M JAW
+
+? Kuydirgi namunasi qanday tashiladi?
++ Zich idishda, ikki qavatli qadoqda
+- Ochiq idishda, bir qavatli qadoqda
+- Oddiy shisha idishda, qadoqsiz
+- Qog'oz xaltada, quruq holatda
+- Plastik stakanda, ochiq holatda
+! Namuna zich yopiladigan idishda, ikki qavatli qadoqda tashiladi; idish yuzasi dezinfeksiya qilinadi, sizib chiqmasligi shart
+@ M JAW WHOLBM
+
+? Dastlabki klinik namunalarni qayta ishlash odatda qaysi xavfsizlik darajasida bajariladi?
++ BSL-2, xavfsizlik shkafida
+- BSL-1, ochiq stolda
+- BSL-4, to'liq izolyatsiyada
+- BSL-0, himoyasiz
+- BSL-2, ochiq stolda
+! Dastlabki klinik namunalar odatda BSL-2 sharoitida xavfsizlik shkafida, kultura va sporali materiallar esa BSL-3 da qayta ishlanadi
+@ M WHOLBM
+
+? Kuydirgi kulturasi va sporali materiallar bilan ishlash qaysi darajada bajariladi?
++ BSL-3 talablariga mos binoda
+- BSL-1 talablariga mos binoda
+- BSL-2 talablariga mos ochiq stolda
+- Oddiy xonada, himoyasiz
+- Ochiq maydonda, himoyasiz
+! Qo'zg'atuvchi kulturasi va sporali materiallar bilan ishlash BSL-3 talablariga mos binoda bajariladi
+@ M WHOLBM
+
+? Surtma Gram usulida bo'yalganda nima ko'rinadi?
++ Katta Gram-musbat zanjirli tayoqcha
+- Mayda Gram-manfiy juft joylashgan kokk
+- Uzum shingilsimon Gram-musbat kokk
+- Vergulsimon Gram-manfiy tayoqcha
+- Spiralsimon Gram-manfiy ingichka shakl
+! Preparatda katta Gram-musbat tayoqchalar, ko'pincha zanjirlar shaklida ko'rinadi — kuydirgi uchun xarakterli
+@ M JAW
+
+? M'Fadyean usulida kapsula va hujayra qanday ko'rinadi?
++ Kapsula pushti-qizil, hujayra ko'k
+- Kapsula ko'k, hujayra pushti-qizil
+- Kapsula yashil, hujayra sariq rangda
+- Kapsula qora, hujayra rangsiz holda
+- Kapsula sariq, hujayra yashil rangda
+! Bu usulda kapsula pushti yoki qizil, bakteriya tanasi esa ko'k rangda ko'rinadi
+@ M JAW
+
+? Mikroskopik natijaga nisbatan qaysi gap to'g'ri?
++ Tez, lekin yakuniy tashxis uchun yetarli emas
+- Eng sekin, lekin yakuniy tashxis uchun yetarli
+- Tez va yakuniy tashxis uchun yetarli
+- Sekin va yakuniy tashxis uchun yetarli emas
+- Mikroskopiya qo'llanmaydi
+! Mikroskopik natija tez, ammo yakuniy tashxis uchun yetarli emas; kultura va boshqa testlar bilan tasdiqlanadi
+@ M JAW
+
+? Hayvon jasadini yorish haqida qaysi gap to'g'ri?
++ Joyida to'qima olish man etiladi
+- Joyida to'qima olish tavsiya etiladi
+- Joyida to'qima olish majburiy hisoblanadi
+- Joyida to'qima olish ruxsat etilgan
+- Joyida to'qima olish oddiy hisoblanadi
+! Jasadni yorish va to'qimalarni joyida olish qat'iyan man etiladi, chunki sporalar atrofni ifloslantiradi
+@ M JAW WHODW
+
+# 163
+
+? Kuydirgida epidemiologik anamnezda qaysi omil xavf tug'diradi?
++ O'lgan hayvon go'shti, terisi bilan ish
+- Qaynatilgan sut ichish odati va tartibi
+- Toza suv ichish odati va tartibi
+- Pishgan non yeyish odati va tartibi
+- Quruq meva iste'mol qilish odati
+! Hayvonlar bilan aloqa, o'lgan hayvon go'shti yoki terisi bilan ishlash va teri-jun kasblari xavf omillari
+@ M JAW WHODW
+
+? Nafas yo'li kuydirgisida rentgenogrammada nima ko'rinishi mumkin?
++ O'rta bo'shliq (mediastinum) kengayishi
+- O'pka uchlarida kavernalar paydo bo'lishi
+- Yurak hajmining kichrayib ketishi
+- Qovurg'alarning sinishi va ajralishi
+- Diafragmaning pastga tushib ketishi
+! Nafas yo'li shaklida o'rta bo'shliq (mediastinum) kengayishi ko'krak qafasi rentgenogrammasida ko'rinishi mumkin
+@ M JAW
+
+? Namuna olishda majburiy himoya vositalari qaysilar?
++ Qo'lqop, niqob, xavfsizlik shkafi
+- Oddiy kiyim, ochiq stol, shaxsiy soat
+- Shaxsiy soat va sochni yig'ib qo'yish
+- Poyabzalni almashtirish va qo'l yuvish
+- Bosh kiyim kiyish va ko'zoynak taqish
+! Namuna olishda qo'lqop, niqob va biologik xavfsizlik shkafidan foydalanish majburiy
+@ M WHOLBM
+
+? B. anthracis surtmada qanday ko'rinadi?
++ Bambukka o'xshash zanjirli tayoqcha
+- Juft joylashgan loviyasimon kokk
+- Uzum shingili shaklidagi kokk
+- Egri vergulsimon tayoqcha shakli
+- Spiralsimon yupqa uzun shakl
+! B. anthracis yirik, uzun, zanjir hosil qiluvchi Gram-musbat tayoqchalar bo'lib, zanjirlar bambuk tayoqchasiga o'xshaydi
+@ M JAW
+
+? Mikroskopiya natijasi nima uchun yakuniy tashxis bo'la olmaydi?
++ B. cereus ham o'xshash ko'rinadi
+- Kuydirgi tayoqchasi umuman ko'rinmaydi
+- Surtma doim sifatsiz tayyorlanadi
+- Kapsula hech qachon ko'rinmaydi
+- Gram usuli bu mikrobga ishlamaydi
+! Boshqa Bacillus turlari, masalan B. cereus, ham o'xshash ko'rinishda bo'lishi mumkin, shuning uchun madaniy tekshiruv zarur
+@ M JAW
+
+? Kuydirgi koloniyalari mikroskop ostida qanday ataladi?
++ "Meduza boshi"
+- "Qovurilgan tuxum"
+- "Uzum shingili"
+- "Ipak tola"
+- "Yulduzcha"
+! Kichik kattalashtirishda koloniya chetlari o'ralgan sochlarga o'xshaydi, bu "meduza boshi" deb ataladi
+@ M JAW
+
+? B. anthracis va gemolitik B. cereus ni nima farqlaydi?
++ B. anthracis gemoliz hosil qilmaydi
+- B. anthracis kuchli gemoliz hosil qiladi
+- B. anthracis xivchinli, harakatchan
+- B. cereus harakatsiz, kapsulali
+- B. anthracis sporasiz, kapsulasiz
+! B. anthracis odatda gemoliz hosil qilmaydi va harakatsiz, B. cereus esa gemolitik va harakatchan
+@ M JAW
+
+? B. anthracis qaysi fag bilan eriydi?
++ Gamma-fag bilan
+- Alfa-fag bilan
+- Beta-fag bilan
+- Delta-fag bilan
+- Lambda-fag bilan
+! Qo'zg'atuvchi harakatsiz bo'lib, maxsus gamma-fag bilan eriydi va penitsillinga sezgir
+@ M JAW
+
+? Ascoli termopretsipitatsiya testi hozirgi kunda qanday ahamiyatga ega?
++ Tarixiy, hozir molekulyar usul ustun
+- Hozirgi asosiy va yagona usul hisoblanadi
+- Chaqaloqlarda qo'llanadigan maxsus usul
+- Hayvonlarda qo'llanadigan maxsus usul
+- Hozir ham yagona tasdiqlovchi usul
+! Ascoli termopretsipitatsiya testi tarixan qo'llangan, hozirgi kunda asosan molekulyar va immunologik usullar ishlatiladi
+@ M
+
+? Madaniy tekshiruv qaysi darajadagi xonada bajariladi?
++ BSL-3 darajasidagi xonada
+- BSL-1 darajasidagi xonada
+- Oddiy xonada
+- Ochiq maydonda
+- BSL-0 xonasida
+! B. anthracis gumon qilinganda madaniy tekshiruv BSL-3 darajasidagi xonada bajariladi, chunki havo orqali yuqadigan sporalar hosil qiladi
+@ M WHOLBM
+
+? Kuydirgi ekmalari qanday sharoitda o'stiriladi?
++ Qon agarida 35–37 °C da 24 soat
+- Endo agarida 22 °C da 5 kun
+- Sabouraud agarida 4 °C da 7 kun
+- Manitli agarda 56 °C da 1 soat
+- Levin agarida 42 °C da 10 daqiqa
+! Namuna qon agarida ekiladi va 35–37 °C haroratda, odatda 24 soat davomida o'stiriladi
+@ M JAW
+
+# 164
+
+? Kuydirgini davolashda antibiotik qachon boshlanadi?
++ Iloji boricha tez
+- Laboratoriya natijasini kutib, kechroq
+- Kasallik og'irlashganda
+- Sog'ayganida profilaktik
+- Bir hafta o'tgach
+! Davolashni iloji boricha tez boshlash lozim, chunki kechikish kasallikning og'irlashishiga olib keladi
+@ M JAW CDCSTI
+
+? Antibiotik tanlovi nimaga asoslanadi?
++ Shtamm sezuvchanligi va allergiyaga
+- Dori narxi va qadoqlanishiga qarab
+- Dori rangi va ta'miga qarab belgilanadi
+- Bemor yoshiga qarab, boshqasiz holda
+- Shifokorning shaxsiy odatiga qarab
+! Penitsillin odatda ta'sirchan, lekin har bir shtammning sezgirligi tekshiriladi, tanlovda dori allergiyasi ham hisobga olinadi
+@ M JAW EUCAST
+
+? Antibiotiklar toksinlarga qanday ta'sir qiladi?
++ Hosil toksinni darhol to'xtatmaydi
+- Hosil toksinni darhol zararsizlantiradi
+- Toksinni qaytadan hosil bo'ldiradi
+- Toksin ta'sirini kuchaytirib yuboradi
+- Toksinni sporaga aylantirib yuboradi
+! Antibiotiklar bakteriyani o'ldiradi, lekin allaqachon hosil bo'lgan toksin ta'sirini darhol to'xtatmaydi
+@ M JAW
+
+? Nafas yo'li kuydirgisida toksinga qarshi qaysi dorilar qo'llanishi mumkin?
++ Obiltoksimab, raksibakumab
+- Penitsillin, ampitsillin guruhidagi dori
+- Gentamitsin, streptomitsin guruhidagi dori
+- Eritromitsin, azitromitsin guruhidagi dori
+- Rifampitsin, izoniazid guruhidagi dori
+! Og'ir holatlarda toksinga qarshi monoklonal antitelalar (obiltoksimab, raksibakumab) antibiotiklar bilan birga tavsiya etiladi
+@ M CDCSTI JAW
+
+? Antibiotik kursi qanday yakunlanishi kerak?
++ Belgilangan muddat davomida to'liq
+- Belgilar yo'qolishi bilan darhol
+- Bir-ikki dozadan keyin to'xtatib
+- Bemor xohlagan paytda to'xtatib
+- Dastlabki kunlarda to'xtatib qo'yib
+! Antibiotiklar kursi shifokor belgilagan muddat davomida to'liq yakunlanishi kerak, aks holda kasallik qaytalanishi mumkin
+@ M JAW
+
+? Teri kuydirgisida nekrotik joyni kesib olish haqida qaysi gap to'g'ri?
++ Odatda shart emas, antibiotik yetarli
+- Doimo majburiy, birinchi chora sifatida
+- Doimo birinchi chora, antibiotiksiz
+- Hech qachon qilinmaydi, hatto zarur bo'lsa
+- Bolalarga qilinadi, kattalarga qilinmaydi
+! Teri shaklida nekrotik joyni agressiv kesib olish odatda shart emas, chunki antibiotiklar ko'pincha yetarli bo'ladi
+@ M JAW
+
+? Qo'llab-quvvatlovchi davolash nimalarni o'z ichiga oladi?
++ Nafas, suyuqlik, shokka qarshi chora
+- Parhez, massaj va issiq vanna
+- Uyqu, sovuq kompress va sayr
+- Vitamin, o'simlik choyi va dam olish
+- Fizioterapiya, ichimlik va tinchlik
+! Qo'llab-quvvatlovchi davolash nafas olishni ta'minlash, suyuqlik va elektrolit muvozanatini saqlash hamda shokka qarshi choralarni o'z ichiga oladi
+@ M JAW
+
+? Kuydirgiga qarshi emlash kimlarga qaratilgan?
++ Xavf ostida ishlovchilarga
+- Yangi tug'ilgan bolalarning barchasiga
+- Kattalarning barchasiga, har yili
+- Sportchilarga, musobaqadan oldin
+- Homilador ayollarga, har trimestrda
+! Emlash asosan xavf ostida ishlaydiganlarga: veterinariya xodimlari, hayvon terisi va junini qayta ishlovchilar va laboratoriya xodimlari
+@ M JAW
+
+? Hozirgi kuydirgi vaksinasi qaysi antigenga asoslanadi?
++ Himoya (protektiv) antigeniga
+- Kapsula polisaxaridi antigeniga
+- Xivchin oqsili antigeniga
+- Pili oqsili antigeniga
+- Lipopolisaxarid antigeniga
+! Hozirda qo'llanadigan adsorbsiyalangan vaksina asosan B. anthracis ning himoya antigeniga tayanadi
+@ M JAW
+
+? Kuydirgi emlash sxemasi qanday?
++ Bir necha doza va revaksinatsiya
+- Bitta doza, umrbod himoya beradi
+- Har kuni doza, bir oy davomida
+- Tug'ilganda bir marta emlanadi
+- Kasallanganda bir marta emlanadi
+! Emlash sxemasi bir necha dozadan iborat bo'lib, immunitetni saqlash uchun vaqti-vaqti bilan revaksinatsiya talab etiladi
+@ M JAW

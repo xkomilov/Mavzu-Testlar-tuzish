@@ -1,0 +1,363 @@
+# 004
+? Organizmlarning qarindoshlik munosabatlarini aniqlaydigan soha qaysi?
++ Taksonomiya
+- Nomenklatura
+- Epidemiologiya
+- Immunologiya
+- Farmakologiya
+! Taksonomiya organizmlarning qarindoshlik munosabatlarini aniqlaydi, nomenklatura esa nomlash qoidalarini belgilaydi
+@ M JAW
+
+? Bakteriologiyada asosiy amaliy tasnif birligi qaysi?
++ Tur
+- Domen
+- Tip
+- Sinf
+- Tartib
+! Laboratoriya tashxisi odatda aniq turni aniqlashga qaratilgani uchun bakteriologiyada asosiy amaliy birlik tur hisoblanadi
+@ M JAW
+
+? Ko'pchiligi ekstremal sharoitlarda yashaydigan va peptidoglikan tutmaydigan domen qaysi?
++ Archaea
+- Bacteria
+- Eukarya
+- Protista
+- Fungi
+! Arxeyalarning ko'pchiligi ekstremal sharoitlarda yashaydi va hujayra devorida peptidoglikan tutmaydi, haqiqiy bakteriyalarda esa peptidoglikan bor
+@ M BROCK WOESE
+
+? Mikroorganizmning ilmiy nomi qanday yoziladi?
++ Avlod nomi bosh harf bilan, tur epiteti kichik harf bilan, qiya shriftda
+- Avlod nomi kichik harf bilan, tur epiteti bosh harf bilan, qiya shriftda
+- Ikkala so'z ham bosh harf bilan, qiya shriftda
+- Ikkala so'z ham kichik harf bilan, qalin shriftda
+- Avlod nomi bosh harf bilan, tur epiteti kichik harf bilan, qalin shriftda
+! Ilmiy nom lotin tilida binar tizimda yoziladi: avlod nomi bosh harf, tur epiteti kichik harf bilan, ikkalasi ham qiya shriftda
+@ M PARKER
+
+? Mikroorganizmlarni binar tizimda nomlashni XVIII asrda kim joriy etgan?
++ Karl Linney
+- Karl Voz
+- Robert Kox
+- Lui Paster
+- Ferdinand Kon
+! Binar nomenklatura tizimini XVIII asrda Karl Linney joriy etgan va u hozir ham qo'llanadi
+@ M LINN
+
+? Bakteriyalar va arxeyalarni tasniflashda keng qo'llanadigan gen qaysi?
++ 16S rRNK geni
+- Gemolizin geni
+- Beta-laktamaza geni
+- Insulin geni
+- Gemagglyutinin geni
+! 16S rRNK geni ketma-ketligini tahlil qilish bakteriyalar va arxeyalarni tasniflashda keng qo'llanadi
+@ M BROCK WOESE
+
+? Salmonella avlodida shtammlarni seroturlarga ajratish uchun qaysi tizim qo'llanadi?
++ Kauffmann–White tizimi (antigen formulasi)
+- Gram tizimi (bo'yalish tabiati bo'yicha)
+- Kox tizimi (postulatlar asosida)
+- Linney tizimi (binar nomlash asosida)
+- Schaeffer–Fulton tizimi (spora bo'yash)
+! Salmonella shtammlari antigen formulasiga asoslangan Kauffmann–White tizimi bo'yicha seroturlarga ajratiladi
+@ M KAUFF
+
+? PFGE va MLST usullari qaysi maqsadda qo'llanadi?
++ Tur ichidagi farqlarni aniqlab, yuqish zanjirini kuzatish uchun
+- Bakteriyalarni gram-musbat va gram-manfiyga ajratish uchun
+- Oziqa muhitining vodorod ion konsentratsiyasini nazorat qilish uchun
+- Antibiotikning minimal ingibitor konsentratsiyasini topish uchun
+- Sporalarni maxsus bo'yoq bilan bo'yab aniqlash uchun
+! PFGE va MLST epidemiologik tiplash usullari bo'lib, tur ichidagi farqlarni aniqlaydi va yuqish zanjirini aniqlashga yordam beradi
+@ M JAW
+
+? Uch domenli tizimda viruslarga nisbatan qanday yondashuv qabul qilingan?
++ Hujayrali organizmlar tasnifiga kiritilmay, alohida tizim asosida tasniflanadi
+- Bacteria domeniga kiritiladi, chunki ular prokariot hujayra tuzilishiga ega
+- Eukarya domeniga kiritiladi, chunki ular yadroli hujayrada ko'payadi
+- Archaea domenining alohida tartibi sifatida tasniflanadi
+- Peptidoglikan tutishiga qarab gram-musbat bakteriyalar qatoriga qo'shiladi
+! Viruslar hujayra tuzilishiga ega emas, shu sababli an'anaviy ravishda hujayrali organizmlar tasnifiga kiritilmaydi
+@ M JAW
+
+? Escherichia coli nomidagi "Escherichia" so'zi tasnifning qaysi birligini bildiradi?
++ Avlodni
+- Turni
+- Oilani
+- Shtammni
+- Serovarni
+! Binar nomning birinchi so'zi avlod nomi, ikkinchisi tur epiteti; Escherichia coli — Escherichia avlodiga mansub tur
+@ M PARKER
+
+# 005
+? Bakteriyalarda genetik material qayerda va qanday shaklda joylashadi?
++ Nukleoidda, bitta sirkulyar qo'sh zanjirli DNK molekulasi shaklida
+- Yadro membranasi bilan o'ralgan yadroda, chiziqli xromosomalar shaklida
+- Mitoxondriyada, bir zanjirli RNK molekulalari shaklida
+- Ribosomalarda, qisqa peptid zanjirlari shaklida
+- Sitoplazmatik membrana ichida, lipid qavatlar shaklida
+! Bakteriyalarda haqiqiy yadro yo'q; genetik material nukleoidda bitta sirkulyar qo'sh zanjirli DNK molekulasi sifatida joylashadi
+@ M BROCK
+
+? Gram-musbat bakteriyalar hujayra devori qanday tuzilgan?
++ Peptidoglikan qavati qalin, teyxoy kislotalari uchraydi
+- Peptidoglikan qavati yupqa, tashqarisida tashqi membrana bor
+- Peptidoglikan umuman yo'q, devor faqat lipoproteindan iborat
+- Peptidoglikan qavati qalin, tashqi membranada LPS joylashgan
+- Devor o'rniga faqat polisaxarid kapsula bo'ladi
+! Gram-musbat bakteriyalarda peptidoglikan qavati qalin va teyxoy kislotalari uchraydi, tashqi membrana bo'lmaydi
+@ M JAW
+
+? Gram-manfiy bakteriyalar tashqi membranasidagi lipopolisaxarid (LPS) qanday ta'sir qiladi?
++ Endotoksin sifatida
+- Ekzotoksin sifatida
+- Kapsula sifatida
+- Harakat organellasi sifatida
+- Spora po'sti sifatida
+! Gram-manfiy bakteriyalar tashqi membranasidagi LPS endotoksin vazifasini bajaradi
+@ M JAW
+
+? Bakteriya ribosomalarining sedimentatsiya koeffitsiyenti va kichik birliklari qaysi?
++ 70S: 30S va 50S
+- 80S: 40S va 60S
+- 70S: 40S va 60S
+- 80S: 30S va 50S
+- 60S: 20S va 40S
+! Bakteriya ribosomalari 70S bo'lib, 30S va 50S birliklardan iborat; eukariot ribosomalari esa 80S
+@ M BROCK
+
+? Tetratsiklinlar bakteriya ribosomasining qaysi kichik birligiga ta'sir qiladi?
++ 30S
+- 50S
+- 40S
+- 60S
+- 80S
+! Tetratsiklinlar 30S birlikka, makrolidlar esa 50S birlikka ta'sir qiladi
+@ M JAW
+
+? Penitsillin va sefalosporinlar bakteriyaga qanday ta'sir qiladi?
++ Peptidoglikan sintezini buzib, hujayrani devorsiz qoldiradi
+- Ribosomaning 30S birligiga bog'lanib, oqsil sintezini to'xtatadi
+- DNK-girazani ingibirlab, replikatsiyani to'xtatadi
+- Membranada teshiklar hosil qilib, hujayra tarkibini chiqaradi
+- Foliy kislotasi sintezini bloklab, nukleotid hosil bo'lishini to'xtatadi
+! Beta-laktam antibiotiklar peptidoglikan sintezini buzib, bakteriyalarni devorsiz qoldiradi
+@ M JAW
+
+? Mikoplazmalar nima uchun penitsillin ta'siriga chidamli?
++ Hujayra devoriga ega emas, faqat sitoplazmatik membrana bilan o'ralgan
+- Qalin polisaxarid kapsula bilan to'liq o'ralgan, shu sababli o'tkazmaydi
+- Doimo spora hosil qilib, dam holatida turadi, devor sintezi yo'q
+- Ribosomalari eukariotlarniki kabi 80S bo'lib, devor sintezi bo'lmaydi
+- Tashqi membranasida porinlar juda ko'p, antibiotik o'tmaydi
+! Mikoplazmalarda hujayra devori yo'q, penitsillin esa devor sintezini buzadi, shuning uchun ular unga chidamli
+@ M JAW
+
+? Plazmidalarning asosiy xususiyati qaysi?
++ Nukleoiddan tashqaridagi halqasimon DNK bo'lib, chidamlilik genlarini olib yuradi
+- Spora ichidagi himoya oqsillari bo'lib, DNKni ultrabinafsha nurdan saqlaydi
+- Hujayra devori tarkibidagi polisaxarid bo'lib, hujayra shaklini belgilaydi
+- Sitoplazmadagi zaxira donalari bo'lib, glikogen va polifosfat to'playdi
+- Xivchin tarkibidagi oqsil bo'lib, hujayra harakatini ta'minlaydi
+! Plazmidalar nukleoiddan tashqaridagi kichik halqasimon DNK molekulalari bo'lib, ko'pincha antibiotiklarga chidamlilik genlarini olib yuradi va konyugatsiya orqali o'tadi
+@ M JAW
+
+? Bakteriya xivchinlari qaysi oqsildan tuzilgan?
++ Flagellin oqsili
+- Pilin oqsili
+- Murein polimeri
+- Lizozim fermenti
+- Kollagen tolalari
+! Xivchinlar harakat organellalari bo'lib, flagellin oqsilidan tuzilgan
+@ M BROCK
+
+? Pililar (fimbriyalar) qanday vazifani bajaradi?
++ Yuzaga yopishish va konyugatsiyani ta'minlaydi
+- Noqulay sharoitda dam holatini ta'minlaydi
+- Fagositozdan himoya qiluvchi qavat hosil qiladi
+- Nafas olish zanjiri fermentlarini joylashtiradi
+- Oqsil sintezini amalga oshiradi
+! Pililar yuzaga yopishish va konyugatsiya uchun xizmat qiladi
+@ M JAW
+
+# 006
+? Spora hosil qiluvchi bakteriyalar asosan qaysi avlodlarda uchraydi?
++ Bacillus va Clostridium
+- Staphylococcus va Streptococcus
+- Escherichia va Salmonella
+- Vibrio va Pseudomonas
+- Neisseria va Haemophilus
+! Sporalar asosan Bacillus va Clostridium avlodlari vakillarida hosil bo'ladi
+@ M JAW
+
+? Sporulyatsiya jarayoni odatda qaysi sharoitda boshlanadi?
++ Oziq moddalar yetishmasligi kabi stress sharoitida
+- Oziq moddalar mo'l va harorat qulay bo'lganda
+- Bakteriya organizmga tushgan zahotiyoq
+- Antibiotik ta'sirida, bakteriya ko'payayotgan davrda
+- Logarifmik fazada, bo'linish eng tez borayotgan vaqtda
+! Sporulyatsiya oziq moddalar yetishmasligi, harorat o'zgarishi kabi stress sharoitida boshlanadi
+@ M BROCK
+
+? Spora yadrosida ko'p miqdorda uchraydigan va DNK hamda oqsillarni barqarorlashtiradigan modda qaysi?
++ Kalsiy dipikolinat
+- Natriy glutamat kislotasi
+- Magniy sulfat eritmasi
+- Kaliy fosfat buferi
+- Temir sitrat kompleksi
+! Spora yadrosida kalsiy dipikolinat ko'p bo'ladi va DNK hamda oqsillarni barqarorlashtiradi
+@ M BROCK
+
+? Spora qavatlari tashqaridan ichkariga qaysi tartibda joylashgan?
++ Ekzosporium, po'st, korteks, yadro
+- Po'st, ekzosporium, yadro, korteks
+- Korteks, ekzosporium, po'st, yadro
+- Yadro, korteks, po'st, ekzosporium
+- Ekzosporium, korteks, yadro, po'st
+! Tashqarida yupqa ekzosporium, undan ichkarida spora po'sti, so'ng korteks va markazda yadro joylashgan
+@ M BROCK
+
+? An'anaviy avtoklavda sporalarni ham yo'q qilish uchun odatda qaysi rejim qo'llanadi?
++ 121 °C harorat va taxminan 15 lb/in² bosim
+- 100 °C harorat va atmosfera bosimi
+- 80 °C harorat va taxminan 5 lb/in² bosim
+- 60 °C harorat va taxminan 1 lb/in² bosim
+- 180 °C harorat va taxminan 30 lb/in² bosim
+! Laboratoriyada sterilizatsiya uchun avtoklavda 121 °C va taxminan 15 lb/in² bosim qo'llanadi; aniq rejim jihoz ko'rsatmasiga bog'liq
+@ M CDCSTER
+
+? Schaeffer–Fulton usulida spora va vegetativ hujayra qanday rangda ko'rinadi?
++ Spora yashil, vegetativ hujayra qizil-pushti
+- Spora qizil-pushti, vegetativ hujayra yashil
+- Spora binafsha, vegetativ hujayra rangsiz
+- Spora qizil, vegetativ hujayra ko'k
+- Spora ko'k, vegetativ hujayra sariq
+! Malaxit yashili va safranin bilan bo'yalganda spora yashil, vegetativ hujayra qizil-pushti ko'rinadi
+@ M SCHAEF
+
+? Sporaning vegetativ hujayraga aylanishi nima deb ataladi?
++ Germinatsiya
+- Sporulyatsiya
+- Konyugatsiya
+- Transformatsiya
+- Transduksiya
+! Sporaning qulay sharoitda vegetativ hujayraga aylanishi germinatsiya deyiladi
+@ M BROCK
+
+? Clostridium tetani sporalari bakteriya hujayrasida qayerda joylashadi?
++ Hujayra uchida
+- Hujayra markazida
+- Hujayra devori ichida
+- Kapsula tashqarisida
+- Nukleoid ichida
+! Clostridium tetani sporalari hujayra uchida joylashadi, spora joylashuvi turga xos belgi hisoblanadi
+@ M JAW
+
+? Sporalari tuproqda ko'p yillar saqlanadigan Bacillus anthracis qaysi kasallikni qo'zg'atadi?
++ Kuydirgi
+- Qoqshol
+- Botulizm
+- Gazli gangrena
+- Bo'g'ma
+! Bacillus anthracis kuydirgi qo'zg'atuvchisi bo'lib, sporalari tuproqda ko'p yillar saqlanishi mumkin
+@ M JAW
+
+? Namuna qisqa vaqt yuqori haroratga tutilsa, spora va vegetativ hujayralar qanday o'zgaradi?
++ Vegetativ hujayralar nobud bo'ladi, sporalar saqlanadi
+- Sporalar nobud bo'ladi, vegetativ hujayralar saqlanadi
+- Ikkala shakl ham bir xilda nobud bo'ladi
+- Ikkala shakl ham saqlanib, ko'payishi tezlashadi
+- Vegetativ hujayralar sporaga aylanib, tashxisdan chiqib ketadi
+! Qisqa muddatli issiqlik ishlovi vegetativ hujayralarni o'ldiradi, sporalar esa saqlanadi; bu usul sporali mikroblarni boshqa florasidan ajratishda qo'llanadi
+@ M JAW
+
+# 007
+? Bakteriya kapsulasi nima?
++ Hujayra devori tashqarisidagi zich polisaxarid yoki polipeptid qavat
+- Sitoplazmatik membrana ostidagi fosfolipid va oqsil qavat
+- Oqsil flagellindan tuzilgan harakat organellasi, tayoqcha shaklida
+- Spora ichidagi kalsiy dipikolinatga boy yadro qismi
+- Nukleoidni o'rab turuvchi ikki qavatli yadro membranasi
+! Kapsula ba'zi bakteriyalar hujayra devori tashqarisida hosil qiladigan zich, odatda polisaxarid yoki polipeptid qavatdir
+@ M JAW
+
+? Kapsulali bakteriyalarning koloniyalari qattiq muhitda qanday ko'rinadi?
++ Silliq, shilliq va yaltiroq
+- Qo'pol, burmali va xira
+- Mayda, quruq va kukunsimon
+- Yassi, quruq va ipsimon chekkali
+- Tiniq, rangsiz va nuqtasimon
+! Kapsulali shtammlar koloniyalari silliq, shilliq va yaltiroq, kapsulasiz shtammlarniki esa xira va qo'pol bo'ladi
+@ M JAW
+
+? Bacillus anthracis kapsulasi asosan nimadan tashkil topgan?
++ D-glutamat qoldiqlaridan iborat polipeptiddan
+- Teyxoy kislotalaridan iborat polisaxariddan
+- Lipopolisaxarid molekulalaridan
+- Peptidoglikan (murein) tarmoqlaridan
+- Flagellin oqsili subbirliklaridan
+! Ko'pchilik bakteriyalarda kapsula polisaxarid, Bacillus anthracis kapsulasi esa asosan D-glutamat qoldiqlaridan iborat polipeptiddir
+@ M JAW BROCK
+
+? Kapsulaning eng muhim vazifasi qaysi?
++ Hujayrani fagositozdan himoya qilish
+- Hujayrani suyuq muhitda harakatlantirish
+- Nafas olish zanjiri fermentlarini joylashtirish
+- Genetik ma'lumotni saqlash va uzatish
+- Spora hosil bo'lishini tezlashtirish
+! Zich kapsula makrofag va neytrofillarning bakteriya yuzasi bilan bog'lanishini qiyinlashtirib, fagositozdan himoya qiladi
+@ M JAW
+
+? Burri-Gins usulida kapsula qanday ko'rinadi?
++ Tush fonida hujayra atrofida yorug' halo ko'rinishida
+- Qizil fonda binafsha rangli qavat ko'rinishida
+- Yashil fonda hujayra atrofida sariq xoshiya ko'rinishida
+- Rangsiz fonda hujayra ichida qora nuqtalar ko'rinishida
+- Ko'k fonda hujayra yonida qizil dumaloq donalar ko'rinishida
+! Burri-Gins usulida tush bilan fon hosil qilinadi, kapsula esa hujayra atrofida yorug' halo bo'lib ko'rinadi
+@ M BURRI
+
+? Kvelling (Neyfeld) reaksiyasi nimaga asoslangan?
++ Maxsus antitelolar ta'sirida kapsula qalinlashib ko'rinishiga
+- Antibiotik ta'sirida hujayra devori erib, sferoplast hosil bo'lishiga
+- Eritrositlarning bakteriya antigeni ta'sirida yopishib qolishiga
+- Komplement bog'lanishi natijasida gemoliz yuz berishiga
+- Agar ichida presipitat chizig'i hosil bo'lib, ko'rinib qolishiga
+! Kvelling reaksiyasida kapsula antigeniga maxsus antitelo qo'shilganda kapsula qalinlashib ko'rinadi; usul pnevmokokk serotipini aniqlashda qo'llanadi
+@ M NEUF
+
+? Pnevmokokk serotiplari bir-biridan nimasi bilan ajraladi?
++ Kapsula polisaxaridlarining tuzilishi bilan
+- Hujayra devoridagi LPS tuzilishi bilan
+- Spora hosil qilish tezligi bilan
+- Ribosomalarining sedimentatsiya koeffitsiyenti bilan
+- Plazmidalarining o'lchami va soni bilan
+! Streptococcus pneumoniae serotiplari kapsula polisaxaridlarining tuzilishi bilan farqlanadi, bu serologik tiplashning asosidir
+@ M JAW
+
+? Konjugat vaksinalar nima uchun ishlab chiqilgan?
++ Kapsula polisaxaridiga yosh bolalardagi zaif immun javobni kuchaytirish uchun
+- Spora antigeniga qarshi sust immun javobni kuchaytirish uchun
+- Toksinlarni zararsizlantirib, anatoksin hosil qilish uchun
+- Virusga qarshi interferon sintezini oshirib, hujayrani himoyalash uchun
+- Bakteriya xivchinlarini bloklab, harakatni to'xtatish uchun
+! Ba'zi kapsula polisaxaridlari T-hujayralarsiz antigen bo'lgani uchun yosh bolalarda javob sust; konjugatsiya javobni kuchaytiradi
+@ M JAW
+
+? Kapsulasi tufayli o'pka va siydik yo'llari infeksiyalarida muhim rol o'ynaydigan bakteriya qaysi?
++ Klebsiella pneumoniae
+- Corynebacterium diphtheriae
+- Clostridium tetani
+- Treponema pallidum
+- Borrelia recurrentis
+! Klebsiella pneumoniae kapsulasi tufayli o'pka va siydik yo'llari infeksiyalarida muhim rol o'ynaydi
+@ M JAW
+
+? Kapsulasi yo'qolgan mutant shtammlar odatda qanday bo'ladi?
++ Kamroq kasallik chaqiradi
+- Ko'proq kasallik chaqiradi, virulentligi ortadi
+- Spora hosil qilib, chidamliligi oshadi
+- Antibiotiklarga mutlaq chidamli bo'lib qoladi
+- Gram bo'yog'ini umuman qabul qila olmaydi
+! Kapsulasi yo'qolgan mutantlar odatda kamroq kasallik chaqiradi, bu kapsulaning patogenlikdagi rolini tasdiqlaydi
+@ M JAW

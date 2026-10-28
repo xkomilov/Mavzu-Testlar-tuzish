@@ -1,0 +1,454 @@
+# 047
+? Infeksiya manbalari qaysi guruhlarga bo'linadi?
++ Kasal odam, tashuvchi, hayvon va atrof-muhit obyektlari
+- Antibiotik, vaksina, zardob va bakteriofag preparatlari
+- Termostat, avtoklav, mikroskop va sentrifuga jihozlari
+- Oziqa muhiti, bo'yoq, reaktiv va steril idishlar
+- Kapsula, spora, xivchin va pilus tuzilmalari
+! Manbalar kasal odam, tashuvchi, hayvon va atrof-muhit obyektlariga bo'linadi
+@ M JAW
+
+? Yashirin tashuvchi kim?
++ Kasallik belgisi bo'lmasa ham mikrobni tarqatadigan odam
+- Kasallik belgisi yaqqol bo'lgan va davolanayotgan bemor
+- Mikrobni tashqariga umuman chiqarmaydigan sog'lom odam
+- Kasallikdan so'ng umrbod immunitet olgan odam
+- Emlangan va tanasida mikrobi qolmagan odam
+! Yashirin tashuvchi kasallik belgisi bo'lmasa ham mikrobni tarqatadi
+@ M JAW
+
+? Yashirin tashuvchilar qanday aniqlanadi?
++ Laboratoriya tekshiruvi yordamida
+- Oddiy tashqi ko'rik yordamida
+- Tana haroratini o'lchash yordamida
+- Bemor shikoyatlarini so'rash yordamida
+- Terining rangiga qarash yordamida
+! Yashirin tashuvchilar tekshiruvda faqat laboratoriya usullari bilan aniqlanadi
+@ M JAW
+
+? Zoonozlar qanday kasalliklar?
++ Hayvonlardan odamga yuqadigan kasalliklar
+- Odamdan odamga havo orqali yuqadigan kasalliklar
+- O'simliklardan odamga yuqadigan kasalliklar
+- Ifloslangan suv orqali ichakka tushadigan kasalliklar
+- Dori vositalaridan kelib chiqadigan kasalliklar
+! Hayvonlardan odamga yuqadigan kasalliklar zoonozlar deb ataladi
+@ M JAW
+
+? Quyidagi uchliklardan qaysi biri hayvonlar orqali yuqadi?
++ Kuydirgi, brutsellyoz va quturish
+- Dizenteriya, vabo va qorin tifi
+- Gripp, qizamiq va suvchechak
+- Zaxm, gonoreya va OITS
+- Bezgak, toshmali tif va chechak
+! Kuydirgi, brutsellyoz va quturish hayvonlar orqali yuqadigan zoonozlarga misol
+@ M JAW
+
+? Kemiruvchilar infeksiyalarda qanday rol o'ynaydi?
++ Ba'zi infeksiyalarning tabiiy rezervuari bo'ladi
+- Antibiotiklar ishlab chiqaruvchisi bo'ladi
+- Normal mikrofloraning doimiy tashuvchisi bo'ladi
+- Laboratoriyada steril hayvon vazifasini bajaradi
+- Mikroblarning tabiiy dushmani hisoblanadi
+! Kemiruvchilar ba'zi infeksiyalarning tabiiy rezervuari hisoblanadi
+@ M JAW
+
+? Pashsha va burga mikrobni qanday tashiydi va ular nima deyiladi?
++ Mexanik yoki biologik yo'l bilan; vektor deyiladi
+- Faqat biologik yo'l bilan; rezervuar deyiladi
+- Havo oqimi orqali; tashuvchi deyiladi
+- Qon so'rib; antagonist deyiladi
+- Toksin ajratib; simbiont deyiladi
+! Pashsha va burga mikrobni mexanik yoki biologik yo'l bilan tashiydi va kasallik tarqatuvchi vektor hisoblanadi
+@ M JAW
+
+? Tuproq qaysi mikroblarni uzoq vaqt saqlaydi?
++ Sporali mikroblarni
+- Gonokokk va meningokokklarni
+- Vabo vibrioni va shigellani
+- Viruslar va rikketsiyalarni
+- Treponema va leptospiralarni
+! Tuproq sporali mikroblarni uzoq vaqt saqlaydi
+@ M JAW
+
+? Infeksiya manbasini aniqlash uchun qaysi usullar birga qo'llanadi?
++ So'rov, laboratoriya tekshiruvi va molekulyar tahlil
+- Bemor ko'rinishiga qarab, laboratoriyasiz xulosa chiqarish
+- Termometr, tarozi va bo'y o'lchagich ko'rsatkichlarini qiyoslash
+- Dori narxi, sotuv hajmi va reklama ma'lumotlarini tahlil qilish
+- Ob-havo, yo'l holati va transport harakati ma'lumotlarini ko'rish
+! Manbani aniqlash uchun epidemiologik so'rov, laboratoriya tekshiruvi va mikrobning molekulyar tahlili birga qo'llanadi
+@ M JAW
+
+? Fagotiplash yoki genetik tahlil nimani ko'rsatishi mumkin?
++ Bir xil mikrob bir necha bemordan ajratilganini
+- Mikrob tarkibida antibiotik moddasi yo'qligini va faolligini
+- Bemor qonida antitelo hosil bo'lganini va miqdorini
+- Oziqa muhiti steril va yaroqli ekanini
+- Mikrobning spora hosil qilmasligi va kapsulasizligini
+! Shtamm tiplash bir xil mikrobning bir nechta bemordan ajratilganini ko'rsatishi mumkin, bu manba bilan bog'liqlikni aniqlashga yordam beradi
+@ M JAW
+
+# 048
+? Yuqish yo'llari qanday ikki guruhga bo'linadi?
++ Gorizontal va vertikal
+- Mahalliy va umumiy
+- Birlamchi va ikkilamchi
+- Aktiv va passiv
+- Tabiiy va sun'iy
+! Yuqish yo'llari odatda gorizontal va vertikal guruhlarga bo'linadi
+@ M JAW
+
+? Vertikal yuqish nima?
++ Onadan homilaga yoki avlodga o'tish
+- Odamdan odamga bevosita tegish orqali o'tish
+- Hasharot chaqishi orqali qonga o'tish
+- Suv va oziq-ovqat bilan ichakka o'tish
+- Havo tomchilari bilan nafas yo'liga o'tish
+! Vertikal yuqish onadan homilaga yoki boshqa avlodga o'tishdir
+@ M JAW
+
+? Vertikal yuqish qaysi davrlarda amalga oshishi mumkin?
++ Homiladorlik, tug'ruq yoki emizishda
+- Maktabda o'qish va dars tayyorlash davrida
+- Sport mashg'ulotlari va musobaqalar davrida
+- Tungi uyqu va kunduzgi dam olish davrida
+- Sayohat va yashash joyini ko'chirish davrida
+! Vertikal yuqish homiladorlik, tug'ruq yoki emizish davrida amalga oshishi mumkin
+@ M JAW
+
+? Havo-tomchi yo'lida mikroblar qanday chiqadi?
++ Yo'talganda, aksirganda yoki gaplashganda tomchi bilan
+- Qo'l berib ko'rishganda teri yuzasi orqali bevosita
+- Ifloslangan suv ichilganda ichak orqali
+- Hasharot chaqqanda teri ostidan qon orqali o'tib
+- Jinsiy aloqa vaqtida shilliq parda orqali
+! Havo-tomchi yo'lida mikroblar yo'talganda, aksirganda yoki gaplashganda kichik tomchilar bilan havoga chiqadi
+@ M JAW
+
+? Havo-tomchi infeksiyalarida qaysi profilaktik chora muhim?
++ Bemorlarni izolyatsiya qilish va niqob taqish
+- Suvni xlorlash va filtrlash
+- Hasharotlarga qarshi kurash olib borish
+- Go'shtni yaxshilab pishirib iste'mol qilish
+- Hayvonlarni veterinariya nazoratidan o'tkazish
+! Havo-tomchi infeksiyalarida kasal odamlarni izolyatsiya qilish va niqob taqish muhim profilaktik chora
+@ M JAW
+
+? Oziq-ovqat va suv orqali qaysi infeksiyalar yuqadi?
++ Salmonellyoz, shigelloz va vabo
+- Gripp, qizamiq va ko'kyo'tal
+- Zaxm, gonoreya va OITS
+- Bezgak, toshmali tif va chechak
+- Quturish, qoqshol va gazli gangrena
+! Oziq-ovqat va suv orqali yuqish ichak infeksiyalarining asosiy yo'li; salmonellyoz, shigelloz va vabo shunday yuqadi
+@ M JAW
+
+? Suvni xlorlash va filtrlash qaysi yo'l orqali yuqish xavfini kamaytiradi?
++ Suv orqali yuqish xavfini
+- Havo-tomchi orqali yuqish xavfini
+- Jinsiy yo'l bilan yuqish xavfini
+- Vertikal yuqish xavfini
+- Hasharot orqali yuqish xavfini
+! Suvni xlorlash va filtrlash oziq-ovqat va suv orqali yuqish xavfini kamaytiradigan muhim profilaktik choralardir
+@ M JAW
+
+? Kontakt yo'lida mikrob qanday o'tadi?
++ Teri yoki shilliq parda orqali bevosita o'tadi
+- Chang zarralari bilan nafas yo'liga o'tadi
+- Ichimlik suvi bilan ichakka o'tadi
+- Hasharot tanasida ko'payib o'tadi
+- Onadan homilaga yo'ldosh orqali o'tadi
+! Kontakt yo'lida mikrob teri yoki shilliq parda orqali bevosita odamga o'tadi
+@ M JAW
+
+? Kontakt infeksiyalarining oldini olishda asosiy chora qaysi?
++ Qo'l gigiyenasiga rioya qilish
+- Xonalarni ventilyatsiya qilish
+- Suvni xlorlab ichish
+- Emlash kalendariga amal qilish
+- Karantin muddatini cho'zish
+! Qo'l gigiyenasi kontakt infeksiyalarining oldini olishda asosiy chora hisoblanadi
+@ M JAW
+
+? Zoonoz infeksiyalarning asosiy yuqish shakllari qaysilar?
++ Hayvon bilan aloqa, chiqindilari yoki go'shtini noto'g'ri tayyorlash
+- Havo oqimi bilan nafas yo'liga tushish va tomoq orqali o'tish
+- Ifloslangan sabzavotlarni yuvmasdan iste'mol qilish va ichish
+- Jinsiy aloqa vaqtida shilliq pardalar orqali bevosita o'tish
+- Qon quyish yoki shprits orqali to'g'ridan-to'g'ri qonga o'tish
+! Hayvondan yuqadigan infeksiyalar uchun hayvon bilan to'g'ridan-to'g'ri aloqa, uning chiqindilari yoki go'shtini noto'g'ri tayyorlash asosiy shakllardir
+@ M JAW
+
+# 049
+? Kirish darvozasi nima?
++ Mikrob organizmga kiradigan nuqta
+- Mikrob organizmdan chiqadigan nuqta
+- Mikrob ko'payadigan oziqa muhiti
+- Mikrobni o'ldiradigan antiseptik joy
+- Mikrobni aniqlaydigan laboratoriya bo'limi
+! Mikrob organizmga kiradigan nuqtalar kirish darvozalari deb ataladi
+@ M JAW
+
+? Kirish darvozalari qanday ikki turga bo'linadi?
++ Tabiiy va sun'iy
+- Birlamchi va ikkilamchi
+- Ichki va tashqi
+- Doimiy va vaqtincha
+- Aktiv va passiv
+! Kirish darvozalari odatda tabiiy va sun'iy turlarga bo'linadi
+@ M JAW
+
+? Sun'iy kirish darvozalari qanday hosil bo'ladi?
++ Inyeksiya, jarohat, operatsiya yoki asbob orqali
+- Nafas olish, burun va halqum shilliq pardasi orqali
+- Ichimlik suvi va oziq-ovqat iste'moli orqali
+- Ko'z shilliq pardasi va og'iz bo'shlig'i orqali
+- Siydik chiqarish va ter ajralishi jarayonlari orqali
+! Sun'iy darvozalar inyeksiya, jarohat, operatsiya yoki tibbiy asbob orqali hosil bo'ladi
+@ M JAW
+
+? Nafas yo'llari orqali kirgan infeksiyada qaysi namuna olinadi?
++ Balg'am, tomoq surtmasi yoki bronxial yuvindi
+- Najas, rektal surtma yoki qusuq massasi
+- Siydik, uretra surtmasi yoki prostata sekreti
+- Yara ajralmasi, yiring yoki teri qirindisi
+- Qon, suyak ko'migi yoki orqa miya suyuqligi
+! Nafas yo'llari orqali kiradigan infeksiyalarda namuna balg'am, tomoq surtmasi yoki bronxial yuvindi bo'lishi mumkin
+@ M JAW
+
+? Ichak infeksiyalarida asosiy laboratoriya materiali qaysi?
++ Najas namunasi
+- Balg'am namunasi
+- Siydik namunasi
+- Tomoq surtmasi namunasi
+- Likvor namunasi
+! Ichak darvozasi orqali kiradigan infeksiyalarda najas namunasi asosiy material hisoblanadi
+@ M JAW
+
+? Teri jarohatlanganda mikroblar qanday kirishi mumkin?
++ Kesik, tirnalish yoki kuyish orqali teri ostiga o'tadi
+- Sog'lom teri g'ovaklari orqali ter bilan chiqib ketadi
+- Soch ildizi orqali hujayra yadrosiga o'tadi
+- Tirnoq plastinkasi orqali suyakka o'tadi
+- Teri pigmenti ichida ko'payib, yo'qoladi
+! Kesik, tirnalish, kuyish yoki boshqa jarohat orqali mikroblar teri ostiga o'tishi mumkin va ko'pincha yiringli infeksiyalarga sabab bo'ladi
+@ M JAW
+
+? Qaysi sohalar shilliq pardalari mikrob uchun kirish nuqtasi bo'lishi mumkin?
++ Ko'z, siydik-jinsiy yo'llar, og'iz
+- Soch, tirnoq va tovon terisi sohalari
+- Yelka, bilak va tizza terisi sohalari
+- Quloq suprasi va burun tog'ayi sohalari
+- Kaft, barmoq va tirsak terisi sohalari
+! Shilliq pardalar, masalan ko'z, siydik-jinsiy yo'llar va og'iz, mikroblar uchun kirish nuqtasi bo'lishi mumkin
+@ M JAW
+
+? Mikroblar qon oqimiga to'g'ridan-to'g'ri qaysi yo'llar bilan tushadi?
++ Hasharot chaqishi, shprits yoki qon quyish orqali
+- Nafas olish, yo'talish va aksirish orqali
+- Ovqatlanish, suv ichish va chaynash orqali
+- Qo'l berish, quchoqlash va o'pish orqali
+- Soch olish, tirnoq qirqish va yuvinish orqali
+! Ayrim mikroblar hasharot chaqishi, shprits yoki qon quyish orqali to'g'ridan-to'g'ri qon oqimiga tushadi
+@ M JAW
+
+? Jinsiy yo'l bilan yuqadigan infeksiyalar ko'pincha qanday kechadi?
++ Belgisiz kechib, uzoq aniqlanmasligi mumkin
+- Yorqin belgilar bilan, bir kunda aniqlanadi
+- Qisqa inkubatsiya va og'ir isitma bilan kechadi
+- Hech qachon surunkali shaklga o'tmaydi
+- Havo-tomchi orqali ham yuqadi
+! Jinsiy aloqa orqali yuqadigan infeksiyalar ko'pincha asemptomatik kechadi va uzoq vaqt aniqlanmasligi mumkin
+@ M JAW
+
+? Laboratoriya namunasi turi nimaga mos tanlanadi?
++ Kirish darvozasiga mos
+- Idish rangiga mos
+- Laborant yoshiga mos
+- Dori narxiga mos
+- Termostat turiga mos
+! Namuna turi kirish darvozasiga mos tanlanadi
+@ M JAW
+
+# 050
+? Mikrob kirgan joyda ko'payib, nima hosil qiladi?
++ Mahalliy o'choq
+- Umumiy o'choq
+- Tabiiy rezervuar
+- Immun kompleks
+- Kolonial zanjir
+! Mikrob kirgan joyda ko'payib, mahalliy o'choq hosil qiladi; unda yallig'lanish, shish va to'qimalarning nobud bo'lishi kuzatiladi
+@ M JAW
+
+? Limfa tugunlarining yallig'lanishi nima deyiladi?
++ Limfadenit
+- Dermatit
+- Bakteriemiya
+- Sepsis
+- Toksinemiya
+! Mikrob limfa tugunlarida yallig'lanish chaqirsa, bu holat limfadenit deb ataladi
+@ M JAW
+
+? Mikrobning qon tomirlariga kirgan holati nima deyiladi?
++ Bakteriemiya
+- Toksinemiya
+- Limfadenit
+- Disbakterioz
+- Sensibilizatsiya
+! Mikrob qon tomirlariga kirganda bakteriemiya paydo bo'ladi
+@ M JAW
+
+? Bakteriemiyani aniqlash uchun qaysi tekshiruv o'tkaziladi?
++ Qon madaniyati
+- Najas madaniyati
+- Balg'am madaniyati
+- Siydik madaniyati
+- Tomoq madaniyati
+! Bakteriemiyani aniqlash uchun qon madaniyati o'tkaziladi
+@ M JAW
+
+? Bakteriemiyada qon nima uchun bir necha marta olinishi mumkin?
++ Mikroblar qonda vaqti-vaqti bilan paydo bo'lgani uchun
+- Qon idishi tezda iflos bo'lib, yaroqsiz qolgani uchun
+- Mikroblar qon zardobida doim bir xil bo'lgani uchun
+- Muhit har safar yangilanishi talab etilgani uchun
+- Bemor har kuni yangi dori qabul qilgani sababli
+! Namuna bir necha marta olinishi mumkin, chunki mikroblar qon oqimida vaqt-vaqti bilan paydo bo'ladi
+@ M JAW
+
+? Sepsis qanday holat?
++ Hayot uchun xavfli, tez yordam talab qiladigan holat
+- Yengil kechadigan, davolashsiz o'tib ketadigan holat
+- Teri yuzasida kechadigan mahalliy yengil holat
+- Mikrobning qon tomirlariga hech o'tmaydigan holati
+- Bemorning to'liq sog'ayish va tiklanish bosqichi
+! Qon orqali tarqalgan mikroblar va toksinlar organizmning haddan tashqari javobini keltirib chiqarsa, sepsis rivojlanadi; u hayot uchun xavfli holat
+@ M JAW
+
+? Ekzotoksinlar qon orqali tarqalganda qanday ta'sir ko'rsatadi?
++ Nerv tizimi yoki boshqa a'zolarga yetib, o'ziga xos ta'sir ko'rsatadi
+- Hamma a'zolarga bir xil, o'ziga xoslikdan holi ta'sir ko'rsatadi
+- Qon yo'qotishga olib keladi
+- Mikrob hujayrasi ichida to'planib qoladi
+- Immun tizim faolligini oshirib, kasallikni to'xtatadi
+! Ekzotoksinlar qon orqali nerv tizimiga yoki boshqa a'zolarga yetib borib, o'ziga xos ta'sir ko'rsatadi
+@ M JAW
+
+? Endotoksinlar tarqalganda qanday belgilar kuzatiladi?
++ Isitma va qon bosimining pasayishi
+- Qon bosimining oshishi va sovuq ter
+- Tana haroratining pasayishi va muskul bo'shashishi
+- Yurak urishining to'xtashi va hushsizlik
+- Ko'rish o'tkirligi oshishi va ishtaha ortishi
+! Endotoksinlar mikrob hujayrasi parchalanganda ajraladi va isitma hamda qon bosimining pasayishi bilan namoyon bo'ladi
+@ M JAW
+
+? Nerv tizimiga tarqalgan infeksiyada qaysi namuna tekshiriladi?
++ Miya-orqa miya suyuqligi
+- Najas va rektal surtma
+- Balg'am va tomoq surtmasi
+- Siydik va uretra surtmasi
+- Teri qirindisi va soch
+! Nerv tizimiga tarqalgan infeksiya tashxisi qiyin bo'lgani uchun miya-orqa miya suyuqligi namunasi tekshiriladi
+@ M JAW
+
+? Mahalliy o'choqdan mikrobni aniqlash uchun odatda qaysi material olinadi?
++ Yiring yoki to'qima
+- Najas va qusuq massasi namunasi
+- Tomoq va burun shilliqi namunasi
+- Qon zardobi va plazmasi namunasi
+- Soch va tirnoq qirindisi namunasi
+! Mahalliy o'choq laboratoriyada eng qulay material bo'lib, mikrobni aniqlash uchun yiring yoki to'qima namunasi olinadi
+@ M JAW
+
+# 051
+? Inkubatsiya davri nima?
++ Mikrob kirishidan belgilar paydo bo'lguncha o'tgan vaqt
+- Klinik belgilar paydo bo'lgandan tiklanishgacha o'tgan vaqt
+- Tiklanishdan keyingi kuzatuv davomiyligi vaqti
+- Namuna olishdan natija chiqquncha o'tgan vaqt
+- Antibiotik ichishdan o'zgarish boshlanguncha o'tgan vaqt
+! Inkubatsiya davri — mikrob organizmga kirgan paytdan klinik belgilar paydo bo'lgunga qadar bo'lgan vaqt
+@ M JAW
+
+? Prodromal davrda qanday belgilar bo'lishi mumkin?
++ Charchoq, bosh og'rig'i va past darajadagi isitma
+- Aniq toshma, yuqori isitma va tutqanoq
+- Qon bosimining keskin oshishi va ko'rishning yo'qolishi
+- Mushaklarning falaji va nafas to'xtashi
+- Terining ko'karishi va suyaklarning og'rig'i
+! Prodromal davrda bemor charchoq, bosh og'rig'i va past darajadagi isitma sezishi mumkin
+@ M JAW
+
+? Qaysi davrda klinik belgilar eng yorqin namoyon bo'ladi?
++ Avj olish davrida
+- Inkubatsiya davrida
+- Prodromal davrda
+- Tiklanish davrida
+- Surunkali davrda
+! Avj olish davrida klinik belgilar eng yorqin namoyon bo'ladi va mikrob soni yuqori bo'ladi
+@ M JAW
+
+? Tiklanish davrida mikrob soni qanday o'zgaradi?
++ Kamayadi
+- Keskin oshadi
+- O'zgarmay qoladi
+- Ikki baravar ko'payadi
+- Mutlaqo yo'qolib ketadi
+! Tiklanish davrida mikrob soni kamayadi va klinik belgilar yo'qola boshlaydi
+@ M JAW
+
+? Tiklanish davrida olingan namuna nima uchun salbiy chiqishi mumkin?
++ Mikrob soni kam bo'lgani uchun
+- Mikrob soni juda ko'p bo'lgani uchun
+- Muhit juda boyitilgani uchun
+- Bemor dori ichmagani uchun
+- Toksin hali ajralmagani uchun
+! Tiklanish davrida mikrob soni kam bo'lgani uchun natija salbiy chiqishi ehtimoli ortadi
+@ M JAW
+
+? Infeksiya asoratlariga qaysilar kiradi?
++ Ikkilamchi infeksiya, a'zo yetishmovchiligi, surunkali yallig'lanish
+- Immunitetning mustahkamlanishi va tez tiklanish jarayoni, sog'ayish
+- Mikrob sonining kamayishi va belgilarning yo'qolishi jarayoni
+- Inkubatsiya davrining qisqarishi va emlanish jarayoni, sog'ayish
+- Normal mikrofloraning to'liq tiklanishi jarayoni
+! Asoratlar ikkilamchi infeksiya, a'zo yetishmovchiligi yoki surunkali yallig'lanish ko'rinishida bo'lishi mumkin
+@ M JAW
+
+? Surunkali infeksiyada mikrob va belgilar qanday bo'ladi?
++ Mikrob uzoq saqlanadi, belgilar davriy kuchayib pasayadi
+- Mikrob tez yo'qoladi, belgilar bir marta chiqadi
+- Mikrob sporaga aylanib, belgilar doim yo'qoladi
+- Mikrob ko'paymaydi, belgilar doimiy bir xil bo'ladi
+- Mikrob toksin ajratmaydi, belgilar umuman bo'lmaydi
+! Surunkali infeksiyada mikrob organizmda uzoq vaqt saqlanadi, belgilar esa davriy ravishda kuchayadi va pasayadi
+@ M JAW
+
+? Antitelo titrining oshishi nimani bildirishi mumkin?
++ Infeksiya yaqinda yuz berganini
+- Infeksiyadan butunlay tuzalganini
+- Organizmda mikrob yo'qligini
+- Oziqa muhiti buzilganini
+- Antibiotikka chidamli ekanini
+! Antitelo titrining oshishi infeksiyaning yaqinda yuz berganini bildirishi mumkin, ammo xulosa boshqa ma'lumotlar bilan birga qilinadi
+@ M JAW
+
+? Infeksiya dinamikasini baholash uchun nima qilinadi?
++ Ketma-ket tekshiruvlar o'tkaziladi
+- Bir martalik natijaga ishonib qolinadi
+- Faqat tashqi ko'rik bilan cheklaniladi
+- Tekshiruvlar o'tkazilmaydi, taxmin qilinadi
+- Bemor yangi shifoxonaga yotqiziladi
+! Dinamikani kuzatish uchun ketma-ket tekshiruvlar o'tkaziladi, chunki bir martalik natija faqat bir lahzani ko'rsatadi
+@ M JAW
+
+? Laborant dinamikani bilishi nimaga yordam beradi?
++ Namuna olish vaqtini belgilashga
+- Muhit rangini tanlab, bo'yashga
+- Mikroskop linzasini tozalab qo'yishga
+- Dori narxini hisoblab chiqishga
+- Termostat turini tanlab olishga
+! Laborant dinamikani bilib, namuna olish vaqtini belgilashi kerak
+@ M JAW

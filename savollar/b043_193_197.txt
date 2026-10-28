@@ -1,0 +1,459 @@
+# 193
+
+? Sil asosan qanday yo'l bilan tarqaladi?
++ Havo-tomchi yo'li bilan
+- Fekal-oral yo'l bilan
+- Transmissiv yo'l bilan
+- Parenteral yo'l bilan
+- Jinsiy yo'l bilan
+! Sil asosan havo-tomchi yo'li bilan: bemor yo'talganda, aksirganda yoki gapirganda mayda tomchilar hosil bo'ladi
+@ M JAW WHOTB
+
+? Mayda tomchi yadrolari havoda qancha saqlanishi mumkin?
++ Soatlab
+- Soniyalab
+- Daqiqalab
+- Oylab
+- Yillab
+! Mayda tomchi yadrolari tez quriydi va havoda soatlab saqlanishi mumkin
+@ M JAW WHOTB
+
+? Sil yuqish xavfi qayerda ortadi?
++ Yopiq, shamollatilmaydigan xonalarda
+- Ochiq, shamollatiladigan maydonda
+- Dengiz sohilida, ochiq havoda
+- Tog' cho'qqisida, yolg'iz holda
+- Cho'lda, quyosh ostida
+! Yopiq va shamollatilmaydigan xonalarda, kasalxona palatalarida, oilada va odamlar to'plangan joylarda yuqish xavfi ortadi
+@ M JAW WHOTB
+
+? M. bovis odamga qanday yuqadi?
++ Xom sut orqali
+- Qaynatilgan sut orqali
+- Pasterizatsiyalangan sut
+- Toza ichimlik suvi orqali
+- Pishgan non orqali
+! M. bovis asosan pasterizatsiya qilinmagan sut mahsulotlari orqali odamga yuqishi mumkin
+@ M JAW WHOTB
+
+? Yashirin (latent) sil infeksiyasi bo'lgan odam haqida qaysi gap to'g'ri?
++ Kasallikni bevosita tarqatmaydi, keyin faollashishi mumkin
+- Kasallikni doim tarqatadi, hech qachon faollashmaydi
+- Kasallikni tarqatadi, lekin hech qachon faollashmaydi
+- Kasallikni tarqatmaydi va hech qachon faollashmaydi
+- Kasallikni faqat hayvonlarga tarqatadi
+! Yashirin infeksiyali odamlar bevosita tarqatmaydi, ammo infeksiya uzoq saqlanib, keyinchalik faol shaklga o'tishi mumkin
+@ M JAW WHOTB
+
+? Nafas yo'llariga kirgan mikobakteriyalar alveolalarda kim bilan uchrashadi?
++ Alveolyar makrofaglar bilan
+- Eritrotsitlar va qon bilan
+- Trombotsitlar va qon bilan
+- Nerv hujayralari bilan
+- Gepatotsitlar va jigar bilan
+! Mayda zarrachalar alveolalargacha yetib boradi va alveolyar makrofaglar bilan birinchi marta uchrashadi
+@ M JAW WHOTB
+
+? Mikobakteriyalar makrofag ichida nima uchun omon qoladi?
++ Mikolik kislotalar chidamli qiladi
+- Kapsula fagolizosomani yo'q qiladi
+- Spora fagolizosomada ko'payadi
+- Xivchin makrofagni parchalaydi
+- Toksin makrofagni tez o'ldiradi
+! Hujayra devori tarkibidagi mikolik kislotalar va lipidlar mikobakteriyalarni fagolizosoma fermentlariga chidamli qiladi
+@ M JAW WHOTB
+
+? Sil qo'zg'atuvchisi yuqori nafas yo'llarida nima bo'ladi?
++ Ko'pchiligi ushlanib, chiqariladi
+- Hammasi alveolaga o'tib ketadi
+- Hammasi tezda nobud bo'ladi
+- Qonga o'tib ketadi, ushlanmaydi
+- Oshqozonga tushadi, ushlanmaydi
+! Mikobakteriyalarning ko'pchiligi yuqori nafas yo'llarida ushlanib, yo'talish va shilliq qavat harakati orqali chiqariladi
+@ M JAW
+
+? Kam uchraydigan yuqish yo'liga qaysi biri kiradi?
++ Xom sut orqali ovqat yo'li
+- Havo-tomchi yo'li
+- Bemor yo'tali orqali
+- Yopiq xonada yaqin aloqa
+- Kasalxona palatasida aloqa
+! Kamroq uchraydigan yo'llar: pasterizatsiyalanmagan sut orqali M. bovis yuqishi va kam hollarda teri shikastlanishi
+@ M JAW
+
+? Latent sil infeksiyasi nima uchun epidemiologik nazoratda hisobga olinadi?
++ Keyin faollashishi mumkin
+- Doim faol kasallik beradi
+- Hech qachon faollashmaydi
+- Hayvonlarga o'tib turadi
+- Bolalarda uchrab turadi
+! Latent infeksiya organizmda uzoq saqlanib, keyinchalik faol shaklga o'tishi mumkin, shu sababli nazoratda hisobga olinadi
+@ M JAW WHOTB
+
+# 194
+
+? Sil tashxisi uchun asosiy material qaysi?
++ Balg'am
+- Najas
+- Siydik
+- Tupurik
+- Ter
+! Sil tashxisi uchun asosiy tekshiriladigan material balg'am; ekstrapulmonar silda boshqa materiallar ham olinadi
+@ M JAW WHOTB
+
+? Balg'am olishdan oldin bemorga nima tushuntiriladi?
++ Chuqur yo'talish, og'izni chayib tupurish
+- Sekin nafas olish, og'izni yopib turish
+- Ko'p suv ichish, ovqat yeyish
+- Tez yurish, nafas to'xtatish
+- Uxlash, jim yotish
+! Balg'am olishdan oldin bemorga chuqur yo'talish va og'izni suv bilan chayib, so'ng tupurish tushuntiriladi
+@ M JAW WHOTB
+
+? Balg'am dekontaminatsiyasida qaysi moddalar qo'shiladi?
++ NaOH va N-atsetil-L-sistein
+- Xlorid kislota va glyukoza
+- Spirt va yod eritmasi
+- Formalin va peroksid
+- Osh tuzi va sirka
+! Balg'amga ishqor eritmasi (NaOH) va suyultiruvchi N-atsetil-L-sistein qo'shiladi, begona mikroflora kamayadi
+@ M JAW WHOTB
+
+? Dekontaminatsiyadan keyin namuna nima qilinadi?
++ Markazdan qochirib cho'ktiriladi
+- Qaynatilib, so'ng tashlab yuboriladi
+- Quritilib, kukun holiga keltiriladi
+- Muzlatilib, uzoq saqlab qo'yiladi
+- Ochiq qoldirilib, havoda saqlanadi
+! Dekontaminatsiyadan keyin namuna centrifuga qilinib, cho'kma tekshirish uchun ishlatiladi
+@ M JAW WHOTB
+
+? Cho'ktirish bosqichi qayerda bajariladi?
++ Xavfsizlik shkafida
+- Ochiq ish stolida
+- Koridorda yo'lakda
+- Bemor palatasida
+- Derazaga yaqin stolda
+! Bu bosqichda aerozol hosil bo'lishi mumkin, shuning uchun ish biologik xavfsizlik shkafida bajariladi
+@ M JAW WHOLBM
+
+? Namuna uzoq saqlansa, nima bo'lishi mumkin?
++ Soxta manfiy natija chiqishi mumkin
+- Soxta musbat natija kafolatlanadi
+- Natija aniqroq bo'ladi
+- Natija o'zgarmaydi
+- Bakteriya tezlashadi
+! Uzoq saqlash natijani soxta manfiy qilib qo'yishi mumkin, shuning uchun namuna tez yetkaziladi
+@ M JAW
+
+? Mikroskopik usul qaysi bo'yash bilan o'tkaziladi?
++ Zil–Nilsen usuli bilan
+- Gram usuli bilan
+- Burri–Gins usuli bilan
+- Romanovskiy usuli bilan
+- Neyser usuli bilan
+! Surtma tayyorlanib, Zil–Nilsen usulida bo'yaladi; kislotatezkor mikobakteriyalar qizil rangda ko'rinadi
+@ M JAW WHOTB
+
+? Flyuoressent bo'yash (auramin O) nimani oshiradi?
++ Mikroskopiya sezgirligini
+- Namuna og'irligini oshiradi
+- Koloniya o'lchamini oshiradi
+- Bakteriya tezligini oshiradi
+- Antibiotik ta'sirini oshiradi
+! Auramin O bilan flyuoressent bo'yash mikroskopiya sezgirligini oshiradi, mikobakteriyalar yorqin ko'rinadi
+@ M JAW WHOTB
+
+? Namuna idishi qanday bo'lishi kerak?
++ Steril, mahkam yopiladigan
+- Ochiq, nam, yorliqsiz
+- Qopqoqsiz, iflos, yorliqsiz
+- Yarim ochiq, nam, yorliqli
+- Qog'oz, ochiq, yorliqsiz
+! Namuna idishi steril, mahkam yopiladigan va tegishli yorliq bilan belgilangan bo'lishi kerak
+@ M JAW
+
+? Balg'am tayyorlashdan maqsad nima?
++ Begona florani kamaytirib
+- Mikobakteriyani o'ldirish
+- Balg'amni quritish
+- Balg'am rangini o'zgartirish
+- Balg'am hajmini oshirish
+! Maqsad balg'amdagi begona mikroflorani kamaytirish va mikobakteriyalarni ajratib olishdir
+@ M JAW
+
+# 195
+
+? O'pka silida rentgenda tipik o'zgarish qaysi?
++ Yuqori infiltrat, kavitatsiya
+- Pastki qism bir tekis qorayishi
+- Yurak kattalashib ketishi
+- Qovurg'alar sinishi va ajralishi
+- Diafragma yorilishi va tushishi
+! Tipik o'zgarishlar: o'pkaning yuqori qismida infiltratlar, kavitatsiyalar va o'choqli soyalar
+@ M JAW WHOTB
+
+? Rentgen natijasi nima uchun yakuniy tashxis emas?
++ Boshqa kasalliklarga o'xshaydi
+- Hech narsani ko'rsatmaydi, shuning uchun
+- Suyakni ko'rsatadi, shuning uchun
+- Doim noto'g'ri bo'ladi, shuning uchun
+- Bolalarda ishlaydi, shuning uchun
+! Rentgen tasviri pnevmoniya yoki o'pka saratoniga o'xshash bo'lishi mumkin, aniq sababni laboratoriya tasdiqlaydi
+@ M JAW WHOTB
+
+? Kompyuter tomografiyasi nimani aniqroq ko'rsatadi?
++ Kichik o'zgarish, kavitalar
+- Qon guruhi va rezus omili
+- Qon bosimi va tomir urishi
+- Yurak ritmi va qisqarishi
+- Qand miqdori va xolesterin
+! KT kichik o'zgarishlarni, limfa tugunlarini va kavitalar tuzilishini aniqroq ko'rsatadi, murakkab hollarda qo'llanadi
+@ M JAW
+
+? Bakteriologik tashxis qaysi ketma-ketlikda?
++ Avval mikroskopiya, so'ng ekish
+- Avval ekish, so'ng mikroskopiya
+- Ekish, mikroskopiyasiz
+- Rentgen, laboratoriyasiz
+- Bemor so'rovi, tekshiruvsiz
+! Bakteriologik tashxisda avval mikroskopiya qilinadi, so'ngra ekish o'tkaziladi
+@ M JAW WHOTB
+
+? Mikroskopik natija musbat bo'lsa nima deyish mumkin?
++ Tez tashxis asosi, tur aniq emas
+- Qo'zg'atuvchi turi aniq ko'rsatiladi
+- Dori sezuvchanligi aniqlanadi
+- Tashxis butunlay rad etiladi
+- Kasallik tugagan hisoblanadi
+! Musbat mikroskopiya tez tashxis uchun asos, lekin boshqa mikobakteriyalar ham aniqlanishi mumkin, tur aniq emas
+@ M JAW WHOTB
+
+? Ekish natijasi qanday ma'lumot beradi?
++ Tur va dori sezuvchanligi
+- Bemor yoshi va jinsi
+- Qon guruhi va rezusi
+- Idish rangi va hajmi
+- Havo harorati va namligi
+! Ekish natijasi aniq tur va dori sezuvchanligi haqida ma'lumot beradi
+@ M JAW WHOTB
+
+? Bakteriologik natijalar qancha vaqtda shakllanadi?
++ Bir necha hafta davomida
+- Bir necha daqiqa ichida
+- Bir necha soat ichida
+- Bir necha soniya ichida
+- Bir necha oy ichida
+! Bakteriologik natijalar bir necha hafta davomida to'liq shakllanadi
+@ M JAW WHOTB
+
+? Kutish davrida shifokor nima qaror qiladi?
++ Empirik davo boshlash-boshlamaslik
+- Bemorni uyga jo'natib yuborish
+- Tekshiruvni to'xtatib qo'yish
+- Antibiotikni bekor qilib qo'yish
+- Bemorni izolyatsiya qilmaslik
+! Kutish davrida shifokor bemor holati va rentgen natijasiga tayanib, empirik davolashni boshlash haqida qaror qabul qiladi
+@ M JAW WHOTB
+
+? Molekulyar testlar silda nimani aniqlaydi?
++ Mikobakteriya DNKsini tez
+- Qon guruhini va rezusini
+- Qand miqdorini va xolesterinni
+- Qon bosimini va tomir urishini
+- Yurak ritmini va qisqarishini
+! Molekulyar testlar mikobakteriya DNKsini tez aniqlab, tashxisni bir necha soatda qo'yish imkonini beradi
+@ M JAW WHOTB
+
+? Tashxisda anamnezda nima so'raladi?
++ Infeksiya bilan aloqa
+- Sevimli ovqat turi va nomi
+- Kiyim rangi va o'lchami
+- Sport turi va mashg'uloti
+- Hobbi va qiziqish turi
+! Shifokor anamnezni sinchkovlik bilan to'plab, bemorning infeksiya bilan aloqasini so'rashi kerak
+@ M JAW
+
+# 196
+
+? Birinchi qator sil dorilari qaysilar?
++ Izoniazid, rifampitsin, pirazinamid, etambutol
+- Penitsillin, gentamitsin, eritromitsin, tetratsiklin
+- Kanamitsin, kapreomitsin, linezolid, bedakvilin
+- Flukonazol, nistatin, amfoterisin, ketokonazol
+- Metronidazol, tinidazol, ornidazol, sekndazol
+! Birinchi qator dorilar: izoniazid, rifampitsin, pirazinamid va etambutol
+@ M JAW WHOTB
+
+? Izoniazid qanday ta'sir qiladi?
++ Mikolik kislota sintezini buzadi
+- RNK-polimerazani ingibirlab turadi
+- Folat sintezini to'xtatib qo'yadi
+- Ribosomani to'sib qo'yadi
+- DNK girazasini to'xtatib qo'yadi
+! Izoniazid mikolik kislotalar sintezini buzadi
+@ M JAW WHOTB
+
+? Rifampitsin qanday ta'sir qiladi?
++ RNK-polimerazani ingibirlaydi
+- Mikolik kislota sintezini buzadi
+- Folat sintezini to'xtatadi
+- Ribosomani to'sib qo'yadi
+- DNK girazasini to'xtatadi
+! Rifampitsin bakteriya RNK-polimerazasini ingibirlaydi
+@ M JAW WHOTB
+
+? Pirazinamid qanday muhitda ta'sir qiladi?
++ Kislotali muhitda
+- Ishqoriy muhitda
+- Neytral muhitda
+- Quruq muhitda
+- Sovuq muhitda
+! Pirazinamid kislotali muhitda ta'sir qiladi va hujayrada uzoq faol qolgan mikobakteriyalarga qarshi foydali
+@ M JAW WHOTB
+
+? Etambutol qanday ta'sir qiladi?
++ Hujayra devori sintezini buzadi
+- RNK-polimerazani ingibirlaydi
+- Mikolik kislota sintezini to'xtatadi
+- Ribosomani to'sib qo'yadi
+- DNK girazasini to'xtatadi
+! Etambutol hujayra devori sintezini buzib, boshqa dorilar ta'sirini kuchaytiradi
+@ M JAW WHOTB
+
+? Dorilarning yon ta'siri qaysilar?
++ Jigar buzilishi
+- Soch to'kilishi, tish og'rig'i
+- Teri qurishi, oyoq shishi
+- Quloq shang'illashi, yo'tal
+- Qon bosimi tushishi, uyqusizlik
+! Yon ta'sirlar: jigar funksiyasining buzilishi, ko'rish nervining zararlanishi va teri reaksiyalari
+@ M JAW WHOTB
+
+? Standart sil rejimi qanday?
++ 2 oy to'rt dori, 4 oy ikki dori
+- 1 oy to'rt dori, 1 oy ikki dori
+- 6 oy to'rt dori, 6 oy ikki dori
+- 2 oy bitta dori, 4 oy bitta dori
+- 1 hafta to'rt dori, 1 hafta ikki dori
+! Dastlabki 2 oy to'rt dori, keyingi 4 oy izoniazid va rifampitsin; jami taxminan 6 oy
+@ M JAW WHOTB
+
+? DOTS strategiyasi nima?
++ Dorini kuzatuv ostida qabul qilish
+- Dorini bemorning o'zi ixtiyoriy qabul qilishi
+- Dorini kamroq qabul qilish
+- Dorini kechroq qabul qilish
+- Dorini umuman qabul qilmaslik
+! DOTS — bemor nazorati ostida dorilarni qabul qilish (kuzatuv bilan davolash) strategiyasi
+@ M JAW WHOTB
+
+? Davolashda eng muhim omil nima?
++ Davoga to'liq rioya qilish
+- Ixtiyoriy ichib yurish tartibi
+- Kam miqdorda ichish tartibi
+- Ba'zan, kuniga bir ichish
+- Kechga qoldirib ichish tartibi
+! Rioya qilish davolash samaradorligining eng muhim omili; davo to'liq o'tkazilmasa, chidamlilik xavfi ortadi
+@ M JAW WHOTB
+
+? Davolashda nima muntazam tekshiriladi?
++ Jigar fermenti, ko'rish
+- Soch rangi va uzunligi
+- Tish holati va emali
+- Poyabzal o'lchami va turi
+- Tirnoq shakli va rangi
+! Davolash davomida jigar fermentlari va ko'rish holati muntazam tekshiriladi
+@ M JAW WHOTB
+
+# 197
+
+? Spiroxetalar qanday shaklga ega?
++ Uzun, ingichka
+- Yumaloq, juft joylashgan
+- Cho'zinchoq, sporali
+- Vergulsimon, qisqa
+- Ipsimon, shoxlangan
+! Spiroxetalar hujayrasi uzun, ingichka va spiral shaklda buralgan bo'ladi
+@ M JAW
+
+? Spiroxetalar eni taxminan qancha?
++ 0,1 mikrometr atrofida
+- 1,0 mikrometr atrofida
+- 10 mikrometr atrofida
+- 100 mikrometr atrofida
+- 1 millimetr atrofida
+! Spiroxetalar eni juda kichik, odatda 0,1 mikrometr atrofida
+@ M JAW
+
+? Spiroxetalarning xarakterli tuzilmasi nima?
++ Endoflagellalar
+- Kapsula
+- Endospora
+- Pili
+- Mikolik kislota
+! Eng xarakterli tuzilma — endoflagellalar, hujayra devori va membrana orasidagi periplazmatik bo'shliqda joylashadi
+@ M JAW
+
+? Endoflagellalar qayerda joylashgan?
++ Periplazmatik bo'shliqda
+- Hujayradan tashqarida
+- Yadro ichida, DNK yonida
+- Spora ichida, po'st ostida
+- Kapsula ichida, qobiq ostida
+! Endoflagellalar hujayra devori va sitoplazma membranasi orasidagi periplazmatik bo'shliqda joylashadi
+@ M JAW
+
+? Endoflagellalar nima uchun xizmat qiladi?
++ Shaklni saqlash va harakat
+- Spora hosil qilish va himoya
+- Toksin ajratish va yopishish
+- Kapsula sintezi va himoya
+- Fotosintez va energiya olish
+! Endoflagellalar spiral tuzilishni saqlashga va harakatlanishga xizmat qiladi
+@ M JAW
+
+? Spiroxetalar qanday harakatlanadi?
++ Endoflagellalar aylanishi bilan
+- Peritrix xivchinlar yordamida
+- Kipriklar yordamida siljib
+- Psevdopodiyalar yordamida
+- Harakatsiz bo'lib turadi
+! Endoflagellalar aylanishi hujayra tanasini spiral o'q bo'ylab burab siljitadi, bu qalin muhitda ham siljish imkonini beradi
+@ M JAW
+
+? Harakatchanlik spiroxetalar uchun qanday ahamiyatga ega?
++ Patogenlikning muhim omili
+- Ahamiyatsiz xususiyat
+- Ko'rinish belgisi
+- Sporaga aylanish belgisi
+- Bo'yash belgisi
+! Harakat tufayli spiroxetalar to'qima va qon orqali tez tarqaladi, harakatchanlik patogenlikning muhim omili
+@ M JAW
+
+? Tirik spiroxetalar qaysi mikroskopda ko'rinadi?
++ Qorong'i maydon mikroskopida
+- Oddiy yorug' mikroskopda, bo'yoqsiz
+- Elektron mikroskopda, quritilgan
+- Lyuminessent mikroskopda, bo'yoqsiz
+- Fazali kontrast mikroskopda, bo'yalgan
+! Tirik hujayralar qorong'i maydon mikroskopida harakati bilan ajralib turadi, bu tezkor tashxisda foydali
+@ M JAW
+
+? Spiroxetalar turini ajratishda qaysi belgi yordamchi?
++ Spiral o'ramlar soni va o'lchami
+- Koloniya rangi va hidi tavsifi
+- Spora joylashuvi va shakli
+- Kapsula qalinligi va rangi
+- Xivchin soni va joylashuvi
+! Spiral o'ramlar soni va o'lchami turga qarab farq qiladi va morfologik yordamchi belgi sifatida qaraladi
+@ M JAW
+
+? Spiroxetalar tashxisida qaysi usullar qo'llanadi?
++ Mikroskopiya
+- Gram bo'yash
+- Oddiy ekish
+- Katalaza sinovi
+- Koagulaza sinovi
+! Spiroxetalarni tashxislashda mikroskopiya, serologiya va molekulyar usullar keng qo'llanadi
+@ M JAW

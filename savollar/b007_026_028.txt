@@ -1,0 +1,272 @@
+# 026
+? Bakteritsid ta'sir deganda nima tushuniladi?
++ Mikroblarni o'ldiruvchi ta'sir
+- O'sishni vaqtincha to'xtatuvchi, ammo o'ldirmaydigan ta'sir
+- Mikroblarni rangsizlantiruvchi ta'sir
+- Xivchin harakatini tezlashtiruvchi va ko'paytiruvchi ta'sir
+- Sporulyatsiyani boshlovchi va tezlashtiruvchi ta'sir
+! Kimyoviy omillar bakteritsid (o'ldiruvchi) yoki bakteriostatik (o'sishni to'xtatuvchi) ta'sir ko'rsatadi
+@ M JAW
+
+? Oksidlovchi moddalar qatoriga qaysilar kiradi?
++ Vodorod peroksid va kaliy permanganat
+- Etanol va izopropanol
+- Karbol kislotasi va rezorsin
+- Mis sulfat va boshqa metall tuzlari
+- Kuchli kislotalar va ishqorlar
+! Vodorod peroksid va kaliy permanganat oksidlovchi moddalar bo'lib, hujayradagi oqsillar va membranani oksidlab zararlaydi
+@ M JAW
+
+? Xlor saqlovchi dezinfeksiyalovchi preparatlarga qaysilar kiradi?
++ Xlorli ohak va natriy gipoxlorit
+- Etanol va izopropanol
+- Karbol kislotasi va rezorsin
+- Mis sulfat va rux sulfat
+- Kuchli kislotalar va ishqorlar
+! Xlor saqlovchi moddalar sifatida xlorli ohak va natriy gipoxlorit tilga olinadi; ular hujayradagi oqsillar bilan reaksiyaga kirib zararsizlantiradi
+@ M
+
+? Spirtlar (etanol, izopropanol) mikrob shakllaridan qaysi biriga ta'sir qilmaydi?
++ Sporalarga
+- Vegetativ hujayralarga
+- Gram-manfiy tayoqchalarga
+- Stafilokokklarga
+- Lipidli qobiqli viruslarga
+! Spirtlar oqsillarni denaturatsiya qilib vegetativ hujayralarni tez o'ldiradi, ammo sporalarga ta'sir qilmaydi
+@ M JAW
+
+? Fenol hosilalari mikrob hujayrasiga qanday ta'sir qiladi?
++ Hujayra membranasini buzib, oqsillarni cho'ktiradi
+- Ribosomaga bog'lanib, translatsiyani to'xtatadi
+- DNK-girazani bloklab, replikatsiyani to'xtatadi
+- Peptidoglikan sintezini buzib, devorni yo'q qiladi
+- Foliy kislotasi sintezini bloklab, o'sishni to'xtatadi
+! Fenol va uning hosilalari hujayra membranasini buzib, oqsillarni cho'ktiradi
+@ M JAW
+
+? Og'ir metall tuzlari nima uchun zamonaviy amaliyotda kamroq ishlatiladi?
++ Inson organizmiga zararli ta'sir qilgani uchun
+- Mikroblarga umuman ta'sir qilmagani uchun
+- Sporalar sonini ko'paytirib yuborgani uchun
+- Juda arzon va ko'p topilgani uchun
+- Rangsiz va hidsiz bo'lgani uchun
+! Og'ir metallar oqsillarni cho'ktiradi, lekin inson organizmiga zararli ta'siri sababli zamonaviy amaliyotda kamroq ishlatiladi
+@ M
+
+? Qon yoki yiring kabi organik moddalar dezinfeksiyalovchi moddaning faolligiga qanday ta'sir qiladi?
++ Faolligini kamaytiradi
+- Faolligini oshiradi
+- Ta'sir qilmaydi
+- Faolligini bir necha barobar kuchaytiradi
+- Sporalarni yo'q qilishga yordam beradi
+! Organik moddalar ko'pincha dezinfeksiyalovchi moddaning faolligini kamaytiradi, shuning uchun dezinfeksiya oldidan yuza tozalanadi
+@ M JAW
+
+? Dezinfeksiya samaradorligini belgilovchi asosiy omillar qaysilar?
++ Konsentratsiya va ta'sir vaqti
+- Idish rangi va hajmi
+- Xodimlar soni va ish vaqti
+- Eritma hidi va rangi
+- Xona yoritilganligi va namligi
+! Kimyoviy moddalar samaradorligini belgilovchi asosiy omil konsentratsiya va ta'sir vaqtidir
+@ M
+
+? Antibiotiklar mikrob hujayrasining qaysi jarayonlarini nishonga oladi?
++ Devor sintezini, oqsil sintezini yoki DNK replikatsiyasini
+- Mitoxondriya, yadro membranasi va endoplazmatik to'r ishini
+- Kapsula polisaxaridi sintezi va pililar yig'ilishini
+- Xivchin motori ishini va flagellin oqsili sintezini
+- Eritrotsit va leykotsit membranalari butunligini
+! Antibiotiklar hujayra devori sintezini, oqsil sintezini yoki DNK replikatsiyasini nishonga oladi
+@ M JAW
+
+? Antibiotiklarga chidamlilik ko'pincha nimadan paydo bo'ladi?
++ Ularning noto'g'ri qo'llanilishidan
+- Ularning tarkibida vitamin borligidan
+- Ularning sovitgichda saqlanishidan
+- Bemor yoshi kattaligidan
+- Ularning shisha idishda saqlanishidan
+! Antibiotiklarga chidamlilik ko'pincha ularning noto'g'ri qo'llanilishi natijasida paydo bo'ladi, shu sababli sezuvchanlik testi muhim
+@ M JAW
+
+# 027
+? Biologik omillar mikroorganizmlarning boshqa organizmlar bilan qanday munosabatlarini o'z ichiga oladi?
++ Raqobat, antagonizm, yirtqichlik, parazitizm va simbioz
+- Fotosintez, nafas olish, bijg'ish va transport
+- Transkripsiya, translatsiya, replikatsiya va reparatsiya
+- Sterilizatsiya, pasterizatsiya, dezinfeksiya va antiseptika
+- Bo'yash, fiksatsiya, mikroskopiya va ekish
+! Biologik omillar raqobat, antagonizm, yirtqichlik, parazitizm va simbioz shakllarida bo'lishi mumkin
+@ M BROCK
+
+? Antagonizm nima bilan bog'liq?
++ Bir mikrobning boshqasi o'sishini to'xtatuvchi moddalar hosil qilishi bilan
+- Ikki mikrobning bir-biri uchun tayyor oziq moddalar hosil qilishi bilan
+- Ikki mikrobning bir xil oziq uchun hech raqobatlashmasligi bilan
+- Mikrobning noqulay sharoitda chidamli spora hosil qilishi bilan
+- Mikrobning xivchin yordamida suyuq muhitda harakatlanishi bilan
+! Antagonizm bir mikrob boshqasining o'sishini to'xtatadigan antibiotik, bakteriotsin yoki kislota kabi moddalar ishlab chiqarishi bilan bog'liq
+@ M BROCK
+
+? Bakteriotsinlar nima?
++ Bakteriyalar ishlab chiqaradigan, raqib bakteriyalarga qarshi moddalar
+- Viruslar ishlab chiqaradigan, hujayra devorini yeydigan toksinlar
+- Zamburug'lar ishlab chiqaradigan, oziqa muhitini boyituvchi vitaminlar
+- Eritrotsitlarni parchalaydigan va qon rangini o'zgartiradigan fermentlar
+- Sodda hayvonlar ishlab chiqaradigan, koloniyani bo'yovchi pigmentlar
+! Ba'zi bakteriyalar antibiotik kabi moddalar, bakteriotsinlar yoki kislota hosil qiladi; ular raqib mikroblarni yo'q qiladi yoki ko'payishini cheklaydi
+@ M BROCK
+
+? Ichakdagi normal mikroflora patogen bakteriyalarga qanday to'sqinlik qiladi?
++ Ozuqa uchun raqobat va moddalar ishlab chiqarish orqali
+- Patogenlarni qon orqali tashib chiqarib yuborish orqali
+- Ichak devorini quritib, shilliq qavatni yo'qotish orqali
+- Patogenlar uchun qo'shimcha oziq tayyorlab berish orqali
+- Ichak pH ini 12 gacha ko'tarib turish orqali
+! Normal mikroflora ozuqa uchun raqobat va moddalar ishlab chiqarish orqali patogen bakteriyalarning ko'payishiga to'sqinlik qiladi
+@ M JAW
+
+? Bakteriofaglar nima?
++ Bakteriyalarni yuqtiruvchi viruslar
+- Bakteriyalardan hosil bo'lgan zamburug'lar
+- Bakteriyalarni yutadigan sodda jonivorlar
+- Bakteriyalar ishlab chiqaradigan antibiotiklar
+- Bakteriya hujayrasidagi organellalar
+! Bakteriofaglar bakteriyalarni yuqtiruvchi viruslar bo'lib, tabiatda keng tarqalgan
+@ M JAW
+
+? Fag bakteriya hujayrasiga kirgach, odatda nima yuz beradi?
++ Hujayrani lizis qiladi va yangi fag zarralari chiqadi
+- Hujayrani sporaga aylantirib, saqlab qoladi
+- Hujayra bo'linishini tezlashtirib, ko'paytiradi
+- Hujayra ustida qalin kapsula hosil qiladi
+- Hujayraning toksin ishlab chiqarishini to'xtatadi
+! Fag bakteriya hujayrasiga kirib, uni lizis qiladi, natijada yangi fag zarralari chiqadi
+@ M JAW
+
+? Ichak tayoqchasiga (Escherichia coli) ta'sir qiluvchi fag qanday ataladi?
++ Kolifag
+- Stafilofag
+- Aktinofag
+- Salmonellofag
+- Streptofag
+! Fagning nomi bakteriofaglar manbasiga qarab beriladi: kolifaglar, stafilofaglar, aktinofaglar va hokazo
+@ M
+
+? Antibiotik qabul qilinganda ichak mikroflorasi muvozanatining buzilishi nima deb ataladi?
++ Disbakterioz
+- Dizenteriya
+- Bakteriemiya
+- Sepsis
+- Anafilaksiya
+! Antibiotik qabul qilinganda ichak mikroflorasi muvozanati buzilib, patogenlar ustun kelishi mumkin; bu holat disbakterioz deyiladi
+@ M JAW
+
+? Fagotsitoz tushunchasini kiritgan va immunitetning hujayra nazariyasiga asos solgan olim kim?
++ I.I. Mechnikov (rus olimi)
+- L. Paster (fransuz olimi)
+- R. Kox (nemis olimi)
+- P. Erlix (nemis olimi)
+- E. Jenner (ingliz shifokori)
+! I.I. Mechnikov fagotsitoz tushunchasini kiritgan, bu immunitetning hujayra nazariyasiga asos bo'lgan
+@ M JAW
+
+? O'simlik ildizidagi azot to'plovchi bakteriyalar o'simlikka nimani yetkazib beradi?
++ Azotni
+- Fosforni
+- Kaliyni
+- Kalsiyni
+- Uglerodni
+! O'simlik ildizidagi azot to'plovchi bakteriyalar simbioz tufayli o'simlikka azot yetkazib beradi va tuproq unumdorligini oshiradi
+@ M BROCK
+
+# 028
+? Biotsenoz nima?
++ Bir yashash muhitida birga yashovchi mikroblar jamoasi
+- Bitta mikrob turiga mansub hujayralardan iborat sof kultura
+- Laboratoriyada mikroblar o'stiriladigan oziqa muhitining turi
+- Mikrob hujayrasining barcha tarkibiy qismlari to'plami
+- Bir shtammning antibiotiklarga sezuvchanligi ro'yxati
+! Muayyan yashash muhitida mikroblar birgalikda biotsenozni hosil qiladi
+@ M BROCK
+
+? Avtoxton mikroflora nima?
++ Muayyan muhitda doimo uchraydigan va ko'payadigan mikroorganizmlar
+- Boshqa joydan kelib qolgan, muhitda ko'paymaydigan mikroorganizmlar
+- Laboratoriyada sun'iy o'stirilgan va saqlanadigan shtammlar
+- Faqat odam ichagida uchraydigan bakteriyalar
+- Sporalar holida saqlanadigan mikroblar to'plami
+! Muayyan muhitda doimo uchraydigan va o'sha yerda ko'payadigan mikroorganizmlar avtoxton mikroflora deyiladi
+@ M
+
+? Tuproqqa chiqindi bilan tushgan ichak bakteriyalari qanday mikroflora hisoblanadi?
++ Alloxton
+- Avtoxton
+- Termofil
+- Psixrofil
+- Atsidofil
+! Boshqa joydan kelib qolgan mikroorganizmlar alloxton mikroflora deyiladi; tuproqqa inson chiqindisi bilan tushgan ichak bakteriyalari alloxton bo'ladi
+@ M
+
+? Tuproqda uzoq saqlanadigan patogenlar qaysi javobda keltirilgan?
++ Botulizm, kuydirgi, qoqshol va gazli gangrena qo'zg'atuvchisi
+- Salmonella, shigella, vibrion va brutsella qo'zg'atuvchisi
+- Gonokokk, meningokokk, pnevmokokk va gemofil tayoqcha qo'zg'atuvchisi
+- Mikoplazma, xlamidiya, rikketsiya va treponema qo'zg'atuvchisi
+- Ko'kyo'tal, bo'g'ma, difteroid va listeriya qo'zg'atuvchisi
+! Tuproqda uzoq saqlanadigan mikroblar sifatida botulizm, kuydirgi, qoqshol va gazli gangrena qo'zg'atuvchilari ko'rsatilgan; qisqa saqlanadiganlar — salmonella, shigella, vibrion, brutsella
+@ M
+
+? Mikroblarni tabiatda bir joydan boshqasiga olib o'tuvchi yo'llar qaysilar?
++ Havo oqimi, suv oqimi, hayvonlar va hasharotlar
+- Faqat radio to'lqinlar va Yerning magnit maydoni orqali
+- Quyosh nuri bosimi va ultrabinafsha nurlanish oqimi
+- Elektr toki va yer osti kabellari orqali o'tkazish
+- Yer silkinishi va yorug'lik bosimi hisobiga
+! Havo oqimi mikroblarni masofaga olib boradi, suv oqimi daryo va ko'l bo'ylab tarqatadi, hayvonlar va hasharotlar esa yuzadan yuzaga ko'chiradi
+@ M BROCK
+
+? Noqulay sharoitda mikroblar tarqalish imkoniyati uchun nima hosil qiladi?
++ Sporalar yoki kistalar
+- Kapsula yoki xivchin
+- Plazmida yoki fag
+- Pigment yoki toksin
+- Mezosoma yoki ribosoma
+! Noqulay sharoitda mikroblar sporalar yoki kistalar hosil qilib, uzoq vaqt saqlanadi va shamol hamda suv orqali ancha uzoqqa ko'chishi mumkin
+@ M BROCK
+
+? Ichki shaklda kechadigan simbioz qanday ataladi?
++ Endosimbioz
+- Ektosimbioz
+- Antibioz
+- Metabioz
+- Sintrofiya
+! Simbioz tashqi shaklda ektosimbioz, ichki shaklda endosimbioz deb ataladi
+@ M
+
+? Bir gramm tuproqda materialga ko'ra qancha bakteriya bo'lishi mumkin?
++ Millionlab yoki milliardlab
+- Atigi bir necha o'nlab bakteriya
+- Taxminan bir necha yuzlab bakteriya
+- Jami bir necha minglab bakteriya
+- Deyarli bakteriya uchramaydi, 1–2 ta
+! Bir gramm tuproqda millionlab yoki milliardlab bakteriya bo'lishi mumkin
+@ M BROCK
+
+? Mikroblar qaysi elementlarning tabiatda aylanishida asosiy ishtirokchi?
++ Azot, uglerod va oltingugurt
+- Kremniy, alyuminiy va titan
+- Neon, argon va geliy
+- Natriy, kaliy va litiy
+- Oltin, kumush va platina
+! Azot, uglerod va oltingugurt aylanishida mikroblar asosiy ishtirokchilardir
+@ M BROCK
+
+? Laborant namuna olish joyi va sharoitini nima uchun bilishi kerak?
++ To'g'ri xulosa chiqarish uchun
+- Namuna idishining rangini tanlash uchun
+- Namuna narxini hisoblab chiqish uchun
+- Namunani sovitgichga joylashtirish uchun
+- Jurnalning muqovasini to'ldirish uchun
+! Laborant namunani olish joyi va sharoitini bilmasdan turib to'g'ri xulosa chiqara olmaydi
+@ M

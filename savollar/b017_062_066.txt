@@ -1,0 +1,454 @@
+# 062
+? Antitelolarni qaysi hujayralar ishlab chiqaradi?
++ Plazmatik hujayralar
+- Neytrofil hujayralar
+- Eritrotsit hujayralar
+- Trombotsit hujayralar
+- Makrofag hujayralar
+! Antitelolar B-limfotsitlardan yetilgan plazmatik hujayralar tomonidan ishlab chiqariladigan oqsillardir
+@ M JAW
+
+? Immunoglobulin molekulasi qanday polipeptid zanjirlardan iborat?
++ Ikki og'ir va ikki yengil zanjirdan
+- Bitta og'ir va bitta yengil zanjirdan
+- Uchta og'ir va bitta yengil zanjirdan
+- To'rtta og'ir va bitta yengil zanjirdan
+- Ikki og'ir zanjirdan, yengil zanjirsiz
+! Immunoglobulin molekulasi ikki og'ir va ikki yengil polipeptid zanjirdan iborat bo'lib, ular disulfid bog'lari bilan birlashgan
+@ M JAW
+
+? Immunoglobulin zanjirlarini bir-biriga bog'lab turadigan bog'lar qaysilar?
++ Disulfid bog'lari
+- Peptid bog'lari
+- Vodorod bog'lari
+- Glikozid bog'lari
+- Fosfodiefir bog'lari
+! Immunoglobulin zanjirlari disulfid bog'lari bilan birlashgan
+@ M JAW
+
+? Zanjirning N-uchidagi o'zgaruvchan (variabel) soha qanday vazifani bajaradi?
++ Antigenni bog'laydi
+- Komplementni faollashtiradi
+- Platsenta orqali o'tishni ta'minlaydi
+- Hujayra retseptoriga birikadi
+- Molekulaning massasini oshiradi
+! Zanjirning N-uchi o'zgaruvchan (variabel) soha bo'lib, antigenni bog'laydi
+@ M JAW
+
+? Doimiy (konstant) soha qanday vazifani belgilaydi?
++ Effektor funksiyalarni
+- Antigenni tanish xususiyatini
+- Aminokislota xilma-xilligini
+- Antigen determinantini
+- Bo'g'in sohasini
+! C-uchi doimiy (konstant) soha bo'lib, effektor funksiyalarni belgilaydi
+@ M JAW
+
+? Papain fermenti immunoglobulinni qanday bo'laklarga ajratadi?
++ Ikki Fab va bitta Fc bo'lagiga
+- Bitta Fab va ikki Fc bo'lagiga
+- Ikki Fab va ikki Fc bo'lagiga
+- Faqat F(ab')2 bo'lagiga
+- To'rt yengil zanjirga
+! Papain immunoglobulinni ikki Fab bo'lagiga va bitta Fc bo'lagiga ajratadi
+@ M JAW
+
+? Fc bo'lagi qanday vazifani bajaradi?
++ Hujayra retseptori va komplement bilan bog'lanadi
+- Antigenni bevosita bog'lab, tanib olish vazifasini
+- Antigen determinantini tanlab, ajratib olish vazifasini
+- Zanjirni disulfid bog'idan ajratish vazifasini
+- Mikrobni yutib, ichida parchalash vazifasini
+! Fab antigenni bog'laydi, Fc esa hujayra retseptorlari va komplement bilan bog'lanadi
+@ M JAW
+
+? Odamda immunoglobulinlarning nechta asosiy sinfi farqlanadi?
++ Beshta: IgG, IgM, IgA, IgD, IgE
+- Uchta: IgG, IgM, IgA
+- To'rtta: IgG, IgM, IgA, IgE
+- Oltita: IgG, IgM, IgA, IgD, IgE, IgX
+- Ikkita: IgG va IgM
+! Odamda beshta asosiy sinf farqlanadi: IgG, IgM, IgA, IgD va IgE
+@ M JAW
+
+? Platsenta orqali homilaga o'tadigan va eng ko'p uchraydigan sinf qaysi?
++ IgG
+- IgM
+- IgA
+- IgD
+- IgE
+! IgG eng ko'p uchraydigan sinf bo'lib, platsenta orqali homilaga o'tadi
+@ M JAW
+
+? Birinchi bo'lib hosil bo'ladigan va pentamer tuzilishli antitelo qaysi?
++ IgM
+- IgG
+- IgA
+- IgD
+- IgE
+! IgM birinchi bo'lib hosil bo'ladigan antitelo bo'lib, pentamer tuzilishga ega
+@ M JAW
+
+# 063
+? Autoimmunitet nima?
++ Organizmning o'z to'qimalariga qarshi immun javobi
+- Organizmning begona antigenlarga javob bermasligi
+- Organizmning mikrobga qarshi tug'ma chidamliligi
+- Vaksina yuborilgandan so'ng hosil bo'lgan himoya
+- Zardob yuborish natijasida olingan himoya
+! Autoimmunitetda organizm o'z hujayra va to'qimalariga xos molekulalarga qarshi antitelolar ishlab chiqaradi
+@ M JAW
+
+? Autoantitelolar nimaga qarshi yo'naltirilgan antitelolar?
++ Organizmning o'z molekulalariga
+- Bakteriya toksinlari molekulalariga
+- Virus zarralari yuzasidagi oqsillarga
+- Dori vositalari molekulalariga
+- Zamburug' sporalari yuzasidagi moddalarga
+! Autoantitelolar organizmning o'z hujayra va to'qimalariga xos molekulalarga qarshi ishlab chiqariladi
+@ M JAW
+
+? Immun tolerantlik nima?
++ Organizmning o'z antigenlariga javob bermaslik holati
+- Organizmning har qanday antigenga kuchli javob berishi
+- Organizmning begona antigenlarga javob bermasligi
+- Antitelolarning tezda yo'qolib ketishi
+- Immun hujayralarning haddan ziyod ko'payishi
+! Immun tolerantlik — organizmning o'z antigenlariga nisbatan javob bermaslik holati
+@ M JAW
+
+? Markaziy tolerantlik qayerda yuzaga keladi?
++ Suyak iligi va timusda
+- Limfa tugunlari va taloqda
+- Jigar va buyrak to'qimalarida
+- Oshqozon va ichak devorida
+- Teri yuzasi va shilliq pardada
+! Markaziy tolerantlik suyak iligi va timusda rivojlanayotgan limfotsitlarda yuzaga keladi
+@ M JAW
+
+? Markaziy tolerantlikda o'z antigenlarini kuchli taniydigan hujayralar bilan nima bo'ladi?
++ Yo'q qilinadi yoki zararsizlantiriladi
+- Ko'paytirilib, qonga chiqariladi
+- Antitelolar ishlab chiqarishga o'tkaziladi
+- Taloqqa o'tkazilib, saqlanadi
+- Jigarda to'planib qoladi
+! O'z antigenlarini kuchli tanigan hujayralar yo'q qilinadi yoki retseptorlarini o'zgartirib, zararsizlanadi
+@ M JAW
+
+? Periferik tolerantlik qaysi mexanizmlar orqali amalga oshadi?
++ Anergiya, supressor va regulyator T-hujayralar orqali
+- Antibiotik ta'siri va dezinfeksiya jarayonlari orqali
+- Qon quyish va dializ jarayonlari orqali
+- Fagotsitoz va xemotaksis jarayonlari orqali
+- Gormon va ferment sintezi jarayonlari orqali
+! Periferik tolerantlik limfotsitlarning anergiyasi, supressor hujayralar faoliyati va regulyator T-limfotsitlar orqali amalga oshadi
+@ M JAW
+
+? Molekulyar mimikriya nima?
++ Begona antigenning o'z oqsiliga o'xshash bo'lishi
+- Mikrob hujayrasi rangining tez o'zgarib turishi
+- Antigenning suvda to'liq erib ketishi hodisasi
+- Antitelo sinfining boshqasiga almashib qolishi
+- Fagotsit shaklining o'zgarib, kattalashishi
+! Begona antigen o'z oqsiliga o'xshash tuzilishga ega bo'lsa, bu molekulyar mimikriya deyiladi va immun javob noto'g'ri yo'naltirilishiga sabab bo'lishi mumkin
+@ M JAW
+
+? Autoantitelolar hosil bo'lishida qaysi omillar birgalikda ishtirok etadi?
++ Genetik moyillik, atrof-muhit va infeksion agentlar
+- Bemorning yoshi va jinsi ko'rsatkichlari
+- Oziqa tarkibi va havo harorati ko'rsatkichlari
+- Vaksina dozasi va yuborilish muddati ko'rsatkichlari
+- Mikroskop turi va linzalarining kattalashtirishi
+! Autoantitelolar hosil bo'lishida genetik moyillik, atrof-muhit ta'siri va ayrim infeksion agentlar birgalikda ishtirok etadi
+@ M JAW
+
+? Mikrofaglar asosan qaysi hujayralar?
++ Neytrofillar
+- Eritrotsitlar
+- Trombotsitlar
+- Plazmatik hujayralar
+- Epiteliy hujayralari
+! Mikrofaglar asosan neytrofillardir
+@ M JAW
+
+? Antitelolar odatda qanday molekulalarga nisbatan hosil bo'ladi?
++ Begona molekulalarga
+- O'z molekulalariga, normal holatda
+- Yog' va lipid molekulalariga, faqat shu
+- Mineral tuzlar molekulalariga, ko'pincha
+- Suv molekulalariga, ko'pincha
+! Odatda antitelolar begona molekulalarga nisbatan hosil bo'ladi; o'z antigenlariga qarshi javob paydo bo'lishi immun tolerantlik buzilganini bildiradi
+@ M JAW
+
+# 064
+? Antigen-antitelo reaksiyasi nechta bosqichda kechadi?
++ Ikki bosqichda
+- Bir bosqichda
+- Uch bosqichda
+- To'rt bosqichda
+- Besh bosqichda
+! Antigen-antitelo reaksiyasi ikki bosqichda kechadi: avval bog'lanish (ko'rinmaydi), keyin ko'rinadigan natija
+@ M JAW
+
+? Antigen va antitelo bog'lanish kuchi nima deb ataladi?
++ Affinlik
+- Immunogenlik
+- Virulentlik
+- Patogenlik
+- Toksigenlik
+! Bog'lanish kuchi affinlik deb ataladi
+@ M JAW
+
+? Immunologik reaksiyalarning asosiy turlari qaysilar?
++ Agglyutinatsiya, presipitatsiya, komplement bog'lanish, neytrallash
+- Fagotsitoz, xemotaksis, adgeziya, hazm qilish jarayonlari
+- Bo'yash, fiksatsiya, mikroskopiya, ekish jarayonlari
+- Sterilizatsiya, dezinfeksiya, filtrlash, quritish jarayonlari
+- Bijg'ish, nafas olish, fotosintez, o'sish jarayonlari
+! Immunologik reaksiyalarga agglyutinatsiya, presipitatsiya, komplement bog'lanish va neytrallash reaksiyalari kiradi
+@ M JAW
+
+? Agglyutinatsiyada antitelo nimani yopishtiradi?
++ Zarraga biriktirilgan antigenni
+- Eriydigan antigenni, cho'kma hosil qilmasdan
+- Komplementni, gemoliz hosil qilish uchun
+- Toksinni, faolligini yo'qotish maqsadida
+- Bakteriofagni, lizis hosil qilish maqsadida
+! Agglyutinatsiyada antigen zarralarga (bakteriya yoki eritrotsit) biriktirilgan bo'ladi va antitelo ularni yopishtiradi
+@ M JAW
+
+? Presipitatsiya reaksiyasida qanday antigen ishtirok etadi?
++ Eriydigan antigen
+- Zarraga biriktirilgan antigen
+- Butun bakteriya hujayrasi
+- Eritrotsit yuzasidagi antigen
+- Fag zarrachasi
+! Presipitatsiyada eriydigan antigen antitelo bilan birikib, erimaydigan kompleks hosil qiladi
+@ M JAW
+
+? Neytrallash reaksiyasida nima yuz beradi?
++ Antitelo mikrob yoki toksin faolligini yo'qotadi
+- Antitelo zarralarni yopishtirib, cho'ktiradi
+- Antitelo eriydigan antigen bilan halqa hosil qiladi
+- Komplement bog'lanib, gemoliz hosil bo'ladi
+- Antitelo bakteriyani oziqa sifatida yutadi
+! Neytrallash reaksiyasida antitelo mikrob yoki toksinning faolligini yo'qotadi
+@ M JAW
+
+? Serologik diagnostika nimaga asoslanadi?
++ Qondagi antitelo yoki mikrob antigenini aniqlashga
+- Mikrobning oziqa muhitida o'sish tezligini o'lchashga
+- Mikrobning bo'yoqni qabul qilish darajasini ko'rishga
+- Oziqa muhiti pH ko'rsatkichini aniqlashga
+- Antibiotik disk atrofidagi zonani o'lchashga
+! Serologik diagnostika bemorning qonidagi antitelolarni yoki mikrob antigenlarini aniqlashga asoslanadi
+@ M JAW
+
+? Juft zardob usulida qaysi namunalar solishtiriladi?
++ Boshida va keyinroq olingan zardoblar
+- Bir kunda olingan ikkita bir xil namuna
+- Bemor va sog'lom odamning siydigi namunasi
+- Ikki xil oziqa muhitidagi koloniyalar namunasi
+- Ikki xil antibiotik diskining zonalari namunasi
+! Juft zardob usulida kasallikning boshida va keyinroq olingan namunalar solishtiriladi
+@ M JAW
+
+? Reaksiya natijasiga qaysi omillar ta'sir qiladi?
++ Harorat, pH, tuz konsentratsiyasi va vaqt
+- Idish rangi, narxi, shakli va hajmi
+- Xodim yoshi, jinsi, kasbi va ish staji
+- Xona devori rangi va yoritilish darajasi
+- Reaktiv qadog'ining dizayni va yozuvi
+! Reaksiya natijasi haroratga, pH ga, tuz konsentratsiyasiga va vaqtga bog'liq; shu omillar standart sharoitda ushlab turilishi kerak
+@ M JAW
+
+? Presipitat hosil bo'lishida antitelo va antigen nisbati qanday bo'lishi kerak?
++ Optimal nisbatda bo'lishi kerak
+- Antitelo mutlaq ortiqcha bo'lishi kerak
+- Antigen mutlaq ortiqcha bo'lishi kerak
+- Nisbat ahamiyatsiz, har qanday bo'ladi
+- Antitelo umuman bo'lmasligi kerak
+! Presipitatsiyada eriydigan antigen antitelo bilan birikib, erimaydigan kompleks hosil qiladi; ko'rinadigan natija uchun komponentlar mos nisbatda bo'lishi kerak
+@ M
+
+# 065
+? Agglyutinatsiya reaksiyasi nima?
++ Antigen zarralari va antitelolarning ko'rinadigan yopishishi
+- Eriydigan antigenning antitelo bilan halqa hosil qilishi
+- Komplementning bog'lanishi natijasida gemoliz bo'lishi
+- Toksin faolligining antitelo bilan yo'qotilishi
+- Bakteriyalarning ikkiga bo'linib ko'payishi
+! Agglyutinatsiya — antigen zarralari va ularga xos antitelolar o'rtasida hosil bo'ladigan ko'rinadigan yopishish jarayoni
+@ M JAW
+
+? "Agglyutinatsiya" so'zi lotincha qanday ma'noni bildiradi?
++ Yopishtirish
+- Cho'ktirish
+- Eritish
+- Bo'yash
+- Yuvish
+! Agglyutinatsiya so'zi lotincha "yopishtirish" ma'nosini anglatadi
+@ M JAW
+
+? Antitelo agglyutinatsiyada zarralarni nima uchun bog'lay oladi?
++ Ikki va undan ko'p antigenni bog'lay oladi
+- Bitta antigen determinantini bog'lay oladi
+- Antigen bilan bog'lanmaydi, yopishtiradi
+- Komplement yordamida bog'lanib turadi
+- Tuz eritmasi yordamida bog'lanib turadi
+! Antitelo bivalent yoki multivalent strukturaga ega bo'lgani uchun zarralar orasida ko'priklar hosil qilib, to'plamlar shakllantiradi
+@ M JAW
+
+? Agglyutinatsiya reaksiyasi qaysi eritmada o'tkaziladi?
++ Fiziologik eritmada
+- Distillangan suvda
+- Spirtli eritmada
+- Kislotali eritmada
+- Ishqoriy eritmada
+! Reaksiya fiziologik eritmada va standart sharoitda o'tkaziladi, aks holda natija noaniq bo'lishi mumkin
+@ M JAW
+
+? Taxminiy agglyutinatsiya reaksiyasi qayerda o'tkaziladi?
++ Shisha plastinkada
+- Probirkada seriyali suyultirib
+- Agar geli ichida
+- Petri idishida koloniya ustida
+- Pipetka ichida
+! Taxminiy agglyutinatsiya reaksiyasi shisha plastinkada tez o'tkaziladigan variant hisoblanadi
+@ M JAW
+
+? Taxminiy agglyutinatsiya reaksiyasi nima uchun ishlatiladi?
++ Mikrob turini dastlab taxmin qilish uchun
+- Antitelo titrini aniq o'lchab chiqish uchun
+- Yakuniy tashxisni qat'iy tasdiqlab qo'yish uchun
+- Antibiotik sezuvchanligini aniqlab berish uchun
+- Oziqa muhiti sterilligini tekshirib ko'rish uchun
+! Taxminiy reaksiya mikroorganizmning qaysi turga yoki serogruppaga mansubligini dastlabki bosqichda taxmin qilish uchun ishlatiladi
+@ M JAW
+
+? Taxminiy reaksiyada nima aralashtiriladi?
++ Sof kultura suspenziyasi va antiserum tomchisi
+- Qon zardobi va distillangan suv aralashmasi
+- Sof kultura va antibiotik eritmasi aralashmasi
+- Oziqa muhiti va fiksator eritmasi aralashmasi
+- Bo'yoq va spirt eritmasi aralashmasi
+! Bu usulda sof kulturadan olingan bakteriya suspenziyasi ma'lum antiserum tomchisi bilan aralashtiriladi
+@ M JAW
+
+? Musbat taxminiy agglyutinatsiya natijasidan keyin nima qilinadi?
++ Aniqlashtiruvchi testlar o'tkaziladi
+- Natija yakuniy tashxis deb qabul qilinadi
+- Test yo'q qilinadi
+- Namuna sterillanadi
+- Hech narsa qilinmaydi
+! Taxminiy reaksiya tez natija beradi, ammo u yakuniy tashxis emas; musbat natijadan so'ng aniqlashtiruvchi testlar o'tkaziladi
+@ M JAW
+
+? Agglyutinatsiyaning ikkinchi bosqichida nima yuz beradi?
++ Zarralar yopishib, ko'rinadigan agglyutinat hosil qiladi
+- Antitelo antigen determinantiga birikib, bog'lanadi
+- Komplement faollashib, tizim ishga tushadi
+- Antigen erib, ko'rinmay qoladi
+- Zarralar parchalanib, eritma tiniq bo'ladi
+! Birinchi bosqichda antitelo antigen determinantiga birikadi, ikkinchi bosqichda zarralar yopishib, ko'rinadigan agglyutinat hosil qiladi
+@ M JAW
+
+? Agglyutinatsiya natijasi amaliyotda ko'pincha nimani aniqlashda ishlatiladi?
++ Bakteriyalarning tur yoki serovarini
+- Antibiotikning MIK qiymatini aniqlashda
+- Oziqa muhitining pH qiymatini aniqlashda
+- Suvning qattiqlik darajasini aniqlashda
+- Havodagi mikroblar umumiy sonini aniqlashda
+! Agglyutinatsiya natijasi ko'pincha bakteriyalarning tur yoki serovarini aniqlashda ishlatiladi
+@ M JAW
+
+# 066
+? Kengaytirilgan hajm agglyutinatsiya reaksiyasi qayerda o'tkaziladi?
++ Probirkada
+- Shisha plastinkada
+- Petri idishida
+- Agar geli ichida
+- Mikroskop ostida
+! Kengaytirilgan hajm reaksiyasi oddiy shisha plastinka o'rniga probirkada o'tkaziladi
+@ M JAW
+
+? Kengaytirilgan hajm agglyutinatsiya reaksiyasi nima uchun ishlatiladi?
++ Antitelo titrini aniq aniqlash uchun
+- Faqat mikrob turini taxmin qilish uchun
+- Muhit sterilligini tekshirish uchun
+- Antibiotik zonasini o'lchash uchun
+- Toksin turini bo'yash uchun
+! Bu usul antitelo titrini aniq aniqlash va zaif reaksiyani ishonchli qayd etish uchun ishlatiladi
+@ M JAW
+
+? Kengaytirilgan hajm agglyutinatsiya reaksiyasi nima uchun ishlatiladi?
++ Antitelo titrini aniq aniqlash uchun
+- Mikrob turini tezda taxmin qilib ko'rish uchun
+- Muhit sterilligini tekshirib chiqish uchun
+- Antibiotik zonasini millimetrda o'lchash uchun
+- Toksin turini bo'yoq bilan ko'rsatish uchun
+! Bu usul antitelo titrini aniq aniqlash va zaif reaksiyani ishonchli qayd etish uchun ishlatiladi
+@ M JAW
+
+? Kengaytirilgan hajm reaksiyasida zardob qanday tayyorlanadi?
++ Ketma-ket suyultiriladi
+- Suyultirilmay qoldiriladi
+- Qaynatiladi
+- Quritiladi
+- Muzlatiladi
+! Kengaytirilgan hajm reaksiyasida zardob ketma-ket suyultiriladi
+@ M JAW
+
+? Zardob 1:100 dan boshlab ikki marta ketma-ket suyultirildi: 1:100, 1:200, 1:400, 1:800, 1:1600. Agglyutinatsiya 1:800 gacha kuzatildi. Titr qancha?
++ 1:800
+- 1:100
+- 1:400
+- 1:1600
+- 1:3200
+! Titr — agglyutinatsiya hali ko'rinadigan eng yuqori suyultirish: bu holda 1:800
+@ M
+
+? Zardob 1:50 dan boshlab ikki marta ketma-ket suyultirilsa, 4-probirkadagi suyultirish qancha bo'ladi?
++ 1:400
+- 1:200
+- 1:800
+- 1:100
+- 1:1600
+! 1:50 → 1:100 → 1:200 → 1:400: to'rtinchi probirkada suyultirish 1:400
+@ M
+
+? Zardob 1:50 dan boshlab ikki marta ketma-ket suyultirilsa, 4-probirkadagi suyultirish qancha?
++ 1:400
+- 1:200
+- 1:800
+- 1:100
+- 1:1600
+! 1:50 → 1:100 → 1:200 → 1:400: to'rtinchi probirkada suyultirish 1:400
+@ M
+
+? Suyultirish paytida aralashtirish yetarli bo'lmasa, nima yuz beradi?
++ Qo'shni probirkalar orasida noto'g'ri farq paydo bo'ladi
+- Titr aniqroq va ishonchliroq bo'lib qoladi
+- Reaksiya tezlashib, ko'proq agglyutinat hosil bo'ladi
+- Probirkalar sterillanib, ifloslanishdan saqlanadi
+- Zardob qotib qolib, suyultirish to'xtaydi
+! Aralashtirish yetarli bo'lmasa, qo'shni probirkalar orasida noto'g'ri farq paydo bo'lishi mumkin va bu titr natijasini buzadi
+@ M
+
+? Probirkalarni inkubatsiya qilishda nimaga amal qilinadi?
++ Belgilangan harorat va vaqtga
+- Xonaning yoritilishiga
+- Idishlar rangiga
+- Probirka qopqog'i markasiga
+- Xodim ish vaqtiga
+! Probirkalar belgilangan harorat va vaqt davomida inkubatsiya qilinadi; sharoit buzilsa, reaksiya noto'g'ri natija berishi mumkin
+@ M
+
+? Har bir seriyaga qaysi nazoratlar qo'shiladi?
++ Manfiy nazorat va antigen nazorati
+- Musbat bemor namunasi va qaynatilgan zardob
+- Bo'sh probirka va sterillangan suv namunasi
+- Nazoratlar qo'shilmaydi, natija o'zi yetarli
+- Dezinfektant eritmasi va bo'yoq namunasi
+! Har bir seriyada manfiy nazorat va antigen nazorati qo'shiladi; ular reaksiya to'g'ri kechganini tasdiqlaydi
+@ M

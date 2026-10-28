@@ -1,0 +1,468 @@
+# 113
+
+? Gonokokkning tabiiy rezervuari qaysi?
++ Odam organizmi (hayvonlarda uchramaydi)
+- Uy hayvonlari va uy qushlari organizmi
+- Tuproq va ochiq suv havzalari muhiti
+- Kemiruvchilar va hasharotlar organizmi
+- Sut va go'sht mahsulotlari tarkibi
+! Gonokokkning tabiiy rezervuari odam bo'lib, hayvonlarda u tabiiy holda uchramaydi
+@ M JAW
+
+? Gonokokk va meningokokk morfologik jihatdan qanday?
++ O'xshash, shu sababli laboratoriyada aniq farqlanadi
+- Butunlay farq qiladi, shuning uchun farqlash oson
+- Meningokokk tayoqcha, gonokokk esa kokk shaklida
+- Meningokokk spora hosil qiladi, gonokokk hosil qilmaydi
+- Gonokokk Gram-musbat, meningokokk esa Gram-manfiy
+! Ikki tur morfologik jihatdan o'xshash, shuning uchun laboratoriyada ularni aniq farqlash zarur
+@ M JAW
+
+? Gonokokklar mikroskopda qanday ko'rinadi?
++ Bir tomoni yassi, loviyasimon Gram-manfiy juft kokklar
+- Uzun zanjir hosil qiluvchi Gram-musbat kokklar
+- Uzum shingili shaklidagi Gram-musbat kokklar
+- Ingichka egri Gram-manfiy tayoqchalar
+- Spora hosil qiluvchi yirik Gram-musbat tayoqchalar
+! Gonokokklar bir tomoni yassi, bir-biriga qaragan juft kokklar bo'lib, loviya shaklida ko'rinadi va Gram-manfiy bo'yaladi
+@ M JAW
+
+? Gonokokk pililarining vazifasi qaysi?
++ Epiteliyga yopishish va sirt bo'ylab siljish
+- Toksin ajratib, to'qimani parchalash
+- Antibiotikni parchalab, chidamlilik berish
+- Sporalar hosil qilib, tashqi muhitda saqlash
+- Kapsula hosil qilib, fagotsitozdan himoyalash
+! Pililar (fimbriyalar) shilliq parda epiteliysiga yopishishda ishtirok etadi va bakteriyaning sirt bo'ylab siljishiga yordam beradi
+@ M JAW
+
+? Yiringli ajralmada gonokokklar odatda qayerda ko'rinadi?
++ Neytrofil leykotsitlar ichida
+- Eritrotsitlar ichida
+- Limfotsitlar ichida
+- Epiteliy yadrosi ichida
+- Hujayralardan tashqarida, zanjir bo'lib
+! Gonokokklar yiringli ajralmada ko'pincha neytrofil leykotsitlar ichida joylashadi, bu diagnostik belgi hisoblanadi
+@ M JAW
+
+? Gonokokk o'sishi uchun qaysi oziqa muhiti qo'llanadi?
++ Shokoladli agar
+- Oddiy go'sht-peptonli agar
+- Endo agari (laktoza uchun)
+- Sabouraud agari (zamburug')
+- Manitli tuzli agar (stafilokokk)
+! Gonokokklar talabchan bo'lib, qon yoki gemoglobin qo'shilgan shokoladli agar kabi boyitilgan muhitda o'sadi
+@ M JAW
+
+? Gonokokk ekmalari uchun qanday sharoit kerak?
++ 3–10 % CO2 va 35–37 °C harorat
+- Kislorodsiz muhit va 55–60 °C harorat
+- Quruq havo va 22–25 °C harorat
+- Vakuum muhit va 4–6 °C harorat
+- 20 % CO2 va 42–44 °C harorat
+! Gonokokk uchun 3–10 % karbonat angidridli, yuqori namlikli muhit va 35–37 °C harorat talab qilinadi
+@ M JAW CDCSTI
+
+? Tayer–Martin selektiv muhitiga qaysi moddalar kiritiladi?
++ Vankomitsin, kolistin va nistatin
+- Penitsillin, tetratsiklin va kanamitsin
+- Gentamitsin, sulfanilamid va xloramfenikol
+- Izoniazid, rifampitsin va streptomitsin
+- Eritromitsin, metronidazol va flukonazol
+! Tayer–Martin muhitida vankomitsin, kolistin va nistatin aralash mikroflorani bostirib, gonokokk o'sishiga imkon beradi
+@ M JAW CDCSTI
+
+? Gonokokklar oksidaza testida qanday natija beradi?
++ Kuchli musbat natija beradi
+- Manfiy natija beradi
+- Zaif manfiy natija beradi
+- Natija o'zgaruvchan bo'ladi
+- Sinama gonokokkka qo'llanmaydi
+! Gonokokklarda sitoxrom c oksidazasi bor, shu sababli oksidaza testi kuchli musbat
+@ M JAW
+
+? Gonokokk qaysi shakar(lar)ni parchalaydi?
++ Glyukozani (boshqa shakarlarni emas)
+- Glyukoza va maltozani (saxarozani emas)
+- Glyukoza va saxarozani (maltozani emas)
+- Maltoza va laktozani (glyukozani emas)
+- Laktoza va saxarozani (glyukozani emas)
+! Gonokokklar faqat glyukozani parchalaydi, maltoza, saxaroza va laktozani parchalamaydi, bu ularni boshqa neysseriyalardan farqlaydi
+@ M JAW
+
+# 114
+
+? Gonoreyaning asosiy yuqish yo'li qaysi?
++ Himoyalanmagan jinsiy aloqa
+- Havo-tomchi yo'li
+- Ifloslangan ichimlik suvi
+- Hasharot chaqishi
+- Umumiy idish-tovoqlar
+! Gonoreya asosan himoyalanmagan vaginal, anal va orogenital jinsiy aloqa orqali yuqadi
+@ M JAW
+
+? Onadan bolaga gonokokk qachon yuqadi?
++ Tug'ish paytida tug'ilish yo'llari orqali
+- Homiladorlikning birinchi oyida qon orqali
+- Ona suti bilan emizish vaqtida
+- Tug'ilgandan keyin bir yil o'tgach
+- Chaqaloq bilan oddiy suhbat paytida
+! Onadan bolaga yuqish tug'ish paytida kasallangan ona tug'ilish yo'llari orqali sodir bo'ladi
+@ M JAW
+
+? Maishiy yo'l bilan gonokokk yuqishi ehtimoli nima uchun past?
++ Gonokokklar tashqi muhitga sezgir bo'lgani uchun
+- Gonokokklar sporalar hosil qilgani uchun
+- Gonokokklar suvda tez ko'payishi uchun
+- Gonokokklar tuproqda yillab saqlangani uchun
+- Gonokokklar quruq sirtda uzoq tirik qolgani uchun
+! Gonokokklar tashqi muhitga sezgir, shuning uchun maishiy yo'l bilan yuqish ehtimoli juda past
+@ M JAW
+
+? Gonokokkning virulentlik omillariga qaysilar kiradi?
++ Pili, Opa oqsillari, LOS va IgA1 proteaza
+- Kapsula, ekzotoksin, spora va xivchin
+- Koagulaza, gialuronidaza, streptokinaza va M oqsil
+- Enterotoksin, eksfoliatin, leykotsidin va alfa-toksin
+- Tetanospazmin, botulotoksin, difteriya toksini va endospora
+! Gonokokkning virulentlik omillariga pili, Opa oqsillari, LOS hamda IgA1 proteazasi kiradi
+@ M JAW
+
+? IgA1 proteaza gonokokk uchun qanday ahamiyatga ega?
++ Mahalliy immun himoyani susaytiradi
+- Mikrobni suvda saqlab turadi
+- Qon ivishini tezlashtiradi
+- Eritrotsitlarni parchalaydi
+- Antibiotik ta'sirini kuchaytiradi
+! IgA1 proteaza shilliq pardadagi IgA ni parchalab, mahalliy immun himoyani susaytiradi va mikrobning uzoq saqlanishiga imkon beradi
+@ M JAW
+
+? Gonokokk shilliq pardaga qanday bog'lanadi?
++ Pili orqali epiteliy hujayralariga
+- Kapsula orqali eritrotsitlarga
+- Spora orqali yog' to'qimasiga
+- Xivchin orqali mushak tolalariga
+- Toksin orqali nerv hujayralariga
+! Gonokokk shilliq parda epiteliysiga pili orqali bog'lanadi, so'ngra hujayra ichiga kirishi mumkin
+@ M JAW
+
+? Gonokokk infeksiyasi joyida yiring nima sababdan hosil bo'ladi?
++ Neytrofillarning ko'p miqdorda to'planishi tufayli
+- Eritrotsitlarning ko'p miqdorda parchalanishi tufayli
+- Limfotsitlarning ko'p miqdorda ko'payishi tufayli
+- Trombotsitlarning ko'p miqdorda yig'ilishi tufayli
+- Gepatotsitlarning ko'p miqdorda nobud bo'lishi tufayli
+! Yallig'lanish joyiga neytrofillar ko'p to'planib, yiring hosil bo'lishiga va ajralma paydo bo'lishiga olib keladi
+@ M JAW
+
+? Erkaklarda gonoreyaning odatiy ko'rinishi qaysi?
++ O'tkir uretrit, yiringli ajralma bilan
+- Surunkali gepatit, jigar sohasida og'riq bilan
+- O'tkir gastrit, qorin yuqorisida og'riq bilan
+- O'tkir pnevmoniya, yo'tal va isitma bilan
+- O'tkir otit, quloq og'rig'i va shish bilan
+! Erkaklarda gonoreya o'tkir uretritga olib keladi: siydik chiqarishda og'riq, kuyish va yiringli ajralma
+@ M JAW
+
+? Davolanmagan gonoreyaning erkaklardagi asorati qaysi?
++ Epididimit, prostatit, uretra torayishi
+- Gepatit, sirroz, jigar yetishmovchiligi
+- Gastrit, me'da yarasi, ichki qon ketish
+- Pnevmoniya, plevrit, o'pka shishi
+- Otit, sinusit, meningit, eshitish buzilishi
+! Davolanmasa infeksiya yuqoriga ko'tarilib, epididimit, prostatit va siydik yo'lining torayishi (striktura) ni chaqirishi mumkin
+@ M JAW
+
+? Ayollarda gonoreya odatda qanday kechadi?
++ Ko'pincha belgisiz yoki yengil belgilar bilan
+- Ko'pincha juda kuchli belgilar bilan, tez
+- Ko'pincha yuqori isitma va toshma bilan
+- Ko'pincha ichak yallig'lanishi belgilari bilan
+- Ko'pincha teri yaralari va yiringlash bilan
+! Ayollarda gonoreya ko'pincha belgisiz yoki sezilmas belgilar bilan kechadi, shu sababli ko'pincha kech aniqlanadi
+@ M JAW
+
+? Gonokokk lipooligosaxaridi (LOS) qanday ta'sir qiladi?
++ Yallig'lanishni kuchaytirib, shilliq pardaga zarar yetkazadi
+- Yallig'lanishni to'xtatib, shilliq pardani himoya qiladi
+- Qon ivishini to'xtatib, qon ketishini kuchaytiradi
+- Antibiotikni bog'lab, uni ta'sirsiz qiladi
+- Sporani hosil qilib, tashqi muhitda saqlaydi
+! LOS yallig'lanishni kuchaytiradi va shilliq pardadagi hujayralarga zarar yetkazadi
+@ M JAW
+
+# 115
+
+? Gonokokk qon zardobi ta'siridan qanday qochadi?
++ LOS molekulasini sialillash orqali
+- Kapsula sintezi va hujayra devori orqali
+- Spora hosil qilib, tinim holatiga o'tish orqali
+- Xivchin sintezi va tez harakatlanish orqali
+- Toksin ajratib, komplementni o'ldirish orqali
+! Gonokokk LOS molekulasini sialillash orqali komplement tomonidan eritilishdan qochadi
+@ M JAW
+
+? Gonokokkda antigenik o'zgaruvchanlik qaysi tuzilmalarda kuzatiladi?
++ Pili va Opa oqsillarida
+- Xivchin va sporada
+- Ribosoma va yadroda
+- Kapsula va M oqsilda
+- Mitoxondriya va plazmidda
+! Gonokokklar pili va Opa oqsillarining antigen tuzilishini o'zgartirish qobiliyatiga ega
+@ M JAW
+
+? Gonokokk bilan kasallanishdan keyingi immunitet qanday?
++ Boshqa shtammdan himoya bermaydi, qayta kasallanish mumkin
+- Umrbod saqlanib, qayta kasallanishga umuman yo'l qo'ymaydi
+- Barcha shtammlarga qarshi to'liq va umrbod himoya beradi
+- Bolalarda hosil bo'lib, kattalarda umuman hosil bo'lmaydi
+- Ayollarda hosil bo'lib, erkaklarda umuman hosil bo'lmaydi
+! Antigen o'zgaruvchanligi tufayli hosil bo'lgan antitelalar boshqa shtammdan himoya qilmasligi mumkin, shuning uchun qayta kasallanish saqlanadi
+@ M JAW
+
+? Antigenik o'zgaruvchanlik vaksina yaratishga qanday ta'sir qiladi?
++ Vaksina yaratishni murakkablashtiradi
+- Vaksina yaratishni osonlashtiradi
+- Vaksina yaratishga umuman ta'sir qilmaydi
+- Vaksinani butunlay keraksiz qiladi
+- Vaksinani avtomatik ravishda samarali qiladi
+! Antigenik o'zgaruvchanlik vaksina uchun barqaror va turli shtammlarda himoya beruvchi antigen tanlashni qiyinlashtiradi
+@ M JAW
+
+? Gonoreyaning umumiy profilaktikasida eng samarali vositalardan biri qaysi?
++ Prezervativni to'g'ri qo'llash
+- Har kuni antibiotik qabul qilish
+- Qo'lni faqat sovuq suvda yuvish
+- Xonani kuniga bir marta shamollatish
+- Kiyimni haftada bir marta dazmollash
+! Eng samarali vositalardan biri himoya vositalarini, masalan prezervativni, to'g'ri qo'llashdir
+@ M JAW CDCSTI
+
+? Gonoreya aniqlanganda jinsiy sherik bilan nima qilinadi?
++ Sherik xabardor qilinib, tekshirilib, davolanadi
+- Sherik bilan aloqa davom ettirilib, kuzatiladi
+- Sherik haqida ma'lumot sir saqlanib, tekshirilmaydi
+- Sherik faqat vitamin bilan quvvatlanadi
+- Sherik faqat uy sharoitida kuzatiladi
+! Sherik xabardor qilinib, uni tekshirish va davolash zarur, aks holda infeksiya qayta yuqadi
+@ M JAW CDCSTI
+
+? Gonokokkka qarshi maxsus vaksina holati qanday?
++ Keng qo'llaniladigan standart vaksina mavjud emas
+- Barcha yoshlarga majburiy bir martalik vaksina bor
+- Anatoksin asosidagi vaksina keng qo'llanadi
+- Jonli vaksina bolalarga tug'ilganda beriladi
+- Har yili takrorlanadigan vaksina qo'llanadi
+! Gonokokkka qarshi keng qo'llaniladigan standart vaksina yo'q; antigenik o'zgaruvchanlik va shtammlar xilma-xilligi asosiy to'siq
+@ M JAW
+
+? Qaysi vaksina gonoreyaga qisman himoya berishi haqida ma'lumot paydo bo'lgan?
++ Meningokokk B vaksinasi
+- Qizamiq vaksinasi
+- Poliomielit vaksinasi
+- BTsJ vaksinasi
+- Gripp vaksinasi
+! Ayrim tadqiqotlarda meningokokk B vaksinasi gonoreyaga qisman himoya bergani qayd etilgan, ammo bu hali standart emas
+@ M
+
+? Hozircha gonokokk profilaktikasi nimaga tayanadi?
++ Xavf omillarini kamaytirish va muntazam tekshiruvga
+- Hamma aholini majburiy ommaviy emlash dasturiga
+- Doimiy profilaktik antibiotik qabul qilish rejasiga
+- Tashqi muhitni muntazam dezinfeksiyalash choralariga
+- Hasharotlarga qarshi muntazam kurashish choralariga
+! Hozircha profilaktika asosan xavf omillarini kamaytirish va muntazam tekshiruvga tayanadi
+@ M JAW
+
+? Yangi tug'ilgan chaqaloqlarda gonokokk konyunktivitining oldini olish uchun nima qo'llanadi?
++ Tug'ilganda ko'zga antibiotik malhami surtish
+- Tug'ilganda terini spirt bilan artib chiqish
+- Tug'ilganda quloqqa tomchi dori tomizish
+- Tug'ilganda og'izga profilaktik sirop berish
+- Tug'ilganda oyoqqa maxsus bog'lam qo'yish
+! Neonatal profilaktikada yangi tug'ilganlarning ko'ziga antibiotik malhami (masalan, eritromitsin) qo'llanadi
+@ JAW CDCSTI
+
+# 116
+
+? Erkaklardan gonokokk tekshiruvi uchun qaysi namuna olinadi?
++ Uretra tamponi yoki birinchi porsiya siydik
+- O'rtacha porsiyadagi tushlik vaqtidagi siydik
+- Burun shilliq qavatidan olingan tampon
+- Quloq pardasi atrofidan olingan surtma
+- Teri yuzasidan olingan qirindi namunasi
+! Erkaklarda uretra tamponi yoki NAAT uchun birinchi porsiya siydik namunasi olinadi
+@ M CDCSTI
+
+? Ayollarda eng muhim namuna qaysi?
++ Endotserviks (bachadon bo'yni kanali) tamponi
+- Vaginaning orqa gumbazidan olingan tampon
+- Qin kirish qismidan olingan teri qirindisi
+- Qorin bo'shlig'idan olingan suyuqlik
+- Tomoq va burundan olingan aralash surtma
+! Ayollarda eng muhim namuna endotservikal tampon hisoblanadi
+@ M CDCSTI
+
+? Vaginal namuna gonoreyani aniqlashda nima uchun kam informativ?
++ Gonokokklar asosan bachadon bo'yni va uretrada
+- Gonokokklar vaginal muhitda tez nobud bo'ladi
+- Vaginada gonokokklar umuman yashay olmaydi
+- Vaginal namuna doim steril holatda bo'ladi
+- Vaginal namunani tashishning imkoni bo'lmaydi
+! Gonokokklar asosan bachadon bo'yni va uretra shilliq pardasida joylashadi, shuning uchun vaginal namuna kam informativ
+@ M
+
+? Ekstragenital gonoreya aniqlash uchun qaysi joylardan tampon olinadi?
++ Halqum va to'g'ri ichakdan
+- Quloq va burundan
+- Qo'ltiq va tizza osti chuqurchasidan
+- Bosh terisi va sochdan
+- Tirnoq va tovondan
+! Halqum yoki to'g'ri ichak infeksiyasi shubhasida shu sohalardan tampon olinadi
+@ M CDCSTI
+
+? Konyunktiva ajralmasi qachon tekshiriladi?
++ Konyunktivit gonokokk gumon qilinganda
+- Tish og'rig'i bo'lganda, shifokor so'ragan paytda
+- Qorin og'rig'i bo'lganda, shifokor so'ragan paytda
+- Teri toshmasi bo'lganda, shifokor so'ragan paytda
+- Bo'g'im shishi bo'lganda, shifokor so'ragan paytda
+! Konyunktiva ajralmasi chaqaloqlar va kattalarda gonokokk konyunktivitini tekshirish uchun olinadi
+@ M
+
+? Disseminatsiyalangan gonokokk infeksiyasi shubhasida qaysi materiallar olinadi?
++ Qon, bo'g'im suyuqligi va teri lezyonlari
+- Siydik, najas va tupurik namunalari
+- Balg'am, safro va ter namunalari
+- Soch, tirnoq va teri qirindisi namunalari
+- Sut, ko'z yoshi va burun ajralmasi
+! Disseminatsiyalangan infeksiya shubhasida qon, bo'g'im suyuqligi va teri lezyonlaridan namuna olinadi
+@ M
+
+? Namuna qachon olinishi afzal?
++ Antibiotik qabul qilishdan oldin
+- Antibiotik qabul qilish davomida
+- Antibiotik kursi tugagach, bir hafta o'tib
+- Antibiotik dozasi oshirilgandan keyin
+- Antibiotikdan mustaqil, har qanday vaqtda
+! Antibiotik davomida olingan namuna gonokokk o'sishini bostirib, noto'g'ri manfiy natija berishi mumkin
+@ M
+
+? Gonokokk namunasi qaysi tashish muhitida yetkaziladi?
++ Stuart yoki Amies muhitida
+- Qaynatilgan distillangan suvda
+- Quruq steril idishda
+- Formalin eritmasida
+- Spirt eritmasida
+! Namuna steril tampon bilan olinib, Stuart yoki Amies kabi tashish muhitiga joylanadi
+@ M CDCSTI
+
+? Gonokokk namunasi qanday haroratda yetkaziladi?
++ Sovitilmasdan, xona haroratida va tez
+- Muzlatgichda, 4 °C da va sekin
+- Muzlatilgan holda, bir kundan keyin
+- Qaynoq suvda, 60 °C da
+- Quyoshda, issiq joyda
+! Sovuq sharoit gonokokklarni nobud qilishi mumkin, shuning uchun namuna sovitilmay, xona haroratida yetkaziladi
+@ M CDCSTI
+
+? Qaysi tamponlar gonokokk tekshiruvi uchun tavsiya etiladi?
++ Kalsiy alginat yoki sintetik tolali tamponlar
+- Oddiy paxtali, yog'langan va quritilgan tamponlar
+- Yog'och cho'pli, bo'yoq bilan ishlangan tamponlar
+- Qog'ozdan yasalgan, namlanmagan quruq tamponlar
+- Metall simli, alangada qizdirilgan tamponlar
+! Ba'zi tamponlar gonokokk o'sishini bostirishi mumkin, shuning uchun kalsiy alginat yoki sintetik tolali tamponlar tavsiya etiladi
+@ M
+
+# 117
+
+? Gonokokk tekshiruvining dastlabki mikroskopiyasida nima ko'riladi?
++ Neytrofillar ichidagi Gram-manfiy diplokokklar
+- Eritrotsitlar ichidagi Gram-musbat diplokokklar
+- Hujayralar tashqarisidagi Gram-musbat zanjirlar
+- Neytrofillar ichidagi Gram-musbat tayoqchalar
+- Epiteliy yadrosidagi Gram-manfiy spiroxetalar
+! Gram bo'yalgan surtmada neytrofillar ichidagi Gram-manfiy diplokokklar gonoreya ehtimolini oshiradi
+@ M JAW
+
+? Gonokokk ekmalari qaysi muhitga ekiladi?
++ Shokoladli agar yoki Tayer–Martin muhitiga
+- Endo agari yoki Levin agariga
+- Manitli tuzli agar yoki Beyrd–Parker agariga
+- Sabouraud agari yoki Chapek muhitiga
+- Vismut-sulfit agari yoki selenit bulyoniga
+! Gonokokk talabchan bo'lgani uchun shokoladli agar yoki selektiv Tayer–Martin muhitiga ekiladi
+@ M JAW
+
+? Gonokokk koloniyalari qanday ko'rinadi?
++ Kichik, kulrang, yarim shaffof, silliq
+- Yirik, qora, yaltiroq, qattiq, qalin
+- Yirik, sariq, xira, g'adir-budir, quruq
+- Kichik, qizil, quruq, tangachali, qalin
+- O'rta, ko'k, shilimshiq, tikanli, notekis
+! Gonokokk koloniyalari odatda kichik, kulrang, yarim shaffof va silliq bo'ladi
+@ M JAW
+
+? Gonokokk identifikatsiyasida birinchi tezkor sinama qaysi?
++ Oksidaza testi
+- Koagulaza testi
+- Ureaza testi
+- Indol testi
+- Optoxin testi
+! Oksidaza testi Neisseria avlodini tezkor aniqlashda ishlatiladi va gonokokkda kuchli musbat
+@ M JAW
+
+? Gonokokkni boshqa neysseriyalardan farqlashda qaysi belgi asosiy mezon?
++ Glyukozani parchalab, maltozani parchalamasligi
+- Laktoza va saxarozani parchalab yuborishi
+- Saxarozani parchalab, glyukozani parchalamasligi
+- Oksidaza testining manfiy chiqishi bilan
+- Spora hosil qilib, harakatchan bo'lishi bilan
+! Gonokokk faqat glyukozani parchalaydi, maltoza, saxaroza va laktozani esa parchalamaydi
+@ M JAW
+
+? Zamonaviy laboratoriyada gonokokk DNKsini aniqlash qaysi usulda amalga oshiriladi?
++ NAAT (nuklein kislotalarni kuchaytirish testi)
+- Vidal reaksiyasi (zardob aglyutinatsiyasi)
+- Mantu sinamasi (teri ichi sinamasi)
+- Shik sinamasi (toksin sinamasi)
+- Rayt reaksiyasi (brutsellyoz sinamasi)
+! NAAT (masalan, PZR) gonokokk nuklein kislotalarini sezgir aniqlaydi va birinchi porsiya siydikda ham qo'llanadi
+@ M CDCSTI
+
+? Antibiotiklarga sezuvchanlik tekshiruvi gonokokkda nima uchun muhim?
++ Chidamli shtammlar tarqalgani uchun davo tanlashga yordam beradi
+- Gonokokk barcha antibiotiklarga bir xil sezgir bo'lgani uchun
+- Gonokokk antibiotiklarga umuman sezgir bo'lmagani uchun
+- Natija bemor jinsiga bog'liq bo'lgani uchun
+- Natija faqat xonadagi haroratga bog'liq bo'lgani uchun
+! Gonokokkda antibiotiklarga chidamli shtammlar uchraydi, shuning uchun sezuvchanlikni tekshirish davo tanlashda muhim
+@ WHOAMR CDCSTI
+
+? Gonokokk tekshiruvida kultura va mikroskopiya natijalari mos kelmasa, nima qilinadi?
++ Namuna qayta olinib, qo'shimcha usul bilan tekshiriladi
+- Mikroskopiya natijasi yakuniy deb qabul qilinadi
+- Kultura natijasi hisobga olinmay, tashlab yuboriladi
+- Natija rasmiylashtirilmay, arxivga topshiriladi
+- Bemorga davo tayinlanmay, kuzatib turiladi
+! Mos kelmasa, ko'pincha namuna olish yoki tashish xatosi bo'lishi mumkin, shuning uchun namuna qayta olinib qo'shimcha usul qo'llanadi
+@ M
+
+? Gonokokk tekshiruvining oxirgi bosqichi qaysi?
++ Natijani rasmiylashtirish va shifokorga yetkazish
+- Namunani qabul qilish va ro'yxatga olish
+- Dastlabki mikroskopiya va bo'yash bosqichi
+- Shokoladli agarga ekish va inkubatsiya qilish
+- Oksidaza sinamasini o'tkazish va izohlash
+! Yakuniy bosqichda barcha natijalar yig'ilib, rasmiylashtiriladi va shifokorga yetkaziladi
+@ M
+
+? Gonokokk kulturasi kam aniqlanganda yana qaysi usul qo'llanadi?
++ NAAT, ya'ni PZR asosidagi tekshiruv
+- Kvelling reaksiyasi, ya'ni kapsula kattalashishi
+- Bo'yoqsiz mikroskopiya, ya'ni tirik surtma
+- Vasserman reaksiyasi, ya'ni komplement bog'lash
+- Lateks-aglyutinatsiya, ya'ni stafilokokk uchun
+! Kultura sezgirligi cheklangan bo'lgani uchun gonokokk tashxisida NAAT (PZR) keng qo'llanadi
+@ M CDCSTI

@@ -1,0 +1,551 @@
+# 204
+
+? Qaytalama tif qo'zg'atuvchisi qaysi avlodga kiradi?
++ Borrelia
+- Treponema
+- Leptospira
+- Vibrio
+- Spirillum
+! Qaytalama tif qo'zg'atuvchisi Borrelia avlodiga mansub spiroxeta
+@ M JAW
+
+? Borrelia qon surtmasida qanday ko'rinadi?
++ Eritrositlar orasida ingichka spirallar
+- Eritrositlar ichida mayda halqalar shaklida
+- Leykotsitlar ichida juft kokklar shaklida
+- Trombotsitlar ichida zanjirli tayoqchalar
+- Plazmada tarqoq sporalar shaklida
+! Qon surtmasida Borrelia eritrositlar orasida harakatlanuvchi ingichka spirallar ko'rinishida topiladi
+@ M JAW
+
+? Surtma qaysi davrda olinadi?
++ Isitma davrida
+- Isitmasiz davrda
+- Sog'ayish davrida
+- Kasallikdan oldin
+- Kasallik tugagach
+! Qonda qo'zg'atuvchi isitma davrida ko'p bo'ladi, shuning uchun surtma aynan shu davrda olinadi
+@ M JAW WHODW
+
+? Borrelia oziqa muhitida o'stirish qanday?
++ Qiyin, murakkab muhit kerak
+- Oson, oddiy bulyonda o'sadi
+- Qon agarida tez o'sadi
+- Endo agarida tez o'sadi
+- Oddiy agarda tez o'sadi
+! Borrelia murakkab, zardob yoki biologik qo'shimchalar bilan boyitilgan muhitlarni talab qiladi
+@ M JAW
+
+? Kultura usuli qayerda qo'llanadi?
++ Ixtisoslashgan laboratoriyalarda
+- Har bir oddiy laboratoriyada kundalik
+- Uyda, o'z-o'zini tekshirishda
+- Dalada, jihozsiz holda
+- Maktabda, o'quv jarayonida
+! O'sish sekin kechadi, kultura faqat ixtisoslashgan laboratoriyalarda va asosan ilmiy tadqiqotlar uchun ishlatiladi
+@ M JAW
+
+? Borrelia energiyani qanday oladi?
++ Uglevodlarni bijg'itish orqali
+- Fotosintez orqali
+- Yog'larni oksidlash orqali
+- Oqsillarni oksidlash orqali
+- Noorganik tuzlarni oksidlash orqali
+! Borrelia xemoorganotrof bo'lib, energiyani asosan uglevodlarni bijg'itish orqali oladi
+@ M JAW
+
+? Borrelia bijg'ishida asosan nima hosil bo'ladi?
++ Laktat va sirka kislotasi
+- Etanol va ko'mir kislotasi
+- Vodorod sulfid va ammiak
+- Metan va vodorod
+- Aseton va butanol
+! Bijg'ish natijasida asosan laktat va sirka kislotasi hosil bo'lishi mumkin
+@ M JAW
+
+? Borrelia nima uchun mezbon muhitga bog'liq?
++ Biosintez yo'llari kam, tayyor modda kerak
+- Barcha moddani o'zi sintez qiladi, mustaqil
+- Quyosh nuridan energiya oladi, mustaqil
+- Havodagi azotdan foydalanadi, mustaqil
+- Suvdagi tuzlardan foydalanadi, mustaqil
+! Borrelia ko'p biosintetik yo'llarga ega emas, shuning uchun tayyor oziq moddalarni mezbondan oladi
+@ M JAW
+
+? Borrelia kulturasi qaysi haroratda inkubatsiya qilinadi?
++ Tana haroratiga yaqin
+- 4 °C haroratga yaqin sovuqda
+- 56 °C haroratga yaqin issiqda
+- 100 °C haroratga yaqin qaynoqda
+- 0 °C haroratga yaqin muzda
+! Kultura odatda inson tanasi haroratiga yaqin haroratda inkubatsiya qilinadi
+@ M JAW
+
+? Kultura vazifasi nima?
++ Qo'zg'atuvchini tirik saqlash
+- Qo'zg'atuvchini o'ldirish
+- Qo'zg'atuvchini sporalash
+- Qo'zg'atuvchini rangsizlantirish
+- Qo'zg'atuvchini kapsulalash
+! Muhitda qo'zg'atuvchining tirikligini saqlash va shtammlarni keyingi tadqiqotlar uchun ajratib olish muhim vazifa
+@ M JAW
+
+# 205
+
+? Epidemik qaytalama tifning vektori qaysi?
++ Odam biti (Pediculus humanus)
+- Yumshoq kana (Ornithodoros)
+- Burga (Xenopsylla)
+- Pashsha (Musca)
+- Chivin (Anopheles)
+! Epidemik shakl uchun vektor Pediculus humanus humanus, ya'ni odam biti
+@ M JAW WHODW
+
+? Endemik qaytalama tifning vektori qaysi?
++ Yumshoq kana (Ornithodoros)
+- Odam biti (Pediculus humanus)
+- Burga (Xenopsylla cheopis)
+- Pashsha (Musca domestica)
+- Chivin (Anopheles maculipennis)
+! Endemik shakl uchun asosiy vektorlar Ornithodoros avlodiga mansub yumshoq kanalar
+@ M JAW WHODW
+
+? Epidemik shaklda infeksiya manbai kim?
++ Kasal odam
+- Kemiruvchi hayvonlar
+- Yovvoyi qushlar
+- Tuproq va suv
+- Sut mahsulotlari
+! Epidemik qaytalama tifda infeksiya manbai kasal odam; vektor bit
+@ M JAW WHODW
+
+? Endemik shaklning manbai nima?
++ Kemiruvchi, yovvoyi hayvonlar
+- Kasal odamning o'zi bo'lgan
+- Bit va uning tuxumlari
+- Tuproq va chang zarrasi
+- Suv va ichimlik suvi
+! Endemik shakl tabiiy o'choq bilan bog'liq: manba kemiruvchilar va boshqa yovvoyi hayvonlar
+@ M JAW WHODW
+
+? Kemiruvchilar nima uchun uzoq manba bo'lib qoladi?
++ Belgisiz, sog'lom ko'rinadi
+- Tez nobud bo'lib, ko'rinmaydi
+- Qo'zg'atuvchi ularda yashamaydi
+- Qo'zg'atuvchi ularda sporalanadi
+- Qo'zg'atuvchini tezda yo'qotadi
+! Kemiruvchilar qonida qo'zg'atuvchi yashaydi, lekin belgi kam bo'ladi; ular sog'lom ko'rinib, uzoq manba bo'lib qoladi
+@ M JAW
+
+? Bit qaerda yashaydi?
++ Odam tanasi, kiyimida
+- Tuproq ostida, ninada
+- Suv havzasi ichida
+- Daraxt tanasi ichida
+- Tosh yoriqlari ichida
+! Bit odam tanasida va kiyimida yashaydi va bu hayot tarzi kasallikning tarqalishini ta'minlaydi
+@ M JAW WHODW
+
+? Yumshoq kanalar qayerda yashirinadi?
++ Kemiruvchi in, uy yoriqlari
+- Odam sochlari orasida
+- Odam kiyimlari ichida
+- Suv havzalari ichida
+- Daraxt barglari orasida
+! Kanalar kemiruvchilar inlarida yoki odam uyining yoriqlarida yashirinib, kechasi qon so'rishga chiqadi
+@ M JAW
+
+? Odam kasallikni qachon yuqtiradi?
++ Vektor chaqqanda
+- Kasal bilan salomlashganda
+- Ifloslangan ovqatdan
+- Ifloslangan suvdan
+- Havo-tomchi orqali
+! Infeksiyani yuqtirish uchun asosan vektor kerak, u qon so'rish jarayonida qo'zg'atuvchini yuqtiradi
+@ M JAW WHODW
+
+? Vektor tabiiy o'choq barqarorligiga qanday ta'sir qiladi?
++ Qo'zg'atuvchini uzoq saqlaydi
+- Qo'zg'atuvchini darhol yo'qotadi
+- Qo'zg'atuvchini kuchsizlantiradi
+- O'choqni butunlay yo'q qiladi
+- Kasallik qaytishini oldini oladi
+! Vektor qo'zg'atuvchini uzoq vaqt saqlay oladi, bu tabiiy o'choq barqarorligini ta'minlaydi va kasallikning qayta paydo bo'lishiga sabab bo'ladi
+@ M JAW
+
+? Endemik shakl odamga qaysi sharoitda yuqadi?
++ O'choqqa kirganda, kana chaqqanda
+- Hammomda cho'milganda, suv ichganda
+- Maktabda dars o'tirganda, yozganda
+- Bozorda xarid qilganda, savdolashganda
+- Teatrda tomosha qilganda, o'tirganda
+! Odam kasallikni tabiiy o'choqqa kirganda va vektor chaqqanda yuqtiradi; ko'pincha qishloq sharoiti bilan bog'liq
+@ M JAW
+
+# 206
+
+? Qaytalama tifda eng oddiy va tez usul qaysi?
++ Qon surtmasi mikroskopiyasi
+- Kultura usuli (murakkab)
+- Serologik usul (kech)
+- Rentgen usuli (foydasiz)
+- Teri sinamasi (foydasiz)
+! Qon surtmasi mikroskopiyasi qaytalama tif tashxisining oddiy va tez usuli
+@ M JAW
+
+? Qanday surtmalar tayyorlanadi?
++ Qalin va yupqa surtma
+- Quruq surtma, bitta turdagi
+- Yog'li surtma, bitta turdagi
+- Qatlamli surtma, bitta turdagi
+- Suvli surtma, bitta turdagi
+! Qalin va yupqa surtmalar tayyorlanadi: qalin surtmada ko'proq qon, yupqa surtmada morfologiya yaxshi ko'rinadi
+@ M JAW
+
+? Surtma qaysi bo'yoqlar bilan bo'yaladi?
++ Giemsa yoki Romanovskiy
+- Ziel–Nilsen yoki Ojeshko
+- Gram yoki Neyser
+- Burri yoki Fontana
+- Sudan yoki Gimenes
+! Surtma Giemsa yoki Romanovskiy bo'yoqlari bilan bo'yalib, immersion obyektivda ko'riladi
+@ M JAW
+
+? Qorong'i maydon mikroskopiyasida nima yaxshi ko'rinadi?
++ Harakatchan spiroxetalar
+- Sporali tayoqchalar shakli
+- Kapsulali kokklar shakli
+- Zamburug' ipchalari shakli
+- Virus zarrachalari shakli
+! Qorong'i maydon mikroskopiyasida harakatlanuvchi spiroxetalar yaxshi ko'rinadi
+@ M JAW
+
+? Kultura usuli qaerda ishlatiladi?
++ Ilmiy tadqiqot va shtamm saqlashda
+- Kundalik tashxisda keng
+- Uyda tekshirishda
+- Dalada jihozsiz tekshirishda
+- Tezkor skriningda
+! Kultura sekin va murakkab, shuning uchun asosan ilmiy tadqiqotlarda va shtammlarni saqlashda ishlatiladi
+@ M JAW
+
+? Serologik testlar qaytalama tifda qanday?
++ Ishonchliligi cheklangan
+- Eng ishonchli usul
+- Yagona tasdiqlovchi usul
+- Mutlaqo aniq usul
+- Kulturadan ustun usul
+! ELISA va immunofluoressensiya keng qo'llanadi, ammo ularning ishonchliligi cheklangan
+@ M JAW
+
+? Dastlabki kunlarda serologik natija qanday bo'lishi mumkin?
++ Manfiy chiqishi mumkin
+- Doim musbat bo'ladi
+- Doim kuchli musbat bo'ladi
+- Test o'tkazilmaydi
+- Natija chiqmaydi
+! Antitelolar hosil bo'lishi uchun vaqt kerak, shuning uchun dastlabki kunlarda natija manfiy chiqishi mumkin
+@ M JAW
+
+? Qalin surtmaning afzalligi nima?
++ Ko'proq qon hajmi tekshiriladi
+- Hujayra morfologiyasi yaxshi ko'rinadi
+- Bo'yash shart emas
+- Mikroskopsiz ko'rinadi
+- Kulturadan aniq
+! Qalin surtmada ko'proq qon hajmi tekshiriladi, shuning uchun qo'zg'atuvchi topilish ehtimoli yuqori
+@ M JAW
+
+? Yupqa surtmaning afzalligi nima?
++ Morfologiya yaxshi ko'rinadi
+- Ko'proq qon hajmi tekshiriladi
+- Bo'yash umuman shart emas
+- Juda tezroq quriydi
+- Qimmatroq turadi
+! Yupqa surtmada hujayralar morfologiyasi yaxshi ko'rinadi
+@ M JAW
+
+? Qorong'i maydon natijasini talqin qilish nimani talab qiladi?
++ Tajriba
+- Qanday tajriba
+- Bo'yoq
+- Kultura
+- Rentgen
+! Qorong'i maydon mikroskopiyasida natijani to'g'ri talqin qilish uchun tajriba talab qilinadi
+@ M JAW
+
+# 207
+
+? Qaytalama tifning klinik xususiyati nima?
++ Isitma hujumi, afebril interval
+- Doimiy yuqori isitma holati
+- Doimiy past isitma holati
+- Isitmasiz kechish holati
+- Faqat teri toshmasi holati
+! Kasallik isitma hujumlari va afebril intervallarning almashinishi bilan kechadi
+@ M JAW WHODW
+
+? Har bir hujum qancha davom etadi?
++ Bir necha kun
+- Bir necha soniya
+- Bir necha daqiqa
+- Bir necha oy
+- Bir necha yil
+! Har bir hujum bir necha kun davom etadi, keyin isitma pasayib, bemor vaqtincha yaxshilanadi
+@ M JAW
+
+? Qaytalanish soni va intervallar nimaga bog'liq?
++ Tur va immun holatiga
+- Sevimli ovqatga qarab belgilanadi
+- Kiyim rangiga qarab belgilanadi
+- Xona haroratiga qarab belgilanadi
+- Ish joyiga qarab belgilanadi
+! Qaytalanish soni va intervallar davomiyligi qo'zg'atuvchi turiga va bemorning immun holatiga bog'liq
+@ M JAW
+
+? Qaytalama tif nimadan farqlanadi?
++ Malyariyadan
+- Gripp virusidan
+- Qizamiqdan
+- Suvchechakdan
+- Tepkidan
+! Qaytalama tifni malyariya bilan adashtirish mumkin; malyariyada eritrositlar ichida plazmodiy, qaytalama tifda spiroxeta topiladi
+@ M JAW
+
+? Malyariyada qon surtmasida nima ko'rinadi?
++ Eritrositlar ichida plazmodiylar
+- Eritrositlar orasida spiroxetalar
+- Leykotsitlar ichida kokklar
+- Plazmada tayoqchalar
+- Trombotsitlar ichida sporalar
+! Malyariyada qon surtmasida eritrositlar ichida plazmodiylar, qaytalama tifda esa spiral spiroxetalar ko'rinadi
+@ M JAW
+
+? Leptospiroz qaytalama tifdan nimasi bilan farq qiladi?
++ Sariqlik, buyrak buzilishi ko'p
+- Teri toshmasi ko'proq uchraydi
+- Yo'tal ko'proq uchraydi
+- Ich ketishi ko'proq uchraydi
+- Bo'g'im shishi ko'proq uchraydi
+! Leptospirozda sariqlik va buyrak faoliyati buzilishi ko'proq uchraydi
+@ M JAW
+
+? Mikroskopik tashxis uchun qon qachon olinadi?
++ Isitma davrida
+- Isitmasiz davrda
+- Sog'ayganda
+- Kasallikdan oldin
+- Kasallik tugagach
+! Qon surtmasi isitma davrida olinadi, chunki qo'zg'atuvchi shu vaqtda qonda ko'p bo'ladi
+@ M JAW WHODW
+
+? Tif va septik holatlarni farqlash uchun nima qilinadi?
++ Qon ekish, laboratoriya tahlili
+- Shikoyat so'rab olish orqali
+- Harorat o'lchab olish orqali
+- Tashqi ko'rib chiqish orqali
+- Hech narsa qilmay, kutish orqali
+! Tif va boshqa bakterial septik holatlar ham o'xshash ko'rinishi mumkin, shuning uchun qon ekish va laboratoriya tahlillari zarur
+@ M JAW
+
+? Hujumlar orasidagi tanaffus tashxisda nima beradi?
++ Boshqa isitmali kasallikdan farqlash
+- Tashxisni butunlay rad etish uchun asos
+- Davolashni to'xtatish uchun asos
+- Vaksina tanlash uchun asos bo'ladi
+- Antibiotik tanlash uchun asos bo'ladi
+! Hujumlar orasidagi tanaffus kasallikni boshqa surunkali isitmali holatlardan ajratishda foydali
+@ M JAW
+
+? Ketma-ket kuzatuv nimaga yordam beradi?
++ Tashxisni aniqlashtirishga
+- Tashxisni yashirishga
+- Isitmani oshirishga
+- Immunitetni yo'qotishga
+- Qaytalanishni tezlashtirishga
+! Qaytalanish soni va intervallar o'zgaruvchan bo'lgani uchun ketma-ket kuzatuv tashxisni aniqlashtirishga yordam beradi
+@ M JAW
+
+# 208
+
+? Qaytalama tifni davolashda asosan nima qo'llanadi?
++ Antibiotiklar
+- Vitaminlar
+- Antigistaminlar
+- Fizioterapiya
+- Parhez
+! Qaytalama tifni davolashda asosiy vosita antibiotiklar (masalan, tetratsiklinlar yoki makrolidlar)
+@ M JAW WHODW
+
+? Yarish–Gerksgeymer reaksiyasi qachon paydo bo'ladi?
++ Davo boshlangan birinchi soatlarda
+- Davolashdan bir oy o'tgandan keyin
+- Davolashdan oldin, tashxis paytida
+- Sog'ayganda, kasallik tugagach
+- Bir yil o'tgach, qayta tekshiruvda
+! Reaksiya odatda davolash boshlangan birinchi soatlarda paydo bo'ladi
+@ M JAW CDCSTI
+
+? Yarish–Gerksgeymer reaksiyasi nimaga bog'liq?
++ Qo'zg'atuvchi parchalanib, sitokin ajralishi
+- Antibiotikka allergik reaksiya rivojlanishi
+- Vitamin yetishmasligi kuchayishi
+- Qon guruhiga bog'liq reaksiya
+- Havo harorati o'zgarishi ta'siri
+! Bu holat qo'zg'atuvchi hujayralarining tez parchalanishi natijasida qonga ajralgan lipoproteinlar va sitokinlar bilan bog'liq
+@ M JAW CDCSTI
+
+? Yarish–Gerksgeymer reaksiyasining belgilari qaysilar?
++ Qaltirash, yuqori isitma, bosh og'rig'i
+- Sovuq, past isitma, ishtaha oshishi
+- Qichishish, toshma, burun bitishi
+- Ich ketishi, qusish, sariqlik
+- Yo'tal, ko'krak og'rig'i, nafas qisilishi
+! Reaksiya qaltirash, qattiq isitma, bosh og'rig'i va qon bosimining pasayishi bilan namoyon bo'lishi mumkin
+@ M JAW CDCSTI
+
+? Yarish–Gerksgeymer reaksiyasi qanday o'tadi?
++ O'zi o'tadi, og'irida yordam kerak
+- Doim o'lim bilan tugaydi, davosiz
+- Hech qachon o'tib ketmaydi, davosiz
+- Operatsiya bilan o'tadi, davosiz
+- Vaksina bilan o'tadi, davosiz
+! Reaksiya o'z-o'zidan o'tadi, ammo og'ir hollarda bemorni kuzatish va simptomatik yordam talab qilinadi
+@ M JAW CDCSTI
+
+? Isitma va og'riq uchun nima qo'llanadi?
++ Antipiretik, analgetik vositalar
+- Antibiotik aralashmasi dorilari
+- Vaksina kursi preparatlari
+- Antiseptik eritma preparatlari
+- Gormon kursi preparatlari
+! Isitma va og'riqni kamaytirish uchun antipiretik va analgetik vositalar qo'llanadi
+@ M JAW
+
+? Isitma davrida bemorga nima beriladi?
++ Yetarli suyuqlik
+- Cheklangan suyuqlik
+- Quruq ovqat
+- Sovuq muz
+- Narsa berilmaydi
+! Isitma davrida organizm suvni ko'p yo'qotadi, shuning uchun bemorga yetarli suyuqlik beriladi
+@ M JAW
+
+? Epidemik shaklning oldini olishda asosiy vazifa qaysi?
++ Bitga qarshi kurash
+- Kemiruvchilarga qarshi kurash
+- Kanalarga qarshi kurash
+- Chivinlarga qarshi kurash
+- Pashshalarga qarshi kurash
+! Epidemik shaklning oldini olish uchun bitga qarshi kurash asosiy vazifa
+@ M JAW WHODW
+
+? Bitlarni yo'q qilishda nima qo'llanadi?
++ Insektitsid, issiq suvda yuvish
+- Sovuq suvda cho'milish usuli
+- Xonani shamollatib qo'yish usuli
+- Parfyumeriya ishlatish usuli
+- Sovuq kiyim kiyish usuli
+! Insektitsid vositalar, kiyimlarni yuqori haroratda yuvish va qaynatish bitlarni yo'q qilishga yordam beradi
+@ M JAW WHODW
+
+? Og'ir hollarda nima zarur bo'lishi mumkin?
++ Intensiv terapiya
+- Dam olish rejimi
+- Parhez jadvali
+- Massaj muolajasi
+- Piyoda sayr qilish
+! Og'ir hollarda intensiv terapiya zarur bo'lishi mumkin, jigar va buyrak funksiyasi nazorat qilinadi
+@ M JAW
+
+# 209
+
+? Leptospiralar kislorodga munosabati bo'yicha qanday?
++ Majburiy aerob
+- Majburiy anaerob
+- Fakultativ anaerob
+- Mikroaerofil
+- Kapnofil
+! Leptospiralar majburiy aerob bakteriyalar bo'lib, kislorod mavjud muhitda o'sadi
+@ M JAW
+
+? Leptospiralarni o'stirish uchun qaysi muhitlar ishlatiladi?
++ Korthof yoki EMJH
+- Endo yoki Levin
+- Qon yoki shokoladli agar
+- Manitli tuzli yoki Sabouraud
+- Ploskirev yoki Vismut-sulfit
+! Leptospiralarni o'stirish uchun Korthof yoki EMJH kabi maxsus oziqa muhitlari ishlatiladi
+@ M JAW
+
+? Leptospira muhitida uglerod manbai qaysi?
++ Yog' kislotalari (Tween 80)
+- Glyukoza (oddiy shakar)
+- Laktoza (sut shakari)
+- Saxaroza (qand shakari)
+- Mannitol (spirt shakari)
+! Muhitda uzun zanjirli yog' kislotalari, odatda Tween 80, energiya va uglerod manbai hisoblanadi
+@ M JAW
+
+? Leptospira o'sishi qanday?
++ Sekin, bir necha hafta
+- Tez, bir necha soat
+- Juda tez, bir necha daqiqa
+- Darhol, bir necha soniya
+- Tez, bir kun
+! O'sish sekin kechadi va kulturalar bir necha hafta davomida kuzatiladi
+@ M JAW
+
+? Begona florani cheklash uchun muhitga nima qo'shiladi?
++ Antibiotik va 5-ftoruratsil
+- Glyukoza va osh tuzi
+- Qon va zardob qo'shimchasi
+- Agar va pepton qo'shimchasi
+- Kraxmal va yog' qo'shimchasi
+! Begona mikroorganizmlar o'sishini cheklash uchun muhitga antibiotiklar va ftoruratsil qo'shiladi
+@ M JAW
+
+? Leptospiralar uglevodlarga munosabati qanday?
++ Bijg'itmaydi
+- Tez bijg'itadi
+- Laktozani bijg'itadi
+- Glyukozani bijg'itadi
+- Saxarozani bijg'itadi
+! Leptospiralar uglevodlarni bijg'itmaydi, shu sababli klassik fermentativ testlarda manfiy natija beradi
+@ M JAW
+
+? Leptospiralar energiyani qanday oladi?
++ Yog' kislotalarini oksidlab
+- Uglevodlarni bijg'itib
+- Fotosintez orqali
+- Oqsil bijg'ishi orqali
+- Noorganik tuzlarni oksidlab
+! Energiya olish uchun leptospiralar uzun zanjirli yog' kislotalarini oksidlaydi
+@ M JAW
+
+? Leptospiralar azot manbai sifatida nimadan foydalanadi?
++ Ammoniy birikmalaridan
+- Nitratlardan
+- Mochevinadan
+- Aminokislotalardan
+- Oqsildan
+! Azot manbai sifatida leptospiralar ammoniy birikmalaridan foydalanadi
+@ M JAW
+
+? Leptospira patogenligida qaysi omil muhim?
++ Gemolizin (sfingomielinaza)
+- Klassik ekzotoksin (botulin)
+- Qalin kapsula qobig'i (Burri)
+- Spora po'sti (dipikolinat)
+- Xivchin tolasi (flagellin)
+! Leptospiralar klassik ekzotoksin hosil qilmaydi, ammo gemolizinlar, jumladan sfingomielinaza, muhim
+@ M JAW
+
+? Leptospiralar tabiatda qayerda yashashga moslashgan?
++ Suv va nam tuproqda
+- Quruq cho'l qumida
+- Muzlagan yerda
+- Issiq qumda
+- Quruq havoda
+! Metabolizm xususiyati ularni tabiiy suv havzalarida va nam tuproqda yashashga moslashtiradi
+@ M JAW

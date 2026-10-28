@@ -1,0 +1,272 @@
+# 041
+? Seriyali suyultirish usulida qaysi ko'rsatkich aniqlanadi?
++ Minimal ingibitor konsentratsiya (MIK)
+- Minimal letal doza (LD50) ko'rsatkichi
+- Maksimal terapevtik konsentratsiya (MTK)
+- Qondagi eng yuqori konsentratsiya (Cmax)
+- Diskdagi dori miqdori (mkg/disk)
+! Seriyali suyultirish usulida bakteriya o'sishini to'xtatuvchi eng kam konsentratsiya, ya'ni MIK aniqlanadi
+@ M EUCAST CLSI
+
+? Bulyon usulida probirkalarda konsentratsiya qanday o'zgaradi?
++ Har bir keyingi probirkada ikki marta kamayadi
+- Har bir keyingi probirkada ikki marta ortadi
+- Probirkalarning hammasida bir xil bo'ladi
+- Har bir keyingi probirkada o'n marta ortadi
+- Faqat birinchi probirkada o'zgaradi
+! Bulyon usulida birinchi probirkaga antibiotik qo'shilib, keyingi probirkalarga ketma-ket suyultiriladi: har birida konsentratsiya ikki marta kamayadi
+@ M EUCAST CLSI
+
+? Nazorat probirkasi (antibiotiksiz, bakteriya ekilgan) nimani ko'rsatadi?
++ Bakteriyaning normal o'sishini
+- Muhitning sterilligini
+- Antibiotikning faolligini
+- Probirka devorining qalinligini
+- Muhitning pH qiymatini
+! Antibiotiksiz nazorat probirkasi bakteriyaning normal o'sishini ko'rsatadi
+@ M
+
+? Faqat muhit quyilgan bo'sh nazorat probirkasi nimaga xizmat qiladi?
++ Ifloslanishni tekshirishga
+- Bakteriya o'sishini tezlashtirishga
+- Antibiotik miqdorini oshirishga
+- MIKni to'g'ridan-to'g'ri o'lchashga
+- Inkubatsiya haroratini pasaytirishga
+! Faqat muhitdan iborat bo'sh nazorat ifloslanishni tekshirishga xizmat qiladi
+@ M
+
+? Seriyali suyultirishdagi probirkalar odatda qanday inkubatsiya qilinadi?
++ 37 °C da 16–24 soat
+- 4 °C da 1–2 soat
+- 20 °C da 30 daqiqa
+- 56 °C da 3 soat
+- 100 °C da 15 daqiqa
+! Probirkalar 37 °C da 16–24 soat davomida inkubatsiya qilinadi, so'ng loyqalanish tekshiriladi
+@ M
+
+? Bulyonda loyqalanish nimani bildiradi?
++ Bakteriya o'sishini
+- O'sishning yo'qligini
+- Antibiotikning to'liq faolligini
+- Muhitning steril ekanini
+- Dorining MIK dan yuqori ekanini
+! Loyqalanish o'sishni, tiniq muhit esa o'sishning yo'qligini bildiradi
+@ M
+
+? Probirkalarda 64, 32, 16, 8, 4, 2, 1 mkg/ml antibiotik bor. 64 dan 8 gacha tiniq, 4 va undan past konsentratsiyalarda loyqalanish bor. MIK qancha?
++ 8 mkg/ml
+- 4 mkg/ml
+- 16 mkg/ml
+- 64 mkg/ml
+- 1 mkg/ml
+! MIK — o'sish ko'rinmaydigan (tiniq) eng past konsentratsiya; bu holda 8 mkg/ml
+@ M EUCAST
+
+? Boshlang'ich eritma 128 mkg/ml. Besh marta ketma-ket ikki martalik suyultirilsa, oxirgi konsentratsiya qancha bo'ladi?
++ 4 mkg/ml
+- 2 mkg/ml
+- 8 mkg/ml
+- 16 mkg/ml
+- 25,6 mkg/ml
+! 128 / 2⁵ = 128 / 32 = 4 mkg/ml
+@ M
+
+? Seriyali suyultirishning diffuz usulga nisbatan kamchiligi qaysi?
++ Ko'proq vaqt va materiallar talab qiladi
+- Aniq miqdoriy natija bermaydi, sifat beradi
+- Viruslarga qarshi dori sinashda qo'llanadi
+- Nazorat shtammi umuman talab qilmaydi
+- Qattiq muhitda o'tkazilgani uchun sekin
+! Usulning kamchiligi shundaki, u diskli usulga qaraganda ko'proq vaqt va materiallarni talab qiladi, shu sababli u aniqlashtiruvchi usul sifatida qo'llanadi
+@ M
+
+? Qattiq agarda suyultirish usulining afzalligi nimada?
++ Bir vaqtda ko'p izolyatni sinash mumkin
+- Faqat bitta izolyat sinaladi
+- MIK aniqlanmaydi
+- Eritma konsentratsiyasi o'lchanmaydi
+- Nazorat shtammi ishlatilmaydi
+! Qattiq agar usulida dori agarga qo'shiladi va bir vaqtda ko'p izolyat sinab ko'riladi, shuning uchun epidemiologik tekshiruvda qulay
+@ M
+
+# 042
+? Kimyoterapiya nima?
++ Yuqumli kasallikni kimyoviy moddalar yordamida davolash
+- Yuqumli kasallikni kimyoviy moddalar yordamida aniqlash
+- Yuqumli kasallik oldini sut va vitamin bilan olish
+- Bakteriyani bo'yoq bilan bo'yab tekshirish
+- Oziqa muhitini kimyoviy yo'l bilan sterilizatsiya qilish
+! Kimyoterapiya — yuqumli kasallikni kimyoviy moddalar yordamida davolash
+@ M
+
+? Kimyoprofilaktika nima?
++ Kasallikning oldini olish maqsadida dorini qo'llash
+- Kasallikni aniqlash maqsadida bo'yoq qo'llash
+- Kasallik boshlangandan keyin kuchaytiruvchi dori berish
+- Oziqa muhitini dezinfeksiya qilish
+- Laboratoriya jihozlarini sterilizatsiya qilish
+! Kimyoprofilaktika — kasallikning oldini olish maqsadida dorini qo'llash
+@ M
+
+? Kimyoterapevtik preparatlarning asosiy xususiyati nimada?
++ Mikroorganizmlarga tanlab ta'sir qilib, makroorganizmga kam zarar yetkazadi
+- Barcha tirik hujayralarga bir xil kuchli ta'sir qilib, zarar yetkazadi
+- Makroorganizm hujayralariga ta'sir qilib, mikroblarga ta'sir qilmaydi
+- Bakteriyalar sporalariga ta'sir qilib, vegetativ shaklga ta'sir qilmaydi
+- Oziqa muhitidagi mikroblarni yo'q qilib, organizmdagilarga ta'sir qilmaydi
+! Kimyoterapevtik preparatlar mikroorganizmlarga tanlab ta'sir qiladi va makroorganizmga nisbatan kam zarar yetkazadi
+@ M JAW
+
+? Kimyoterapevtik preparatlar kelib chiqishiga ko'ra qanday guruhlarga bo'linadi?
++ Tabiiy, yarim sintetik va sintetik
+- Tor, o'rta va keng
+- Gram-musbat, gram-manfiy va aralash
+- Aerob, anaerob va fakultativ
+- Qattiq, suyuq va yarim suyuq
+! Kimyoterapevtik preparatlar tabiiy, yarim sintetik va sintetik guruhlarga bo'linadi
+@ M
+
+? Kimyoterapiya samaradorligi nimalar bilan belgilanadi?
++ Dorining faolligi, bemor holati va mikrob sezgirligi bilan
+- Dori idishining rangi, narxi va hajmi bilan belgilanadi
+- Laboratoriya xodimlarining soni va ish vaqti bilan
+- Xona haroratidagi tebranish va namlik darajasi bilan
+- Bemorning ism-sharifi va yashash manzili bilan
+! Kimyoterapiya samaradorligi dorining faolligi, bemorning holati va mikrob sezgirligi bilan belgilanadi
+@ M
+
+? Kimyoprofilaktika ayrim hollarda qaysi odamlarda qo'llanadi?
++ Kasallik bemori bilan aloqada bo'lganlarda
+- Sog'lom va hech qanday xavf yo'q odamlarda
+- Faqat kasallikdan tuzalgan bemorlarda
+- Aloqasiz begona odamlarda ommaviy ravishda
+- Laboratoriya xodimlarida rejali ravishda
+! Kimyoprofilaktika ayrim hollarda yuqumli kasallik bemori bilan aloqada bo'lgan odamlarda qo'llanadi
+@ M
+
+? Kimyoprofilaktikani keng va asossiz qo'llash qanday oqibatga olib kelishi mumkin?
++ Chidamlilikning kuchayishiga
+- Chidamlilikning to'liq yo'qolishiga
+- Dori narxining pasayishiga
+- Immunitetning mustahkamlanishiga
+- Mikroflora muvozanatining yaxshilanishiga
+! Kimyoprofilaktikani keng va asossiz qo'llash chidamlilikni kuchaytirishi mumkin
+@ M WHOAMR
+
+? Organizmning antibiotikka sezuvchanligi aslida nima orqali aniqlanadi?
++ Qo'zg'atuvchi sezuvchanligi orqali
+- Bo'yi va vazni ko'rsatkichlari orqali
+- Yoshi va jinsi ko'rsatkichlari orqali
+- Qon guruhi va rezus-omili orqali
+- Dorining rangi va hidi ko'rsatkichlari orqali
+! Organizmning antibiotikka sezuvchanligi aslida qo'zg'atuvchining sezuvchanligi orqali aniqlanadi
+@ M
+
+? Bemor qoni yoki siydigidagi antibiotik miqdori qanday ko'rsatkich bilan solishtiriladi?
++ MIK bilan
+- Koli-titr bilan
+- Perfringens-titr bilan
+- Fag titri bilan
+- Aglyutinatsiya titri bilan
+! Qon yoki siydikdagi antibiotik miqdori MIK ko'rsatkichi bilan solishtirilib, davolash samaradorligi baholanadi
+@ M
+
+? Laboratoriya natijasi aniq bo'lsa, qanday dori tanlanadi?
++ Tor spektrli dori
+- Eng keng spektrli dori
+- Bir necha dori birga, ehtiyot uchun
+- Mikroflorani buzuvchi eng kuchli dori
+- Dori berilmaydi
+! Laboratoriya natijasi aniq bo'lsa, tor spektrli dori tanlanadi, bu normal mikrofloraga zarar yetkazishni kamaytiradi
+@ M WHOAMR
+
+# 043
+? Infeksion jarayon nima?
++ Patogen mikrob va makroorganizmning murakkab o'zaro ta'siri
+- Mikroblarning oziqa muhitida mustaqil va jadal ko'payishi
+- Organizmdagi vitamin va minerallar yetishmovchilik holati
+- Dori vositasining organizmga ta'sir etish jarayoni
+- Allergen moddaning teri yuzasiga tushishi jarayoni
+! Infeksion jarayon — patogen mikrob bilan makroorganizm o'rtasidagi murakkab o'zaro ta'sir
+@ M JAW
+
+? Mikrob organizmga kirgan va ko'paygan, lekin kasallik belgilari yo'q holat qanday ataladi?
++ Subklinik infeksiya
+- Ochiq infeksiya
+- Reinfeksiya
+- Superinfeksiya
+- Gospital infeksiya
+! Mikrob organizmga kirib ko'paysa ham kasallik belgilari bo'lmasa, bunday holat subklinik yoki asemptomatik infeksiya deyiladi
+@ M JAW
+
+? Virulentlik nimani ko'rsatadi?
++ Mikrobning kasallik chaqirish qobiliyatini
+- Mikrobning antibiotikka sezuvchanligini
+- Mikrobning oziqa muhitida o'sish tezligini
+- Mikrobning bo'yalish xususiyatini
+- Mikrobning haroratga chidamliligini
+! Virulentlik mikrobning organizmda kasallik chaqirish qobiliyatini ko'rsatadi
+@ M JAW
+
+? Infeksiyaning birinchi bosqichi qanday ataladi?
++ Yashirin davr
+- Prodromal davr
+- Avj olish davri
+- Tiklanish davri
+- Asoratlar davri
+! Birinchi bosqich yashirin davr bo'lib, bunda mikrob organizmga kiradi, lekin belgilar hali ko'rinmaydi
+@ M JAW
+
+? Noaniq umumiy holsizlik va subfebril harorat qaysi davrga xos?
++ Prodromal davrga
+- Yashirin davrga
+- Avj olish davriga
+- Tiklanish davriga
+- Remissiya davriga
+! Prodromal davrda noaniq umumiy holsizlik va subfebril harorat paydo bo'lishi mumkin
+@ M JAW
+
+? Aniq klinik belgilar qaysi davrda namoyon bo'ladi?
++ Avj olish davrida
+- Yashirin davrda
+- Prodromal davrda
+- Hamma davrda bir xil darajada
+- Tiklanishdan keyingina
+! Uchinchi bosqich — kasallikning avj olish davri bo'lib, bunda aniq klinik belgilar namoyon bo'ladi
+@ M JAW
+
+? Yashirin tashuvchilar epidemiologik jihatdan nima uchun xavfli?
++ Belgilari bo'lmasa ham, boshqalarga yuqtirishi mumkin
+- Ikkilamchi infeksiya bilan kasallanmasligi sababli xavfli
+- Hech qachon yuqtirmaydi, shu sababli xavfsiz
+- O'zlari uchungina xavfli, boshqalarga xavf yo'q
+- Mikrobi organizmda o'z-o'zidan yo'qolishi sababli xavfli
+! Yashirin infeksiyada mikrob organizmda bor, kasallik belgilari yo'q, ammo shaxs boshqalar uchun yuqish manbai bo'lishi mumkin
+@ M JAW
+
+? Surunkali kechadigan infeksiyalarga qaysilar misol bo'la oladi?
++ Sil va zaxm
+- Gripp va shamollash
+- Qizilcha va suvchechak
+- Ovqatdan zaharlanish va diareya
+- Konyunktivit va stomatit
+! Ba'zi infeksiyalar surunkali kechadi, mikrob organizmda yillab qolishi mumkin, masalan sil yoki zaxm
+@ M JAW
+
+? Erta bosqichda infeksiya laboratoriya tekshiruvi uchun qaysi material yaxshiroq natija beradi?
++ Qon yoki boshqa biologik suyuqliklar
+- Mahalliy o'choq materiali
+- Soch va tirnoq qirindisi namunasi
+- Sochilgan chang va tuproq namunasi
+- Bemor kiyimi va ichki buyumlari
+! Erta bosqichda qon yoki boshqa biologik suyuqliklar, kech bosqichda esa mahalliy o'choq materiali yaxshiroq natija beradi
+@ M
+
+? Infeksiya asoratlari ko'pincha nima bilan bog'liq bo'ladi?
++ Ikkilamchi mikroblar qo'shilishi bilan
+- Organizm to'liq sog'lom bo'lishi bilan
+- Dori qabul qilinmaganligi sababli
+- Bemor yoshining kichikligi bilan
+- Faqat tashqi havo haroratining pastligi bilan
+! Infeksiyaning asoratlari ko'pincha ikkilamchi mikroblar qo'shilishi bilan bog'liq bo'ladi, organizm zaiflashganda normal mikroflora ham kasallik chaqirishi mumkin
+@ M JAW
