@@ -1,0 +1,41 @@
+TITLE: 48. Agglyutinatsiya reaksiyasi, taxminiy agglutinatsiya reaksiyasi.
+## Kirish
+Agglyutinatsiya (lot. agglutinatio — yopishish) reaksiyasida antitelalar ta'sirida mikroblar, eritrotsitlar, leykotsitlar, trombotsitlar, to'qima hujayralari yoki yuzasiga antigen adsorbsiya qilingan korpuskulyar zarralar elektrolit muhitda (0,85 % NaCl eritmasi) bir-biriga yopishib, cho'kmaga tushadi [1]. Korpuskulyar antigen «agglyutinogen», antitelo esa «agglyutinin» deb ataladi [1]. Bu reaksiya serologik usullar ichida eng oddiy va keng tarqalganlaridan biri bo'lib, taxminiy (shisha ustidagi) va kengaytirilgan (probirkadagi) variantlarda qo'yiladi.
+## Reaksiya mexanizmi
+Agglyutinatsiya mexanizmi «panjara»ni eslatadi: ikki valentli antitelaning bitta faol markazi bir antigen bilan, ikkinchi faol markazi esa boshqa antigen bilan birikib, agglyutinat (kompleks) hosil qiladi [1]. Shu tariqa bir-biriga yaqin mikroblar yopishadi. Agar antitelalar kam dispersli korpuskulyar antigenlar (mikrob, spiroxeta) bilan birikib, izotonik suyuqlikda mustahkam birikma hosil qilsa, bu birikma probirka tubiga cho'kma (agglomerat) holida tushadi [1].
+Reaksiya ikki komponentli (antitelo va korpuskulyar antigen) bo'lib, antigen va antitelo miqdorining ma'lum nisbatida hamda elektrolit ishtirokida sodir bo'ladi [1]. Maxsus immun zardob qo'shilganda mikroblar yopishib, pilakchasimon yoki mayda donador cho'kmalar hosil qiladi.
+## Maxsuslik va kross-reaksiyalar
+Agglyutinatsiya reaksiyasi maxsus: u agglyutinatsiya beruvchi zardob va bakteriyaga xosdir. Biroq qarindosh, yaqin mikroorganizmlar bilan ham kam miqdorda bo'lsa-da agglyutinatsiya berishi mumkin [1]. Harakatchan bakteriyalar bilan immunizatsiya qilingan hayvonlarda somatik O-, xivchin H- va Vi-agglyutininlar hosil bo'ladi. Turli bakteriyalarda guruh va turga xos antigenlar bo'lsa, ular bitta guruh antigenlarga qarshi antitelalar tutgan immun zardob bilan ham agglyutinatsiya berishi mumkin, bu esa identifikatsiyani qiyinlashtiradi [1]. Bunday hollarda Kastellani agglyutininlarni adsorbtsiya qilish reaksiyasi o'tkaziladi: yaqin geterogen bakteriyalar zardobdan guruh antitelalarini o'ziga bog'laydi, zardobda esa turga xos antitelalar qoladi. Bitta antigen retseptoriga antitelalar tutgan bunday zardoblar «monoretseptor» zardoblar deyiladi va bakteriya serovarlarini aniqlashda ishlatiladi [1].
+## Amaliyotda qo'llanilishi
+Agglyutinatsiya reaksiyasi amalda ikki maqsadda qo'llanadi [1]:
+- yuqumli kasalliklarga serologik tashxis qo'yish (qorin tifi, paratif A va B, brutsellyoz, tulyaremiya, rikketsioz): bunda antigen (diagnostikum) ma'lum, bemor qonidan noma'lum antitelo izlanadi va uning titri aniqlanadi (kengaytirilgan reaksiya);
+- ajratib olingan mikrob kulturasini serologik identifikatsiya qilish: bunda antitelo (zardob) ma'lum, noma'lum kultura aniqlanadi (taxminiy reaksiya).
+## Taxminiy agglyutinatsiya reaksiyasi
+Taxminiy (shisha ustidagi) reaksiya ajratilgan mikroorganizmning qaysi tur va serologik guruhga mansubligini tezda aniqlash uchun qo'yiladi. Tahlil qilinayotgan kultura ma'lum agglyutinatsiyalovchi zardob bilan shisha ustida aralashtiriladi va kichik hajmda bir necha daqiqada natija olinadi [1]. Identifikatsiyada poli- va monovalent agglyutinatsiyalovchi zardoblar qo'llanadi [1].
+Qo'yilish tartibi [1]:
+- buyum oynasiga Pasteur pipetkasi yordamida ma'lum agglyutinatsiyalovchi zardobdan 1–2 tomchi tomiziladi;
+- nazorat uchun boshqa joyga izotonik natriy xlorid eritmasidan 1–2 tomchi tomiziladi;
+- bakteriologik halqa yordamida tekshirilayotgan kultura olinib, avval tomchi zardob, so'ng nazorat tomchisida aralashtirib suspenziya tayyorlanadi;
+- 3–10 daqiqadan so'ng natija ko'riladi.
+Natija: musbat reaksiyada buyum oynasi ustida yaqqol ko'rinadigan agglyutinat (agglomerat) zarrachalari hosil bo'ladi, nazorat tomchisida esa tekshirilayotgan antigen hech qanday reaksiya bermaydi, suspenziya bir tekis loyqa bo'lib qoladi [1]. Nazoratda ham donachalar paydo bo'lsa (spontan agglyutinatsiya), reaksiya natijasi hisobga olinmaydi; bu qoida manbada Vidal reaksiyasi uchun keltirilgan, shuning uchun shisha ustidagi reaksiyaga ham qo'llash muallif talqinidir [1].
+## Natijani baholash
+Agglyutinatsiya darajasi to'rt musbat belgi bilan ifodalanadi [1]:
+- (++++) — barcha antigenlar cho'kmaga tushadi, suyuqlik tiniq bo'lib qoladi;
+- (+++) — suyuqlik ozgina loyqalanadi, cho'kma aniq ko'rinadi;
+- (++) — antigenlarning yarmi cho'kadi, suyuqlik yarim loyqa holda qoladi;
+- to'rt va uch belgili reaksiya musbat hisoblanadi; ikki belgili reaksiya manfiy deb qaraladi.
+Bu baholash asosan probirkadagi kengaytirilgan reaksiya uchun keltirilgan; shisha ustida esa natija ko'zga ko'rinadigan agglyutinat hosil bo'lishi bilan baholanadi.
+## Taxminiy va kengaytirilgan reaksiyalarning farqi
+- Taxminiy reaksiyada zardob suyultirilmaydi va natija 3–10 daqiqada olinadi; kengaytirilgan reaksiyada esa zardob qator suyultirilib, 2 soat 37 °C va keyin xona haroratida bir sutka saqlanadi [1].
+- Taxminiy reaksiya sifat natijasini beradi (tur yoki serogruppa), kengaytirilgan reaksiya esa antitelo titrini aniqlaydi.
+- Taxminiy reaksiyada antigen noma'lum (ajratilgan kultura), zardob ma'lum; kengaytirilgan reaksiyada ko'pincha antigen (diagnostikum) ma'lum, zardob noma'lum [1].
+## H- va O-agglyutinatsiya
+Qo'zg'atuvchining tuzilishiga qarab agglyutinat ko'rinishi farq qiladi: xivchin (H) antigen bilan reaksiyada cho'kma ipir-ipir, ya'ni g'ovak ko'rinishda, somatik (O) antigen bilan esa dona-dona (donador) bo'ladi [1]. Shu sababli bakteriolog natijani hisobga olishda agglyutinatning tashqi ko'rinishiga ham e'tibor beradi. Manbada kengaytirilgan reaksiyada xivchin antigeni bilan qo'yilgan reaksiya natijasi avval ko'rilishi, somatik antigen bilan qo'yilgan reaksiya natijasi esa 18–48 soatdan so'ng aniqlanishi ko'rsatilgan [1].
+## Eng ko'p uchraydigan xatolar
+Taxminiy reaksiyada xato natijaga quyidagilar sabab bo'lishi mumkin (muallif izohi, laboratoriya amaliyotiga asoslangan): aralash kulturadan foydalanish, zardob yoki halqaning ifloslanishi, kulturani juda ko'p olish (suspenziya sun'iy ravishda dona-dona bo'lib qolishi), nazorat qo'yilmasligi. Shu sababli har safar zardob bilan birga izotonik eritma bilan nazorat qo'yiladi, natija yorug' fonda ko'zdan kechiriladi, shubhali holda esa takroran tekshiriladi. Qarindosh turlar orasidagi kross-reaksiya ehtimoli ham hisobga olinadi va yakuniy xulosa kulturaning boshqa xossalari bilan birga chiqariladi [1].
+## Laboratoriya qoidalari
+Taxminiy reaksiya faqat toza (sof) kulturada qo'yiladi; aralash kulturada natija ishonchsiz bo'ladi. Kulturani qiyalatilgan agardan olishda halqa steril bo'lishi, zardob esa ishlatishdan oldin muddati va saqlash sharoiti bo'yicha tekshirilishi kerak (muallif izohi, laboratoriya amaliyotiga asoslangan). Taxminiy reaksiya natijasi dastlabki xulosa beradi; yakuniy javob uchun kultura biokimyoviy xossalari va kengaytirilgan agglyutinatsiya bilan tasdiqlanadi [1].
+## Xulosa
+Agglyutinatsiya reaksiyasi korpuskulyar antigenlarning antitelalar ta'sirida izotonik muhitda yopishib cho'kishiga asoslangan. U yuqumli kasalliklar serodiagnostikasida va kulturalarni identifikatsiya qilishda ishlatiladi. Taxminiy reaksiya shisha ustida zardob bilan kultura aralashtirilib, 3–10 daqiqada natija beradi va ajratilgan kulturani tez aniqlash imkonini beradi. Kross-reaksiyalar bo'lsa, Kastellani reaksiyasi va monoretseptor zardoblar qo'llanadi.
+## Foydalanilgan adabiyotlar
+[1] Aliyev ShR, Muxamedov IM. Mikrobiologiyadan laboratoriya mashg'ulotlariga doir qo'llanma. Toshkent: Ibn Sino nomidagi nashriyot-matbaa birlashmasi; 2013 (kirill yozuvida). Xayrullo Komilov kutubxonasi, id 2355: https://xayrullokomilov.uz/kutubxona/2355

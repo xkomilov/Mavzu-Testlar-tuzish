@@ -1,0 +1,40 @@
+TITLE: 49. Kengaytirilgan hajm agglyutinatsiya reaksiyasi.
+## Kirish
+Kengaytirilgan hajm agglyutinatsiya reaksiyasi bemor qon zardobidagi noma'lum antitelalar titrini aniqlash uchun qo'yiladi. Bu reaksiyada antigen (diagnostikum) ma'lum bo'ladi, shuning uchun bemor qonidan izlanayotgan antitelo topiladi va uning titri belgilanadi [1]. Usul qorin tifi, paratif A va B, brutsellyoz, tulyaremiya va rikketsioz kasalliklarining serologik tashxisida qo'llanadi [1]. Probirkada qator suyultirilgan zardobga bir xil miqdorda diagnostikum qo'shilgani uchun reaksiya «kengaytirilgan hajmda» o'tadi.
+## Reaksiyaning mohiyati
+Agglyutinatsiya reaksiyasida korpuskulyar antigen (agglyutinogen) va ikki valentli antitelo (agglyutinin) elektrolit muhitda (0,85 % NaCl) birikib, agglyutinat hosil qiladi [1]. Kengaytirilgan reaksiyada zardob qator suyultirilgani sababli reaksiya beradigan eng yuqori suyultirish zardob titri hisoblanadi. Kasallik tashxisi uchun antitelo titrining dinamikasi muhim: birinchi marta olingan zardobdan 1–1,5 hafta o'tgach yana zardob olinadi va titr birinchi haftadagidan 2 va undan ko'p baravar oshgan bo'lsa, tashxis qo'yiladi; titr oshmasa (ko'pincha emlanganlarda va kasallikni o'tkazganlarda) tashxis qo'yilmaydi [1].
+## Zarur ingredientlar
+- bemorning qon zardobi (1:10 suyultirilgan asosiy eritma);
+- ma'lum antigen — diagnostikum (bakteriya suspenziyasi);
+- izotonik natriy xlorid eritmasi;
+- probirkalar, pipetkalar, termostat;
+- nazorat: antigen nazorati va zardob nazorati [1].
+## Qo'yilish tartibi
+Avval zardobning asosiy eritmasi tayyorlanadi va zardob titriga qarab 1:100, 1:200, 1:400, 1:800 nisbatda suyultiriladi: 1 ml asosiy eritmadan birinchi probirkaga, undan ikkinchisiga va hokazo qator suyultirish bajariladi. Barcha probirkalarda hajm teng bo'lishi uchun oxirgi probirkadan 1 ml suyultirilgan zardob olinib, dezinfeksiyalovchi eritmaga quyiladi [1]. Nazorat (antigen nazorati) probirkasiga 1 ml izotonik eritma solinadi. Suyultirilgan zardobli har bir probirkaga va nazorat probirkasiga pipetka bilan 2–3 tomchi (0,15 ml) bakteriya diagnostikumi qo'shiladi; qo'llanmada diagnostikum zichligi 1 ml da 3 mlrd mikrob tanasi deb ko'rsatilgan, jadvalda esa 1–2 mlrd mikrob eritmasi deyiladi — shu farq manbadagi nomuvofiqlik sifatida qayd etiladi [1]. Probirkalar yaxshilab chayqatiladi va 37 °C da 2 soat termostatda saqlanadi, keyin xona haroratida bir sutka qoldiriladi [1].
+Qo'llanmadagi sxemada reaksiya olti probirkada qo'yiladi: to'rtta suyultirish (1:100, 1:200, 1:400, 1:800), antigen nazorati va zardob nazorati. Antigen nazorati probirkasiga zardob o'rniga izotonik eritma solinadi, zardob nazoratida esa diagnostikum bo'lmaydi [1].
+## Natijani hisobga olish
+Xivchinli (H) antigen bilan qo'yilgan reaksiya natijasi avval ko'riladi, somatik (O) antigen bilan qo'yilgan reaksiya natijasi esa 18–48 soatdan so'ng aniqlanadi. Natija ko'z bilan yoki agglyutinoskop yordamida, probirkalarni asta chayqatib baholanadi [1]. Musbat natijada cho'kma H-agglyutinatsiyada ipir-ipir, O-agglyutinatsiyada dona-dona ko'rinishda bo'ladi [1]. Reaksiya darajasi to'rt musbat belgi bilan ifodalanadi [1]:
+- (++++) — barcha antigenlar cho'kadi, suyuqlik butunlay tiniq;
+- (+++) — suyuqlik biroz loyqa, cho'kma aniq;
+- (++) — antigenlarning yarmi cho'kadi, suyuqlik yarim loyqa;
+- to'rt va uch belgili natija musbat, ikki belgili esa manfiy hisoblanadi.
+Zardob titri deb agglyutinatsiya hali aniq kuzatiladigan eng yuqori suyultirish qabul qilinadi (muallif izohi: manbada bu atama aniq ta'riflanmagan, umumiy qoidaga muvofiq). Nazoratdagi probirkalarda agglyutinatsiya bo'lmasligi shart; spontan agglyutinatsiya kuzatilsa, natija hisobga olinmaydi [1].
+## Nazorat probirkalarining ma'nosi
+Antigen nazorati diagnostikumning izotonik eritmada o'z-o'zidan cho'kmasligini ko'rsatadi: bu probirkada suspenziya bir tekis loyqa bo'lib qolishi kerak. Zardob nazorati esa zardobning o'zida cho'kma yoki loyqalanish yo'qligini tasdiqlaydi; manbada zardob (diagnostikumsiz) nazorat probirkasida cho'kma bo'lmasligi kerakligi ta'kidlangan [1]. Agar nazoratlardan birida o'zgarish bo'lsa, reaksiya natijasi ishonchsiz hisoblanadi va tekshiruv yangi diagnostikum yoki yangi zardob bilan takrorlanadi. Titrni to'g'ri aniqlash uchun suyultirish ketma-ketligidagi barcha probirkalarning hajmi teng bo'lishi shart, shuning uchun oxirgi probirkadan ortiqcha suyuqlik olib tashlanadi [1].
+## Reaksiyaning qo'llanish sohalari
+Aliyev va Muxamedov qo'llanmasida kengaytirilgan agglyutinatsiya turli kasalliklarning serodiagnostikasida keltirilgan [1]:
+- qorin tifi va paratiflar: Vidal reaksiyasi kasallikning ikkinchi haftasida qo'yiladi; O- va H-antigenli qorin tifi, paratif A va paratif B diagnostikumlari ishlatiladi;
+- brutsellyoz: Xeddleson va Rayt reaksiyalari qo'yiladi, material — shubhali bemorning qon zardobi;
+- tulyaremiya: kengaytirilgan agglyutinatsiya reaksiyasi qo'yiladi va natijalanadi;
+- rikketsioz va boshqa kasalliklar uchun ham agglyutinatsiya diagnostikumlari qo'llanadi.
+## Namuna olish va tayyorlash
+Reaksiya uchun bemorning venasidan qon steril sharoitda olinadi, ivigach zardob ajratiladi. Zardob bilan ishlaganda barcha asboblar va ishlatilgan eritmalar dezinfeksiya qilinadi (muallif izohi, umumiy biologik xavfsizlik qoidalariga asoslangan). Zardob shaffof bo'lishi, gemoliz va bakterial ifloslanishsiz bo'lishi kerak, aks holda spontan agglyutinatsiya natijani buzishi mumkin. Diagnostikum standart tarkibli tayyor preparat sifatida ishlatiladi va saqlash muddati hamda muhitiga rioya qilinadi. Qator suyultirishda har bir bosqichda yangi uchli pipetka ishlatish yoki aralashtirishni yaxshilab bajarish aniq titr uchun muhim; bu laboratoriya amaliyotida qabul qilingan talab bo'lib, manbada alohida ta'kidlanmagan.
+## Natijani izohlash
+Natija quyidagicha baholanadi: nazorat probirkalarida agglyutinatsiya yo'q bo'lishi, eng yuqori suyultirishda aniq musbat natija (++ dan yuqori) esa zardob titrini ko'rsatishi kerak. Birinchi va ikkinchi tekshiruvlar bir xil diagnostikum va bir xil sharoitda o'tkazilsagina titrlarni solishtirish to'g'ri bo'ladi. Titr oshmasa, bu antitelalar infeksiya natijasida emas, avvalgi kasallik yoki emlash tufayli ekanini bildirishi mumkin [1].
+## Tashxis bo'yicha izohlar
+Qorin tifi serodiagnostikasida Vidal reaksiyasining diagnostik titri 1:200 deb ko'rsatilgan [1]. Titr dinamikada baholanadi, chunki bir martalik tekshiruvda emlanganlik yoki oldingi kasallik tufayli antitelo bo'lishi mumkin [1]. Shu sababli natijani bemorning klinik ko'rinishi va emlash anamnezi bilan solishtirish kerak.
+Amaliy jihatdan, kengaytirilgan reaksiya serologik laboratoriyada eng ko'p qo'yiladigan usullardan biri bo'lib, uni ishonchli bajarish uchun laborant suyultirish, hajmlarni o'lchash va inkubatsiya muddatlariga qat'iy rioya qilishi kerak. Natijalar jurnalga sana, zardob raqami, diagnostikum seriyasi va titr ko'rsatilgan holda yoziladi.
+## Xulosa
+Kengaytirilgan agglyutinatsiya reaksiyasi zardobni qator suyultirib, ma'lum diagnostikum bilan antitelo titrini aniqlaydi. Reaksiya 37 °C da 2 soat va xona haroratida bir sutka saqlanib, natijasi to'rt belgili tizimda baholanadi; juft zardob tekshiruvida titrning kamida 2 baravar oshishi tashxis uchun asos bo'ladi. Natijaning ishonchliligi nazoratlar va to'g'ri suyultirishga bog'liq.
+## Foydalanilgan adabiyotlar
+[1] Aliyev ShR, Muxamedov IM. Mikrobiologiyadan laboratoriya mashg'ulotlariga doir qo'llanma. Toshkent: Ibn Sino nomidagi nashriyot-matbaa birlashmasi; 2013 (kirill yozuvida). Xayrullo Komilov kutubxonasi, id 2355: https://xayrullokomilov.uz/kutubxona/2355

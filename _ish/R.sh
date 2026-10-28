@@ -1,0 +1,3 @@
+AL="Aliyev ShR, Muxamedov IM. Mikrobiologiyadan laboratoriya mashg'ulotlariga doir qo'llanma. Toshkent: Ibn Sino nomidagi nashriyot-matbaa birlashmasi; 2013 (kirill yozuvida). Xayrullo Komilov kutubxonasi, id 2355: https://xayrullokomilov.uz/kutubxona/2355"
+GA="G'anixo'jayeva A, Nazarova H. Mikrobiologiya: tibbiyot kollejlari va bilim yurtlari o'quvchilari uchun darslik. Toshkent: Abu Ali ibn Sino nomidagi tibbiyot nashriyoti; 2002 (kirill yozuvida). Xayrullo Komilov kutubxonasi, id 2323: https://xayrullokomilov.uz/kutubxona/2323"
+MI="Mirtazayev OM, Zuyeva LP, Matnazarova GS. Epidemiologiya: darslik. Toshkent; 2016 (kirill yozuvida). Xayrullo Komilov kutubxonasi, id 2356: https://xayrullokomilov.uz/kutubxona/2356"

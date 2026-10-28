@@ -1,0 +1,40 @@
+TITLE: 45. Organizmning himoya qiluvchi gumoral omillari, antigen xossalari. Mikrob antegeni (O, N, K, Vi —antigenlar).
+## Kirish
+Organizmning gumoral himoya omillari — qon zardobi va to'qima suyuqliklarida bo'ladigan, mikroblarga qarshi ta'sir ko'rsatuvchi moddalardir. Ular nomaxsus (lizotsim, komplement, interferon) va maxsus (antitelalar) guruhlarga bo'linadi [1]. Maxsus gumoral javobni esa antigenlar chaqiradi: ortirilgan immunitet asosida immun tizimning organizmga begona molekulalarni tanib, ularga qarshi javob berishi yotadi [1]. Mikrob antigenlarini bilish bakteriologik laboratoriyada kulturalarni serologik identifikatsiya qilish va yuqumli kasalliklarni tashxislash uchun zarur.
+## Gumoral himoya omillari
+Nomaxsus gumoral omillar. Lizotsim ko'z yoshi, so'lak, balg'am, qon va boshqa suyuqliklarda uchraydi. Komplement qon zardobidagi oqsillar majmuasi bo'lib, klassik (antigen–antitelo kompleksi bilan) va alternativ (mikroorganizmning o'zi bilan) yo'llar orqali aktivlashadi; uning eng ko'p komponenti C3 (1,2 mg/ml) [1]. Sekretor IgA shilliq qavatlarda bakteriya va viruslarning epiteliyga yopishishini kamaytiradi, interferonlar esa mahalliy immunitetni ta'minlaydi [1].
+Maxsus gumoral omillar — antitelalar (immunoglobulinlar). Ular antigen ta'sirida hosil bo'ladigan globulin oqsillari bo'lib, shu antigen bilan maxsus birikishi bilan oddiy zardob globulinlaridan farq qiladi. Immunoglobulin molekulasi ikkita og'ir (H) va ikkita yengil (L) zanjirdan iborat; ularning faol markazi antigen determinantiga kalit va qulf kabi mos keladi [1].
+## Antigenlarning umumiy xossalari
+Antigenlar — tabiiy yoki sun'iy, sintetik moddalar (oqsil, polisaxarid va boshqalar) bo'lib, organizmga yuborilganda immunokompetent limfoid hujayralarning maxsus faolligini oshiradi va maxsus immun javob yoki tolerantlik holatini keltirib chiqaradi. Ularning tuzilishida irsiy begonalik belgisi bo'ladi [1]. Antigenlar quyidagi xossalar bilan ta'riflanadi [1]:
+- antigenlik — antigenning sifat ko'rsatkichi, ya'ni antitelo yoki sezuvchan limfotsitlar hosil qila olishi;
+- immunogenlik — immunitet hosil qilish kuchi;
+- maxsuslik — antigenlarni bir-biridan farqlovchi asosiy xususiyat (tur, guruh, tip, a'zo maxsusligi, gapten maxsusligi va boshqalar);
+- kolloid xususiyat — kolloid holatda organizmga yuborilganda yaxshi so'riladi.
+Antigenlik va immunogenlik bir narsa emas. Masalan, ichburug' qo'zg'atuvchisi yuqori antigenlikka ega, ammo immunogenligi sust, shuning uchun uzoq muddatli immunitet qoldirmaydi; qorin tifi qo'zg'atuvchisi esa ham antigenligi, ham immunogenligi yuqori bo'lgani uchun vaksinatsiyada ishlatiladi [1].
+To'liq qimmatli antigenlar (oqsil, polisaxarid, lipoprotein) antitelo hosil qiladi va ular bilan birikadi. To'liq qimmatsiz antigenlar — gaptenlar (yog'lar, kichik molekulali organik moddalar) — yolg'iz o'zi antitelo hosil qila olmaydi, lekin oqsil bilan birikkanda to'liq antigenga aylanadi; gapten bilan birikkan oqsil tashuvchi («shleper») vazifasini bajaradi [1]. Antigen maxsusligi oqsilning birlamchi tuzilishiga va sirtidagi determinant guruhlar soniga bog'liq; masalan, odam zardobi albumini 6 ta, globulini 8 ta determinant guruhiga ega, shu sababli globulin kuchliroq antigen hisoblanadi [1].
+## Mikrob antigenlari
+Bakteriyalarda quyidagi antigenlar farqlanadi [1]:
+- O-antigen — tana (somatik) antigeni;
+- H-antigen — xivchin antigeni (harakatchan bakteriyalarda);
+- K-antigen — kapsulali bakteriyalarda kapsula antigeni;
+- Vi, M, W-antigenlar — ayrim patogen bakteriyalarga xos antigenlar.
+Shuningdek, kuydirgi qo'zg'atuvchisidan birinchi marta ajratilgan «protektiv» (himoya) antigeni eng yuqori immunogenlikka ega [1]. Viruslarda kapsid, nukleokapsid va superkapsid antigenlari tafovut qilinadi. Mikroorganizmlarda umumiy avlod, oila, tur va tipga xos antigenlar bo'ladi; ekzotoksin va endotoksinlar ham kuchli antigen hisoblanadi [1].
+Harakatchan bakteriyalar bilan immunizatsiya qilingan hayvon organizmida O-, H- va Vi-agglyutininlar hosil bo'ladi. Ularning farqi agglyutinatsiya ko'rinishida namoyon bo'ladi: H-agglyutinatsiyada cho'kma ipir-ipir (g'ovak), O-agglyutinatsiyada esa donador bo'ladi; H-antigen bilan qo'yilgan reaksiya natijasi 2 soat 37 °C va bir sutka xona haroratida saqlangandan keyin, O-antigen bilan qo'yilgan reaksiya 18–48 soatdan so'ng hisobga olinadi [1]. Qorin tifiga qarshi komponentli vaksinada O-, H- va Vi-antigenlar ishlatiladi [1].
+## Antigenlik xususiyatiga ega moddalar
+Antigenlik xususiyatiga oqsillar, mikroorganizmlar va ularning mahsulotlari (zaharlari), ilon va chayon zaharlari, o'simliklardagi ayrim moddalar (ritsin, abrin), hujayra va to'qima elementlari hamda yot zarralar ega bo'ladi [1]. Antigenning maxsus ko'rinishlariga tur maxsusligi, guruh maxsusligi, tipga xos maxsuslik, geteromaxsuslik, a'zo maxsusligi, funksional maxsuslik, bosqichli maxsuslik, gapten maxsusligi, patologik maxsuslik va antigen mimikriya kiradi [1].
+## Antigen tushganda yuzaga keladigan reaksiyalar
+Antigenlar organizm uchun genetik begona moddalar bo'lgani uchun uning ichki turg'unligini buzadi va quyidagi immun reaksiyalarni keltirib chiqaradi [1]:
+- antitelo ishlab chiqarish va gumoral immunitetni ta'minlash;
+- darhol yuzaga chiqadigan allergik reaksiyalar;
+- sekin-asta yuzaga chiqadigan allergik reaksiyalar;
+- immunologik tolerantlik;
+- immunologik xotira.
+## Antigen va antitelo o'zaro ta'siri
+Antigen va antitelaning birikishi organizmda ham, probirkada (in vitro) ham kuzatiladi; probirkadagi maxsus reaksiyalar serologik reaksiyalar deb ataladi. Ularga agglyutinatsiya, presipitatsiya, lizis, komplementni bog'lash va gemagglyutinatsiya kiradi [1]. Barcha serologik reaksiyalar ikki fazada boradi: birinchi faza maxsus bo'lib, antigen determinanti bilan antitelaning faol markazi birikadi; ikkinchi faza maxsus emas va reaksiya turiga qarab cho'kma tushishi yoki antigenning erishi kuzatiladi [1]. Agglyutinatsiya mexanizmi «panjara»ni eslatadi: ikki valentli antitelaning bir faol markazi bir antigen bilan, ikkinchisi boshqa antigen bilan birikib, agglyutinat hosil qiladi [1].
+Mikroorganizmlarning antigenlik xususiyatini o'rganish amaliy mikrobiologiyada muhim, chunki u yuqumli kasalliklarni tashxislash va davolashda ishlatiladi [1]. Laborant tashxis uchun ma'lum antigen (diagnostikum) bilan bemor zardobidagi noma'lum antitelo titrini aniqlaydi; ajratilgan kulturani esa ma'lum antitelo tutgan agglyutinatsiyalovchi zardoblar bilan identifikatsiya qiladi [1].
+## Amaliy ahamiyati
+Turli bakteriyalarda guruh va turga xos antigenlar bo'lsa, ular bitta guruh antigenlarga qarshi antitelo tutgan zardob bilan agglyutinatsiya berishi mumkin, bu identifikatsiyani qiyinlashtiradi. Bunday hollarda Kastellani agglyutininlarni adsorbtsiya qilish reaksiyasi qo'llanadi: yaqin bakteriyalar immun zardobdan guruh antitelalarini o'ziga bog'laydi, zardobda esa turga xos antitelalar qoladi. Bunday «monoretseptor» zardoblar sero-variantlarni aniqlashda ishlatiladi [1].
+## Xulosa
+Gumoral himoya omillari lizotsim, komplement, interferon, sekretor IgA va antitelalardan iborat. Antigenning asosiy xossalari antigenlik, immunogenlik va maxsuslikdir. Bakteriyalarda O-, H-, K-, Vi-antigenlar farqlanadi: ular serologik reaksiyalarda identifikatsiya va tashxis uchun, shuningdek vaksinalar tayyorlashda ishlatiladi.
+## Foydalanilgan adabiyotlar
+[1] Aliyev ShR, Muxamedov IM. Mikrobiologiyadan laboratoriya mashg'ulotlariga doir qo'llanma. Toshkent: Ibn Sino nomidagi nashriyot-matbaa birlashmasi; 2013 (kirill yozuvida). Xayrullo Komilov kutubxonasi, id 2355: https://xayrullokomilov.uz/kutubxona/2355
