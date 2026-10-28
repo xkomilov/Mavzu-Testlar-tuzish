@@ -1,0 +1,46 @@
+TITLE: 123. Tayyorlangan preparatni quritish va fiksatsiya qilish.
+## Kirish
+Surtma preparat tayyorlashning ketma-ket bosqichlari: surtma tayyorlash, quritish, fiksatsiya (qotirish), bo'yash va mikroskopda ko'rish [1]. Quritish va fiksatsiya bakteriyalarni buyum oynasiga mahkam yopishtirish, ularni o'ldirish va bo'yoqqa sezgir qilish uchun zarur, shu sababli bu bosqichlardagi xatolar butun mikroskopik tekshiruv natijasiga ta'sir qiladi [1][2]. Quyida quritish va fiksatsiya usullari, ularning maqsadi, tegishli tartib va xatolar G'anixo'jayeva hamda Aliyev–Muxamedov qo'llanmalari va Sog'liqni saqlash vazirligining uslubiy ko'rsatmalari asosida bayon etiladi.
+## Surtmani quritish
+Surtma xona haroratida havoda quritiladi; tez quritish zarur bo'lsa, buyum oynasi (surtma yuqoriga qaragan holda) alanga ustida, qo'l kuyguncha bo'lgan balandlikda ushlab, issiq havo oqimida quritiladi [1][2]. Yuqori harorat hujayra tuzilishini buzadi, shu sababli surtma alangaga yaqin keltirilmaydi va to'liq qurimaguncha fiksatsiya qilinmaydi [1]. G'anixo'jayeva talabi: surtma to'liq qurigandan keyingina fiksatsiya qilinadi [1]. Qon, a'zolar va to'qimalardan olingan tamg'a-surtmalar ham dastlab quritiladi [2].
+## Fiksatsiyaning maqsadi
+G'anixo'jayeva fiksatsiyaning uchta maqsadini ko'rsatadi: 1) mikroorganizm buyum oynasiga yaxshi yopishishi; 2) materialni zararsizlantirish; 3) yaxshi bo'yalishi [1]. Aliyev bo'yicha fiksatsiyada mikroorganizmlar oyna yuzasiga qattiq birikkan holda o'ldiriladi, shuning uchun keyingi ishlovlarda yuvilib ketmaydi, o'lgan bakteriyalar esa yaxshi bo'yaladi [2]. Fiksatsiyalangan surtma «preparat» deb ataladi [1].
+## Fizikaviy (termik) usul
+Fiksatsiya buyum oynasini alanga ustidan o'tkazish bilan amalga oshiriladi: oyna (surtmasi yuqoriga qaragan) katta va ko'rsatkich barmoq yoki pinset bilan ushlanib, spirtovka (gorelka) alangasidan uch marta sekin o'tkaziladi, umumiy davomiyligi taxminan 3 soniya [1][2]. G'anixo'jayeva ham uch marta alangadan o'tkazishni ko'rsatadi [1]. Ortiqcha qizdirilganda hujayralarning tuzilishi keskin o'zgaradi, shu sababli oyna qizib ketmasligi kerak (Aliyev: «fiksatsiyada yuz beradigan xatolar») [2]. Bu usul oddiy kultura surtmalari uchun, masalan stafilokokk, ichak tayoqchasi, difteriya tayoqchasi kulturalari uchun qo'llanadi [2].
+## Kimyoviy usul
+Qon surtmalari, a'zolar va to'qimalardan olingan tamg'a-surtmalar hamda ayrim kultura surtmalarida hujayra elementlari yuqori haroratda parchalanadi, shuning uchun ular kimyoviy fiksatsiya qilinadi [1][2]. G'anixo'jayeva bo'yicha quyidagi moddalar ishlatiladi:
+- metil spirtida — 5 daqiqa;
+- etil spirtida — 10 daqiqa;
+- Nikiforov aralashmasida — 10–15 daqiqa;
+- asetonda — 5 daqiqa [1].
+Aliyev bo'yicha surtmalar 5–20 daqiqa metil yoki etil spirti, Nikiforov aralashmasi, sulemali spirt yoki boshqa fiksatsiya qiluvchi suyuqliklarga solinadi [2]. Burri–Gins usulida surtma xona haroratida quritilib, spirt yoki kimyoviy usulda sulema yordamida fiksatsiya qilinadi va ehtiyotkorlik bilan yuviladi [1]. Burri (negativ) usulida esa surtma xona haroratida quritiladi va fiksatsiyasiz mikroskopda ko'riladi [1].
+## Maxsus holatlar
+- Kuydirgi qo'zg'atuvchisi bo'lishi mumkin bo'lgan materialdan tayyorlangan surtmalar 3 % vodorod peroksid qo'shilgan etil spirtida fiksatsiya qilinadi: bu Bacillus anthracis ning spora va vegetativ shakllarini 30 daqiqada zararsizlantiradi va morfologiya hamda lyuminessensiya xossalarini buzmaydi; quritilgan surtmalar Petri kosachasiga solinib, ustiga «Surtma fiksatsiya qilingan» deb yoziladi [3].
+- Immunoflyuoressent tekshiruv uchun surtma 90 ml 96 % etil spirti va 10 ml 33 % perhidroldan iborat suyuqlikda fiksatsiya qilinadi [3].
+- Ko'kyo'tal diagnostikasida yutqin tamponidan tayyorlangan ikki surtma havoda quritilib, alangada qotiriladi, so'ng flyuoressent zardob bilan ishlov beriladi [3].
+- Ojeshko usulida spora bo'yash uchun surtma dastlab fiksatsiya qilinmaydi: fiksatsiyalanmagan surtmaga xlorid kislota tomizilib isitiladi, so'ng surtma yuviladi, quritiladi va alangada fiksatsiya qilinib, Tsil–Nilsen usulida bo'yaladi [2].
+## Fiksatsiya xatolari
+- Surtmaning yetarlicha qurimasdan fiksatsiya qilinishi — hujayralar notekis yopishadi va yuvilib ketishi mumkin (muallif izohi).
+- Ortiqcha qizdirish — hujayra tuzilishi buziladi, morfologiya o'zgaradi [2]; qon yoki to'qima surtmalarida elementlar parchalanadi [1].
+- Fiksatsiya vaqtining yetishmasligi (kimyoviy usulda) — hujayralar bo'yash vaqtida ketib qolishi mumkin (muallif izohi).
+- Kimyoviy fiksatordan keyin yetarlicha yuvmaslik yoki filtr qog'ozi bilan quritish — preparatni shikastlaydi (G'anixo'jayeva: Burri–Gins usulida filtr qog'ozi bilan quritilmaydi) [1].
+## Bo'yash usuliga qarab fiksatsiya talabi
+Fiksatsiya talabi tanlangan bo'yash usuliga bog'liq [1][2]:
+- Oddiy usul, Gram, Tsil–Nilsen, Neysser bo'yog'i: avval surtma tayyorlanadi, quritiladi va fiksatsiya qilinadi, so'ng bo'yaladi [1][2].
+- Ojeshko usuli (spora bo'yash): spora qobig'ini kislota va isitish bilan ochish uchun surtma fiksatsiyasiz ishlanadi, keyin qurutilib, fiksatsiya qilinadi [1][2].
+- Burri (negativ bo'yash): surtma fiksatsiya qilinmaydi, chunki bakteriya tanasi qora fonda rangsiz ko'rinishi kerak [1].
+- Burri–Gins (kapsula): quritilgan surtma spirt yoki sulemada fiksatsiya qilinib, fuksin bilan bo'yaladi; bunda qora fonda hujayra qizil, kapsula rangsiz ko'rinadi [1].
+Fiksatsiyalangan surtma «preparat» deyiladi va undan keyin bo'yoq eritmasi tomiziladi [1]. Bo'yash bosqichi alohida mavzularda (oddiy, Gram, Tsil–Nilsen, Ojeshko) ko'rib chiqiladi.
+
+## Xavfsizlik
+Fiksatsiya mikroblarni o'ldirgan taqdirda ham, fiksatsiyalangan surtma bilan ishlaganda ehtiyot choralari saqlanadi: ish oxirida ish joyida fiksatsiyalanmagan surtmalar qoldirilmaydi [4]. Spora tashuvchi mikroblarda alanga bilan fiksatsiya sporalarni to'liq o'ldirmasligi mumkin, shu sababli bunday hollarda kimyoviy fiksatsiya qo'llanadi (muallif izohi, kuydirgi uchun uslubiy ko'rsatma asosida).
+## Amaliy tavsiyalar
+Alangada fiksatsiya qilinganda oynani surtma tomoni yuqoriga qaratib ushlash, uch marta o'tkazgandan keyin oynaning orqa tomonini qo'lning orqasiga tegizib, qo'l kuyguncha qizimaganini tekshirish tavsiya etiladi (muallif izohi, laboratoriya amaliyoti). Kimyoviy fiksatsiyada fiksator solingan idish qopqog'i yopiq bo'lishi, vaqt soat bo'yicha nazorat qilinishi kerak: Aliyev bo'yicha fiksatsiya vaqti 5–20 daqiqa oralig'ida o'zgaradi, G'anixo'jayeva bo'yicha esa har bir modda uchun alohida vaqt belgilangan (metil spirt 5, etil spirt 10, Nikiforov 10–15, aseton 5 daqiqa) [1][2]. Fiksatordan chiqarilgan surtma quritilib, so'ng bo'yaladi (muallif izohi).
+
+## Xulosa
+Surtma avval to'liq quritiladi, so'ng fiksatsiya qilinadi. Fizikaviy fiksatsiya (3 marta alangadan o'tkazish) oddiy kultura surtmalari uchun, kimyoviy fiksatsiya (metil spirti 5 daqiqa, etil spirti 10 daqiqa, Nikiforov aralashmasi 10–15 daqiqa, aseton 5 daqiqa) qon, to'qima surtmalari va xavfli materiallar uchun qo'llanadi. Maqsad — mikroblarni oynaga mahkam yopishtirish, zararsizlantirish va yaxshi bo'yalishini ta'minlash.
+## Foydalanilgan adabiyotlar
+[1] G'anixo'jayeva A, Nazarova H. Mikrobiologiya: tibbiyot kollejlari va bilim yurtlari o'quvchilari uchun darslik. Toshkent: Abu Ali ibn Sino nomidagi tibbiyot nashriyoti; 2002 (kirill yozuvida). Xayrullo Komilov kutubxonasi, id 2323: https://xayrullokomilov.uz/kutubxona/2323
+[2] Aliyev ShR, Muxamedov IM. Mikrobiologiyadan laboratoriya mashg'ulotlariga doir qo'llanma. Toshkent: Ibn Sino nomidagi nashriyot-matbaa birlashmasi; 2013 (kirill yozuvida). Xayrullo Komilov kutubxonasi, id 2355: https://xayrullokomilov.uz/kutubxona/2355
+[3] O'zbekiston Respublikasi Sog'liqni saqlash vazirining 2015-yil 1-maydagi 177-sonli buyrug'i ilovalari: Bakteriologik, virusologik va o'ta xavfli yuqumli kasalliklar laboratoriyalarida o'tkaziladigan laboratoriya tekshiruvlari bo'yicha uslubiy ko'rsatmalar (kirill yozuvida). Xayrullo Komilov kutubxonasi, id 491: https://xayrullokomilov.uz/kutubxona/491
+[4] SP 1.3.2322-08. III–IV patogenlik (xavflilik) guruhi mikroorganizmlari va parazitar kasallik qo'zg'atuvchilari bilan ishlash xavfsizligi: sanitariya-epidemiologik qoidalar (rus tilida). Rossiya Federatsiyasi Bosh davlat sanitariya shifokorining 2008-yil 28-yanvardagi 4-son qarori bilan tasdiqlangan (Rossiya Federatsiyasi hujjati; O'zbekistonda rasmiy qo'llanilishi tasdiqlanmagan). Xayrullo Komilov kutubxonasi, id 605: https://xayrullokomilov.uz/kutubxona/605
