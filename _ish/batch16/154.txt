@@ -1,0 +1,49 @@
+TITLE: 154. Havodagi mikroblarning umumiy sonini aniqlash.
+## Kirish
+Havodagi mikroblarning umumiy soni (UMS) — 1 m3 havodagi koloniya hosil qiluvchi birliklar (KHQB/m3) miqdori bo'lib, yopiq xonalar havosining mikrob bilan ifloslanishini baholashda asosiy sanitariya-bakteriologik ko'rsatkichdir [1]. Aliyev va Muxamedov bo'yicha UMS tekshirilayotgan ob'ektning ma'lum hajm yoki massasidagi (1 ml suvda, 1 g tuproqda, 1 m3 havoda) mikroorganizmlar umumiy sonini ko'rsatadi [1]. Gigiyenik va epidemiyaga qarshi joriy tekshiruvlarda 1 m3 havodagi UMS va sanitariya-ko'rsatkich mikroblar aniqlanadi [1]. Quyida ikki usul — sedimentatsion va aspiratsion — bo'yicha UMS ni aniqlash, hisoblash va baholash ko'rib chiqiladi.
+## Usul tanlash
+Havoni miqdoriy tekshirish usullari sedimentatsiya (cho'ktirish), aspiratsiya yoki filtrlash prinsipiga asoslanadi; aspiratsion usul UMS ni aniqlashda eng aniq hisoblanadi [1]. MUK 4.2.1089-02 impaktor va sentrifugali tipdagi aspiratorlardan foydalanishni, sedimentatsion usulni tavsiya etmaslikni ko'rsatadi [2]. Gigiyena qo'llanmasida eng yaxshi usul havo oqimini oziq muhit yuzasiga urishga (Krotov apparati) asoslangani, sedimentatsiya natijalari esa 1 m3 uchun hisoblanmay, faqat dinamikani taqqoslash uchun ishlatilishi aytilgan [3].
+## Aspiratsion usulda UMS
+MUK 4.2.1089-02 bo'yicha [2]:
+- umumiy mikroorganizmlarni aniqlash uchun 100 dm3 havo o'tkaziladi;
+- namuna 2 % li oziq agarga olinadi;
+- ekmalar 37 ± 1 °C da 24 soat va yana 24 soat xona haroratida saqlanadi;
+- o'sgan koloniyalar sanalib, 1 m3 havoga qayta hisoblanadi.
+Krotov apparatida: x = a · 1000 / v, bunda a — idishdagi koloniyalar, v — so'rilgan havo hajmi (litr) [1]. Misol (o'quv misoli, muallif izohi): 100 l havo o'tkazilganda idishda 45 koloniya o'ssa, x = 45 · 1000 / 100 = 450 KHQB/m3.
+## Sedimentatsion usulda UMS
+Kox usulida Petri idishlari 20–30 daqiqa ochiq qoldirilib, 37 °C da termostatda saqlanadi; hisoblash Omelyanskiy formulasi: x = a · 100 · 1000 · 5 / (b · 10 · t), bunda a — koloniyalar soni, b — idish maydoni (πr2), t — ochiq turish vaqti (daqiqa) [1]. Har bir xonada bir nechta idish qo'yilib, o'rtacha qiymat olinadi [1]. Aliyev bo'yicha 250 dan kam — toza, 250–500 — o'rtacha ifloslangan, 500 dan ortiq — nihoyatda ifloslangan havo [1].
+## Koloniyalarni sanash va hisob-kitob
+Qoidalar (umumlashtirilgan, muallif izohi):
+- idishlar 24 soatdan keyin ko'zdan kechiriladi, MUK bo'yicha aspiratsiyadan keyingi idishlarni xona haroratida yana 24 soat saqlash kerak [2];
+- koloniyalar to'liq, shu jumladan kichiklari ham, sanaladi;
+- natija 1 m3 ga qayta hisoblanadi, nuqtalar bo'yicha alohida baholanadi, o'rtacha ham ko'rsatiladi [2].
+MUK 4.2.1089-02 bo'yicha koloniyalar sanalgach, normaga muvofiqlik har bir o'lchov bo'yicha alohida aniqlanadi [2].
+## Me'yorlar
+MUK 4.2.1089-02 ilovalari bo'yicha 1 m3 havodagi umumiy mikroorganizmlar (KHQB/m3) [2]:
+- operatsiya xonasi: ishdan oldin ≤500, ish vaqtida ≤1000;
+- reanimatsiya bo'limi va palatalar: ish vaqtida ≤1000;
+- boks bemor joylashtirilishidan oldin ≤50, bemor yotganda ≤250;
+- protsedura xonasi: ishdan oldin ≤50, ish vaqtida ≤2000;
+- akusherlik stasionari: bolalar palatalari tayyor holda ≤500, ish vaqtida ≤750; operatsiya va tug'ruq xonalari ishdan oldin ≤500, ish vaqtida ≤1000; chala tug'ilganlar palatasi tayyor holda ≤500, ish vaqtida ≤750;
+- aseptik bokslar: bemor kelishidan oldin ≤500; aseptik protsedura xonasi ishdan oldin ≤50, ish vaqtida ≤200; yo'lak ishdan oldin ≤100;
+- dorixona aseptik bloki: ishdan oldin ≤500, keyin ≤1000; xizmat zali ish vaqtida ≤1500;
+- ishlab chiqarish toza xonalari klasslari: 2-klass ≤50, 3-klass ≤100, 4-klass ≤200 (1-klassda tirik mikroorganizmlar bo'lmaydi).
+Aliyev qo'llanmasidagi 20-jadvalda tozalik klasslari bo'yicha: A klassi 200/500, B klassi 500/750, V klassi 750/1000 (ishdan oldin/ish vaqtida) [1]. Aliyev (A: operatsiya xonasi 200/500) va MUK (operatsiya xonasi 500/1000) normalari farqli.
+## Namuna olish nuqtalari
+MUK 4.2.1089-02 bo'yicha maydoni 15 m2 gacha xonada bitta nuqta, 15 m2 dan katta xonada beshta nuqta, tor uzun xonalarda bir-biridan 5 m dan oshmagan masofada nuqtalar belgilanadi; statsionarlarda havo yotgan bemorning nafas sathida olinadi (gramm manfiy bakteriyalar uchun) [2].
+## Ko'rsatkichning sanitariya ahamiyati
+UMS xonaning tozaligi, shamollatish, dezinfeksiya va havoni zararsizlantirish qurilmalarining samaradorligini ko'rsatadi: MUK 4.2.1089-02 havoni zararsizlantirish qurilmasi ishlayotganda har bir nuqtada umumiy mikroorganizm sonini nazorat qilishni talab qiladi [2]. Kasalxona xonalari havosi toza bo'lishi uchun xonalarni muntazam shamollatishning ahamiyati katta [3]. Biroq faqat UMS ga qarab xonaning epidemiologik xavfsizligi haqida to'liq xulosa chiqarib bo'lmaydi: bunda S. aureus, hemolitik streptokokk va gramm manfiy bakteriyalar ham aniqlanadi (155-mavzu) [1][2].
+## Xavfsizlik
+Idishlarni tekshirishda mikroblar tarqalmasligi uchun qopqoqlarni ochmasdan sanash, ishlatilgan idishlarni avtoklavda zararsizlantirish tavsiya etiladi. Bu bo'yicha manbalarda havo namunalari uchun alohida talab keltirilmagan; amaldagi biologik xavfsizlik qoidalariga rioya qilinadi (muallif izohi).
+## Qayta hisoblash va natijani izohlash
+100 dm3 = 0,1 m3 bo'lgani uchun 100 dm3 havo o'tkazilganda idishdagi koloniyalar soni 10 ga ko'paytiriladi, bu x = a · 1000 / v formulasiga mos keladi (muallif izohi: arifmetik izoh). Masalan, operatsiya xonasida ish vaqtida 1 m3 da 120 koloniya topilsa, bu norma (≤1000) chegarasida; 1200 bo'lsa, norma oshgan bo'lib, tozalash, shamollatish yoki havoni zararsizlantirishni takrorlash va takroriy namuna olish kerak (muallif izohi). Ish bosqichi (ishdan oldin yoki ish vaqtida) ko'rsatilmasa, natijani to'g'ri baholab bo'lmaydi [2].
+## Bayonnoma
+Bayonnomada nuqta raqami, xona nomi va klassi, ish bosqichi, usul (aspiratsion/sedimentatsion), havo hajmi, har bir idishdagi koloniyalar soni, KHQB/m3 va norma ko'rsatiladi (muallif izohi).
+## Xatolar
+Hajm noto'g'ri o'lchanishi, noto'g'ri muhit, haroratning buzilishi, nuqtalar sonining kamligi va ish bosqichini ko'rsatmaslik natijani buzadi (muallif izohi).
+## Xulosa
+Havodagi UMS 1 m3 havodagi KHQB bilan ifodalanadi. Aspiratsion usulda 100 dm3 havo 2 % oziq agarga olinib, 37 °C da 24 soat va xona haroratida yana 24 soat saqlanadi, natija x = a·1000/v formula bilan qayta hisoblanadi. Sedimentatsion usulda Omelyanskiy formulasi ishlatiladi. Normalar xona turi va ish bosqichiga bog'liq (masalan, operatsiya xonasida MUK bo'yicha ishdan oldin ≤500, ish vaqtida ≤1000 KHQB/m3).
+## Foydalanilgan adabiyotlar
+[1] Aliyev ShR, Muxamedov IM. Mikrobiologiyadan laboratoriya mashg'ulotlariga doir qo'llanma. Toshkent: Ibn Sino nomidagi nashriyot-matbaa birlashmasi; 2013 (kirill yozuvida). Xayrullo Komilov kutubxonasi, id 2355: https://xayrullokomilov.uz/kutubxona/2355
+[2] MUK 4.2.1089-02. UOV «Potok 150-M-01» havoni zararsizlantirish qurilmasidan foydalanish va uning ishlashida havoning mikrob bilan ifloslanishini nazorat qilish: uslubiy ko'rsatmalar (rus tilida). Moskva: Rossiya Federatsiyasi Sog'liqni saqlash vazirligi; 2002. 22 b. (Rossiya Federatsiyasi hujjati; O'zbekistonda rasmiy qo'llanilishi tasdiqlanmagan.) Xayrullo Komilov kutubxonasi, id 1977: https://xayrullokomilov.uz/kutubxona/1977
+[3] Umumiy gigiyena bilan ekologiya: amaliy mashg'ulot kitobi (kirill/lotin yozuvida; muallif va nashr ma'lumotlari faylda ko'rsatilmagan). Xayrullo Komilov kutubxonasi, id 2365: https://xayrullokomilov.uz/kutubxona/2365

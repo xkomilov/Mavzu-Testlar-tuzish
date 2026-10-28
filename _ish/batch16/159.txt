@@ -1,0 +1,41 @@
+TITLE: 159. Sut va sut mahsulotlarini sanitar-bakteriologik tekshirish, namuna olish, yo'llanma xatini to'ldirish.
+## Kirish
+Sut va sut mahsulotlari oziq-ovqat tarkibida mikroorganizmlar uchun qulay muhit bo'lib, ular orqali ichak infeksiyalari, turli toksikoinfeksiyalar va toksikozlar, shuningdek sil, brutsellyoz kabi kasalliklar tarqalishi mumkin [1][2]. Sut ifloslanishining asosiy manbai — hayvon yelini, ayniqsa mastitda; shuningdek sog'uvchining qo'llari, jihozlar, idish va havo changi [2]. Sanitariya-mikrobiologik tekshiruv xom ashyo sifati, saqlash va tashish sharoiti hamda mahsulotning epidemik xavfsizligini nazorat qilish uchun o'tkaziladi [1]. Mavzuda tekshiruv ko'rsatkichlari, namuna olish qoidalari, tashish va yo'llanma xatini to'ldirish ko'rib chiqiladi.
+## Sutning mikroflorasi
+Sut ifloslanishi sog'ish vaqtidayoq boshlanadi va ifloslanish darajasi sog'liqni saqlash-gigiyenik shartlarga rioya qilinishiga bog'liq; saqlash sharoiti yomon bo'lsa mikroflora tez ko'payadi [1]. Patogen mikroblar sutga olinish va tashish jarayonida tashqi muhitdan tushishi yoki kasal hayvon sutida bo'lishi mumkin (stafilokokklar, brutsellalar, sil mikobakteriyalari) [1]. Sog'ilgandan keyingi dastlabki soatlarda laktenin, laktoperoksidaza va lizotsim ta'sirida mikroblar qisman nobud bo'ladi (bakteritsid faza); sekin chuqur sovitilganda bu faza 24–48 soatgacha cho'zilishi mumkin; so'ng aralash mikroflora ko'payish fazasi, sut kislotali bakteriyalar fazasi, xamirturush-mog'or fazasi va chirish fazasi keladi [2].
+## Tekshiriladigan ko'rsatkichlar
+Pravosudova va Melnikov bo'yicha sut va sut mahsulotlarida aniqlanadi [1]:
+- bakteriyalarning umumiy soni (KMAFAnM);
+- ichak tayoqchasi guruhi bakteriyalari (IGTB);
+- S. aureus;
+- patogen mikroorganizmlar, shu jumladan salmonella;
+- ayrim mahsulotlarda L. monocytogenes, mog'or va xamirturush;
+- epidemiologik ko'rsatma bo'lsa, kasallik qo'zg'atuvchisini ajratish uchun bakteriologik tekshiruv.
+Normalar jadvalida (RF SanPiN 2.3.2.1078-01 asosida) xom sut uchun KMAFAnM oliy navda 3·10^5, 1-navda 5·10^5, 2-navda 4·10^6 KHB/sm3 dan oshmasligi, pasterizatsiyalangan sutda 1·10^5 KHB/sm3, IGTB 0,01 sm3 da, salmonella 25 sm3 da, S. aureus 1 sm3 da, L. monocytogenes 25 sm3 da bo'lmasligi kerak [1].
+## O'zbekistondagi me'yoriy asos
+SanQvaN № 0107-26 sut va sut mahsulotlarini mikrobiologik ko'rsatkichlarga muvofiqligini 2-ilovaning 2-jadvali bo'yicha tekshirishni belgilaydi; unda enterobakteriyalar pasterizatsiyalangan sut va suyuq sut mahsulotlarida bo'lmasligi, quruq sut va quruq zardobda 10 KHB/g dan oshmasligi, ichak tayoqchasi va koagulaza-musbat stafilokokklar pishloqlarda, quruq sutda va muzqaymoqda ma'lum chegaralarda (m va M) nazorat qilinishi ko'rsatilgan [3]. Muhim: bu qaror rasmiy e'londan 24 oy o'tgach kuchga kiradi, shuning uchun u hozircha qo'llanadigan majburiy norma emas, amaldagi boshqa hujjatlar bilan birga ko'rib chiqiladi (hisobotda qayd etilgan) [3]. Jadvallarda namuna olish rejasi n (namuna birliklari soni), c (m va M oralig'idagi namunalar soni), m va M (chegara qiymatlari) belgilari bilan beriladi, tahlil usullari sifatida ISO standartlari ko'rsatilgan [3].
+## Namuna olish qoidalari
+Pravosudova va Melnikov bo'yicha [1]:
+- idish qopqoqlari (flyaga, bochka, banka) tozalanib, yuvilib, artiladi;
+- mikrobiologik tahlil uchun namuna birinchi navbatda olinadi (fizik-kimyoviy va organoleptik tekshiruvdan oldin);
+- suyuq, quyuq mahsulotdan nuqtaviy namunalar 0,1; 0,25; 0,5 dm3 hajmli, uzunligi 50–100 sm qattiq dastali krujka yoki cho'michdan olinadi; yarim qattiq, qattiq va sochiluvchan mahsulotlardan shpatel, pichoq yoki maxsus zond bilan;
+- birlashtirilgan namuna tuzishda har bir idishdan olinadigan nuqtaviy namunalar soni teng bo'lishi kerak;
+- namuna steril idishga olinib, po'kak, plastmassa yoki folga o'ralgan rezina tiqin yoki qopqoq bilan yopiladi; moy, pishloq va quruq sut mahsulotlarini pergamentga olishga ruxsat etiladi;
+- idish bo'g'zi alanga bilan kuydiriladi, asboblar steril bo'ladi;
+- suyuq mahsulot uchun idish hajmi 1000 sm3 gacha bo'lsa pipetka yoki metall cho'mich bilan, undan katta bo'lsa kamida uch qatlamdan olinadi; kranli rezervuardan olishda kran yuviladi, spirtli paxta bilan artiladi, olovda kuydiriladi va 0,1–1 dm3 suyuqlik oldindan chiqarib yuboriladi.
+## Saqlash va tashish
+Namuna olingandan keyin laboratoriyaga darhol yetkaziladi; tahlil boshlanguncha sut va sut mahsulotlari 2–8 °C da, muzqaymoq −2 °C dan yuqori bo'lmagan haroratda saqlanadi; tahlil laboratoriyaga yetkazilishi bilan, lekin namuna olingandan 4 soatdan kechiktirmay boshlanadi [1]. Tez buziladigan mahsulot namunalari +5 °C da 6 soatdan ortiq tashilmaydi, muzlatilgan mahsulotlar −15 °C dan yuqori bo'lmagan haroratda saqlanadi [1].
+## Yo'llanma xatini to'ldirish
+Har bir namuna mahsulot nomi, ishlab chiqaruvchi korxona, partiya raqami, namuna olish sanasi (soati bilan) va mikrobiologik tekshiruv maqsadi ko'rsatilgan yorliq bilan belgilanadi [1]. Yo'llanma xatida bundan tashqari (muallif izohi, amaliyotdan umumlashtirilgan): yuboruvchi muassasa, namuna olgan mutaxassis (F.I.Sh., lavozim), namuna olingan joy (fermer xo'jaligi, sut yig'ish punkti, do'kon), tara turi va hajmi, saqlash harorati, olish vaqti va yetkazish vaqti, so'ralgan ko'rsatkichlar (KMAFAnM, IGTB, S. aureus, salmonella), tekshiruv asosi (reja, epidemiologik ko'rsatma, shikoyat).
+## Ko'rsatkichlarning sanitariya ahamiyati
+Belarus o'quv qo'llanmasiga ko'ra KMAFAnM 10^3–10^4 KHB/g (sm3) bo'lsa mahsulot yangi va saqlashga chidamli, 10^5 dan yuqori bo'lsa texnologik va sanitariya rejimlari buzilgan, 10^6–10^7 da potensial xavf, 10^7–10^8 da buzilish hisoblanadi; IGTB 10^3 dan yuqori bo'lsa sanitariya holati yomon, E. coli topilishi esa yangi najasli ifloslanishni bildiradi; koagulaza-musbat stafilokokklar havo-tomchi ifloslanish ko'rsatkichi [2]. Bu chegaralar Belarus me'yorlariga asoslangan va O'zbekiston normalari bilan to'g'ridan-to'g'ri mos kelmasligi mumkin.
+## Tekshiruv turlari
+Sanitariya-mikrobiologik tekshiruv reja asosida yoki epidemiologik ko'rsatma bo'yicha o'tkaziladi [2]. Rejali tekshiruv umumiy mikrob soni, sanitariya-ko'rsatkich mikroorganizmlar (IGTB, enterokokklar) va ba'zan patogen flora bo'yicha amalga oshiriladi; epidemiologik ko'rsatma bo'yicha tekshiruv oziq-ovqat toksikoinfeksiyalari mumkin bo'lgan qo'zg'atuvchilarini va ularning paydo bo'lishiga sabab bo'lgan omillarni aniqlashga qaratiladi [2].
+## Xatolar va xavfsizlik
+Natijani buzadigan xatolar (muallif izohi): namunani ochiq idishga olish, idish bo'g'zini kuydirmaslik, tashish haroratining buzilishi, 4 soatlik muddatdan oshib ketish, yo'llanma xatida sana va soatning ko'rsatilmasligi. Sut orqali sil, brutsellyoz kabi infeksiyalar tarqalishi mumkinligi sababli [2], xom sut namunalari bilan ishlaganda qo'lqop kiyiladi va ishlatilgan materiallar zararsizlantiriladi.
+## Xulosa
+Sut va sut mahsulotlari sanitariya-bakteriologik tekshiruvida KMAFAnM, IGTB, S. aureus va salmonella aniqlanadi. Namuna steril idishga, mikrobiologik tahlil uchun birinchi navbatda olinadi, 2–8 °C da saqlanadi va 4 soat ichida tahlil boshlanadi. Yo'llanma xatida mahsulot nomi, ishlab chiqaruvchi, partiya, sana-vaqt va maqsad ko'rsatilishi shart.
+## Foydalanilgan adabiyotlar
+[1] Pravosudova NA, Melnikov VL. Osnovy sanitarnoy mikrobiologii: o'quv-uslubiy qo'llanma (rus tilida). Penza: Penza davlat universiteti nashriyoti; 2013. 103 b. Xayrullo Komilov kutubxonasi, id 2325: https://xayrullokomilov.uz/kutubxona/2325
+[2] Batsukova NL, Borushko NV, Novikov PG. Mikrobiologicheskiy kontrol za kachestvom pishchevykh produktov i sanitarnym rejimom na pishchevykh predpriyatiyakh: o'quv-uslubiy qo'llanma (rus tilida). Minsk: Belarus davlat tibbiyot universiteti; 2011. 47 b. (Belarus Respublikasi me'yorlariga asoslangan.) Xayrullo Komilov kutubxonasi, id 1964: https://xayrullokomilov.uz/kutubxona/1964
+[3] SanQvaN № 0107-26. Oziq-ovqat mahsulotlarining mikrobiologik ko'rsatkichlari bo'yicha sanitariya qoidalari, normalari va gigiyena normativlari (SEOJSQ qo'mitasining 2026-yil 19-yanvardagi 32-son qarori; Adliya vazirligida 2026-yil 4-fevralda 386-son bilan hisobga olingan; qaror rasmiy e'londan 24 oy o'tgach kuchga kiradi). Xayrullo Komilov kutubxonasi, id 680: https://xayrullokomilov.uz/kutubxona/680

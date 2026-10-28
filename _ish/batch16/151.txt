@@ -1,0 +1,47 @@
+TITLE: 151. Suvdagi koli-titr, koli-indeksni membrane filtr usulida aniqlash.
+## Kirish
+Membrana filtrlash usuli ichimlik suvida umumiy (UKB) va termotolerant koliform bakteriyalarni (TKB) aniqlashning asosiy usuli hisoblanadi [1]. Usul tekshirilayotgan suvni maxsus membrana filtridan o'tkazish, filtrni laktozali differensial muhitda o'stirish va o'sgan koloniyalarni kultural hamda biokimyoviy xossalari bo'yicha identifikatsiya qilishga asoslangan [1][2]. Bijg'itish (titrlash) usulidan farqli, bu usulda natija bevosita koloniya hosil qiluvchi birlik (KHQB) bilan 100 ml suvda ifodalanadi, undan koli-indeks va koli-titr hisoblab topiladi [1]. Mavzuda jihozlar, bajarilish bosqichlari, tasdiqlash testlari va hisoblash formulalari ko'rib chiqiladi.
+## Atamalar
+MUK 4.2.1018-01 bo'yicha UKB — gramm manfiy, oksidaza manfiy, sporasiz tayoqchalar, laktozali differensial muhitda o'sadi va laktozani kislota, aldegid va gazgacha 37 ± 1 °C da 24–48 soatda bijg'itadi; TKB ularning bir qismi bo'lib, 44 ± 0,5 °C da 24 soatda ham laktozani bijg'itadi [2]. Koli-indeks — 1000 ml suvdagi koliform bakteriyalar soni, koli-titr — bitta koliform topiladigan suvning eng kam hajmi (ml), ya'ni 1000 : indeks [1].
+## Jihozlar va materiallar
+- Membrana filtrlash apparati (Zeyts voronkasi, Bunzen kolbasi) va vakuum-nasos; siyraklanish hosil qilish uchun 0,5–1,0 atm [2];
+- membrana filtrlari: teshik diametri 0,45 mkm dan katta bo'lmagan, diski 35 yoki 47 mm; Aliyev bo'yicha 3-raqamli filtr [1][2];
+- Endo muhiti solingan Petri idishlari, termostat (37 ± 1) °C va (44 ± 0,5) °C;
+- flamblangan pinset, bir martalik yoki sterillangan pipetkalar, steril suv;
+- oksidaza testi uchun reaktiv shimdirilgan qog'oz yoki disk, Gram bo'yog'lari [1][2].
+Membrana filtrlari ishlab chiqaruvchi ko'rsatmasiga muvofiq tayyorlanadi [2]; Aliyev qo'llanmasida filtrlar oldindan distillangan suvda qaynatilib sterillanishi aytilgan [1].
+## Filtrlash tartibi
+MUK bo'yicha [2]:
+- voronka va filtrlash stolchasi spirt shimdirilgan tampon bilan artilib, olovda kuydiriladi;
+- sovigach, flamblangan pinset bilan stolchaga steril membrana filtri qo'yilib, voronka bilan bosiladi;
+- voronkaga o'lchangan hajm suv quyilib, vakuum ulanadi;
+- bir namunaning bir necha hajmi filtrlanganda avval kichik, so'ng katta hajm olinadi va har safar filtr almashtiriladi; yangi namunadan oldin apparat zararsizlantiriladi;
+- avval zararsizlantirilgan yoki ifloslanmagan deb taxmin qilingan namunalar, keyin ifloslangan namunalar filtrlanadi;
+- 1 ml suv filtrlanganda voronkaga oldindan kamida 10 ml steril suv quyiladi;
+- filtrlash tugagach, vakuum o'chiriladi, filtr chetidan pinset bilan olinib, ag'darilmasdan, havo pufakchalarisiz Endo muhitiga, bakteriyalar o'tirgan yuzasi yuqoriga qaratib qo'yiladi;
+- idish tubiga filtrlangan hajm, namuna raqami va ekish sanasi yoziladi; bitta idishga 3–4 filtr qo'yish mumkin, ular bir-biriga tegmasligi kerak.
+## Hajmlar
+Ichimlik suvida 100 ml dan uchta hajm tekshiriladi; barqaror manfiy natijalarda 300 ml ni bitta filtrdan o'tkazishga ruxsat etiladi [2]. Aliyev bo'yicha ichimlik suvi uchun 300–500 ml, ochiq havzaning toza suvi uchun 5, 10, 40, 100, 150 ml; juda ifloslangan suv filtrlashdan oldin steril distillangan suv bilan suyultiriladi [1]. Sifati noma'lum suvda ajratilgan koloniyalar olish uchun ko'proq hajm (masalan, 10, 40, 100, 150 ml) filtrlanadi [2].
+## Inkubatsiya va dastlabki baho
+Filtrli idishlar tubi yuqoriga qaratib, 37 ± 1 °C da 24 ± 2 soat saqlanadi [2]. Filtrda o'sish bo'lmasa yoki pardasimon, g'ovaksimon, mog'orsimon, shaffof, yoyilgan koloniyalar o'ssa, javob manfiy: 100 ml da UKB va TKB yo'q; tahlil 24 soatda tugaydi [2]. Tipik laktoza-musbat koloniyalar — to'q qizil yoki qizil, metall yaltiroq yoki yaltiroqsiz, filtrning orqa tomonida iz qoldiradigan — har tip alohida sanaladi [1][2].
+## Tasdiqlash
+UKB ni tasdiqlash uchun 5 tadan kam koloniya bo'lsa hammasi, aks holda har tipdan kamida 3–4 tasi; TKB uchun barcha tipik koloniyalar, ammo 10 tadan oshmagan holda tekshiriladi [2]. Har bir koloniya:
+- oksidaza testi: koloniya shisha tayoqcha yoki platina sirtmoq bilan reaktiv shimdirilgan qog'ozga surtiladi; 1 daqiqada rang paydo bo'lsa musbat; musbat koloniya keyingi tekshiruvdan chiqariladi; zich o'sganda disk to'g'ridan-to'g'ri filtrdagi koloniyaga qo'yilishi mumkin [1][2];
+- Gram usulida bo'yash yoki Gregersen testi;
+- laktozani kislota va gaz hosil qilib bijg'itish: UKB uchun 37 ± 1 °C da 48 soat, TKB uchun oldindan 43–44 °C gacha isitilgan muhitda 44 ± 0,5 °C da 24 soat [2].
+Barcha koloniyalar oksidaza musbat bo'lsa, tekshirish to'xtatilib, "UKB va TKB topilmadi" deb javob beriladi [1][2].
+## Hisoblash
+Barcha shubhali koloniyalar identifikatsiya qilingan bo'lsa, KHQB 100 ml suvda quyidagicha topiladi: X = A · 100 / V, bunda X — 100 ml dagi koloniyalar, A — hisobga olingan filtrlardagi koloniyalar yig'indisi, V — shu filtrlardan o'tkazilgan suv hajmi [1][2]. Misollar:
+- 100 ml dan uchta filtrda jami 1 ta koloniya: X = 1·100/300 = 0,3 KHQB/100 ml [1]; MUK misolida 2 ta koloniya: 2·100/300 = 0,7 KHQB/100 ml [2];
+- 10, 40, 100, 150 ml filtrlanganda faqat 40 ml da 4 ta va 100 ml da 3 ta ajratilgan koloniya bo'lsa: X = (4+3)·100/(40+100) = 5 KHQB/100 ml; 10 va 150 ml li filtrlar (o'sib ketgan) hisobga olinmaydi [1][2].
+Tanlab tekshirilganda bir tipdagi koloniyalarning natijalari bir xil bo'lmasa, tasdiqlangan soni X = (a · c) / b formula bilan hisoblanadi (a — shu tipdagi koloniyalar soni, b — tekshirilgani, c — musbatlari) [2].
+## Koli-indeks va koli-titr
+Birinchi misolda KHQB 100 ml da 0,3 bo'lsa, koli-indeks 1000 ml da 3 ga teng, koli-titr 333 (1000 : 3); ichimlik suvi talabga javob beradi. Ikkinchi misolda 100 ml da 5 bo'lsa, 1000 ml da 50, koli-titr 20 ml (1000 : 50); suv o'ta ifloslangan [1]. O'zMSt 133:2024 bo'yicha koli-indeks 1 dm3 da ko'pi bilan 3 bo'lishi kerak [3].
+## Natijani rasmiylashtirish
+Yakuniy javobda 100 ml dagi UKB KHQB va shundan TKB KHQB beriladi; taxminiy javob Endoda tipik koloniyalar topilganda berilishi mumkin, uni laktoza bijg'itish tasdiqlaydi; koloniyalar qo'shilib ketsa, "UKB 100 ml da topildi" kabi sifat javobi yoziladi [2].
+## Xulosa
+Membrana filtrlash usulida 100 ml dan uchta hajm suv filtrlanadi, filtr Endo muhitida 37 °C da 24 soat o'stiriladi, tipik koloniyalar oksidaza, Gram va laktoza bijg'itish bo'yicha tasdiqlanadi (TKB 44 °C da). KHQB X = A·100/V formulasi bilan hisoblanadi, koli-indeks 1000 ml ga qayta hisoblanadi, koli-titr 1000 : indeks bo'yicha topiladi.
+## Foydalanilgan adabiyotlar
+[1] Aliyev ShR, Muxamedov IM. Mikrobiologiyadan laboratoriya mashg'ulotlariga doir qo'llanma. Toshkent: Ibn Sino nomidagi nashriyot-matbaa birlashmasi; 2013 (kirill yozuvida). Xayrullo Komilov kutubxonasi, id 2355: https://xayrullokomilov.uz/kutubxona/2355
+[2] MUK 4.2.1018-01. Ichimlik suvining sanitariya-mikrobiologik tahlili: uslubiy ko'rsatmalar (rus tilida; Rossiya Federatsiyasi Bosh davlat sanitariya shifokori tomonidan 2001-yil 9-fevralda tasdiqlangan; O'zbekistonda rasmiy qo'llanilishi tasdiqlanmagan). Xayrullo Komilov kutubxonasi, id 1976: https://xayrullokomilov.uz/kutubxona/1976
+[3] O'zMSt 133:2024. Ichimlik suvi. Gigiyenik talablar va sifatini nazorat qilish. O'zbekiston milliy standarti (SEOJSQ qo'mitasi; 11.06.2024 holatida). Xayrullo Komilov kutubxonasi, id 1035: https://xayrullokomilov.uz/kutubxona/1035

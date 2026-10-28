@@ -1,0 +1,52 @@
+TITLE: 152. Havo mikroflorasi, aspiratsion usulida havodan namuna olish,yo'llanma xatini to'ldirish.
+## Kirish
+Havo mikroorganizmlar uchun o'sish muhiti emas, ammo ular unga odam nafas yo'llari, teri, chang va tuproqdan tushadi. Atmosfera havosi mikroflorasida asosan tuproq mikroflorasi ustunlik qiladi, sanitariya-ko'rsatkich mikroblar (stafilokokk va streptokokk) esa atmosfera havosida atigi 3,7 % hollardagina aniqlanadi [1]. Yopiq xonalar havosini sanitariya-bakteriologik tekshirish bolalar muassasalari, maktablar, kasalxonalar, operatsiya xonalari, dorixonalarda rejali tartibda o'tkaziladi [1]. Havoni miqdoriy tekshirishning usullari cho'ktirish (sedimentatsiya), aspiratsiya yoki filtrlash prinsipiga asoslangan; aspiratsion usul havodagi umumiy mikrob sonini aniqlashda eng aniq usul hisoblanadi [1]. Mavzuda aspiratsion namuna olish va yo'llanma xatini to'ldirish ko'rib chiqiladi.
+## Aspiratsion usulning mohiyati
+Havo apparat yordamida ma'lum tezlikda so'rib olinadi va oziq muhitga ekiladi [1]. MUK 4.2.1089-02 xonada umumiy mikroorganizmlar, S. aureus, gramm manfiy shartli patogen bakteriyalar, xamirturush va mog'or zamburug'lari, sil mikobakteriyalarini aniqlash uchun impaktor va sentrifugali tipdagi aspiratsion asboblardan — PU-1B, "Flora-100", 818-modeldagi havo bakteriologik tahlil asbobi (Krotov apparati) yoki ruxsat etilgan boshqa namunaolgichlardan foydalanishni belgilaydi; sedimentatsion usul tavsiya etilmaydi [2].
+## Krotov apparati
+Krotov apparatida havo ma'lum tezlikda plexiglas plastinkaning tor yorig'idan so'rilib, ostida doimiy aylanib turuvchi oziqli agarli Petri idishiga uriladi; aerozol zarrachalari agar yuzasiga bir tekis joylashadi [1]. Termostatdan keyin umumiy mikrob soni formula bilan hisoblanadi: x = a · 1000 / v, bunda a — idishda o'sgan koloniyalar soni, v — apparat orqali o'tkazilgan havo hajmi (litr), 1000 — hisoblanadigan havo hajmi (litr) [1]. Havoni tekshirish uchun boshqa asboblar ham ishlatiladi: Dyakov, Rechmenskiy, Kiktenko, PAB-1 (aerozol bakteriologik namunaolgich) va POV-1; ular yordamida ma'lum hajm havo suyuqlik yoki filtrlardan o'tkazilib, so'ng o'lchanib oziq muhitga ekiladi, katta hajmdagi havoni tekshirib patogen bakteriya va viruslarni topish mumkin [1].
+## Tekshiruv davriyligi va aniqlanadigan ko'rsatkichlar
+Aliyev va Muxamedov ma'lumotiga ko'ra, davolash muassasalari havosi har chorakda bir marta davlat sanitariya-epidemiologiya xizmati tomonidan joriy tekshiriladi, kasalxona bakteriologiya laboratoriyasi esa epidemiologik ko'rsatma asosida har oyda bir marta joriy tekshiruv o'tkazadi [1]. Gigiyenik va epidemiyaga qarshi joriy tekshiruvlarda 1 m3 havodagi umumiy mikrob soni (UMS) va sanitariya-ko'rsatkich bakteriyalar (oltinsimon stafilokokk, hemolitik streptokokk, gramm manfiy tayoqchalar, dorixonalarda zamburug'lar) aniqlanadi [1]. Operatsiyadan oldingi va operatsiya zallarida, operatsiyadan keyingi palatalarda, tug'ruq zallari va reanimatsiyalarda bu mikroorganizmlar topilmasligi kerak [1].
+## Namuna olish nuqtalari va hajmlar
+MUK 4.2.1089-02 bo'yicha nuqtalar [2]:
+- maydoni 15 m2 gacha bo'lgan xonada — 1-nuqta (xona markazi);
+- 15 m2 dan katta xonalarda — 1–5-nuqtalar (hujjatdagi sxemaga muvofiq beshta nuqta);
+- tor va uzun xonalarda (eni va uzunligi nisbati 1 : 5 va undan kam) — bir-biridan 5 m dan oshmagan masofada;
+- statsionar xonalarda havo yotgan bemorning nafas olish sathida olinadi (gramm manfiy bakteriyalar uchun).
+Bir nuqtada o'tkaziladigan hajm [2]:
+- umumiy mikroorganizmlar: 100 dm3;
+- S. aureus, zamburug'lar, sil mikobakteriyalari: 250 dm3;
+- gramm manfiy shartli patogen bakteriyalar: 500–1000 dm3.
+## Oziq muhitlar va inkubatsiya
+MUK bo'yicha [2]:
+- umumiy son — 2 % li oziq agar; 37 ± 1 °C da 24 soat, so'ng xona haroratida yana 24 soat;
+- S. aureus — sariq-tuzli agar (STA): 37 °C da 48 soat yoki 24 soat termostatda va 24 soat xona haroratida;
+- xamirturush, mog'or — Sabouro muhiti, 28 ± 1 °C da 72–96 soat;
+- gramm manfiy bakteriyalar — modifikatsiyalangan Endo muhiti (gramm musbatlarni to'xtatish uchun 100 sm3 ga 1,25 sm3 0,01 % kristall violet);
+- sil mikobakteriyalari — Finn-II muhiti, 37 °C da 28 sutka.
+Aliyev qo'llanmasida hemolitik streptokokklar uchun gentian-binafshali qonli agar (2 % oziq agar, 5–10 % fibrinsizlantirilgan qon, gentian binafsha 1 : 50 000), stafilokokk uchun 10 % NaCl va 20 % tuxum sarig'i qo'shilgan agar tavsiya etilgan [1].
+## Namuna olish qoidalari (amaliy ketma-ketlik)
+Quyidagi ketma-ketlik manbalardagi talablarni umumlashtirgan muallif izohidir:
+- asbob spirtli tampon bilan artilib, ish boshlashdan oldin sterilligi ta'minlanadi;
+- xonaning harorati, namligi, odamlar soni va ish bosqichi (ishdan oldin yoki ish vaqtida) qayd etiladi;
+- Petri idishi qopqog'i faqat so'rish vaqtida ochiladi, so'ng yopilib belgilanadi;
+- har bir nuqtadan alohida idish ishlatiladi; idishlar muzlatgichsiz, tez fursatda laboratoriyaga yetkaziladi.
+## Yo'llanma xatini to'ldirish
+Yo'llanma xatida quyidagilar ko'rsatiladi (hujjat talablari va amaliyotdan umumlashtirilgan, muallif izohi):
+- yuboruvchi muassasa, tekshiruv maqsadi (reja, epidemiologik ko'rsatma, ishga tushirishdan oldin nazorat);
+- xona nomi va tozalik klassi, maydoni va hajmi, nuqtalar soni va joylashuvi;
+- namuna olish sanasi, vaqti, ish bosqichi (ishdan oldin, ish vaqtida, tozalash/dezinfeksiyadan keyin);
+- asbob turi, so'rilgan havo hajmi va tezligi, muhit turi va idishlar soni;
+- aniqlanadigan ko'rsatkichlar: umumiy mikrob soni, S. aureus, gramm manfiy bakteriyalar, zamburug'lar;
+- namuna olgan mutaxassisning F.I.Sh., imzosi.
+## Natijani baholash
+Koloniyalar sanalgach, har bir o'lchov alohida normaga solishtiriladi; qiymat 1 m3 havoga qayta hisoblanadi [2]. Aspiratsiya natijasi Aliyev qo'llanmasidagi 20-jadvaldagi tozalik klasslari bilan solishtiriladi (batafsil 154-mavzuda).
+## Aspiratsion va sedimentatsion usulni solishtirish
+Sedimentatsion (Kox) usulida ochiq Petri idishlariga havo zarrachalari o'z-o'zidan cho'kadi va natija Omelyanskiy formulasi bilan hisoblanadi; aspiratsion usulda esa havo hajmi aniq o'lchanadi, shuning uchun natija 1 m3 havoga aniqroq qayta hisoblanadi [1]. MUK 4.2.1089-02 sedimentatsion usulni tavsiya etmaydi [2]. Shu sababli Aliyev qo'llanmasidagi sedimentatsion norma (250/500 koloniya) va MUK dagi aspiratsion normalar (KHQB/m3) bir-biri bilan to'g'ridan-to'g'ri solishtirilmaydi (muallif xulosasi).
+## Xatolar
+Natijani buzadigan holatlar (muallif izohi): so'rish tezligi va hajmining noto'g'ri belgilanishi; asbob sterilligining buzilishi; muhit turining adashtirilishi; idishni ochiq holda uzoq ushlab turish; ish bosqichi (ishdan oldin yoki ish vaqtida) qayd etilmasligi, chunki normalar bu bosqichlarga qarab farqlanadi [2].
+## Xulosa
+Aspiratsion usulda havo Krotov apparati yoki shunga o'xshash asbobda ma'lum tezlikda oziq agar yuzasiga urilib, 1 m3 havodagi mikrob soni x = a·1000/v formula bilan topiladi. MUK 4.2.1089-02 umumiy son uchun 100 dm3, S. aureus uchun 250 dm3, gramm manfiy bakteriyalar uchun 500–1000 dm3 havo o'tkazishni, sedimentatsiyadan voz kechishni tavsiya etadi. Yo'llanma xatiga xona, nuqta, sana, ish bosqichi, hajm va ko'rsatkichlar yoziladi.
+## Foydalanilgan adabiyotlar
+[1] Aliyev ShR, Muxamedov IM. Mikrobiologiyadan laboratoriya mashg'ulotlariga doir qo'llanma. Toshkent: Ibn Sino nomidagi nashriyot-matbaa birlashmasi; 2013 (kirill yozuvida). Xayrullo Komilov kutubxonasi, id 2355: https://xayrullokomilov.uz/kutubxona/2355
+[2] MUK 4.2.1089-02. UOV «Potok 150-M-01» havoni zararsizlantirish qurilmasidan foydalanish va uning ishlashida havoning mikrob bilan ifloslanishini nazorat qilish: uslubiy ko'rsatmalar (rus tilida). Moskva: Rossiya Federatsiyasi Sog'liqni saqlash vazirligi; 2002. 22 b. (Rossiya Federatsiyasi hujjati; O'zbekistonda rasmiy qo'llanilishi tasdiqlanmagan.) Xayrullo Komilov kutubxonasi, id 1977: https://xayrullokomilov.uz/kutubxona/1977
