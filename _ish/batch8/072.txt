@@ -1,0 +1,43 @@
+TITLE: 72. Meningokokk kasalliklarining immuniteti. Umumiy va maxsus profilaktikasi.
+## Kirish
+Meningokokk infeksiyasi epidemik tarqalish xususiyatiga ega bo'lgani uchun uning profilaktikasi epidemiologik nazoratning muhim yo'nalishi hisoblanadi. Profilaktika choralari — bemor va tashuvchilarni aniqlash, nazofaringit bilan og'riganlarni ajratish, sanitariya-gigiyena qoidalariga rioya qilish va maxsus emlash [1][3]. Laboratoriya xodimi bu tizimda qo'zg'atuvchini ajratish, serogruppasini aniqlash va aholining immun holatini baholashda qatnashadi [2]. Mavzuda meningokokk infeksiyasida immunitet va profilaktika choralari yoritiladi.
+## Immunitet
+Meningokokk kasalligidan keyin barqaror immunitet hosil bo'ladi; u opsonin, komplementni bog'lovchi va bakteritsid antitelalar bilan bog'liq. Kasallikning kechishi oqsil va polisaxarid antigenlarga nisbatan antitelalarning hosil bo'lish tezligiga bog'liq [1]. SSV 177-sonli buyruq ilovasiga ko'ra nazofaringit bilan og'rigan bemorlarning 90 % da meningokokkka qarshi antitelalar paydo bo'ladi (50 % da titr 1:40 va undan yuqori); bakteriya tashuvchilarning 65 % da maxsus antitana, 30 % da esa 1:40 va undan yuqori titr aniqlanadi [2]. Antitana darajasi serogruppaga bog'liq: B serogruppada seropozitivlik 90 % gacha yetishi mumkin, C serogruppada past (taxminan 8 %), A serogruppada epidemik davrda yuqori bo'lib, qo'zg'atuvchining keng aylanishini ko'rsatadi [2].
+## Immun-epidemiologik tekshiruvlar
+Aholi orasida meningokokk infeksiyasiga moyil shaxslar va xavf guruhini aniqlash uchun bilvosita agglyutinatsiya reaksiyasi (RNGA/BGR) bilan immun-epidemiologik tekshiruv o'tkaziladi. Tahlil seropozitiv va seronegativ shaxslar soniga, epidemiologik holatga qarab olib boriladi: epidemiologik vaziyat yomonlashganda seropozitiv shaxslar ko'payadi, epidemik serogruppa bo'yicha seronegativlar kamayadi; sporadik davrda esa seronegativ shaxslar ko'payadi [2]. Reaksiya, shuningdek, vaksinoprofilaktika darajasini va meningokokkka qarshi vaksinaning immunologik ta'sirini baholash, o'choqda ma'lum serogruppa bo'yicha retrospektiv xulosa chiqarish uchun ham qo'llanadi. Epidemiologik tahlilni epidemiologiya bo'limlari amalga oshiradi [2].
+## Umumiy profilaktika
+G'anixo'jayeva darsligiga ko'ra umumiy profilaktikada [1]:
+- bemorlar va bakteriya tashuvchilarni aniqlash;
+- nazofaringit bilan og'riganlarni ajratib qo'yish va kasalxonalarga yotqizish;
+- aholi orasida sanitariya-ma'rifiy ishlarni olib borish;
+- shaxsiy va umumiy gigiyena qoidalariga rioya qilish.
+Meningokokklar tashqi muhitga kam chidamli (70 °C da 2–3 daqiqada, 55 °C da 5 daqiqada nobud bo'ladi, 1 % karbol kislotasi ularni deyarli darhol o'ldiradi), shuning uchun kasallik tarqalishida tashqi muhit buyumlari rol o'ynamaydi; asosiy e'tibor odamdan odamga havo-tomchi yo'li bilan yuqishni to'xtatishga qaratiladi [1].
+## Maxsus profilaktika
+Maxsus profilaktika uchun A va C polisaxarid serogruppalarini saqlovchi kimyoviy vaksina ishlab chiqilgan; shoshilinch profilaktikada immunoglobulindan foydalaniladi [1]. SanQvaN № 0239-07 (3-son, 2017) bo'yicha meningokokk infeksiyasiga qarshi emlash epidemiologik ko'rsatma bilan o'tkaziladi va quyidagilarni qamrab oladi [4]:
+- «A» yoki «C» serogruppadagi meningokokk infeksiyasi o'chog'ida bo'lgan bolalar, o'smirlar va kattalar;
+- kasallanish ko'rsatkichi o'tgan yilga nisbatan 2 marta ortganda, kasallanish ehtimoli yuqori shaxslar (maktabgacha ta'lim muassasalariga qatnaydigan bolalar, maktabning 1–2-sinf o'quvchilari);
+- uyushgan jamoa yotoqxonalarida yashaydigan o'smirlar, sanitariya-epidemiologik noqulay sharoitdagi oilaviy yotoqxonalarda yashaydigan bolalar.
+Emlash 1 yoshdan boshlanadi; revaksinatsiya vaksina turiga qarab 3 yildan keyin o'tkaziladi [4].
+## Emlashga oid umumiy qoidalar
+SanQvaN 0239-07 ga ko'ra bir xil vaksina dozalari orasida kamida bir oy interval bo'lishi kerak; bir vaqtda bir nechta vaksinani alohida shpritslarda tananing turli joylariga yuborish mumkin; emlashga qarshi ko'rsatmalar vaqtinchalik hisoblanadi (o'rtacha va og'ir kasalliklardan sog'aygach 3–14 kundan keyin emlanadi), o'tkir nafas yo'llari kasalliklari va yengil diareya qarshi ko'rsatma emas; vaksina tarkibiga anafilaktik reaksiya yoki oldingi dozada kuchli reaksiya bo'lsa, shu vaksina yuborilmaydi [4].
+## Serologik nazoratning maqsadlari
+SSV ilovasiga ko'ra meningokokklarning A, B, C serogruppalari eritrotsitar diagnostikumlari bilan bilvosita gemagglyutinatsiya reaksiyasi tashxisning qo'shimcha usullaridan biri hisoblanadi. Uning asosiy talablaridan biri — kasallik dinamikasiga qarab, kasallik boshlanganidan va davolash davomida turli muddatlarda meningokokk infeksiyasining tarqalgan shakli (MITSH) bilan og'riganlar va shu kasallikka gumon qilingan shaxslarning qon zardobini tekshirish. Reaksiya quyidagi maqsadlarda qo'llanadi [2]:
+- kasallik o'chog'ida aniq shakl va serogruppani retrospektiv aniqlash;
+- aholi orasida immun-epidemiologik tekshiruv o'tkazilganda seronegativ kontingentlarni aniqlash;
+- meningokokkka qarshi vaksinaning immunologik ta'sirini baholash.
+Ikki polisaxaridga nisbatan bir xil titrda natija olinsa, MITSH tashxisi serogruppasi aniqlanmagan hisoblanadi [2].
+## Vaksina turlari haqida
+Aliyev va Muxamedov qo'llanmasida vaksinalar tirik, inaktivlangan, korpuskulyar, komponentli (kimyoviy) va rekombinant turlarga bo'linishi, komponentli vaksinalar mikroorganizmning asosiy immunogen antigen komponentlaridan tayyorlanishi ko'rsatilgan [3]. Meningokokkka qarshi vaksina ham polisaxarid (kapsula antigeni) asosida tayyorlanadigan kimyoviy vaksinalar qatoriga kiradi, chunki A va C serogruppalarning polisaxarid antigenlari saqlanadi [1][3].
+## Kontakt shaxslar bilan ishlash
+Meningokokkli meningit bilan og'rigan bemorlar bilan muloqotda bo'lganlar epidemiologik ko'rsatma bo'yicha tekshiriladi [2]. Bunday shaxslardan burun-halqum shilliqi olinadi, nazofaringitli bemorlar ajratib qo'yiladi, tashuvchilar aniqlanadi; bu tadbirlar jamoalarda (bog'chalar, maktablar, yotoqxonalar) infeksiya tarqalishining oldini oladi [1][2].
+## Epidemiologik kuzatuv va laboratoriya
+Tashuvchilarni aniqlash uchun burun-halqum shilliqi tekshiriladi: ertalab och qoringa yoki ovqatdan 3–4 soat o'tgach halqum orqa devoridan shilliq olinib, ristomitsin yoki linkomitsin qo'shilgan zardobli agarga ekiladi [2]. SSV ilovasiga ko'ra laboratoriya tekshiruvlari epidemiologik ko'rsatma bo'yicha meningokokkli meningit bemorlari bilan muloqotda bo'lganlarda ham o'tkaziladi [2]. Ajratilgan kulturaning serogruppasini aniqlash majburiy, chunki bu epidemiologik nazorat tadbirlaridan biri [2]; shuningdek, profilaktik tadbirlar samaradorligi antibiotiklarga sezuvchanlik va serogruppa tarqalishi haqidagi ma'lumotlarga asoslanadi (muallif izohi).
+## Davolash haqida qisqacha
+Bemorlar antibakterial preparatlar — penitsillin, levomitsetin, ampitsillin va boshqalar bilan, shuningdek sulfanilamidlar bilan davolanadi; o'z vaqtida davolangan bemor batamom sog'ayadi [1]. Bu mavzu bo'yicha so'nggi davolash standartlari alohida klinik hujjatlarda belgilanadi; bu ishda faqat o'quv adabiyotidagi ma'lumot keltirildi.
+## Xulosa
+Meningokokk kasalligidan keyin barqaror immunitet hosil bo'ladi, antitana darajasi serogruppaga bog'liq. Umumiy profilaktika bemor va tashuvchilarni aniqlash, nazofaringitlilarni ajratish, gigiena va sanitariya-ma'rifiy ishlarga asoslangan; maxsus profilaktika A va C polisaxarid vaksinasi va shoshilinch holatlarda immunoglobulin bilan olib boriladi. O'zbekistonda emlash epidemiologik ko'rsatma bo'yicha, 1 yoshdan, SanQvaN № 0239-07 asosida amalga oshiriladi.
+## Foydalanilgan adabiyotlar
+[1] G'anixo'jayeva A, Nazarova H. Mikrobiologiya: tibbiyot kollejlari va bilim yurtlari o'quvchilari uchun darslik. Toshkent: Abu Ali ibn Sino nomidagi tibbiyot nashriyoti; 2002 (kirill yozuvida). Xayrullo Komilov kutubxonasi, id 2323: https://xayrullokomilov.uz/kutubxona/2323
+[2] O'zbekiston Respublikasi Sog'liqni saqlash vazirining 2015-yildagi 177-sonli buyrug'iga 2-ilova: Meningokokk infeksiyasi va boshqa bakterial meningitlarning mikrobiologik tashxisi — uslubiy ko'rsatma (kirill yozuvida). Xayrullo Komilov kutubxonasi, id 2052: https://xayrullokomilov.uz/kutubxona/2052
+[3] Aliyev ShR, Muxamedov IM. Mikrobiologiyadan laboratoriya mashg'ulotlariga doir qo'llanma. Toshkent: Ibn Sino nomidagi nashriyot-matbaa birlashmasi; 2013 (kirill yozuvida). Xayrullo Komilov kutubxonasi, id 2355: https://xayrullokomilov.uz/kutubxona/2355
+[4] SanQvaN (SanPiN) № 0239-07. O'zbekiston Respublikasida yuqumli kasalliklar immunoprofilaktikasi (3-son, 25.07.2017; lex.uz/docs/5524039) (kirill yozuvida). Xayrullo Komilov kutubxonasi, id 814: https://xayrullokomilov.uz/kutubxona/814
