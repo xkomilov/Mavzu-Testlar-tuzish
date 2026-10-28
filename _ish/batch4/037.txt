@@ -1,4 +1,4 @@
-TITLE: 37. Infeksiyalarni organizmga kirishi(kirish darvozalari).
+TITLE: 37. Infektsiyalarni organizmga kirishi(kirish darvozalari).
 ## Kirish
 Kirish darvozalari — patogen mikroorganizmlar xo'jayin organizmiga kiradigan a'zo va to'qimalardir [1]. Qo'zg'atuvchining organizmga tushishi yuqish mexanizmining uchinchi bosqichi bo'lib, u qo'zg'atuvchi moslashgan to'qimalarga yetib borishini ta'minlaydi [2]. Infeksiya paydo bo'lishi uchun mikrob nafaqat organizmga tushishi, balki aynan o'ziga mos kirish darvozasiga tushishi kerak: shu sababli kirish darvozasini bilish klinik tashxis, epidemiologik tekshiruv va laboratoriya uchun namuna tanlashda muhim.
 ## Kirish darvozalarining xususiyati

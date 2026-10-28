@@ -1,4 +1,4 @@
-TITLE: 39. Infeksion kasallikning aholi orasida tarqalish formalari.
+TITLE: 39. Infektsion kasallikning aholi orasida tarqalish formalari.
 ## Kirish
 Aholi orasida yuqumli kasallikning tarqalishi epidemik jarayon ko'rinishlarida namoyon bo'ladi. Epidemik jarayonni kuzatilayotgan populyatsiyada doimo ro'yxatga olinadigan kasallanish yoki qo'zg'atuvchining populyatsiyaga tashqaridan tushishi nuqtai nazaridan, shuningdek uning miqdoriy va dinamik tavsifi bo'yicha ifodalash mumkin [1]. Tarqalish shakllarini bilish epidemiologik nazorat, kasallanish ko'tarilishini erta aniqlash va epidemiyaga qarshi tadbirlarni rejalashtirish uchun zarur; laboratoriya esa har bir kasallik holatini tasdiqlash orqali bu tizimning asosiy ma'lumot manbalaridan biri.
 ## Kelib chiqishi bo'yicha: ekzotik va endemik kasalliklar

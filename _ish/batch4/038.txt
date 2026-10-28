@@ -1,4 +1,4 @@
-TITLE: 38. Infeksion jarayonning rivojlanish dinamikasi.
+TITLE: 38. Infektsion jarayonning rivojlanish dinamikasi.
 ## Kirish
 Infeksion kasalliklar dinamikasi bir necha ketma-ket davrlar yig'indisidan iborat. Yuqumli kasalliklar boshqa «yuqumsiz» kasalliklardan nafaqat kelib chiqish sababi (etiologiyasi) bilan, balki qanday kechishi va klinik belgilari bilan ham farq qiladi [1]. Davrlarni bilish kasallikni vaqtida aniqlash, laboratoriya tekshiruvi uchun material olish muddatini to'g'ri tanlash, bemorning yuqumli bo'lgan vaqtini aniqlash va izolyatsiya muddatini belgilash uchun zarur.
 ## Yashirin (inkubatsion) davr

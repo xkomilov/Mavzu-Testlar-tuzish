@@ -1,4 +1,4 @@
-TITLE: 35. Infeksiya manbai.
+TITLE: 35. Infektsiya manbai.
 ## Kirish
 Infeksiya manbai — epidemik jarayonning birinchi bo'g'ini, ya'ni qo'zg'atuvchi yashaydigan, oziqlanadigan, ko'payadigan va tashqariga ajraladigan tabiiy muhit [1]. Epidemik jarayonning elementar tuzilmasi uch bo'g'indan iborat: infeksiya manbai, yuqish mexanizmi va moyil organizm; istalgan bo'g'inning uzilishi jarayonni to'xtatadi [1]. Shuning uchun infeksiya manbaini aniqlash va ajratish epidemiyaga qarshi tadbirlarning asosiy yo'nalishi, bakteriologik laboratoriya esa manbani tasdiqlovchi asosiy xizmat hisoblanadi.
 ## Manba turlari

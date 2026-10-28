@@ -30,5 +30,5 @@
 - **Sut — IGTB norma:** pasterizatsiyalangan sutda 0,01 sm³ (RF jadvali). SanQvaN 0107-26 da koli-titr yo'q, enterobakteriyalar «n=5, c=0» (ISO 21528-2).
 - **169:** IGTB tasdig'i — Pravosudova: Giss glyukozali muhit 43 °C, 24 soat; MUK 4.2.1018-01: laktoza 37 °C, 24–48 soat (TKB uchun 44 °C).
 - **170:** STA ekmasi inkubatsiyasi — MUK 4.2.1089-02: 37 °C 48 soat yoki 24 + 24 (xona); Komilov: 37 °C 24 soat + 24 soat xona harorati; Pravosudova: 2 sutka 37 °C (burun-halqum).
-- **170:** burun-halqum surtmasi talqini: 10² hujayra/tampon — mo''tadil, ≥10³ — yuqori (Pravosudova).
+- **170:** burun-halqum surtmasi talqini: 10² hujayra/tampon — o'rtacha, ≥10³ — yuqori (Pravosudova).
 - **Salmonella boyitish:** MU 4.2.2723-10 — Myuller–Kaufman 41,5–42 °C, selenit 37 °C, Rappaport–Vassiliadis 42 °C; Komilov taqdimotida Myuller–Kaufman va selenit 36–37 °C ko'rsatilgan (haroratlar farqi).
