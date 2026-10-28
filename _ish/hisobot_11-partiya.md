@@ -14,7 +14,7 @@
 | 110 | Bo'g'ma: manba, yo'llar, patogenez | 830 | Mirtazayev, G'anixo'jayeva, Emlash kalendari, SSV 177 |
 
 ## Tasdiqlanmagan / "muallif izohi"
-- 106–108: kutubxona id 1965 ("Mikrobiologiya botulizma") — rus tilidagi elektron kitob boби, muallifi va nashr ma'lumotlari faylda ko'rsatilmagan; ma'lumot sifatida ishlatildi, ammo bibliografik ma'lumot to'liq emas.
+- 106–108: kutubxona id 1965 ("Mikrobiologiya botulizma") — rus tilidagi elektron kitob bobi, muallifi va nashr ma'lumotlari faylda ko'rsatilmagan; ma'lumot sifatida ishlatildi, ammo bibliografik ma'lumot to'liq emas.
 - 106–108: id 1314 — Toshkent tibbiyot akademiyasi ma'ruza slaydlari (past ishonchlilik): ularda C. botulinum "Gram-manfiy" deb yozilgan va Van Ermengem sanasi 1885 deb berilgan (boshqa manbalar: 1895/1896, Gram-musbat). Slaydlardagi bunday ma'lumotlar qabul qilinmadi, farq matnda ko'rsatildi.
 - 101: G'anixo'jayeva matnida qoqshol tayoqchasi o'lchami OCR sababli noaniq ("0,41 mkm" → 0,4–1 mkm deb talqin qilindi).
 - 103: C. perfringens o'lchami (eni) OCR sababli noaniq; matnda shu haqda ogohlantirish bor.
