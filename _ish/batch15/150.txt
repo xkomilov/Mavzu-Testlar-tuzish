@@ -1,0 +1,54 @@
+TITLE: 150. Suvdagi koli-titr, koli-indeksni bijg'itish usulida aniqlash.
+## Kirish
+Suvning fekal ifloslanishi bevosita patogenlarni ajratish bilan emas, balki sanitariya-ko'rsatkich mikroorganizmlar, birinchi navbatda ichak tayoqchalari guruhi bakteriyalari (IGTB; rus adabiyotida BGKP) bo'yicha baholanadi [1]. Sanitariya-ko'rsatkich bakteriyalarning borligi ikkita ko'rsatkich — titr va indeks — bilan ifodalanadi: titr — bitta sanitariya-ko'rsatkich bakteriya topilgan suvning eng kam miqdori, indeks esa ma'lum hajmdagi suvdagi bakteriyalar soni [1]. Bijg'itish (titrlash) usuli membrana filtrlash uchun asbob-uskuna bo'lmaganda qo'llanadi [1]; MUK 4.2.1018-01 uni, shuningdek, suvda muallaq moddalar ko'p bo'lganda va begona mikroflora filtrda ajratilgan koloniyalar olishga to'sqinlik qilganda ishlatishni ko'rsatadi [2].
+## Atamalar va ko'rsatkichlar
+Aliyev va Muxamedov bo'yicha IGTB Enterobacteriaceae oilasining turli avlodlariga mansub; uchta guruhga bo'linadi [1]:
+- umumiy koliformlar (UKB): 37 °C da laktoza va glyukozani kislota va gaz hosil qilib parchalaydi, oksidaza manfiy;
+- termotolerant koliformlar (TKB): 43–44,5 °C da ham parchalash xossasini yo'qotmaydi — eski (vaqti noma'lum) fekal ifloslanish belgisi;
+- E. coli: 43–44,5 °C da laktozani kislota va gazgacha parchalaydi — yangi fekal ifloslanish belgisi [1].
+MUK 4.2.1018-01 ta'rifi: UKB — gramm manfiy, oksidaza manfiy, sporasiz tayoqchalar, differensial laktozali muhitda o'sadi va laktozani kislota, aldegid va gazgacha 37 ± 1 °C da 24–48 soatda bijg'itadi; TKB ularning ichiga kiradi va 44 ± 0,5 °C da 24 soatda ham laktozani bijg'itadi [2].
+## Me'yorlar
+O'zMSt 133:2024 bo'yicha koli-indeks (IGTB soni) 1 dm3 suvda ko'pi bilan 3 bo'lishi, esherixiyalar 300 sm3 suvda bo'lmasligi kerak [3]. Aliyev qo'llanmasida ham eski standart (O'zDSt 950:2000) bo'yicha 1000 ml da ko'pi bilan 3 keltirilgan [1].
+## Ekish hajmlari
+Joriy sanitariya nazoratida sifat tekshiruvida 100 ml hajmda uchta namuna ekiladi; miqdoriy aniqlashda 100 ml li uchta, 10 ml li uchta va 1 ml li uchta hajm ekiladi [1][2]. suyuq laktoza-peptonli muhit (LPM) ishlatiladi: MUK bo'yicha 100 ml suv namunasi 10 ml, 10 ml namuna 1 ml konsentrlangan LPM ga ekiladi, 1 ml li namuna esa oddiy konsentratsiyali 10 ml LPM ga ekiladi [2][4]. Aliyev qo'llanmasida bu qoida qisqacha berilgan (100 va 10 ml li namunalar konsentrlangan LPM ga ekiladi) [1]. Muhitga gaz yig'ish uchun pufakcha (poplavok) solinadi.
+## Bajarilish bosqichlari
+1-kun [1][2][4]:
+- ekmalar 37 ± 1 °C da termostatga qo'yiladi; dastlabki baho 24 soatdan kam bo'lmagan inkubatsiyadan keyin beriladi, jami 48 soatgacha saqlanadi;
+- poplavokda gaz pufakchalari hosil bo'lishi bijg'ish borayotganini bildiradi.
+2-kun (o'sish va gaz hosil bo'lgan, yoki faqat loyqalangan flakonlardan):
+- bakteriologik sirtmoq bilan Endo muhitining sektorlariga ekiladi (ajratilgan koloniyalar olish uchun);
+- ekmalar 37 ± 1 °C da 18–20 soat saqlanadi (Aliyev qo'llanmasida Endo uchun 24 soat);
+- o'sish va gaz bo'lmagan flakonlar 48 soatgacha qoldiriladi; yakuniy ko'rikda belgisiz ekmalar manfiy hisoblanadi [2].
+3-kun — koloniyalarni identifikatsiya qilish:
+- tipik laktoza-musbat koloniyalar: to'q qizil yoki qizil, metall yaltiroq yoki yaltiroqsiz, markazi qizil, sathi biroz ko'tarilgan; muhitda iz qoldiradi [2][4];
+- oksidaza testi: shisha tayoqcha yoki platina sirtmoq bilan koloniya dimetil-p-fenilendiamin shimdirilgan filtr qog'ozga surtiladi; musbat bo'lsa, 1 daqiqada qog'oz ko'karadi [1][2] (nixrom sirtmoq soxta musbat berishi mumkin) [2];
+- Gram usulida surtma: UKB gramm manfiy tayoqchalar; Gram o'rniga Gregersen testi (3 % KOH tomchisida shilimshiq iplar hosil bo'lishi gramm manfiylikni bildiradi) ishlatilishi mumkin [2];
+- laktoza bijg'itish: ajratilgan 1–2 koloniya laktozali muhitga ekilib, 37 ± 1 °C da 24–48 soat saqlanadi [2].
+Oksidaza manfiy gramm manfiy tayoqchalar 0,5 % glyukozali yarim suyuq oziq agarga ekilib, 37 °C da bir sutka saqlanadi [1].
+## TKB ni aniqlash
+TKB uchun tipik laktoza-musbat koloniyalardan 2–3 tasi sektorlardan olinib, 44 °C gacha oldindan isitilgan laktozali muhitga ekiladi va darhol 44 ± 0,5 °C da 24 soat saqlanadi; kislota va gaz hosil bo'lsa, o'sha hajmda TKB bor deb javob beriladi [2]. Taqdimotda ham TKB uchun gramm manfiy, oksidaza manfiy koloniyalar LPM ga ekilib, 44 ± 0,5 °C da 24 ± 2 soat saqlanishi ko'rsatilgan [4].
+## Manfiy javob mezonlari
+Natija manfiy beriladi, agar: boyitish muhitida o'sish bo'lmasa; Endoda o'sish bo'lmasa yoki tipik bo'lmagan koloniyalar o'ssa; barcha koloniyalar oksidaza musbat yoki Gram musbat bo'lsa; tasdiqlovchi muhitda gaz hosil bo'lmasa [2][4].
+## Koli-indeks va koli-titrni hisoblash
+Musbat probirkalar kombinatsiyasi (100 ml / 10 ml / 1 ml) bo'yicha jadvaldan eng ehtimoliy son topiladi [1]. Jadvaldan misollar:
+- 0-0-0: indeks 3 dan kam, titr 333 dan ko'p;
+- 0-0-1: indeks 3, titr 333;
+- 1-0-0: indeks 4, titr 250;
+- 1-1-0: indeks 7, titr 143;
+- 3-3-3: indeks 1100 dan ko'p, titr 0,9 dan kam [1][4].
+Titr = 1000 : indeks (misol: indeks 3 bo'lsa, titr 333). MUK bo'yicha natija ishonchli oraliqsiz beriladi; uchta 100 ml hajmda faqat sifat tahlilida kamida birida UKB va TKB aniqlansa, "100 ml da topildi" deb yoziladi [2]. Taqdimotda tarmoqqa chiqish joyidan yoki tarmoqning o'zidan 500 sm3 olinganda beshta 100 sm3 li flakondagi musbat natijalar soniga qarab alohida jadval ko'rsatilgan: masalan, 0 ta musbat — indeks 2 dan kam, 1 ta — 2, 2 ta — 5 [4].
+## Xatolar
+Xatolar (MUK talablaridan kelib chiqqan muallif izohi):
+- TKB uchun muhitni oldindan 44 °C gacha isitmasdan ekish va haroratni ±0,5 °C aniqlikda ushlamaslik;
+- oksidaza testida nixrom sirtmoq ishlatish — soxta musbat reaksiya berishi mumkin [2];
+- konsentrlangan va oddiy LPM ni adashtirish — hajm nisbatini buzadi;
+- poplavokda havo pufakchasi qolishi yoki pufakchani gaz bilan adashtirish;
+- namunani 6 soatdan (sovitilmasa 2 soatdan) keyin ekish [2];
+- Endodan sektorlarga ekishda ajratilgan koloniya olinmasligi: bu holda ekma umumiy qoidalar bo'yicha qayta tarqatiladi [2].
+## Xulosa
+Bijg'itish usulida suv 100, 10 va 1 ml hajmlarda LPM ga ekiladi, 37 °C da bijg'igan namunalar Endo muhitiga o'tkazilib, koloniyalar oksidaza, Gram va laktoza bijg'itish bo'yicha tasdiqlanadi; TKB 44 °C da aniqlanadi. Musbat probirkalar kombinatsiyasidan jadval bo'yicha koli-indeks topiladi, koli-titr 1000 ni indeksga bo'lish bilan hisoblanadi. Ichimlik suvida indeks 1 dm3 da 3 dan oshmasligi kerak.
+## Foydalanilgan adabiyotlar
+[1] Aliyev ShR, Muxamedov IM. Mikrobiologiyadan laboratoriya mashg'ulotlariga doir qo'llanma. Toshkent: Ibn Sino nomidagi nashriyot-matbaa birlashmasi; 2013 (kirill yozuvida). Xayrullo Komilov kutubxonasi, id 2355: https://xayrullokomilov.uz/kutubxona/2355
+[2] MUK 4.2.1018-01. Ichimlik suvining sanitariya-mikrobiologik tahlili: uslubiy ko'rsatmalar (rus tilida; Rossiya Federatsiyasi Bosh davlat sanitariya shifokori tomonidan 2001-yil 9-fevralda tasdiqlangan; O'zbekistonda rasmiy qo'llanilishi tasdiqlanmagan). Xayrullo Komilov kutubxonasi, id 1976: https://xayrullokomilov.uz/kutubxona/1976
+[3] O'zMSt 133:2024. Ichimlik suvi. Gigiyenik talablar va sifatini nazorat qilish. O'zbekiston milliy standarti (SEOJSQ qo'mitasi; 11.06.2024 holatida). Xayrullo Komilov kutubxonasi, id 1035: https://xayrullokomilov.uz/kutubxona/1035
+[4] Komilov X. Ichimlik suvini sanitariya-mikrobiologik tahlili (№ 012-3/0136 uslubiy qo'llanma asosidagi taqdimot; kirill yozuvida). Furqat tumani DSENM bakteriologiya laboratoriyasi. Xayrullo Komilov kutubxonasi, id 2024: https://xayrullokomilov.uz/kutubxona/2024

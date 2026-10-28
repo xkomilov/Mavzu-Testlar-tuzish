@@ -1,0 +1,43 @@
+TITLE: 144. Xalqa presipitatsiya reaksiyasi.
+## Kirish
+Presipitatsiya reaksiyasi (PR) juda sezgir va maxsus usul bo'lib, antitelolar (presipitinlar) eruvchan antigen (presipitinogen) bilan elektrolit ishtirokida mayda cho'kma — presipitat — hosil qiladi [1]. Elektrolit muhitida eng ko'p halqasimon PR qo'llanadi: bu juda oddiy, osonlik bilan qo'yiladigan reaksiya bo'lib, ko'proq kuydirgi kasalligi diagnostikasida keng qo'llanadi [1]. Mazkur mavzuda halqa presipitatsiya reaksiyasining amaliy bajarilishi — probirka, ingredientlar, antigen tayyorlash, qo'yish tartibi, nazorat va natijani o'qish — batafsil ko'rib chiqiladi (51-mavzudagi nazariy bayondan farqli ravishda).
+## Qo'llanish sohalari
+PR quyidagi amaliy ishlarda qo'llanadi [1]: 1) yuqumli kasalliklar diagnostikasida (kuydirgi, tulyaremiya, o'lat va boshqalar); 2) ayrim bakteriyalarning turi yoki tipini aniqlashda; 3) sud-tibbiyot ekspertizasida (qon dog'i, sperma qaysi turga mansubligini aniqlash); 4) sanitariya ekspertizasida qalbaki oziq-ovqat mahsulotlarini (sut, go'sht, baliq, asal) aniqlashda. Bu mavzuda asosiy e'tibor kuydirgi uchun Askoli termopretsipitatsiya reaksiyasiga qaratiladi [1][2].
+## Askoli reaksiyasining maqsadi
+Reaksiya kuydirgi bacillasini hayvon juni, terisi, murdasi va tuproqda borligini aniqlash maqsadida bajariladi [2]. Qo'zg'atuvchi hujayrasining ikki toifa antigeni bor: birinchisi issiqlikka chidamsiz, yuqori haroratda parchalanadi; ikkinchisi issiqlikka chidamli — shu antigenni topishda PR qo'llanadi, shu sababli reaksiya termopretsipitatsiya reaksiyasi deb ham ataladi [1].
+## Materiallar va ingredientlar
+- Antigen — o'lgan hayvon terisi, juni va boshqa joylaridan, tuproqdan olingan material ekstrakti [1][2];
+- kuydirgiga qarshi pretsipitatsiyalovchi (diagnostik) immun zardob [1][2];
+- nazorat antigen — standart kuydirgi antigeni [2];
+- nazorat — sog'lom hayvon junidan tayyorlangan termoekstrakt [2];
+- 0,9 % NaCl izotonik eritmasi, 3 ta (yoki 5 ta) maxsus pretsipitatsiya probirkasi (tor, tiniq), steril xovoncha, Paster pipetkalari, qaynatish uchun idish, filtr qog'ozi [2].
+## Antigen (termoekstrakt) tayyorlash
+Tekshirish materiali steril xovonchada maydalanib ezilib, ustiga 25–50 marta hajmda fiziologik eritma solinadi va qaynatiladi; hosil bo'lgan aralashma filtr qog'ozi orqali filtrlanadi, filtrat tiniq bo'lishi lozim [2]. Xavfsizlik uchun kuydirgi gumon qilingan material bilan ishlash o'ta xavfli infeksiyalar laboratoriyasida qat'iy rejim asosida bajariladi (muallif izohi, 097–099-mavzulariga qarang).
+## Qo'yish tartibi
+G'anixo'jayeva bo'yicha 3 ta pretsipitatsiya probirkasi olinadi [2]:
+1. Pretsipitatsiyalovchi zardob + tekshirilayotgan termoekstrakt;
+2. Pretsipitatsiyalovchi zardob + standart kuydirgi antigeni (nazorat);
+3. Pretsipitatsiyalovchi zardob + sog'lom hayvon junidan tayyorlangan termoekstrakt (nazorat).
+Probirkaga avval zardob solinadi, uning ustiga antigen probirka devori bo'ylab ehtiyotkorlik bilan, aralashmaslik uchun asta-sekin qatlamlab tomiziladi [1][2].
+Aliyev jadvali (31-jadval): 5 probirka — 1–3-probirkalarda antigen 1:100, 1:200, 1:400 suyultirishlari, 4 — antigen nazorati (KAg), 5 — antitelo nazorati (KAt); har biriga 0,5 ml izotonik eritma; 1–4-probirkalarga 0,5 ml dan tekshirilayotgan ekstrakt (antigen 1:50 suyultirilgan); maxsus pretsipitatsiyalovchi zardob 0,5 ml dan qoplab tomiziladi (diagnostik zardob 0,5 ml dan 1–3 va 5-probirkada; 4-probirkada zardob yo'q) [1]. Nazorat: tekshirilayotgan antigen — normal qon zardobi; diagnostik qon zardobi — izotonik suyuqlik [1].
+## Natijani o'qish
+Reaksiya natijasi 5–10 daqiqadan keyin ko'riladi: ikki muhit chegarasida antigen–antitelo birikmasi oq halqa shaklida namoyon bo'ladi [1]. Musbat reaksiyada 1- va 2-probirkalarda ikki suyuqlik orasida loyqa oq halqa hosil bo'ladi, 3-probirkada halqa bo'lmaydi [2]. Presipitatsiyalovchi zardob titri deb maksimal suyultirilgan antigen ishlatilganda yaqqol namoyon bo'ladigan reaksiyaga aytiladi [1]. Immun zardobning dispersligi antigenniki kamroq bo'lgani uchun ularni tenglashtirish maqsadida antigen suyultiriladi [1].
+## Namuna olish (xomashyo va tashqi muhit)
+Askoli reaksiyasi uchun tuproq, teri va hayvon juni olinadi [2]. SSV 177-son buyruq ilovasiga ko'ra hayvon xomashyosi va tashqi muhit ob'ektlari bakteriologik tekshirish uchun quyidagicha olinadi: jun — turli joylardan kamida 5 ta, har biri 2 g namuna; toylarda har bir toydan kamida 10 ta namuna va o'ralgan joy chokidagi chang; teri-mo'yna mahsulotlaridan chirimagan va mog'orlamagan periferik joylardan 3 × 3 sm bo'lakchalar; konsentrlangan yem (kamida 5 namuna har 4 m² dan, har biri kamida 100 g), pichan va somon (kamida 40 g), ildizmevalar va silos [3]. Bu namunalar PR uchun ham termoekstrakt tayyorlashga asos bo'ladi (muallif izohi).
+## PR ning kuydirgi tashxisi tizimidagi o'rni
+G'anixo'jayeva bo'yicha kuydirgida asosiy tekshirish usullari: mikroskopik, bakteriologik, biologik, allergik va Askoli presipitatsiya reaksiyasi [2]. Birinchi kuni mikroskopiya (Gram, kapsula uchun Gins), GPA va GPSh ga ekish va biologik sinama o'tkaziladi; 2–4-kunlari kultura o'rganiladi (marvarid shodasi sinamasi, faglizis); Askoli reaksiyasi esa ayniqsa uzoq vaqt oldin o'lgan hayvon xomashyosi, teri va jun, chirigan murda kabi kultura ajratish qiyin materiallar uchun muhim, chunki termostabil antigen murdalarda va kulturalarda uzoq saqlanadi [2] (oxirgi fikr G'anixo'jayevaning antigen tavsifiga asoslangan, muallif izohi). 
+## Presipitatsiyaning boshqa variantlari
+Aliyev bo'yicha presipitatsiyaning 20 dan ortiq turi mavjud: probirka ichida, kapillyarlarda, buyum oynalarida, filtr qog'ozida, atsetilsellyuloza plyonkasida, gelda qo'yiladigan reaksiyalar [1]. Flokkulyatsiya reaksiyasi antitoksik zardobli probirkaga toksin qo'shilganda suyuqlikning xiralashishiga asoslangan va antitoksik zardoblar faolligini aniqlashda ishlatiladi [1]. Gelda qo'yiladigan PR (Ouchterlony, Manchini) alohida mavzuda (145) ko'rib chiqiladi [1].
+## Natijani baholash va talqin
+Musbat natija tekshirilayotgan materialda kuydirgi antigeni borligini bildiradi; manfiy — yo'qligini yoki antigen miqdori yetarli emasligini (muallif izohi). Nazorat probirkalari: 2-probirkada halqa bo'lishi zardob faolligini; 3-probirkada halqa bo'lmasligi zardobning begona antigenga reaksiya bermasligini ko'rsatadi [2]. Nazorat noto'g'ri bo'lsa (masalan, 3-probirkada halqa), natija hisobga olinmaydi va reaksiya qaytariladi (muallif izohi).
+## Xatolar
+- Zardob ustiga antigen tez quyilsa, qatlamlar aralashib, halqa aniq ko'rinmaydi [1][2] (muallif izohi: halqa chegarasi buziladi).
+- Loyqa filtrat soxta halqa hosil qilishi mumkin; shuning uchun filtrat tiniq bo'lishi kerak [2].
+- Probirka devori yog'li yoki iflos bo'lsa, qatlamlash yomonlashadi (muallif izohi).
+- Natijani 5–10 daqiqadan oldin yoki ancha kechikib o'qish — noaniq baho [1].
+## Xulosa
+Halqa presipitatsiya reaksiyasi (Askoli) kuydirgi antigenini hayvon xomashyosi va tuproqda aniqlaydi: termoekstrakt zardob ustiga probirka devori bo'ylab qatlamlanadi va ikki muhit chegarasida 5–10 daqiqada oq halqa paydo bo'lishi musbat natija hisoblanadi; nazorat probirkalari (standart antigen, sog'lom hayvon ekstrakti) reaksiya to'g'riligini tasdiqlaydi.
+## Foydalanilgan adabiyotlar
+[1] Aliyev ShR, Muxamedov IM. Mikrobiologiyadan laboratoriya mashg'ulotlariga doir qo'llanma. Toshkent: Ibn Sino nomidagi nashriyot-matbaa birlashmasi; 2013 (kirill yozuvida). Xayrullo Komilov kutubxonasi, id 2355: https://xayrullokomilov.uz/kutubxona/2355
+[2] G'anixo'jayeva A, Nazarova H. Mikrobiologiya: tibbiyot kollejlari va bilim yurtlari o'quvchilari uchun darslik. Toshkent: Abu Ali ibn Sino nomidagi tibbiyot nashriyoti; 2002 (kirill yozuvida). Xayrullo Komilov kutubxonasi, id 2323: https://xayrullokomilov.uz/kutubxona/2323
+[3] O'zbekiston Respublikasi Sog'liqni saqlash vazirining 2015-yil 1-maydagi 177-sonli buyrug'i ilovalari: Bakteriologik, virusologik va o'ta xavfli yuqumli kasalliklar laboratoriyalarida o'tkaziladigan laboratoriya tekshiruvlari bo'yicha uslubiy ko'rsatmalar (kirill yozuvida). Xayrullo Komilov kutubxonasi, id 491: https://xayrullokomilov.uz/kutubxona/491
