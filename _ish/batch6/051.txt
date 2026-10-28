@@ -1,0 +1,40 @@
+TITLE: 51. Presipitatsiya reaksiyasi. Xalqa presipitatsiya reaksiyasi.
+## Kirish
+Presipitatsiya reaksiyasi (PR) agglyutinatsiyadan farq qiladi: unda antitelalar (presipitinlar) korpuskulyar emas, balki dispers kolloid holatdagi antigen — presipitinogen bilan elektrolit (0,85 % NaCl) ishtirokida birikib, mayda cho'kma — presipitat hosil qiladi [1]. Presipitinogen sifatida turli oqsil moddalar (hayvon, o'simlik va mikroorganizm oqsillari) hamda issiqlikka chidamli ayrim mikroorganizmlar antigenlari (kuydirgi, tulyaremiya qo'zg'atuvchilari) xizmat qiladi [1]. PR juda sezgir va maxsus usul bo'lib, 1:10 gacha suyultirilgan antigen yoki gaptenni ham aniqlash mumkin [1].
+## Reaksiya mexanizmi
+Antigen–antitelo birikishi serologik reaksiyalarning umumiy qonuniyatiga bo'ysunadi: birinchi faza maxsus (determinant guruh bilan antitelaning faol markazi birikadi), ikkinchi faza maxsus emas — cho'kma tushadi [1]. Immun zardobning dispersligi antigenniki kamroq bo'lgani uchun ularni tenglashtirish maqsadida antigen suyultiriladi [1]. Presipitatsiyalovchi zardob titri deb maksimal suyultirilgan antigen ishlatilganda ham yaqqol namoyon bo'ladigan reaksiya tushuniladi [1].
+## Qo'llanilish sohalari
+PR quyidagi amaliy ishlarda ishlatiladi [1]:
+- yuqumli kasalliklar diagnostikasida (kuydirgi, tulyaremiya, o'lat va boshqalar);
+- ayrim bakteriyalarning turi yoki tipini aniqlashda;
+- sud-tibbiyot ekspertizasida: qon dog'i, sperma qaysi turga mansubligini aniqlash;
+- sanitariya ekspertizasida: qalbaki oziq-ovqat mahsulotlarini (sut, go'sht, baliq, asal va boshqalar) aniqlash;
+- biologiyada turlar orasida irsiy bog'liqlikni aniqlash.
+Hozirda PR ning 20 dan ortiq turi mavjud: ular probirkada, kapillyarlarda, buyum oynasida, filtr qog'ozida, atsetat sellyuloza plyonkasida va gelda qo'yiladi [1]. Reaksiya asosan ikki yo'nalishda — elektrolit muhitida va gelda — bajariladi [1].
+## Xalqa presipitatsiya reaksiyasi
+Elektrolit muhitida eng ko'p xalqa presipitatsiya reaksiyasi (Askoli reaksiyasi) qo'llanadi. U juda oddiy, qo'yilishi osonligi bilan ajralib turadi va asosan kuydirgi diagnostikasida keng ishlatiladi [1]. Standart suyultirilgan diagnostik zardobli maxsus probirkaga qatlam bo'lib, kerakli suyultirishdagi antigen probirka devori bo'ylab asta tomiziladi; bir necha daqiqadan keyin ikki suyuqlik chegarasida antigen–antitelo birikmasi oq xalqa ko'rinishida paydo bo'ladi [1].
+Kuydirgi qo'zg'atuvchisi hujayra devorida ikki tur antigen bor: birinchisi issiqlikka chidamsiz (yuqori haroratda parchalanadi), ikkinchisi issiqlikka chidamli. PR shu chidamli antigenni topish uchun qo'llanadi, shuning uchun uni termopresipitatsiya reaksiyasi ham deyiladi [1]. Antigen sifatida kuydirgidan halok bo'lgan hayvonning terisi, juni va boshqa joyidan olingan material ishlatiladi: u qaynatilib, filtrat tayyorlanadi, uni PR uchun mo'ljallangan probirkalarga quyiladi va devor bo'ylab shoshilmasdan maxsus presipitatsiyalovchi immun zardob qoplab tushiriladi. Ikki suyuqlik chegarasida halqa (presipitat) paydo bo'lsa, tegishli antigen borligidan dalolat beradi [1].
+## Qo'yilish sxemasi
+Probirkada PR beshta probirkada qo'yiladi: uch xil suyultirilgan antigen (1:100, 1:200, 1:400), antigen nazorati va antitelo nazorati. Har bir probirkaga 0,5 ml izotonik natriy xlorid solinadi, tekshirilayotgan ekstrakt (antigen) 0,5 ml dan qo'shiladi (1:50 dan boshlab), ustiga 0,5 ml maxsus presipitatsiyalovchi zardob qoplab tomiziladi. Natija 5–10 daqiqadan keyin ko'riladi [1]. Nazorat: tekshirilayotgan antigen + normal qon zardobi; diagnostik qon zardobi + izotonik natriy xlorid [1].
+## Natijani baholash
+Musbat reaksiyada ikki suyuqlik chegarasida xira-oq xalqa hosil bo'ladi. Nazorat probirkalarida xalqa bo'lmasligi shart; aks holda reaksiya nospetsifik hisoblanadi (muallif izohi, serologik reaksiya tamoyillaridan kelib chiqqan holda). Zardob titri yaqqol xalqa beradigan eng yuqori antigen suyultirishi bilan ifodalanadi [1].
+## Boshqa turlari
+Flokkulyatsiya reaksiyasida antitoksin tutgan zardobli probirkaga toksin qo'shilsa, probirkadagi suyuqlik xiralashadi; usul antitoksik zardoblarning faolligini aniqlashda qo'llanadi. Faollik o'lchov birligi sifatida xalqaro birlik (XB) qabul qilingan: bu ma'lum bir miqdordagi toksinning Dlm (dosis letalis minimalis — o'limga olib keluvchi eng kam miqdor) ni neytrallay oladigan antitoksik zardobning eng kam miqdoridir [1]. Gelda qo'yiladigan presipitatsiya (Ouchterlony va Mancini immunodiffuziyasi) qon zardobidagi immunoglobulinlar miqdorini aniqlashda ishlatiladi [1].
+## Presipitatsiya va agglyutinatsiya reaksiyalarining farqi
+- Agglyutinatsiyada antigen korpuskulyar (mikrob, eritrotsit) bo'ladi va antitelo agglyutinin deyiladi; presipitatsiyada antigen eruvchan, dispers kolloid (presipitinogen), antitelo esa presipitin deyiladi [1].
+- Agglyutinatsiyada natija cho'kma (agglyutinat) shaklida tushadi; presipitatsiyada u mayda cho'kma yoki ikki suyuqlik chegarasidagi xalqa bo'ladi.
+- Ikkala reaksiya ham 0,85 % NaCl eritmasi (elektrolit) ishtirokida boradi va maxsus zardob bilan bajariladi [1].
+- Presipitatsiya yuqori sezgirlikka ega, shu sababli ko'p antigenni ma'lum antizardoblar yordamida aniqlash imkonini beradi [1].
+## Kuydirgi diagnostikasida termopresipitatsiyaning o'rni
+Kuydirgi — o'ta xavfli infeksiya, shuning uchun gumon qilingan materialni (hayvon terisi, juni, a'zo bo'laklari) tekshirish o'ta xavfli infeksiyalar laboratoriyasida, tegishli xavfsizlik qoidalariga amal qilib bajariladi (bu talab alohida mavzuda yoritilgan, umumiy qoida sifatida eslatildi). Materialdan tayyorlangan ekstrakt qaynatilgandan keyin ham issiqlikka chidamli antigen filtratda saqlanib qoladi, shu sababli reaksiya mikrob nobud bo'lgan, ya'ni bakteriologik usulda qo'zg'atuvchini o'stirib bo'lmaydigan hollarda ham antigenni aniqlash imkonini beradi [1]. Bu holat termopresipitatsiyaning amaliy ustunligi hisoblanadi (muallif izohi, manbadagi ma'lumotlarga asoslangan xulosa).
+## Sanitariya ekspertizasida qo'llanish
+Sanitariya ekspertizasida PR qalbaki oziq-ovqat mahsulotlarini aniqlashda ishlatiladi: sut, go'sht, baliq va asal kabi mahsulotlarning qaysi hayvon yoki o'simlik turiga tegishli ekanligi turga xos oqsillarga qarshi antizardoblar yordamida aniqlanadi [1]. Sud-tibbiyot amaliyotida ham turli xil biologik izlar (qon dog'i, sperma) turga mansubligi shu usul bilan belgilanadi [1].
+## Reaksiyani to'g'ri qo'yish shartlari
+- Zardob va antigen eritmalari tiniq bo'lishi kerak; loyqa eritmalarda xalqani baholash qiyinlashadi (muallif izohi).
+- Qatlamlash asta-sekin, probirka devori bo'ylab bajariladi, suyuqliklar aralashib ketmasligi zarur [1].
+- Natija belgilangan vaqtda (5–10 daqiqa) hisobga olinadi [1].
+- Har bir seriyada nazorat probirkalari qo'yiladi.
+## Xulosa
+Presipitatsiya reaksiyasi eruvchan antigen bilan presipitinning birikib cho'kma hosil qilishiga asoslangan. Xalqa presipitatsiya (Askoli) reaksiyasi eng oddiy variant bo'lib, kuydirgi diagnostikasida, sud-tibbiyot va sanitariya ekspertizasida qo'llanadi. Natija ikki suyuqlik chegarasida paydo bo'ladigan xalqa bilan baholanadi. Reaksiya ishonchli bo'lishi uchun antigen suyultirishlari va nazoratlarga qat'iy rioya qilish zarur. Laborant uchun bu usulning mohiyatini bilish kuydirgi, tulyaremiya va boshqa kasalliklar gumon qilingan materialni ekspress aniqlash imkonini beradi.
+## Foydalanilgan adabiyotlar
+[1] Aliyev ShR, Muxamedov IM. Mikrobiologiyadan laboratoriya mashg'ulotlariga doir qo'llanma. Toshkent: Ibn Sino nomidagi nashriyot-matbaa birlashmasi; 2013 (kirill yozuvida). Xayrullo Komilov kutubxonasi, id 2355: https://xayrullokomilov.uz/kutubxona/2355

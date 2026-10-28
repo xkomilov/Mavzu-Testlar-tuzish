@@ -1,0 +1,50 @@
+TITLE: 53. Komplement gog'lanish reaksiyasi.
+## Kirish
+Komplementni bog'lash reaksiyasi (KBR) murakkab serologik reaksiyalar qatoriga kiradi. Unda antigen, antitelo va komplementdan tashqari reaksiya natijasini ko'rsatib beruvchi indikator — gemolitik tizim ham ishtirok etadi [1]. KBR yuqori sezuvchanlikka ega bo'lgani uchun viruslar, rikketsiyalar va bakteriyalar qo'zg'atadigan kasalliklar tashxisida keng qo'llanadi; ko'pincha bemorlardan ajratilgan viruslarni aniqlash va turini belgilashda ishlatiladi [1].
+## Reaksiya fazalari va mexanizmi
+KBR ikki fazadan iborat [1]:
+- birinchi faza — antigen, antitelo va komplementning birikish fazasi: antigen va antitelo bir-biriga maxsus mos kelsa, birikma hosil qiladi, bu birikma esa o'ziga komplementni bog'lab oladi (komplement sarflanadi). Probirkada bu jarayonni ko'rib bo'lmaydi;
+- ikkinchi faza — gemolitik tizim fazasi, indikator vazifasini bajaradi. Gemolitik tizim qo'y eritrotsitlari va ularga qarshi (antigemolitik) gemolitik antitelalardan, ya'ni gemolitik zardobdan iborat.
+Agar bemor zardobida antigenga mos antitelalar bo'lsa, hosil bo'lgan antigen–antitelo kompleksi komplementni bog'lab oladi. Gemolitik tizim qo'shilganda eritrotsitlar gemolizga uchramaydi, chunki komplement sarflangan; KBR musbat hisoblanadi. Zardobda mos antitelo bo'lmasa, komplement erkin qoladi, gemolitik tizim bilan birikadi va eritrotsitlar gemolizga uchraydi — reaksiya manfiy [1].
+## Zarur ingredientlar
+KBR qo'yish uchun quyidagilar kerak [1]:
+- bemorning qon zardobi (komplementi inaktivatsiya qilingan);
+- izlanayotgan antitelaga mos ma'lum antigen;
+- komplement — dengiz cho'chqasining yangi qon zardobi (24–48 soat ichida) yoki ampuladagi quruq komplement;
+- qo'y eritrotsitlarining 3 % suspenziyasi;
+- gemolitik qon zardobi;
+- izotonik natriy xlorid eritmasi, probirkalar va pipetkalar.
+Gemolitik zardob qo'y eritrotsitlari bilan quyonni giperimmunizatsiya qilish yo'li bilan olinadi; 56 °C da 30 daqiqa inaktivatsiya qilinadi, 1:1200 titrda chiqariladi va 1:400 nisbatda suyultirilib ishlatiladi. KBR uchun gemolitik zardobning 3 marta yuqori titri ishchi doza sifatida olinadi [1]. Qo'y eritrotsitlari fibrinsizlantirilgan qondan tayyorlanadi va izotonik eritmada rangsiz tiniq bo'lguncha sentrifuga bilan yuvilib, 3 % suspenziya hosil qilinadi [1].
+## Komplement va antigenni titrlash
+Reaksiyadan oldin komplement 1:10 suyultiriladi va titrlanadi: gemolizga uchratuvchi eng kam miqdor aniqlanadi. Antigenning antikomplementar xususiyatini hisobga olib, komplementning aniqlangan ishchi titriga 20–30 % qo'shimcha qo'shiladi; masalan, titr 0,15 ml bo'lsa, ishchi doza 0,2 ml qilib olinadi [1]. Antigen sifatida ishlab chiqarish institutlarida tayyorlangan o'ldirilgan bakteriyalar emulsiyalari, ulardan olingan ekstraktlar yoki mikrob/virus hujayralaridan kimyoviy yo'l bilan ajratilgan fraksiyalar xizmat qiladi. Antigen komplement ishtirokida titrlanadi; agar komplement titri 30 % ga kamaysa, antigen ishlatishga yaroqsiz hisoblanadi [1]. Antigen birligi sifatida uning eng yuqori suyultirilgan miqdori olinadi, bunda maxsus zardob ishtirokida eritrotsitlar ++ gacha gemolizga uchratilmaydi [1].
+## Asosiy tajriba
+Barcha ingredientlar titrlanib, ishchi dozalar aniqlangandan keyin asosiy tajriba qo'yiladi. Tekshirilayotgan va nazorat zardoblari oldindan 56 °C da 30 daqiqa qizdirilib, komplementi inaktivatsiya qilinadi. Birinchi fazada antigen tekshirilayotgan zardob va komplement bilan 37 °C da 30 daqiqa inkubatsiya qilinadi; sovuq usulda esa bu faza 0–4 °C da 18–20 soat davom etadi va bu reaksiya sezgirligini oshiradi [1]. Keyin har bir probirkaga 0,4 ml dan gemolitik tizim qo'shiladi, chayqatiladi va 37 °C da 20–30 daqiqa saqlanadi [1].
+Nazorat probirkalari: 2 va 3 — oldindan musbat va manfiy reaksiya beradigan zardoblar; 4 va 5 — zardob va antigenning antikomplementar xususiyatini tekshirish; 6 va 7 — komplement va gemolitik tizim sifatini tekshirish [1].
+## Komplementni titrlash sxemasi
+Komplement titrini aniqlash uchun o'nta probirka olinadi. Ularning har biriga 1:10 suyultirilgan komplementdan o'sib boruvchi hajmda (0,05 dan 0,45 ml gacha) solinadi, izotonik natriy xlorid bilan umumiy hajm 1 ml ga yetkaziladi, so'ng 37 °C da 30 daqiqa oldindan saqlangan gemolitik tizimdan 1 ml qo'shiladi. Aralashma chayqatilib, 37 °C termostatda yana 30 daqiqa ushlab turiladi. Gemoliz boshlanadigan eng kam komplement miqdori titr hisoblanadi; oxirgi probirka (komplementsiz) nazorat vazifasini bajaradi [1].
+## Asosiy tajriba sxemasi
+Asosiy tajribada yettita probirka ishlatiladi [1]:
+- 1-probirka: 1:5 suyultirilgan tekshiriladigan zardob 0,2 ml, antigen 0,2 ml, komplementning ishchi dozasi 0,2 ml;
+- 2-probirka: musbat zardob 0,2 ml, antigen 0,2 ml, komplement 0,2 ml;
+- 3-probirka: manfiy zardob 0,2 ml, antigen 0,2 ml, komplement 0,2 ml;
+- 4-probirka: tekshiriladigan zardob 0,2 ml, izotonik eritma 0,2 ml, komplement 0,2 ml (zardobning antikomplementar xossasi nazorati);
+- 5-probirka: antigen 0,2 ml, izotonik eritma 0,2 ml, komplement 0,2 ml (antigen nazorati);
+- 6-probirka: izotonik eritma 0,4 ml, komplement 0,2 ml (komplement nazorati);
+- 7-probirka: izotonik eritma 0,6 ml (gemolitik tizim nazorati, komplementsiz).
+Birinchi inkubatsiyadan keyin barcha probirkalarga 0,4 ml dan gemolitik tizim qo'shiladi va 37 °C da 20–30 daqiqa saqlanadi [1].
+## Reaksiyani to'g'ri talqin qilish
+Nazorat probirkalari kutilgan natijani bermasa, tajriba qaytariladi. Masalan, 4-probirkada gemoliz bo'lmasa, zardob o'zi komplementni bog'layapti (antikomplementar zardob) deb baholanadi va natija hisobga olinmaydi; 7-probirkada gemoliz kuzatilsa, gemolitik tizim sifatsiz yoki ifloslangan bo'lishi mumkin (muallif izohi, nazoratlarning vazifasidan kelib chiqqan talqin). Shuningdek zardoblar oldindan 56 °C da 30 daqiqa qizdirilmasa, ularning o'z komplementi natijani buzadi [1].
+## Natijani baholash
+Natija gemoliz bor-yo'qligiga qarab belgilanadi. Suyuqlik tiniq bo'lib, eritrotsitlar cho'kmaga tushsa (0–4 °C da 18–20 soat inkubatsiyada ham) va gemoliz bo'lmasa, reaksiya musbat; eritrotsitlarning barchasi erib, suyuqlik qizil rangga bo'yalsa — manfiy [1]. Reaksiya to'rt musbat belgi tizimida ifodalanadi [1]:
+- (++++) — gemoliz yo'q;
+- (+++) — gemoliz 25 %;
+- (++) — gemoliz 50 %;
+- (+) — gemoliz 75 %;
+- (–) — barcha eritrotsitlar gemolizga uchraydi.
+Qo'llanmada musbat natija sifatida gemoliz yo'q (++++) va uch belgili variantlar nazarda tutilgan [1].
+## Amaliy ahamiyati va cheklovlari
+KBR sezgirligi yuqori bo'lgani uchun u virus, rikketsiya va bakteriyalar qo'zg'atadigan infeksiyalarda ishlatiladi [1]. Aliyev va Muxamedov qo'llanmasida u zahm (treponemal testlar qatorida), klebsielloz (rinoskleroma) va boshqa kasalliklar serodiagnostikasida ham qayd etilgan [1]. Reaksiyaning murakkabligi (ko'p komponentli, har bir reagent titrlanadi) uni boshqa serologik reaksiyalarga nisbatan qiyinroq qiladi; bu sabab bilan reagentlar sifati va nazoratlar alohida e'tiborga olinadi (muallif izohi).
+## Xulosa
+KBR antigen–antitelo kompleksining komplementni bog'lashiga va natijaning gemolitik tizim (qo'y eritrotsitlari + gemolitik zardob) yordamida ko'rinishiga asoslangan. Gemoliz bo'lmasa reaksiya musbat, gemoliz bo'lsa manfiy. Ishonchli natija uchun komplement, antigen va gemolitik zardob oldindan titrlanadi, zardoblar inaktivatsiya qilinadi va nazorat probirkalari qo'yiladi.
+## Foydalanilgan adabiyotlar
+[1] Aliyev ShR, Muxamedov IM. Mikrobiologiyadan laboratoriya mashg'ulotlariga doir qo'llanma. Toshkent: Ibn Sino nomidagi nashriyot-matbaa birlashmasi; 2013 (kirill yozuvida). Xayrullo Komilov kutubxonasi, id 2355: https://xayrullokomilov.uz/kutubxona/2355
