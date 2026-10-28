@@ -13,7 +13,7 @@ Zichlik muhitning quyuqlashtiruvchi moddasi — agar yoki jelatin miqdoriga bog'
 - yarim suyuq muhitlar — 0,3–0,7 foiz agar; harakatchanlikni aniqlash va anaeroblarni o'stirish uchun ishlatiladi;
 - zich muhitlar — odatda 1,5–2 foiz agar; alohida koloniyalar olish uchun qo'llanadi;
 - quyuqlashtirilgan zardobli yoki tuxumli muhitlar — Lyoffler muhiti (qon zardobi), Levenshteyn–Yensen muhiti (tuxum) mikobakteriyalar uchun [1].
-Agar dengiz suvo'tlaridan olinadigan polisaxarid bo'lib, bakteriyalar uni deyarli parchalamaydi; u 100 °C ga yaqin haroratda eriydi va taxminan 40 °C gacha sovitilganda qotadi. Agarni bakteriologiyaga F. Gesse kiritgan [3]. Jelatin esa taxminan 25 °C dan yuqori haroratda suyuqlanadi va proteolitik bakteriyalar uni parchalaydi, shu sababli 37 °C da o'stirishga yaramaydi.
+Agar dengiz suvo'tlaridan olinadigan polisaxarid bo'lib, bakteriyalar uni deyarli parchalamaydi; u 100 °C ga yaqin haroratda eriydi va taxminan 40 °C gacha sovitilganda qotadi. Agarni bakteriologiyaga F. Gesse kiritgan [3]. Jelatin esa 28 °C va undan yuqori haroratda o'zi suyuqlanadi, proteolitik bakteriyalar uni parchalaydi, shu sababli 37 °C da o'stirishga yaramaydi [7].
 ## Tarkibi bo'yicha tasnif
 Tarkibining murakkabligiga ko'ra:
 - oddiy muhitlar (GPB, GPA, pepton suvi) — talabchan bo'lmagan bakteriyalar uchun;
@@ -42,3 +42,4 @@ Oziqa muhitlar kelib chiqishi (tabiiy, sintetik, yarim sintetik), zichligi (suyu
 [4] ISO 11133:2014. Microbiology of food, animal feed and water — Preparation, production, storage and performance testing of culture media. Geneva: International Organization for Standardization; 2014. https://www.iso.org/standard/53610.html
 [5] Atlas RM. Handbook of Microbiological Media. 4th ed. Boca Raton: CRC Press; 2010. ISBN 978-1-4398-0406-3.
 [6] Vandepitte J, Engbaek K, Rohner P, Piot P, Heuck CC, et al. Basic laboratory procedures in clinical bacteriology. 2nd ed. Geneva: World Health Organization; 2003. ISBN 92-4-154545-3. https://iris.who.int/handle/10665/42696
+[7] dela Cruz TE. Gelatin hydrolysis test protocol. American Society for Microbiology (ASM Microbe Library); 2012. https://asm.org/asm/media/protocol-images/Gelatin-Hydrolysis-Test-Protocol.pdf

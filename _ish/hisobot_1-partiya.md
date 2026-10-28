@@ -50,7 +50,7 @@ Bu manbalar bo'yicha **sahifa darajasidagi tekshiruv bajarilmadi**: matndagi teg
 ## Manba fayldagi kuzatuvlar (so'rovga binoan o'zgartirilmadi)
 - Sarlavhalardagi imlo xatolari saqlangan (masalan, "assosiy", "yutuqari", "nianiqlash"). Faqat tutuq belgisi `’` → `'` ga, lotin matn ichidagi **kirill harflari** (29 ta sarlavhada, masalan "Infеktsion" dagi "е") lotinga almashtirildi.
 - Takroriy mavzular: 50↔144 (taxminiy agglyutinatsiya), 51↔145 (kengaytirilgan agglyutinatsiya), 53↔146 (xalqa presipitatsiya), 54↔147 (agardagi presipitatsiya), 55↔148 (komplement bog'lanish). Keyingi partiyada ular uchun turli yondashuv: nazariy (50–55) va amaliy/laboratoriya texnikasi (144–148).
-- 66-mavzu: "Stafilokokk kasalliklarida tekshirish bosqichlari" streptokokk bo'limi ichida joylashgan — ehtimol "Streptokokk" bo'lishi kerak; tasdiqlash kerak.
+- **64-mavzu** (avval xato ravishda "66" deb yozilgan; "66" — Pnevmokokklar keltirib chiqaradigan kasalliklari, etiologiyasi): "Stafilokokk kasalliklarida tekshirish bosqichlari" streptokokk bo'limi ichida joylashgan — ehtimol "Streptokokk" bo'lishi kerak; tasdiqlash kerak.
 - Bu hujjatdagi fayl tartibi hozirgi `Мавзу2/` papkasidagi zipdagi eski 291 ta fayldan farq qiladi (u boshqa ro'yxat).
 
 ## Texnik

@@ -1,0 +1,44 @@
+TITLE: 14. Sof kulturani ajratib olish usullari.
+## Kirish
+Sof kultura — bir turga mansub, bir xil hujayralardan iborat mikroblar populyatsiyasi. Tekshiriladigan materialda (yiring, siydik, najas, balg'am, suv, oziq-ovqat) odatda bir necha tur mikroblar aralash holda uchraydi, shu sababli kasallik qo'zg'atuvchisini aniqlash uchun avval uni boshqa mikroblardan ajratish zarur. Sof kulturani ajratish bakteriologik tekshiruvning markaziy bosqichi bo'lib, undan so'ng identifikatsiya, serotiplash va antibiotiklarga sezuvchanlikni aniqlash bajariladi [1]. Faqat sof kultura bilan olib borilgan tekshiruv natijasi ishonchli hisoblanadi.
+## Nazariy asoslar
+Sof kultura olish g'oyasi zich muhitda har bir tirik hujayra bo'linib, ko'z bilan ko'rinadigan koloniya hosil qilishiga asoslanadi. R. Kox laboratoriyasida zich muhitlar joriy etilgach, alohida koloniyalarni ajratish va ularni qayta ekish mumkin bo'ldi [2]. Agar-agarni bakteriologiyaga kiritish zich muhitni 37 °C da ham qattiq saqlaydigan qildi va usulni keng tarqalishiga olib keldi [3]. Hozirgi usullar xuddi shu tamoyilga tayanadi: materialdagi hujayralar zich muhit yuzasiga shunday taqsimlanadiki, har biri alohida koloniya hosil qiladi.
+## Mexanik usullar
+Mexanik usullar hujayralarni fazoviy ajratishga asoslangan. Eng ko'p qo'llanadigan usullar:
+- shtrix (sektor) usuli — material ilmoq bilan idish choraklariga ketma-ket ekiladi, har bir keyingi chorakda hujayralar soni kamayadi va oxirgi qismda alohida koloniyalar o'sadi [4];
+- Drigalskiy shpateli bilan yoyish — suyultirilgan material shpatel yordamida muhit yuzasiga yoyiladi;
+- Kox usuli (suyultirish) — material eritilib sovitilgan agarga aralashtiriladi va bir necha (odatda uchta) idishga ketma-ket suyultirib quyiladi; koloniyalar muhit ichida ajraladi [4];
+- ketma-ket suyultirish — o'n karra suyultirib ekish orqali hujayralar soni kamaytiriladi, bu qo'shimcha ravishda mikroblar sonini aniqlash imkonini beradi [4].
+Eng muhim shart — koloniyalar bir-biridan yaxshi ajralgan bo'lishi. Agar idishda koloniyalar qo'shilib ketgan bo'lsa, ajratish takrorlanadi.
+## Tanlab ajratuvchi (elektiv) va boyituvchi muhitlar
+Materialda kerakli mikrob kam bo'lsa yoki yo'ldosh flora ko'p bo'lsa, muhit orqali tanlab ajratish qo'llanadi. Elektiv muhit yo'ldosh mikroblar o'sishini to'xtatadi (o't tuzlari, bo'yoqlar, antibiotiklar, yuqori tuz konsentratsiyasi, maxsus pH). Boyituvchi suyuq muhit kerakli mikrobning ko'payishini tezlashtiradi, shundan so'ng ekma zich muhitga o'tkaziladi (masalan, najasdan salmonellalarni ajratishda selenitli bulyon, vabo vibrionini ajratishda ishqoriy pepton suvi) [1], [5]. Differensial muhitlar esa koloniyalarni rangi orqali farqlashga yordam beradi, bu kerakli koloniyani tanlashni osonlashtiradi.
+## Fizik va kimyoviy usullar
+Mikroblarning chidamliligidagi farqlardan foydalaniladi:
+- qizdirish — sporali bakteriyalar (Bacillus, Clostridium) sporalari issiqqa chidamli, shuning uchun materialni qisqa muddat qizdirib, vegetativ hujayralarni yo'qotish va sporalarni ajratish mumkin [6];
+- sovuq bilan boyitish — past haroratda o'sa oladigan mikroblar (masalan, Listeria) muhitni sovitgichda saqlab ajratiladi;
+- kimyoviy ishlov — asid va ishqor ta'sirida yo'ldosh flora yo'qotilib, kislotaga chidamli mikobakteriyalar saqlanadi;
+- filtrlash — bakteriyalarni ushlab qoluvchi filtrlar orqali bakteriyalarni viruslardan yoki oddiy mikroblardan ajratish [1].
+Bu usullarning aniq rejimi (harorat, vaqt, reaktiv konsentratsiyasi) tegishli ko'rsatma yoki me'yoriy hujjat bo'yicha tanlanadi.
+## Biologik usul
+Biologik usulda sezgir laboratoriya hayvonlari zararlantiriladi va mikrob hayvon organizmida ko'payib, qon yoki organlardan sof holda ajratib olinadi. Bu usul zich muhitda yaxshi o'smaydigan yoki hayvonga juda sezgir mikroblar uchun foydali bo'lgan. Hozirgi laboratoriya amaliyotida bu usul kamdan-kam ishlatiladi va faqat zarur hollarda, axloqiy me'yorlarga rioya qilib qo'llanadi [1].
+## Anaerob mikroblarning sof kulturasini ajratish
+Anaerob bakteriyalarning sof kulturasi ham shu tamoyil bo'yicha, ammo kislorodsiz sharoitda ajratiladi: ekma zich muhit yuzasiga qilinib, idishlar anaerostatda yoki anaerob kamerada saqlanadi. Ajratilgan koloniya sof kultura deb hisoblanishi uchun u yana ham anaerob sharoitda qayta o'stiriladi, havoda o'smasligi esa uning majburiy anaerob ekanini tasdiqlaydi. Anaerob ekmalar kislorodga sezgir bo'lgani uchun tez ishlash va muhit sifatiga e'tibor talab qilinadi [1].
+## Ajratishdagi tipik qiyinchiliklar
+Amaliyotda sof kultura ajratishni qiyinlashtiruvchi holatlar uchraydi. Harakatchan Proteus muhit yuzasida to'lqinsimon «tarqaluvchi» o'sish berib, boshqa mikroblar koloniyalarini yopib qo'yadi; buning oldini olish uchun agar konsentratsiyasi oshirilgan yoki o'sishni cheklovchi tarkibli muhitlar qo'llanadi. Ba'zi mikroblar boshqalar atrofida faqat yaqinida o'sadi: masalan, Haemophilus influenzae qonli agarda stafilokokk koloniyalari atrofida o'sadi (yo'ldosh o'sish, ya'ni satellitizm hodisasi), chunki stafilokokk o'sish uchun zarur V-omilni ajratadi [1]. Mukoid koloniyalar bir-biriga yopishib, ajratishni qiyinlashtiradi, sekin o'suvchi mikroblarning koloniyalari esa tez o'suvchi yo'ldosh flora ostida qolib ketadi. Bunday hollarda elektiv muhit yoki uzoqroq inkubatsiya qo'llanadi.
+## Sof kultura ajratish bosqichlari
+Bakteriologik laboratoriyada sof kultura odatda uch kun davomida ajratiladi:
+- birinchi kun — material zich (ba'zan boyituvchi) muhitga ekiladi va 35–37 °C da 18–24 soat o'stiriladi;
+- ikkinchi kun — koloniyalar o'rganiladi, shubhali koloniyalardan Gram usulida bo'yalgan surtma tayyorlanadi va koloniya qiyshiq agarga yoki Kligler kabi muhitga qayta ekiladi;
+- uchinchi kun — o'sgan kultura sofligi tekshiriladi va identifikatsiya (biokimyoviy, serologik) hamda sezuvchanlikni aniqlash ekmalari qo'yiladi [1], [4].
+Koloniya tanlashda bitta koloniyaning markazidan olish yoki bir necha bir xil koloniyani birga olish usullari qo'llanadi; aralashmaslik uchun qo'shni koloniyalarga tegilmaydi.
+## Sofligini tekshirish
+Sof kultura quyidagi belgilar bilan tasdiqlanadi: Gram usulida bo'yalgan surtmada hujayralar morfologiyasi va bo'yalishi bir xil; zich muhitga qayta ekilganda bir xil turdagi koloniyalar o'sadi; biokimyoviy xossalar bir-biriga zid bo'lmaydi [2]. Aralashma belgilari: surtmada turli shakl yoki bo'yalish, idishda turli koloniya turlari. Aralash kulturada qayta ajratish takrorlanadi. Ajratilgan sof kulturalar bilan ishlashda biologik xavfsizlik qoidalariga rioya qilinadi, har bir bosqich jurnalga yoziladi: material raqami, sana, muhit, koloniya tavsifi, surtma natijasi va ekma raqami. Sof kultura qiyshiq agarda saqlanadi, 2–8 °C da muddatli o'tkazib turiladi, har bir probirkaga nomi, shtamm raqami va sana yoziladi.
+## Xulosa
+Sof kultura bitta turdagi mikroblardan iborat bo'lib, uni ajratish identifikatsiya va sezuvchanlikni aniqlashning shartidir. Asosiy usul — zich muhitda alohida koloniyalar olish (shtrix, shpatel, Kox usuli). Elektiv va boyituvchi muhitlar, fizik va kimyoviy ishlov hamda biologik usul yordamchi hisoblanadi. Sofligi surtma va qayta ekish orqali tasdiqlanadi.
+## Foydalanilgan adabiyotlar
+[1] Riedel S, Hobden JA, Miller S, Morse SA, Mietzner TA, Detrick B, Mitchell TG, Sakanari JA, Hotez P, Mejia R. Jawetz, Melnick & Adelberg's Medical Microbiology. 28th ed. New York: McGraw-Hill Education; 2019. ISBN 978-1-260-01202-6.
+[2] Blevins SM, Bronze MS. Robert Koch and the 'golden age' of bacteriology. International Journal of Infectious Diseases. 2010;14(9):e744–e751. DOI: 10.1016/j.ijid.2009.12.003
+[3] Hitchens AP, Leikind MC. The introduction of agar-agar into bacteriology. Journal of Bacteriology. 1939;37(5):485–493. DOI: 10.1128/jb.37.5.485-493.1939
+[4] Sanders ER. Aseptic laboratory techniques: plating methods. Journal of Visualized Experiments. 2012;(63):e3064. DOI: 10.3791/3064
+[5] Vandepitte J, Engbaek K, Rohner P, Piot P, Heuck CC, et al. Basic laboratory procedures in clinical bacteriology. 2nd ed. Geneva: World Health Organization; 2003. ISBN 92-4-154545-3. https://iris.who.int/handle/10665/42696
+[6] Setlow P. Spores of Bacillus subtilis: their resistance to and killing by radiation, heat and chemicals. Journal of Applied Microbiology. 2006;101(3):514–525. DOI: 10.1111/j.1365-2672.2005.02736.x

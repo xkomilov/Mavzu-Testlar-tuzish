@@ -1,0 +1,46 @@
+TITLE: 20. Fizikaviy omillarining turlari, haroratning turlari, haroratga chidamliligiga ko'ra mikroblar necha xilga bo'linadi.
+## Kirish
+Fizikaviy omillar mikroorganizmlarning o'sishi va tirik qolishiga ta'sir qiluvchi harorat, namlik (quritish), nurlanish, osmotik bosim, ultratovush, bosim va mexanik filtratsiya kabi tashqi ta'sirlar majmuasidir. Ular orasida harorat eng muhimi, chunki u fermentlar faolligini, hujayra membranasi holatini va nuklein kislotalar barqarorligini belgilaydi [1]. Bakteriologik laboratoriyada harorat o'stirish sharoitini tanlash, namunani saqlash, sterilizatsiya va pasterizatsiya rejimlarini belgilashda asosiy ko'rsatkich hisoblanadi.
+## Fizikaviy omillarning asosiy turlari
+Fizikaviy omillar quyidagicha tasniflanadi:
+- harorat — yuqori (qizdirish) va past (sovitish, muzlatish);
+- quritish (suvsizlantirish) va namlik;
+- nurlanish — ko'rinadigan yorug'lik, ultrabinafsha nurlari, ionlovchi nurlanish;
+- osmotik bosim — gipertonik va gipotonik muhit;
+- ultratovush va mexanik ta'sir;
+- bosim — yuqori gidrostatik bosim va vakuum;
+- filtrlash — bakteriyalarni ushlab qoluvchi filtrlar [1].
+Har bir omil dozaga va ta'sir vaqtiga qarab o'sishni to'xtatishi yoki mikrobni o'ldirishi mumkin. Amaliyotda eng ko'p qo'llanadigan fizikaviy omil — yuqori harorat.
+## Haroratning mikroblarga ta'siri
+Har bir mikrob uchun uchta kardinal harorat belgilanadi: minimal (o'sish boshlanadigan eng past), optimal (eng tez ko'payadigan) va maksimal (o'sish to'xtaydigan eng yuqori) harorat. Optimal haroratda fermentlar maksimal faol bo'ladi. Minimal haroratdan pastda membrana qotib, tashish jarayonlari susayadi, o'sish to'xtaydi, ammo hujayralar ko'pincha tirik qoladi. Maksimal haroratdan yuqorida oqsillar va nuklein kislotalar denaturatsiyaga uchraydi, membrana buziladi va hujayra nobud bo'ladi [1]. Shu sababli past harorat asosan mikroblarni saqlash, yuqori harorat esa o'ldirish uchun ishlatiladi.
+## Haroratga ko'ra mikroblarning guruhlari
+Mikroorganizmlar o'sish harorati oralig'iga ko'ra uch asosiy guruhga bo'linadi (shuningdek ikkita qo'shimcha guruh ham ajratiladi):
+- psixrofillar (sovuqsevarlar) — taxminan 15 °C va undan past haroratda optimal, taxminan 20 °C dan yuqorida o'smaydigan, 0 °C va undan past haroratda o'sa oladigan mikroblar; ular asosan sovuq dengiz va tuproqlarda uchraydi [2];
+- mezofillar — optimal harorati odatda 30–40 °C, o'sish oralig'i taxminan 20–45 °C; barcha tibbiy ahamiyatli patogenlar shu guruhga kiradi, ularning optimal harorati inson tanasi haroratiga (37 °C) yaqin; shu sababli bakteriologik ekmalar 35–37 °C da saqlanadi [1];
+- termofillar (issiqsevarlar) — optimal harorati taxminan 50–60 °C, ular issiq buloqlarda, kompostda, tuproqda uchraydi;
+- psixrotroflar — sovuqda ham (taxminan 0–5 °C) o'sa oladi, lekin optimal harorati mezofillarnikiga yaqin; sovitgichda saqlanadigan oziq-ovqatni buzadi va ayrim patogenlar (Listeria monocytogenes) sovitgich haroratida ham ko'payishi mumkin [1];
+- giper-termofillar — optimal harorati 80 °C dan yuqori, o'sish chegarasi 113 °C gacha yetadi; asosan arxeyalar bo'lib, tibbiy ahamiyati yo'q [3].
+Demak, haroratga chidamliligiga ko'ra mikroblar asosan uch xil: psixrofil, mezofil va termofil; psixrotrof va giper-termofillar qo'shimcha guruhlar sifatida ajratiladi.
+## Yuqori haroratning o'ldiruvchi ta'siri
+Yuqori haroratning ta'siri uning turi (nam yoki quruq), darajasi va vaqtiga bog'liq. Nam issiqlik quruq issiqlikka qaraganda samaraliroq, chunki suv oqsillar denaturatsiyasini tezlashtiradi. Amaliyotda quyidagi rejimlar qo'llanadi [4]:
+- pasterizatsiya — mahsulotni sporalarni o'ldirmay, patogen vegetativ hujayralarni yo'qotish uchun 100 °C dan past haroratda qisqa muddat qizdirish (masalan, sutni 63 °C da 30 daqiqa yoki 72 °C da 15 soniya);
+- qaynatish — 100 °C; vegetativ hujayralar bir necha daqiqada o'ladi, ammo sporalar saqlanib qoladi;
+- bug' bilan bosim ostida sterilizatsiya (avtoklav) — odatda 121 °C; sporalarni ham yo'qotadi;
+- quruq issiqlik bilan sterilizatsiya (quruq-issiqlik shkafi) — yuqoriroq harorat va uzoqroq vaqt talab qiladi;
+- alanga bilan kuydirish — ilmoq va igna uchun.
+Sporalar issiqlikka juda chidamli: ularning chidamliligi asosan yadrodagi suvning kamligi, mineral ionlar va maxsus oqsillar bilan bog'liq [5]. Shu sababli sterilizatsiya nazoratida sporali bakteriyalar biologik indikator sifatida ishlatiladi. Sterilizatsiya usullari alohida mavzularda to'liq yoritiladi.
+## Haroratning laboratoriya amaliyotidagi ahamiyati
+Harorat tanlashning amaliy misollari ko'p. Aksariyat bakteriyalar 35–37 °C da o'stiriladi, ammo Campylobacter jejuni kabi issiqlikka chidamli mikroblar odatda yuqoriroq (taxminan 42 °C) haroratda tanlab ajratiladi, chunki bu yo'ldosh flora o'sishini kamaytiradi. Yersinia enterocolitica kabi sovuqda o'sa oladigan bakteriyalar uchun ba'zan sovitgichda uzoq saqlash yordamida boyitish qo'llanadi [1]. Termostat harorati, sovitgich va avtoklav ko'rsatkichlari kalibrlangan termometrlar bilan har kuni tekshiriladi va jurnalda qayd qilinadi, chunki harorat og'ishi o'sishga va sterilizatsiya sifatiga bevosita ta'sir qiladi. Namunani tashishda harorat rejimi ham mikroblar turiga qarab tanlanadi: sovuqqa sezgir mikroblar uchun namuna sovitilmaydi, boshqalar uchun esa tashish davomida ko'payishning oldini olish maqsadida sovitiladi [1].
+## Past haroratning ta'siri
+Past harorat mikroblarning ko'payishini sekinlashtiradi. Sovitgich (2–8 °C) ko'pchilik mezofillarni o'ldirmaydi, faqat ularning o'sishini to'xtatadi; shuning uchun tayyor oziqa muhitlar va ba'zi kulturalar sovitgichda saqlanadi. Muzlatish va ayniqsa vakuumda muzlatib quritish (liofilizatsiya) kulturalarni uzoq saqlashda ishlatiladi. Ayrim mikroblar tez sovitilganda sovuq zarbasi (cold shock) tufayli zarar ko'radi, masalan, gonokokklar va meningokokklar sovuqqa sezgir, shu sababli bunday namunalar sovitilmaydi [1].
+## Boshqa fizikaviy omillar
+Quritish suvni chiqarib, o'sishni to'xtatadi: sporalar, mikobakteriyalar va stafilokokklar uzoq vaqt saqlanadi, gonokokklar tez nobud bo'ladi. Ultrabinafsha nurlar DNK ni shikastlaydi, lekin chuqur kirmaydi, shu sababli xona havosi va sirtlarni zararsizlantirishda qo'llanadi. Ionlovchi nurlanish chuqurroq kirib, sanoat sterilizatsiyasida ishlatiladi. Gipertonik muhit hujayrani suvsizlantiradi (oziq-ovqatni tuzlash, qandlash). Ultratovush hujayra devorini parchalaydi. Filtrlash issiqlikka chidamsiz suyuqliklarni (zardob, vitaminlar, uglevod eritmalari) sterilizatsiya qilishda qo'llanadi: bakteriyalarni ushlab qoluvchi membranali filtrlar ishlatiladi [1], [6].
+## Xulosa
+Fizikaviy omillarga harorat, quritish, nurlanish, osmotik bosim, ultratovush va filtrlash kiradi. Haroratga chidamliligiga ko'ra mikroblar asosan psixrofil, mezofil va termofil guruhlarga bo'linadi; psixrotroflar va giper-termofillar qo'shimcha guruhlardir. Tibbiy ahamiyatli patogenlar mezofil bo'lib, 35–37 °C da o'stiriladi. Yuqori harorat sterilizatsiya va pasterizatsiyada, past harorat esa saqlashda qo'llanadi; sporalar eng issiqlikka chidamli shakl hisoblanadi. Bakteriolog-laborant harorat guruhlarini, kardinal haroratlarni va ularning amaliy ahamiyatini bilishi, shuningdek termostat va sterilizatsiya asboblari ko'rsatkichlarini doimiy nazorat qilishi lozim.
+## Foydalanilgan adabiyotlar
+[1] Riedel S, Hobden JA, Miller S, Morse SA, Mietzner TA, Detrick B, Mitchell TG, Sakanari JA, Hotez P, Mejia R. Jawetz, Melnick & Adelberg's Medical Microbiology. 28th ed. New York: McGraw-Hill Education; 2019. ISBN 978-1-260-01202-6.
+[2] Morita RY. Psychrophilic bacteria. Bacteriological Reviews. 1975;39(2):144–167. DOI: 10.1128/br.39.2.144-167.1975
+[3] Stetter KO. Hyperthermophiles in the history of life. Philosophical Transactions of the Royal Society B. 2006;361(1474):1837–1843. DOI: 10.1098/rstb.2006.1907
+[4] Rutala WA, Weber DJ; Healthcare Infection Control Practices Advisory Committee (HICPAC). Guideline for disinfection and sterilization in healthcare facilities, 2008 (updated 2019). Atlanta: Centers for Disease Control and Prevention; 2008. https://www.cdc.gov/infection-control/hcp/disinfection-and-sterilization/index.html
+[5] Setlow P. Spores of Bacillus subtilis: their resistance to and killing by radiation, heat and chemicals. Journal of Applied Microbiology. 2006;101(3):514–525. DOI: 10.1111/j.1365-2672.2005.02736.x
+[6] Reiner K. Carbohydrate fermentation protocol. American Society for Microbiology (ASM Microbe Library); 2012. https://asm.org/asm/media/protocol-images/carbohydrate-fermentation-protocol.pdf
