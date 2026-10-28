@@ -1,0 +1,52 @@
+TITLE: 167. Qo'ldan surtma olish, yo'llanma xatini to'ldirish.
+## Kirish
+Tibbiyot xodimlari, oziq-ovqat ishlab chiqarish va umumiy ovqatlanish xodimlarining qo'llari mikroorganizmlarning yuqish yo'llaridan biri bo'lgani uchun qo'l yuvish va dezinfeksiya sifati surtma (smyv) usuli bilan nazorat qilinadi [1][2]. O'zbekiston Respublikasi Sog'liqni saqlash vazirligining 2024-yil 15-yanvardagi 9-son buyrug'i bilan tasdiqlangan nizomga ko'ra davolash-profilaktika muassasalarini sanitariya-epidemiologik tekshirishda tashqi muhit ob'ektlaridan va tibbiyot xodimlarining qo'llaridan bakterial ifloslanishga surtmalar olinadi [3]. SanPiN № 0342-17 bo'yicha sanitariya-epidemiologiya xizmati mutaxassislari har chorakda bir marta tashqi muhitning (havo, tashqi muhit ob'ektlaridan surtmalar, asbob va bog'lov materialining sterilligi va hokazo) laboratoriya nazoratini amalga oshiradi [4]. Mavzuda qo'ldan surtma olish texnikasi va yo'llanma xatini to'ldirish ko'rib chiqiladi.
+## Surtmaning maqsadi
+Surtmalarda ifloslanish darajasiga qarab aniqlanadi [2]:
+- umumiy bakterial ifloslanish (1 sm2 yuzaga qayta hisoblab);
+- IGTB (BGKP) borligi;
+- oltinsimon stafilokokk, ko'k yiring tayoqchasi va boshqa patogen mikroblar.
+Mikrobiologik tozalik talabi: surtmalarda IGTB, ko'k yiring tayoqchasi, proteylar va stafilokokk bo'lishi mumkin emas [2]. Komilov qo'llanmasida tashqi muhit ob'ektlarida Enterobacteriaceae oilasi (IGTB), S. aureus va Pseudomonas aeruginosa aniqlanishi ko'rsatilgan [1].
+## Kerakli jihozlar
+Steril paxta tamponlari (shisha yoki metall tayoqchada, paxtali tiqinli probirkalarga o'rnatilgan) yoki steril doka salfetkalari (5 × 5 sm), 2 ml steril fiziologik eritma yoki 1 % peptonli suv solingan probirkalar, steril pinset, steril shablon (trafaret) [2][5][1]. Tamponlar oldindan laboratoriyada tayyorlanadi; surtma kuni har bir probirkaga tampon eritmaga tegmaydigan qilib 2 ml steril suv quyiladi [5]. Salfetkalar qog'oz paketlarda yoki Petri idishlarida sterillanadi [2].
+## Qo'ldan surtma olish texnikasi
+Pravosudova va Melnikov bo'yicha [2]:
+- salfetka steril pinset bilan ushlanib, probirkadagi fiziologik eritma bilan namlanadi, artilgandan keyin o'sha probirkaga qaytariladi;
+- qo'l artilishi tartibi: qo'l kaftining orqa tomonidan boshlab, so'ng kaft, barmoqlararo yuzalar, tirnoq o'rinlari va tirnoq ostidagi yuzalar;
+- jarrohlar qo'li va operatsiya maydoni terisidan surtmalar 5 × 5 sm steril doka salfetkalar bilan, neytralizator eritmasi yoki fiziologik eritmaga namlab olinadi.
+Belarus qo'llanmasi bo'yicha qo'ldan surtma kaft yuzalaridan (har bir kaftni kamida 5 marta artib), barmoqlar, tirnoqlar, barmoqlararo va tirnoq osti bo'shliqlaridan olinadi [5]. Komilov qo'llanmasi bo'yicha jarrohning qo'lidan salfetka steril fiziologik eritmada namlanib surtma olinadi, so'ng salfetka steril suv yoki fiziologik eritmaga solinib, 10 daqiqa chayqatiladi, keyin 0,5 ml dan 2 ta tioglikolli bulyonga ekiladi [1].
+## Surtma olish vaqti va ob'ektlar
+Qo'ldan surtmalar ish boshlashdan oldin yoki tanaffusdan keyin olinadi; xom mahsulot bilan ishlovchilardan ish boshlashdan oldin; issiqlik ishlovi berilmaydigan mahsulot bilan ishlovchilarga (oshxona, sovuq sex, qandolat sexi, tarqatuvchilar, sotuvchilar) alohida e'tibor beriladi [5]. Ifloslangan maxsus kiyim va sochiqlardan surtma olinmaydi [5]. Maxsus kiyimdan 100 sm2 maydondan, birinchi navbatda yenglarning pastki qismi va old qismining yuqori qismidan surtma olinadi [5].
+## Yo'llanma xatini to'ldirish
+Surtma olingan tampon probirkada, yorliq bilan laboratoriyaga yuboriladi. Yo'llanma xati va yorliqda (talab va amaliyotdan umumlashtirilgan, muallif izohi) quyidagilar ko'rsatiladi:
+- yuboruvchi muassasa va bo'lim (operatsiya bloki, reanimatsiya, tug'ruqxona, oshxona va h.k.);
+- tekshiriluvchi shaxsning F.I.Sh., lavozimi (yoki "xodim №" shaklida), surtma olingan joy (o'ng/chap qo'l, qo'lqop ostidagi qo'l, jarrohlik antiseptikasidan keyin va h.k.);
+- qo'l qanday ishlov berilgani (oddiy yuvish, antiseptik, jarrohlik antiseptikasi) va ishlov vaqti;
+- surtma olingan sana, vaqt, namuna olgan shaxs F.I.Sh. va imzosi;
+- tekshiruv maqsadi (rejali, epidemiologik ko'rsatma, antiseptik samaradorligini nazorat) va aniqlanadigan ko'rsatkichlar: umumiy mikrob soni, IGTB, S. aureus, ko'k yiring tayoqchasi.
+## Tashish va keyingi ekish
+Surtma olingan tampon probirkada, yorliq bilan laboratoriyaga yuboriladi. Keyingi ekish suyuq muhitlarda o'tkaziladigan bo'lsa, probirkalarga suv o'rniga tegishli oziqli muhit quyilishi mumkin [5]. Aniq saqlash muddati manbalarda ko'rsatilmagan; surtma imkon qadar tez ekilishi lozim (muallif izohi).
+## Surtmalarni keyingi tekshirish yo'nalishlari
+Pravosudova va Melnikov bo'yicha laboratoriyada surtma uch yo'nalishda tekshiriladi [2]:
+- umumiy mikrob soni: 2 ml fiziologik eritmaga yana 8 ml qo'shilib, tampon shisha munchoqlar bilan 10 daqiqa chayqatiladi, yuvindi (1 : 10) dan 0,5 ml dan ikkita Petri idishiga GPA bilan chuqur ekiladi, 37 °C da 48 soat saqlanadi (171-mavzu);
+- IGTB: tampon Kessler muhitiga yoki 10–20 % o't bulyoniga solinadi, bir sutkadan keyin Endoga ekiladi (169-mavzu);
+- stafilokokk: tampondan bevosita sariq-tuzli agarga ekiladi, qo'shimcha boyitish muhitlari qo'llanadi (170-mavzu).
+Salmonellaga tekshirish kerak bo'lsa, tampon 2 ml buferli peptonli suvli (pH 7,0) probirkaga solinadi va kamida 100 sm2 maydondan olinadi [7].
+## Natijani baholash
+Surtmalarda IGTB, ko'k yiring tayoqchasi, proteylar va stafilokokk topilishi mumkin emas, bunday topilma sanitariya-gigiyena rejimining buzilganini bildiradi [2]. Qoniqarsiz natijada, qo'l gigiyenasi qoidalarini qayta o'rgatish, antiseptik va yuvish vositasini tekshirish, takroriy surtma olish tavsiya etiladi (muallif izohi). Natijalar infeksion nazorat komissiyasida muhokama qilinishi va barcha manfaatdor shaxslarga yetkazilishi kerak [4].
+## Ish joyidagi tartib
+Surtma olishdan oldin qo'l yuvish usuli, vaqti va qo'llanilgan vosita ko'rsatiladi; surtma oddiy yuvish va antiseptikdan keyingi natijalarni solishtirish maqsadida ikki marta olinishi mumkin (muallif izohi). Barcha yo'llanma xatlari jurnalda ro'yxatga olinadi va natijalar bilan birga saqlanadi.
+## Davriylik
+Eski SSSR me'yorlariga ko'ra umumiy ovqatlanish korxonalarida sanitariya-bakteriologik nazorat surtmalari havo harorati +10 °C dan yuqori bo'lganda oyiga 1 marta, past bo'lganda 2 oyda 1 marta o'tkazilgan [6]; hozirgi O'zbekiston me'yorlari uchun bu davriylik hujjatning tarixiyligini hisobga olib qo'llaniladi (muallif izohi).
+## Xavfsizlik va xatolar
+Surtma olishda steril pinset va qo'lqopdan foydalaniladi; tamponni boshqa yuzalarga tegizmaslik kerak. Xatolar: namlanmagan tampon, kam maydon (yoki shablonning sterilmasligi), qo'lga antiseptik qoldig'i qolganda neytralizatorsiz olish, vaqt muddatidan oshish (muallif izohi).
+## Xulosa
+Qo'ldan surtma steril namlangan tampon yoki 5 × 5 sm salfetka bilan kaft, barmoqlar, tirnoq va barmoqlararo yuzalarni artib olinadi va 2 ml fiziologik eritma yoki peptonli suvli probirkaga solinadi. Surtmalarda IGTB, stafilokokk, ko'k yiring tayoqchasi bo'lmasligi kerak. Yo'llanma xatiga xodim, qo'lga ishlov berilishi, sana-vaqt, maqsad va ko'rsatkichlar yoziladi.
+## Foydalanilgan adabiyotlar
+[1] Komilov X. Bakteriologlar uchun qisqacha qo'llanma (1–2 qismlar): SEXB bakteriologlari uchun amaliy qo'llanma (№ 012-3/0024, № 012-3/0030, № 012-3/0031 uslubiy qo'llanmalar asosida; kirill yozuvida; muallifning amaliy qo'llanmasi, ishonchlilik darajasi o'rtacha). Xayrullo Komilov kutubxonasi, id 2353: https://xayrullokomilov.uz/kutubxona/2353
+[2] Pravosudova NA, Melnikov VL. Osnovy sanitarnoy mikrobiologii: o'quv-uslubiy qo'llanma (rus tilida). Penza: Penza davlat universiteti nashriyoti; 2013. 103 b. Xayrullo Komilov kutubxonasi, id 2325: https://xayrullokomilov.uz/kutubxona/2325
+[3] O'zbekiston Respublikasi Sog'liqni saqlash vazirligining 2024-yil 15-yanvardagi 9-son buyrug'i bilan tasdiqlangan davolash-profilaktika muassasalarida sanitariya-epidemiologik tekshiruvlar o'tkazish tartibi to'g'risidagi nizom. Xayrullo Komilov kutubxonasi, id 292: https://xayrullokomilov.uz/kutubxona/292
+[4] SanPiN RUz № 0342-17. Ichki kasalxona infeksiyalari profilaktikasi (SanPiN № 0304-12 o'rniga) (rus tilida). O'zbekiston Respublikasi Bosh davlat sanitariya shifokori tomonidan tasdiqlangan. Xayrullo Komilov kutubxonasi, id 2729: https://xayrullokomilov.uz/kutubxona/2729
+[5] Batsukova NL, Borushko NV, Novikov PG. Mikrobiologicheskiy kontrol za kachestvom pishchevykh produktov i sanitarnym rejimom na pishchevykh predpriyatiyakh: o'quv-uslubiy qo'llanma (rus tilida). Minsk: Belarus davlat tibbiyot universiteti; 2011. 47 b. (Belarus Respublikasi me'yorlariga asoslangan.) Xayrullo Komilov kutubxonasi, id 1964: https://xayrullokomilov.uz/kutubxona/1964
+[6] MU № 2671-83. Atrof-muhit ob'ektlarining asosiy sanitariya-bakteriologik tekshiruvlarini o'tkazish normativlari: uslubiy ko'rsatmalar (rus tilida; SSSR Sog'liqni saqlash vazirligi, 24.02.1983; tarixiy hujjat, O'zbekistonda qo'llanilishi tasdiqlanmagan). Xayrullo Komilov kutubxonasi, id 1310: https://xayrullokomilov.uz/kutubxona/1310
+[7] MU 4.2.2723-10. Salmonellyozlarni laboratoriya diagnostikasi, oziq-ovqat mahsulotlari va tashqi muhit ob'ektlarida salmonellalarni aniqlash: uslubiy ko'rsatmalar (rus tilida). Rossiya Federatsiyasi Rospotrebnadzori; 2010 (Rossiya Federatsiyasi hujjati; O'zbekistonda rasmiy qo'llanilishi tasdiqlanmagan). Xayrullo Komilov kutubxonasi, id 1960: https://xayrullokomilov.uz/kutubxona/1960
